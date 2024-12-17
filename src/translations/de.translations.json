@@ -598,7 +598,8 @@
 		"appliance": "Gerätekategorie",
 		"brand": "Marke",
 		"globalcode": "Globaler Code",
-		"popout-title": "Popout-Widget"
+		"popout-title": "Popout-Widget",
+		"loyaltypoints": "Treuepunkte"
 	},
 	"home": {
 		"test-setup": "Versuchsaufbau",
@@ -2904,8 +2905,10 @@
 		"poll-not-started": "Die Umfrage wurde noch nicht gestartet",
 		"user-already-voted": "Der Benutzer hat bereits abgestimmt",
 		"trigger-not-valid": "Der Benutzerauslöser ist ungültig",
-		"poll-chatbot-messages": "Chatbot-Nachrichten abfragen",
-		"raffle-chatbot-messages": "Chatbot-Nachrichten verlosen",
+		"poll-chatbot-messages": "Chatbot-Nachrichten Abstimmung",
+		"viewerqueue-chatbot-messages": "Chatbot-Nachrichten Zuschauerwarteschlange",
+		"raffle-chatbot-messages": "Chatbot-Nachrichten Verlosung",
+		"loyalty-chatbot-messages": "Chatbot-Nachrichten Treuepunkte",
 		"interaction-chatbot-deactivated": "{{interaction}} Wenn der Chatbot deaktiviert ist, erhält der Benutzer kein Feedback, wenn etwas passiert",
 		"interaction-settings-info": "Legen Sie fest, welche Nachricht per Chatbot über den Stand der Verlosung und Umfrage gesendet wird",
 		"revoke-access": "Zugangsberechtigung aufheben",
