@@ -1574,7 +1574,26 @@
     "replying-to": "Antwort an {{username}}: {{message}}",
     "order-commands-in-website": "Befehle auf der Website sortieren",
     "order-commands-in-website-description": "Du kannst die Befehlsreihenfolge auf der Website steuern: in der App (wie sie in der App angezeigt werden), alphabetisch oder umgekehrt",
-    "event": "Ereignis"
+    "event": "Ereignis",
+    "shoutout-target": "Ziel für das Shoutout",
+    "get-random-clip": "Zufälligen Clip erhalten",
+    "get-only-featured-clips": "Nur vorgestellte Clips abrufen",
+    "max-time-in-seconds-for-a-clip": "Maximale Zeit in Sekunden für einen Clip",
+    "system-message": "Systemnachricht",
+    "keep-track-of-all-messages": "Alle Nachrichten verfolgen (bei Deaktivierung werden nur Systemnachrichten im ChatGPT-Speicher gespeichert)",
+    "chat-gpt-model": "Chat GPT Modell",
+    "top-p": "Top P (Kernstichproben)",
+    "max-tokens": "Maximale Tokens (Gesamtlänge der Tokens. Auf 0 setzen für unendlich)",
+    "minimum-bet-amount": "Mindestwetteinsatz",
+    "winning-message": "Gewinnnachricht",
+    "hide-the-winning-message": "Gewinnnachricht ausblenden (nützlich, wenn Sie nur den Roulette-Gewinnalarm verwenden möchten)",
+    "losing-message": "Verlustnachricht",
+    "invalid-input-message": "Ungültige Eingabenachricht",
+    "duel-duration-in-seconds": "Dauer des Duells in Sekunden",
+    "start-duel-message": "Nachricht zum Start des Duells",
+    "maximum-bet-amount": "Maximale Wettmenge",
+    "how-many-icons-to-randomize": "Wie viele Symbole sollen zufällig ausgewählt werden",
+    "jackpot-message": "Jackpot-Nachricht"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM von Ableton Link",
@@ -2123,7 +2142,6 @@
     "discord_session_chat_count": "(Discord) Gesamte empfangene Chats seit dem Einschalten von Lumia Stream",
     "points_balance": "Treuepunktestand für diesen Nutzer. Kann nur im !points-Chatbot-Befehl verwendet werden",
     "points_cost": "Kosten des Treuepunktebefehls"
-
   },
   "voicemod": {
     "delay": "Verzögerung",
@@ -2223,7 +2241,6 @@
     "viewerQueuePlayPause": "Zuschauer-Warteschlange abspielen/pausieren",
     "viewerQueueEndQueue": "Zuschauer-Warteschlange beenden",
     "viewerQueuePickPlayer": "Spieler aus der Zuschauer-Warteschlange auswählen"
-
   },
   "overlay-actions": {
     "alertTrigger": "Alarmauslöser",
@@ -2530,7 +2547,6 @@
     "target-achieved": "Ziel erreicht",
     "powerups": "Power-Ups",
     "powerup-type": "Power-Up-Typ"
-
   },
   "discovery": {
     "light-ip-has-changed": "Einer von Ihnen {{type}} Die IP-Adresse der Leuchte hat sich geändert. ",
@@ -2857,7 +2873,6 @@
     "session-type-WEEKLY": "Wöchentlich",
     "session-type-MONTHLY": "Monatlich",
     "session-type-YEARLY": "Jährlich"
-
   },
   "billing": {
     "card": "Karte",
@@ -2898,7 +2913,6 @@
     "upgrade-now": "Jetzt upgraden!",
     "one-time-payment": "Einmalige Zahlung",
     "renewal-date": "Erneuerungsdatum"
-
   },
   "translations": {
     "en": "English",
@@ -2943,7 +2957,6 @@
     "reset-all-settings-proceed": "Fortfahren",
     "change-profile": "Profil ändern",
     "suggested-solutions": "Vorgeschlagene Lösungen"
-
   },
   "activity-command": {
     "reaction": "Reaktion",
@@ -3028,7 +3041,6 @@
     "remove-all-peripheral": "Möchten Sie diese Peripheriegeräte aus dem Standardstatus, allen Alerts, Befehlen und Studioelementen entfernen? ",
     "disconnect-force": "Möchtest du diese Verbindung vollständig entfernen und alle zugehörigen Einstellungen in der App löschen? (Dies kann nicht rückgängig gemacht werden)",
     "disconnect-force-checkbox": "Verbindungseinstellungen dauerhaft löschen (Unwiderruflich)"
-
   },
   "overlay": {
     "legacy": "Legacy-Overlay",
@@ -3114,7 +3126,6 @@
     "load-file": "Datei laden",
     "review-and-upload": "Überprüfen & hochladen",
     "user-downloaded": "{{downloads}} Nutzer haben dieses Theme heruntergeladen"
-
   },
   "update": {
     "update-now": "Jetzt aktualisieren",
@@ -3424,7 +3435,6 @@
     "reset-tutorial": "Beachten Sie, dass dadurch alle ausgewählten Einstellungen für Ihr Profil zurückgesetzt werden. Dieser Schritt kann nicht rückgängig gemacht werden",
     "add-new-connection-overlay-title": "Neues Overlay hinzufügen",
     "add-new-connection-overlay-tutorial": "Klicke auf die Hinzufügen-Schaltfläche, um ein neues Overlay zu erstellen"
-
   },
   "brands": {
     "hue": "Farbton",
@@ -3475,7 +3485,7 @@
     "kick": "Trete",
     "overlay": "Legacy-Overlay",
     "virtuallights": "Virtuelle Lichter",
-    "fast-warn": "{{brand}} verwendet derzeit den Schnellmodus, daher kann Lumia keine nativen Hue-Szenen auslösen. Wechsel zu {{brand}}-Normalmodus, um native Szenen wieder zu aktivieren."
+    "fast-warn": "{{brand}} verwendet derzeit den Schnellmodus, daher kann Lumia keine nativen Hue-Szenen auslösen. Wechsel zu {{brand}}-Normalmodus, um native Szenen wieder zu aktivieren.",
     "discord": "Discord"
   },
   "shortcuts": {
@@ -3990,7 +4000,6 @@
     "multiple-instances": "Du nutzt Lumia Stream an mehreren Orten gleichzeitig. Obwohl das nicht empfohlen wird, ist es erlaubt. Allerdings werden die Lumia-Dienste bei vorherigen Verbindungen deaktiviert, damit Benachrichtigungen und Befehle nicht doppelt ausgelöst werden.",
     "message-discord-cant-reconnect": "Discord konnte sich nicht erneut verbinden. Bitte stelle die Verbindung zu Discord wieder her, indem du zu Verbindungen > Plattformen gehst.",
     "message-discord-no-chat": "Discord konnte keine Verbindung zum Chat herstellen. Bitte versuche es erneut."
-
   },
   "userLogs": {
     "api-request-failed": "API-Anfrage {{url}} Fehler mit Statuscode: {{status}} und Nachricht {{message}}"
@@ -4228,7 +4237,7 @@
     "save-settings": "Einstellungen speichern",
     "icons": "Symbole",
     "character-numbers": "Buchstaben & Zahlen"
-},
+  },
   "viewerqueue": {
     "viewerqueue-is-empty": "Es wurde noch keine Zuschauer-Warteschlange gestartet",
     "participants": "Teilnehmende",
@@ -4272,9 +4281,6 @@
     "queue-is-limited": "Die Warteschlange ist auf {{limit}} Zuschauer begrenzt",
     "who-can-join": "Wer kann der Warteschlange beitreten?",
     "who-can-join-description": "Passen Sie die Einstellungen für den Beitrittsbefehl an"
-
-
-
   },
   "modtool": {
     "you-are-mod-user": "Du bist jetzt Moderator",
@@ -4300,8 +4306,8 @@
     "same-page-warning": "Achtung, ein Moderator bearbeitet diese Seite gerade. (Bearbeitet nicht gleichzeitig dieselbe Seite!)",
     "users-you-mod": "Nutzer, die du moderieren kannst",
     "no-logs": "Keine Protokolle für das Moderationstool"
-},
-"loyalty": {
+  },
+  "loyalty": {
     "status": "Treuepunkte {{status}}",
     "currency-name": "Währungsname",
     "settings": "Einstellungen",
