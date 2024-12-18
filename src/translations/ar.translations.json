@@ -1593,7 +1593,9 @@
     "start-duel-message": "رسالة بدء المبارزة",
     "maximum-bet-amount": "الحد الأقصى للمراهنة",
     "how-many-icons-to-randomize": "كم عدد الأيقونات التي سيتم عشوائيتها",
-    "jackpot-message": "رسالة الجائزة الكبرى"
+    "jackpot-message": "رسالة الجائزة الكبرى",
+    "get-random-description": "قم بإيقافها للحصول على آخر مقطع",
+    "get-only-featured-description": "قم بتشغيلها للحصول على المقاطع المميزة فقط"
   },
   "variables": {
     "ableton_bpm": "(أبلتون) BPM من ابلتون لينك",

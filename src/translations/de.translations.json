@@ -1593,7 +1593,9 @@
     "start-duel-message": "Nachricht zum Start des Duells",
     "maximum-bet-amount": "Maximale Wettmenge",
     "how-many-icons-to-randomize": "Wie viele Symbole sollen zufällig ausgewählt werden",
-    "jackpot-message": "Jackpot-Nachricht"
+    "jackpot-message": "Jackpot-Nachricht",
+    "get-random-description": "Stellen Sie es auf aus, um den neuesten Clip zu erhalten",
+    "get-only-featured-description": "Stellen Sie es auf ein, um nur hervorgehobene Clips zu erhalten"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM von Ableton Link",

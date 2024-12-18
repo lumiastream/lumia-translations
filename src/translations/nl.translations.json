@@ -1593,7 +1593,9 @@
     "start-duel-message": "Bericht duel starten",
     "maximum-bet-amount": "Maximale inzetbedrag",
     "how-many-icons-to-randomize": "Hoeveel pictogrammen randomiseren",
-    "jackpot-message": "Jackpotbericht"
+    "jackpot-message": "Jackpotbericht",
+    "get-random-description": "Zet op uit om de laatste clip te krijgen",
+    "get-only-featured-description": "Zet op aan om alleen uitgelichte clips te krijgen"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM van Ableton Link",

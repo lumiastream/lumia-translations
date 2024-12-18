@@ -1593,7 +1593,9 @@
     "start-duel-message": "Startmeddelande för duell",
     "maximum-bet-amount": "Maximalt insatsbelopp",
     "how-many-icons-to-randomize": "Hur många ikoner som ska slumpas",
-    "jackpot-message": "Jackpotmeddelande"
+    "jackpot-message": "Jackpotmeddelande",
+    "get-random-description": "Sätt till av för att få senaste klippet",
+    "get-only-featured-description": "Sätt till på för att bara få utvalda klipp"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM för Ableton Link",

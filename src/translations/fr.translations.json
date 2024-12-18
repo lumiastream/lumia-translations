@@ -1593,7 +1593,9 @@
     "start-duel-message": "Message de début de duel",
     "maximum-bet-amount": "Montant de mise maximum",
     "how-many-icons-to-randomize": "Combien d'icônes à randomiser",
-    "jackpot-message": "Message de jackpot"
+    "jackpot-message": "Message de jackpot",
+    "get-random-description": "Définissez sur off pour obtenir le dernier clip",
+    "get-only-featured-description": "Définissez sur on pour obtenir uniquement les clips en vedette"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM de Ableton Link",
