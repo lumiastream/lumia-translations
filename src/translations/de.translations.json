@@ -2245,7 +2245,7 @@
     "viewerQueuePickPlayer": "Spieler aus der Zuschauer-Warteschlange auswählen"
   },
   "overlay-actions": {
-    "alertTrigger": "Alarmauslöser",
+    "alertTrigger": "Alertauslöser",
     "setOverlayVisibility": "Legen Sie die Overlay-Sichtbarkeit fest",
     "setLayerVisibility": "Legen Sie die Sichtbarkeit der Ebene fest",
     "setLayerPosition": "Legen Sie die Ebenenposition fest",
@@ -3439,7 +3439,7 @@
     "add-new-connection-overlay-tutorial": "Klicke auf die Hinzufügen-Schaltfläche, um ein neues Overlay zu erstellen"
   },
   "brands": {
-    "hue": "Farbton",
+    "hue": "Hue",
     "lifx": "Lifx",
     "tplink": "Tplink Kasa",
     "tapo": "Tplink Tapo",
