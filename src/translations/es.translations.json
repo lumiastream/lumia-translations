@@ -2925,7 +2925,8 @@
     "nl": "Nederlands",
     "sv": "Svenska",
     "ar": "العربية",
-    "de": "Deutsch"
+    "de": "Deutsch",
+    "tr": "Türkçe"
   },
   "hotkeys": {
     "description": "Agregue teclas de acceso rápido personalizadas para activar acciones específicas rápidamente",
