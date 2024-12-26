@@ -1596,7 +1596,21 @@
     "how-many-icons-to-randomize": "Wie viele Symbole sollen zufällig ausgewählt werden",
     "jackpot-message": "Jackpot-Nachricht",
     "get-random-description": "Stellen Sie es auf aus, um den neuesten Clip zu erhalten",
-    "get-only-featured-description": "Stellen Sie es auf ein, um nur hervorgehobene Clips zu erhalten"
+    "get-only-featured-description": "Stellen Sie es auf ein, um nur hervorgehobene Clips zu erhalten",
+    "stop-current-command": "Aktuellen Befehl stoppen",
+    "run-another-command": "Einen anderen Befehl ausführen",
+    "else-description": "Sonst (Was tun, wenn keine Bedingung erfüllt ist)",
+    "if-description": "Wählen Sie Bedingungen, die vor dem Ausführen des Befehls geprüft werden sollen, oder führen Sie den sonstigen Zustand aus",
+    "if-empty-description": "Bedingung hinzufügen, um zu steuern, wann der Befehl ausgeführt wird",
+    "add-condition": "Bedingung hinzufügen",
+    "variable-name": "Variablenname",
+    "operator": "Operator",
+    "equals": "Gleich",
+    "not-equals": "Ungleich",
+    "contains": "Enthält",
+    "not-contains": "Enthält nicht",
+    "greater-than": "Größer als",
+    "less-than": "Kleiner als"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM von Ableton Link",

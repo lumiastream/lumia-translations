@@ -1596,7 +1596,21 @@
     "how-many-icons-to-randomize": "كم عدد الأيقونات التي سيتم عشوائيتها",
     "jackpot-message": "رسالة الجائزة الكبرى",
     "get-random-description": "قم بإيقافها للحصول على آخر مقطع",
-    "get-only-featured-description": "قم بتشغيلها للحصول على المقاطع المميزة فقط"
+    "get-only-featured-description": "قم بتشغيلها للحصول على المقاطع المميزة فقط",
+    "stop-current-command": "إيقاف الأمر الحالي",
+    "run-another-command": "تشغيل أمر آخر",
+    "else-description": "غير ذلك (ما الذي يجب القيام به إذا لم يتم استيفاء أي شرط)",
+    "if-description": "اختر الشروط التي سيتم التحقق منها قبل تشغيل الأمر أو تنفيذ الحالة الأخرى",
+    "if-empty-description": "أضف شرطًا للتحكم في وقت تشغيل الأمر بشكل مشروط",
+    "add-condition": "إضافة شرط",
+    "variable-name": "اسم المتغير",
+    "operator": "المشغل",
+    "equals": "يساوي",
+    "not-equals": "لا يساوي",
+    "contains": "يحتوي على",
+    "not-contains": "لا يحتوي على",
+    "greater-than": "أكبر من",
+    "less-than": "أقل من"
   },
   "variables": {
     "ableton_bpm": "(أبلتون) BPM من ابلتون لينك",

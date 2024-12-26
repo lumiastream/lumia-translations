@@ -1596,7 +1596,21 @@
     "how-many-icons-to-randomize": "Hur många ikoner som ska slumpas",
     "jackpot-message": "Jackpotmeddelande",
     "get-random-description": "Sätt till av för att få senaste klippet",
-    "get-only-featured-description": "Sätt till på för att bara få utvalda klipp"
+    "get-only-featured-description": "Sätt till på för att bara få utvalda klipp",
+    "stop-current-command": "Stoppa nuvarande kommando",
+    "run-another-command": "Kör ett annat kommando",
+    "else-description": "Annars (Vad ska göras om inga villkor uppfylls)",
+    "if-description": "Välj villkor att kontrollera innan kommandot körs eller kör annars-tillståndet",
+    "if-empty-description": "Lägg till ett villkor för att villkorligt kontrollera när kommandot körs",
+    "add-condition": "Lägg till villkor",
+    "variable-name": "Variabelnamn",
+    "operator": "Operator",
+    "equals": "Lika med",
+    "not-equals": "Inte lika med",
+    "contains": "Innehåller",
+    "not-contains": "Innehåller inte",
+    "greater-than": "Större än",
+    "less-than": "Mindre än"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM för Ableton Link",

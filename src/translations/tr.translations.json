@@ -1596,7 +1596,21 @@
     "how-many-icons-to-randomize": "Kaç simgenin rastgele seçileceği",
     "jackpot-message": "Büyük ikramiye mesajı",
     "get-random-description": "   En son klibi almak için kapalı olarak ayarlayın",
-    "get-only-featured-description": "Yalnızca öne çıkan klipleri almak için açık olarak ayarlayın"
+    "get-only-featured-description": "Yalnızca öne çıkan klipleri almak için açık olarak ayarlayın",
+    "stop-current-command": "Geçerli komutu durdur",
+    "run-another-command": "Başka bir komut çalıştır",
+    "else-description": "Değilse (Hiçbir koşul karşılanmazsa ne yapılacak)",
+    "if-description": "Komut çalıştırılmadan önce kontrol edilecek koşulları seçin veya diğer durumu yürütün",
+    "if-empty-description": "Komutun ne zaman çalıştırılacağını koşullu olarak kontrol etmek için bir koşul ekleyin",
+    "add-condition": "Koşul ekle",
+    "variable-name": "Değişken adı",
+    "operator": "Operatör",
+    "equals": "Eşittir",
+    "not-equals": "Eşit değildir",
+    "contains": "İçerir",
+    "not-contains": "İçermez",
+    "greater-than": "Daha büyük",
+    "less-than": "Daha küçük"
   },
   "variables": {
     "ableton_bpm": "(Ableton) Ableton Link'in BPM'si",
