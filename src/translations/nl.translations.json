@@ -1596,7 +1596,21 @@
     "how-many-icons-to-randomize": "Hoeveel pictogrammen randomiseren",
     "jackpot-message": "Jackpotbericht",
     "get-random-description": "Zet op uit om de laatste clip te krijgen",
-    "get-only-featured-description": "Zet op aan om alleen uitgelichte clips te krijgen"
+    "get-only-featured-description": "Zet op aan om alleen uitgelichte clips te krijgen",
+    "stop-current-command": "Huidige opdracht stoppen",
+    "run-another-command": "Een andere opdracht uitvoeren",
+    "else-description": "Anders (Wat te doen als aan geen enkele voorwaarde wordt voldaan)",
+    "if-description": "Kies voorwaarden om te controleren voordat de opdracht wordt uitgevoerd of voer de anders-toestand uit",
+    "if-empty-description": "Voeg een voorwaarde toe om voorwaardelijk te controleren wanneer de opdracht wordt uitgevoerd",
+    "add-condition": "Voorwaarde toevoegen",
+    "variable-name": "Variabelenaam",
+    "operator": "Operator",
+    "equals": "Gelijk aan",
+    "not-equals": "Niet gelijk aan",
+    "contains": "Bevat",
+    "not-contains": "Bevat niet",
+    "greater-than": "Groter dan",
+    "less-than": "Kleiner dan"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM van Ableton Link",

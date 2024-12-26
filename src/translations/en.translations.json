@@ -1596,7 +1596,21 @@
     "how-many-icons-to-randomize": "How many icons to randomize",
     "jackpot-message": "Jackpot message",
     "get-random-description": "   Set to off to get latest clip",
-    "get-only-featured-description": "Set to on to get only featured clips"
+    "get-only-featured-description": "Set to on to get only featured clips",
+    "stop-current-command": "Stop current command",
+    "run-another-command": "Run another command",
+    "else-description": "Else (What to do if no condition is met)",
+    "if-description": "Choose conditions to check before running the command or execute the else state",
+    "if-empty-description": "Add condition to conditionally control when the command will run",
+    "add-condition": "Add condition",
+    "variable-name": "Variable name",
+    "operator": "Operator",
+    "equals": "Equals",
+    "not-equals": "Not equals",
+    "contains": "Contains",
+    "not-contains": "Not contains",
+    "greater-than": "Greater than",
+    "less-than": "Less than"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM of Ableton Link",
