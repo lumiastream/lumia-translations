@@ -139,7 +139,11 @@
     "no-account": "ليس لديك حساب؟",
     "have-account": "لدي حساب!",
     "almost-there": "اوشكت على الوصول!",
-    "complete-registration": "أكمل تسجيلك عن طريق إنشاء اسم مستخدم وكلمة مرور"
+    "complete-registration": "أكمل تسجيلك عن طريق إنشاء اسم مستخدم وكلمة مرور",
+    "old-profile": "تم اكتشاف ملف تعريف قديم!",
+    "old-profile-description": "هذا الملف التعريفي من الإصدار القديم لـ Lumia Stream. ستحتاج إلى إعادة تعيين الإعدادات لاستخدامه",
+    "reset-settings": "إعادة تعيين الإعدادات",
+    "settings-reset-success": "تمت إعادة تعيين الإعدادات بنجاح"
   },
   "ar": {
     "setup-lumia-first": "إنه وقت الاتصال",
