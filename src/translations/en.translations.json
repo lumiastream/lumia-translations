@@ -139,7 +139,11 @@
     "no-account": "Don't have an account?",
     "have-account": "I have an account!",
     "almost-there": "Almost There!",
-    "complete-registration": "Complete your registration by creating a Username and Password"
+    "complete-registration": "Complete your registration by creating a Username and Password",
+    "old-profile": "Old profile detected!",
+    "old-profile-description": "This profile is from the old version of Lumia Stream. You'll need to reset your settings to be able to use it",
+    "reset-settings": "Reset settings",
+    "settings-reset-success": "Settings have been reset successfully"
   },
   "ar": {
     "169-error": "Devices have been found, but some have been returned with an IP address of 169.254 which means that it was not able to obtain the correct ip address from your router. Please try unplugging your devices that are showing an ip address that starts with 169.254 and trying to search again",

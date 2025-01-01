@@ -139,7 +139,11 @@
     "no-account": "Hesabınız yok mu?",
     "have-account": "Bir hesabım var!",
     "almost-there": "Neredeyse Orada!",
-    "complete-registration": "Kullanıcı Adı ve Şifre oluşturarak kaydınızı tamamlayın"
+    "complete-registration": "Kullanıcı Adı ve Şifre oluşturarak kaydınızı tamamlayın",
+    "old-profile": "Eski profil tespit edildi!",
+    "old-profile-description": "Bu profil Lumia Stream'in eski sürümünden. Kullanabilmek için ayarları sıfırlamanız gerekiyor",
+    "reset-settings": "Ayarları sıfırla",
+    "settings-reset-success": "Ayarlar başarıyla sıfırlandı"
   },
   "ar": {
     "169-error": "Cihazlar bulundu, ancak bazıları 169.254 IP adresiyle iade edildi; bu, yönlendiricinizden doğru ip adresini alamadığı anlamına gelir. ",

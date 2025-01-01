@@ -139,7 +139,11 @@
     "no-account": "Har du inget konto?",
     "have-account": "Jag har ett konto!",
     "almost-there": "Nästan där!",
-    "complete-registration": "Slutför din registrering genom att skapa ett användarnamn och lösenord"
+    "complete-registration": "Slutför din registrering genom att skapa ett användarnamn och lösenord",
+    "old-profile": "Gammal profil upptäckt!",
+    "old-profile-description": "Den här profilen är från den gamla versionen av Lumia Stream. Du måste återställa dina inställningar för att kunna använda den",
+    "reset-settings": "Återställ inställningar",
+    "settings-reset-success": "Inställningarna har återställts framgångsrikt"
   },
   "ar": {
     "setup-lumia-first": "Det är anslutningstid",

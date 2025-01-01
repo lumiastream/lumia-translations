@@ -139,7 +139,11 @@
     "no-account": "Vous n'avez pas de compte ?",
     "have-account": "J'ai un compte!",
     "almost-there": "Presque là!",
-    "complete-registration": "Complétez votre inscription en créant un nom d'utilisateur et un mot de passe"
+    "complete-registration": "Complétez votre inscription en créant un nom d'utilisateur et un mot de passe",
+    "old-profile": "Ancien profil détecté !",
+    "old-profile-description": "Ce profil provient de l'ancienne version de Lumia Stream. Vous devez réinitialiser vos paramètres pour pouvoir l'utiliser",
+    "reset-settings": "Réinitialiser les paramètres",
+    "settings-reset-success": "Les paramètres ont été réinitialisés avec succès"
   },
   "ar": {
     "setup-lumia-first": "C'est l'heure de la connexion",

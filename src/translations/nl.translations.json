@@ -139,7 +139,11 @@
     "no-account": "Heeft u geen account?",
     "have-account": "Ik heb een account!",
     "almost-there": "Bijna daar!",
-    "complete-registration": "Voltooi uw registratie door een gebruikersnaam en wachtwoord aan te maken"
+    "complete-registration": "Voltooi uw registratie door een gebruikersnaam en wachtwoord aan te maken",
+    "old-profile": "Oud profiel gedetecteerd!",
+    "old-profile-description": "Dit profiel is afkomstig van de oude versie van Lumia Stream. Je moet je instellingen resetten om het te kunnen gebruiken",
+    "reset-settings": "Instellingen resetten",
+    "settings-reset-success": "Instellingen zijn succesvol gereset"
   },
   "ar": {
     "setup-lumia-first": "Het is verbindingstijd",
