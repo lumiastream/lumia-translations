@@ -1614,7 +1614,15 @@
     "contains": "يحتوي على",
     "not-contains": "لا يحتوي على",
     "greater-than": "أكبر من",
-    "less-than": "أقل من"
+    "less-than": "أقل من",
+    "allowed-languages": "اللغات المسموح بها",
+    "allowed-languages-description": "سيتم تنشيط مطابقة الدردشة للمترجم فقط للرسائل المكتوبة بلغات غير المسموح بها",
+    "action-to-do": "الإجراء المطلوب (إذا كانت الرسالة بلغة أخرى)",
+    "default-message": "الرسالة الافتراضية",
+    "message-to-translator": "رسالة إلى مترجم الذكاء الاصطناعي",
+    "detectlang-deleteMessage": "حذف رسالة الدردشة",
+    "detectlang-showDefaultMessage": "إظهار الرسالة الافتراضية",
+    "detectlang-translateMessage": "ترجمة الرسالة باستخدام الذكاء الاصطناعي"
   },
   "variables": {
     "ableton_bpm": "(أبلتون) BPM من ابلتون لينك",

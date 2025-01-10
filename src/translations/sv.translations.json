@@ -1614,7 +1614,15 @@
     "contains": "Innehåller",
     "not-contains": "Innehåller inte",
     "greater-than": "Större än",
-    "less-than": "Mindre än"
+    "less-than": "Mindre än",
+    "allowed-languages": "Tillåtna språk",
+    "allowed-languages-description": "Translator ChatMatch aktiveras endast för meddelanden skrivna på andra språk än de tillåtna",
+    "action-to-do": "Åtgärd att vidta (om ett meddelande är på ett annat språk)",
+    "default-message": "Standardmeddelande",
+    "message-to-translator": "Meddelande till AI-översättaren",
+    "detectlang-deleteMessage": "Radera chattmeddelande",
+    "detectlang-showDefaultMessage": "Visa standardmeddelande",
+    "detectlang-translateMessage": "Översätt meddelande med AI"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM för Ableton Link",

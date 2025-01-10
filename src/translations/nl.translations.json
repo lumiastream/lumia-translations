@@ -1614,7 +1614,15 @@
     "contains": "Bevat",
     "not-contains": "Bevat niet",
     "greater-than": "Groter dan",
-    "less-than": "Kleiner dan"
+    "less-than": "Kleiner dan",
+    "allowed-languages": "Toegestane talen",
+    "allowed-languages-description": "De Translator ChatMatch wordt alleen geactiveerd voor berichten in andere dan de toegestane talen",
+    "action-to-do": "Actie om uit te voeren (als een bericht in een andere taal is)",
+    "default-message": "Standaardbericht",
+    "message-to-translator": "Bericht naar de AI-vertaler",
+    "detectlang-deleteMessage": "Chatbericht verwijderen",
+    "detectlang-showDefaultMessage": "Standaardbericht tonen",
+    "detectlang-translateMessage": "Bericht vertalen met AI"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM van Ableton Link",
