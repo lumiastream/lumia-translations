@@ -1614,7 +1614,15 @@
     "contains": "Enthält",
     "not-contains": "Enthält nicht",
     "greater-than": "Größer als",
-    "less-than": "Kleiner als"
+    "less-than": "Kleiner als",
+    "allowed-languages": "Erlaubte Sprachen",
+    "allowed-languages-description": "Der Übersetzer-ChatMatch wird nur für Nachrichten aktiviert, die in anderen als den erlaubten Sprachen geschrieben sind",
+    "action-to-do": "Aktion ausführen (wenn eine Nachricht in einer anderen Sprache vorliegt)",
+    "default-message": "Standardnachricht",
+    "message-to-translator": "Nachricht an den KI-Übersetzer",
+    "detectlang-deleteMessage": "Chat-Nachricht löschen",
+    "detectlang-showDefaultMessage": "Standardnachricht anzeigen",
+    "detectlang-translateMessage": "Nachricht mit KI übersetzen"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM von Ableton Link",

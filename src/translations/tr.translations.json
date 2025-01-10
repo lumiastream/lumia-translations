@@ -1614,7 +1614,15 @@
     "contains": "İçerir",
     "not-contains": "İçermez",
     "greater-than": "Daha büyük",
-    "less-than": "Daha küçük"
+    "less-than": "Daha küçük",
+    "allowed-languages": "İzin verilen diller",
+    "allowed-languages-description": "Çevirmen ChatMatch, yalnızca izin verilen diller dışındaki dillerde yazılan mesajlar için etkinleşecektir",
+    "action-to-do": "Yapılacak işlem (bir mesaj başka bir dildeyse)",
+    "default-message": "Varsayılan mesaj",
+    "message-to-translator": "Yapay zeka çevirmenine mesaj",
+    "detectlang-deleteMessage": "Sohbet mesajını sil",
+    "detectlang-showDefaultMessage": "Varsayılan mesajı göster",
+    "detectlang-translateMessage": "Mesajı yapay zeka ile çevir"
   },
   "variables": {
     "ableton_bpm": "(Ableton) Ableton Link'in BPM'si",
