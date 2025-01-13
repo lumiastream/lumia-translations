@@ -2170,7 +2170,10 @@
     "discord_previous_first_chatter_count": "(Discord) Anzahl der vorherigen ersten Chats",
     "discord_session_chat_count": "(Discord) Gesamte empfangene Chats seit dem Einschalten von Lumia Stream",
     "points_balance": "Treuepunktestand für diesen Nutzer. Kann nur im !points-Chatbot-Befehl verwendet werden",
-    "points_cost": "Kosten des Treuepunktebefehls"
+    "points_cost": "Kosten des Treuepunktebefehls",
+    "language_detect_result": "Das Ergebnis der Spracherkennung zeigt entweder die Standardnachricht oder die übersetzte Nachricht an, abhängig von der im Dropdown-Menü 'Aktion ausführen' ausgewählten Aktion",
+    "detected_language": "Die Sprache der geschriebenen Chat-Nachricht, wie Englisch, Spanisch usw.",
+    "detected_language_code": "Der Sprachcode der geschriebenen Chat-Nachricht, wie en, es usw."
   },
   "voicemod": {
     "delay": "Verzögerung",
