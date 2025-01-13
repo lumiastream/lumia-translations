@@ -1616,7 +1616,7 @@
     "greater-than": "Groter dan",
     "less-than": "Kleiner dan",
     "allowed-languages": "Toegestane talen",
-    "allowed-languages-description": "De Translator ChatMatch wordt alleen geactiveerd voor berichten in andere dan de toegestane talen",
+    "allowed-languages-description": "De Translator ChatMatch wordt alleen geactiveerd voor berichten in andere dan de toegestane talen. Twee variabelen kunnen worden gebruikt: {{detected_language}} en {{detected_language_code}}",
     "action-to-do": "Actie om uit te voeren (als een bericht in een andere taal is)",
     "default-message": "Standaardbericht",
     "message-to-translator": "Bericht naar de AI-vertaler",

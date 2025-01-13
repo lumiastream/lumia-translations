@@ -1616,7 +1616,7 @@
     "greater-than": "Mayor que",
     "less-than": "Menor que",
     "allowed-languages": "Idiomas permitidos",
-    "allowed-languages-description": "El ChatMatch del traductor se activará solo para mensajes escritos en idiomas distintos a los permitidos",
+    "allowed-languages-description": "El ChatMatch del traductor se activará solo para mensajes escritos en idiomas distintos a los permitidos. Se pueden usar dos variables: {{detected_language}} y {{detected_language_code}}",
     "action-to-do": "Acción a realizar (si un mensaje está en otro idioma)",
     "default-message": "Mensaje predeterminado",
     "message-to-translator": "Mensaje al traductor de IA",

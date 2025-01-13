@@ -1616,7 +1616,7 @@
     "greater-than": "Större än",
     "less-than": "Mindre än",
     "allowed-languages": "Tillåtna språk",
-    "allowed-languages-description": "Translator ChatMatch aktiveras endast för meddelanden skrivna på andra språk än de tillåtna",
+    "allowed-languages-description": "Translator ChatMatch aktiveras endast för meddelanden skrivna på andra språk än de tillåtna. Två variabler kan användas: {{detected_language}} och {{detected_language_code}}",
     "action-to-do": "Åtgärd att vidta (om ett meddelande är på ett annat språk)",
     "default-message": "Standardmeddelande",
     "message-to-translator": "Meddelande till AI-översättaren",
