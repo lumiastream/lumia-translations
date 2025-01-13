@@ -1616,7 +1616,7 @@
     "greater-than": "Daha büyük",
     "less-than": "Daha küçük",
     "allowed-languages": "İzin verilen diller",
-    "allowed-languages-description": "Çevirmen ChatMatch, yalnızca izin verilen diller dışındaki dillerde yazılan mesajlar için etkinleşecektir",
+    "allowed-languages-description": "Çevirmen ChatMatch, yalnızca izin verilen diller dışındaki dillerde yazılan mesajlar için etkinleşecektir. İki değişken kullanılabilir: {{detected_language}} ve {{detected_language_code}}",
     "action-to-do": "Yapılacak işlem (bir mesaj başka bir dildeyse)",
     "default-message": "Varsayılan mesaj",
     "message-to-translator": "Yapay zeka çevirmenine mesaj",

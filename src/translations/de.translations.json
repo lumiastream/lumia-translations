@@ -1616,7 +1616,7 @@
     "greater-than": "Größer als",
     "less-than": "Kleiner als",
     "allowed-languages": "Erlaubte Sprachen",
-    "allowed-languages-description": "Der Übersetzer-ChatMatch wird nur für Nachrichten aktiviert, die in anderen als den erlaubten Sprachen geschrieben sind",
+    "allowed-languages-description": "Der Übersetzer-ChatMatch wird nur für Nachrichten aktiviert, die in anderen als den erlaubten Sprachen geschrieben sind. Es können zwei Variablen verwendet werden: {{detected_language}} und {{detected_language_code}}",
     "action-to-do": "Aktion ausführen (wenn eine Nachricht in einer anderen Sprache vorliegt)",
     "default-message": "Standardnachricht",
     "message-to-translator": "Nachricht an den KI-Übersetzer",

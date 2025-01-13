@@ -1616,7 +1616,7 @@
     "greater-than": "أكبر من",
     "less-than": "أقل من",
     "allowed-languages": "اللغات المسموح بها",
-    "allowed-languages-description": "سيتم تنشيط مطابقة الدردشة للمترجم فقط للرسائل المكتوبة بلغات غير المسموح بها",
+    "allowed-languages-description": "سيتم تنشيط مطابقة الدردشة للمترجم فقط للرسائل المكتوبة بلغات غير المسموح بها. يمكن استخدام متغيرين: {{detected_language}} و {{detected_language_code}}",
     "action-to-do": "الإجراء المطلوب (إذا كانت الرسالة بلغة أخرى)",
     "default-message": "الرسالة الافتراضية",
     "message-to-translator": "رسالة إلى مترجم الذكاء الاصطناعي",
