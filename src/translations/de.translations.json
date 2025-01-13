@@ -2173,7 +2173,7 @@
     "points_cost": "Kosten des Treuepunktebefehls",
     "language_detect_result": "Das Ergebnis der Spracherkennung zeigt entweder die Standardnachricht oder die übersetzte Nachricht an, abhängig von der im Dropdown-Menü 'Aktion ausführen' ausgewählten Aktion",
     "detected_language": "Die Sprache der geschriebenen Chat-Nachricht, wie Englisch, Spanisch usw.",
-    "detected_language_code": "Der Sprachcode der geschriebenen Chat-Nachricht, wie en, es usw."
+    "detected_language_code": "Das Sprachenkürzel der geschriebenen Chat-Nachricht-Sprache, wie en, es, usw."
   },
   "voicemod": {
     "delay": "Verzögerung",
