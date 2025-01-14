@@ -2170,7 +2170,10 @@
     "discord_previous_first_chatter_count": "(Discord) previous first chatter count",
     "discord_session_chat_count": "(Discord)  the total chats received since Lumia Stream has turned on",
     "points_balance": "Loyalty Points balance for this user. Can only be used in the !points chatbot command",
-    "points_cost": "Loyalty Points command cost"
+    "points_cost": "Loyalty Points command cost",
+    "language_detect_result": "The language detection result will display either the default message or the translated message, depending on the action selected from the 'Action to Do' dropdown menu",
+    "detected_language": "The language of the written chat message, such as English, Spanish, etc.",
+    "detected_language_code": "The language code of the written chat message, such as en, es, etc."
   },
   "voicemod": {
     "delay": "Delay",
