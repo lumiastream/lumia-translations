@@ -2172,7 +2172,9 @@
     "points_cost": "Costo del comando en puntos de lealtad",
     "language_detect_result": "El resultado de la detección de idioma mostrará ya sea el mensaje predeterminado o el mensaje traducido, dependiendo de la acción seleccionada en el menú desplegable 'Acción a realizar'",
     "detected_language": "El idioma del mensaje de chat escrito, como inglés, español, etc.",
-    "detected_language_code": "El código de idioma del mensaje de chat escrito, como en, es, etc."
+    "detected_language_code": "El código de idioma del mensaje de chat escrito, como en, es, etc.",
+    "user_rank": "La posición del usuario en la lista de clasificación de puntos de fidelidad. Por ejemplo, el rango 4 significa que el usuario está en la 4ª posición en la lista de puntos de fidelidad.",
+    "total_rank": "El número total de usuarios en la lista de puntos de fidelidad. Por ejemplo, 125 usuarios. Esto se puede usar con la variable {{user_rank}}. Por ejemplo, el rango del nombre de usuario es 3 de un total de 125 usuarios."
   },
   "voicemod": {
     "delay": "Demora",

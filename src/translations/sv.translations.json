@@ -2171,7 +2171,9 @@
     "points_cost": "Kostnad i lojalitetspoäng för kommandot",
     "language_detect_result": "Resultatet av språkdetektering visar antingen standardmeddelandet eller det översatta meddelandet, beroende på den valda åtgärden från rullgardinsmenyn 'Åtgärd att utföra'",
     "detected_language": "Språket för det skrivna chattmeddelandet, såsom engelska, spanska, etc.",
-    "detected_language_code": "Språkkoden för det skrivna chattmeddelandet, såsom en, es, etc."
+    "detected_language_code": "Språkkoden för det skrivna chattmeddelandet, såsom en, es, etc.",
+    "user_rank": "Användarens position i lojalitetspoängens rangordning. Till exempel, rang 4 betyder att användaren är på 4:e plats i lojalitetspoänglistan.",
+    "total_rank": "Det totala antalet användare i lojalitetspoänglistan. Till exempel, 125 användare. Detta kan användas med {{user_rank}}-variabeln. Till exempel är användarnamnet rang 3 av totalt 125 användare."
   },
   "voicemod": {
     "delay": "Dröjsmål",

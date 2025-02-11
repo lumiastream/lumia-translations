@@ -2173,7 +2173,9 @@
     "points_cost": "Kosten des Treuepunktebefehls",
     "language_detect_result": "Das Ergebnis der Spracherkennung zeigt entweder die Standardnachricht oder die übersetzte Nachricht an, abhängig von der im Dropdown-Menü 'Aktion ausführen' ausgewählten Aktion",
     "detected_language": "Die Sprache der geschriebenen Chat-Nachricht, wie Englisch, Spanisch usw.",
-    "detected_language_code": "Das Sprachenkürzel der geschriebenen Chat-Nachricht-Sprache, wie en, es, usw."
+    "detected_language_code": "Das Sprachenkürzel der geschriebenen Chat-Nachricht-Sprache, wie en, es, usw.",
+    "user_rank": "Die Position des Benutzers in der Rangliste der Treuepunkte. Zum Beispiel bedeutet Rang 4, dass der Benutzer auf Platz 4 in der Treuepunkte-Liste steht.",
+    "total_rank": "Die Gesamtzahl der Benutzer in der Treuepunkte-Liste. Zum Beispiel 125 Benutzer. Dies kann mit der Variable {{user_rank}} verwendet werden. Zum Beispiel ist der Rang des Benutzernamens 3 von insgesamt 125 Benutzern."
   },
   "voicemod": {
     "delay": "Verzögerung",
