@@ -2170,7 +2170,9 @@
     "points_cost": "Kosten in loyaliteitspunten voor het commando",
     "language_detect_result": "Het resultaat van de taalherkenning toont ofwel het standaardbericht of het vertaalde bericht, afhankelijk van de actie die is geselecteerd in het dropdownmenu 'Actie om uit te voeren'",
     "detected_language": "De taal van het geschreven chatbericht, zoals Engels, Spaans, enz.",
-    "detected_language_code": "De taalcode van het geschreven chatbericht, zoals en, es, enz."
+    "detected_language_code": "De taalcode van het geschreven chatbericht, zoals en, es, enz.",
+    "user_rank": "De positie van de gebruiker in de loyaliteitspunten ranglijst. Bijvoorbeeld, rang 4 betekent dat de gebruiker op de 4e positie staat in de loyaliteitspuntenlijst.",
+    "total_rank": "Het totaal aantal gebruikers in de loyaliteitspuntenlijst. Bijvoorbeeld 125 gebruikers. Dit kan worden gebruikt met de {{user_rank}} variabele. Bijvoorbeeld, de rang van de gebruikersnaam is 3 van in totaal 125 gebruikers."
   },
   "voicemod": {
     "delay": "Vertraging",

@@ -2170,7 +2170,12 @@
     "discord_previous_first_chatter_count": "(Discord) önceki ilk sohbet sayısı",
     "discord_session_chat_count": "(Discord) Lumia Stream açıldığından bu yana alınan toplam sohbet sayısı",
     "points_balance": "Bu kullanıcı için Sadakat Puanı bakiyesi. ",
-    "points_cost": "Sadakat Puanı komut maliyeti"
+    "points_cost": "Sadakat Puanı komut maliyeti",
+    "language_detect_result": "Dil algılama sonucu, 'Yapılacak İşlem' açılır menüsünden seçilen işleme bağlı olarak ya varsayılan mesajı ya da çevrilmiş mesajı gösterecektir.",
+    "detected_language": "Yazılı sohbet mesajının dili, örneğin İngilizce, İspanyolca vb.",
+    "detected_language_code": "Yazılı sohbet mesajının dil kodu, örneğin en, es vb.",
+    "user_rank": "Kullanıcının sadakat puanları sıralamasındaki konumu. Örneğin, 4. sırada olmak, kullanıcının sadakat puanları listesinde 4. sırada olduğu anlamına gelir.",
+    "total_rank": "Sadakat puanları listesindeki toplam kullanıcı sayısı. Örneğin, 125 kullanıcı. Bu, {{user_rank}} değişkeniyle kullanılabilir. Örneğin, kullanıcı adı 125 kullanıcıdan 3. sırada."
   },
   "voicemod": {
     "delay": "Gecikme",
