@@ -913,7 +913,10 @@
     "compressor-ratio": "Kompresör Oranı",
     "compressor-release": "Kompresör Tahliyesi",
     "compressor-threshold": "Kompresör Eşiği",
-    "globalcode-description": "Herhangi bir koddan önce yürütülecek genel kodunuzu girin (komutlar, uyarılar...)"
+    "globalcode-description": "Herhangi bir koddan önce yürütülecek genel kodunuzu girin (komutlar, uyarılar...)",
+    "select-genre": "Tür seç",
+    "generate-slots-from-audio": "Sesten yuvalar oluştur",
+    "generate": "Oluştur"
   },
   "commands": {
     "scratch": "Sıfırdan başla",

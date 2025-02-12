@@ -913,7 +913,10 @@
     "compressor-release": "Libération du compresseur",
     "compressor-threshold": "Seuil du compresseur",
     "globalcode-description": "Entrez votre code global qui sera exécuté avant tout code dans (commandes, alertes...)",
-    "not-linked": "Not linked"
+    "not-linked": "Not linked",
+    "select-genre": "Sélectionner le genre",
+    "generate-slots-from-audio": "Générer des emplacements à partir de l'audio",
+    "generate": "Générer"
   },
   "commands": {
     "set-to": "Mis à {{on_off}}",

@@ -913,7 +913,10 @@
     "compressor-release": "Liberación del compresor",
     "compressor-threshold": "Umbral del compresor",
     "globalcode-description": "Ingrese su código global que se ejecutará antes que cualquier código en (comandos, alertas...)",
-    "not-linked": "Not linked"
+    "not-linked": "Not linked",
+    "select-genre": "Seleccionar género",
+    "generate-slots-from-audio": "Generar ranuras desde el audio",
+    "generate": "Generar"
   },
   "commands": {
     "set-to": "Ajustado a {{on_off}}",
