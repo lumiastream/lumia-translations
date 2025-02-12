@@ -913,7 +913,10 @@
     "compressor-release": "Compressorvrijgave",
     "compressor-threshold": "Compressordrempel",
     "globalcode-description": "Voer uw globale code in die vóór elke code wordt uitgevoerd in (opdrachten, waarschuwingen...)",
-    "not-linked": "Not linked"
+    "not-linked": "Not linked",
+    "select-genre": "Selecteer genre",
+    "generate-slots-from-audio": "Slots genereren uit audio",
+    "generate": "Genereren"
   },
   "commands": {
     "set-to": "Instellen op {{on_off}}",

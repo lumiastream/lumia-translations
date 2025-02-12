@@ -913,7 +913,10 @@
     "compressor-ratio": "Compressor Ratio",
     "compressor-release": "Compressor Release",
     "compressor-threshold": "Compressor Threshold",
-    "globalcode-description": "Enter your global code which will be executed before any code in (commands, alerts...)"
+    "globalcode-description": "Enter your global code which will be executed before any code in (commands, alerts...)",
+    "select-genre": "Select Genre",
+    "generate-slots-from-audio": "Generate Slots From Audio",
+    "generate": "Generate"
   },
   "commands": {
     "scratch": "Start from scratch",

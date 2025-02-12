@@ -913,7 +913,10 @@
     "compressor-release": "Kompressorfreigabe",
     "compressor-threshold": "Kompressorschwelle",
     "globalcode-description": "Geben Sie Ihren globalen Code ein, der vor jedem Code in (Befehle, Alerts...) ausgeführt wird.",
-    "not-linked": "Not linked"
+    "not-linked": "Not linked",
+    "select-genre": "Genre auswählen",
+    "generate-slots-from-audio": "Slots aus Audio generieren",
+    "generate": "Generieren"
   },
   "commands": {
     "set-to": "Einstellen {{on_off}}",

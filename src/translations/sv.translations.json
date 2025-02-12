@@ -913,7 +913,10 @@
     "compressor-release": "Kompressorfrigöring",
     "compressor-threshold": "Kompressortröskel",
     "globalcode-description": "Ange din globala kod som kommer att köras före eventuell kod i (kommandon, varningar...)",
-    "not-linked": "Not linked"
+    "not-linked": "Not linked",
+    "select-genre": "Välj genre",
+    "generate-slots-from-audio": "Generera platser från ljud",
+    "generate": "Generera"
   },
   "commands": {
     "set-to": "Satt till {{on_off}}",

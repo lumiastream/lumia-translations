@@ -913,7 +913,10 @@
     "compressor-release": "إطلاق الضاغط",
     "compressor-threshold": "عتبة الضاغط",
     "globalcode-description": "أدخل الكود العالمي الخاص بك والذي سيتم تنفيذه قبل أي كود في (الأوامر، التنبيهات...)",
-    "not-linked": "غير مرتبط"
+    "not-linked": "غير مرتبط",
+    "select-genre": "اختر النوع",
+    "generate-slots-from-audio": "إنشاء خانات من الصوت",
+    "generate": "إنشاء"
   },
   "commands": {
     "set-to": "ضبط ل {{on_off}}",
