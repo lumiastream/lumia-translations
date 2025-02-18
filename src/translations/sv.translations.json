@@ -916,7 +916,12 @@
     "not-linked": "Not linked",
     "select-genre": "Välj genre",
     "generate-slots-from-audio": "Generera platser från ljud",
-    "generate": "Generera"
+    "generate": "Generera",
+    "timestamps": "Tidsstämplar",
+    "timestamps-description": "Ange beats baserat på tidsstämplar. Detta hoppar över beatdetektorn",
+    "use-all-lights": "Använd alla lampor vid varje beat",
+    "beat-duration": "Hur länge ett beat ska vara på (ms)",
+    "turn-off-lights-after-beat": "Släck lamporna efter beatet"
   },
   "commands": {
     "set-to": "Satt till {{on_off}}",

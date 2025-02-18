@@ -916,7 +916,12 @@
     "not-linked": "Not linked",
     "select-genre": "Genre auswählen",
     "generate-slots-from-audio": "Slots aus Audio generieren",
-    "generate": "Generieren"
+    "generate": "Generieren",
+    "timestamps": "Zeitstempel",
+    "timestamps-description": "Geben Sie Beats basierend auf Zeitstempeln ein. Dies überspringt den Beat-Detektor",
+    "use-all-lights": "Alle Lichter bei jedem Beat verwenden",
+    "beat-duration": "Dauer eines Beats (ms)",
+    "turn-off-lights-after-beat": "Lichter nach dem Beat ausschalten"
   },
   "commands": {
     "set-to": "Einstellen {{on_off}}",

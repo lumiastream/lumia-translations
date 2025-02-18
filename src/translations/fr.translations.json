@@ -916,7 +916,12 @@
     "not-linked": "Not linked",
     "select-genre": "Sélectionner le genre",
     "generate-slots-from-audio": "Générer des emplacements à partir de l'audio",
-    "generate": "Générer"
+    "generate": "Générer",
+    "timestamps": "Horodatages",
+    "timestamps-description": "Entrez les battements en fonction des horodatages. Cela contournera le détecteur de battements",
+    "use-all-lights": "Utiliser toutes les lumières à chaque battement",
+    "beat-duration": "Durée d'un battement (ms)",
+    "turn-off-lights-after-beat": "Éteindre les lumières après le battement"
   },
   "commands": {
     "set-to": "Mis à {{on_off}}",
