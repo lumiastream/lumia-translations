@@ -916,7 +916,12 @@
     "not-linked": "Not linked",
     "select-genre": "Seleccionar género",
     "generate-slots-from-audio": "Generar ranuras desde el audio",
-    "generate": "Generar"
+    "generate": "Generar",
+    "timestamps": "Marcas de tiempo",
+    "timestamps-description": "Ingrese los ritmos basados en marcas de tiempo. Esto omitirá el detector de ritmos",
+    "use-all-lights": "Usar todas las luces en cada ritmo",
+    "beat-duration": "Duración de un ritmo (ms)",
+    "turn-off-lights-after-beat": "Apagar las luces después del ritmo"
   },
   "commands": {
     "set-to": "Ajustado a {{on_off}}",

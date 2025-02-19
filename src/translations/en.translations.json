@@ -916,7 +916,12 @@
     "globalcode-description": "Enter your global code which will be executed before any code in (commands, alerts...)",
     "select-genre": "Select Genre",
     "generate-slots-from-audio": "Generate Slots From Audio",
-    "generate": "Generate"
+    "generate": "Generate",
+    "timestamps": "Timestamps",
+    "timestamps-description": "Enter Beats based on timestamps. This will skip the beat detector",
+    "use-all-lights": "Use all lights every beat",
+    "beat-duration": "How long a beat should stay on (ms)",
+    "turn-off-lights-after-beat": "Turn off lights after beat"
   },
   "commands": {
     "scratch": "Start from scratch",

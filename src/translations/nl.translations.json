@@ -916,7 +916,12 @@
     "not-linked": "Not linked",
     "select-genre": "Selecteer genre",
     "generate-slots-from-audio": "Slots genereren uit audio",
-    "generate": "Genereren"
+    "generate": "Genereren",
+    "timestamps": "Tijdstempels",
+    "timestamps-description": "Voer beats in op basis van tijdstempels. Dit zal de beatdetector overslaan",
+    "use-all-lights": "Gebruik alle lichten bij elke beat",
+    "beat-duration": "Hoe lang een beat moet blijven (ms)",
+    "turn-off-lights-after-beat": "Lichten uitschakelen na de beat"
   },
   "commands": {
     "set-to": "Instellen op {{on_off}}",

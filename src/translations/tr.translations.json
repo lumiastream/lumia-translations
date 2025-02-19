@@ -916,7 +916,12 @@
     "globalcode-description": "Herhangi bir koddan önce yürütülecek genel kodunuzu girin (komutlar, uyarılar...)",
     "select-genre": "Tür seç",
     "generate-slots-from-audio": "Sesten yuvalar oluştur",
-    "generate": "Oluştur"
+    "generate": "Oluştur",
+    "timestamps": "Zaman damgaları",
+    "timestamps-description": "Zaman damgalarına göre ritimler girin. Bu, ritim algılayıcıyı atlayacaktır",
+    "use-all-lights": "Her ritimde tüm ışıkları kullan",
+    "beat-duration": "Bir ritmin ne kadar süreceği (ms)",
+    "turn-off-lights-after-beat": "Ritimden sonra ışıkları kapat"
   },
   "commands": {
     "scratch": "Sıfırdan başla",

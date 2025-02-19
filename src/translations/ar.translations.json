@@ -916,7 +916,12 @@
     "not-linked": "غير مرتبط",
     "select-genre": "اختر النوع",
     "generate-slots-from-audio": "إنشاء خانات من الصوت",
-    "generate": "إنشاء"
+    "generate": "إنشاء",
+    "timestamps": "الطوابع الزمنية",
+    "timestamps-description": "أدخل النبضات بناءً على الطوابع الزمنية. سيتجاوز هذا كاشف النبضات",
+    "use-all-lights": "استخدم جميع الأضواء مع كل نبضة",
+    "beat-duration": "مدة بقاء النبضة (مللي ثانية)",
+    "turn-off-lights-after-beat": "إطفاء الأضواء بعد النبضة"
   },
   "commands": {
     "set-to": "ضبط ل {{on_off}}",
