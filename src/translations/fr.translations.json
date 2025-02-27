@@ -1630,7 +1630,8 @@
     "message-to-translator": "Message pour l'IA traductrice",
     "detectlang-deleteMessage": "Supprimer le message du chat",
     "detectlang-showDefaultMessage": "Afficher le message par défaut",
-    "detectlang-translateMessage": "Traduire le message avec l'IA"
+    "detectlang-translateMessage": "Traduire le message avec l'IA",
+    "suggested-variables": "Variables suggérées"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM de Ableton Link",

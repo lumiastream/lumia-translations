@@ -1630,7 +1630,8 @@
     "message-to-translator": "Meddelande till AI-översättaren",
     "detectlang-deleteMessage": "Radera chattmeddelande",
     "detectlang-showDefaultMessage": "Visa standardmeddelande",
-    "detectlang-translateMessage": "Översätt meddelande med AI"
+    "detectlang-translateMessage": "Översätt meddelande med AI",
+    "suggested-variables": "Föreslagna variabler"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM för Ableton Link",

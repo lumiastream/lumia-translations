@@ -1630,7 +1630,8 @@
     "message-to-translator": "رسالة إلى مترجم الذكاء الاصطناعي",
     "detectlang-deleteMessage": "حذف رسالة الدردشة",
     "detectlang-showDefaultMessage": "إظهار الرسالة الافتراضية",
-    "detectlang-translateMessage": "ترجمة الرسالة باستخدام الذكاء الاصطناعي"
+    "detectlang-translateMessage": "ترجمة الرسالة باستخدام الذكاء الاصطناعي",
+    "suggested-variables": "المتغيرات المقترحة"
   },
   "variables": {
     "ableton_bpm": "(أبلتون) BPM من ابلتون لينك",
