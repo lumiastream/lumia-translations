@@ -2196,7 +2196,16 @@
     "random_sound": "Random sound",
     "on": "Voicemod On",
     "off": "Voicemod Off",
-    "stop_all_sounds": "Stop all soundboard sounds"
+    "stop_all_sounds": "Stop all soundboard sounds",
+    "soundboard": "Soundboard",
+    "random_soundboard": "Random soundboard",
+    "on_off": "Toggle Voicemod",
+    "hear_my_voice_on": "Hear my voice on",
+    "hear_my_voice_off": "Hear my voice off",
+    "hear_my_voice_on_off": "Toggle Hear my voice",
+    "background_on_off": "Toggle Background Effect",
+    "mic_on_off": "Toggle Mic",
+    "sound-duration-description": "Duration of sound in seconds (keep at 0 for infinite)"
   },
   "streamerbot": {
     "action": "Action",

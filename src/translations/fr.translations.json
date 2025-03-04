@@ -2196,7 +2196,16 @@
     "random_sound": "Son aléatoire",
     "on": "Mod vocal activé",
     "off": "Mod vocal désactivé",
-    "stop_all_sounds": "Arrêtez tous les sons de la table d'harmonie"
+    "stop_all_sounds": "Arrêtez tous les sons de la table d'harmonie",
+    "soundboard": "Table de son",
+    "random_soundboard": "Table de son aléatoire",
+    "on_off": "Activer/Désactiver Voicemod",
+    "hear_my_voice_on": "Entendre ma voix activée",
+    "hear_my_voice_off": "Entendre ma voix désactivée",
+    "hear_my_voice_on_off": "Basculer Entendre ma voix",
+    "background_on_off": "Basculer Effet de fond",
+    "mic_on_off": "Basculer Micro",
+    "sound-duration-description": "Durée du son en secondes (laisser à 0 pour illimité)"
   },
   "streamerbot": {
     "action": "Action",

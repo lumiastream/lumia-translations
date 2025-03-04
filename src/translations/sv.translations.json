@@ -2194,7 +2194,16 @@
     "random_sound": "Slumpmässigt ljud",
     "on": "Voicemod på",
     "off": "Voicemod av",
-    "stop_all_sounds": "Stoppa alla ljud på soundboard"
+    "stop_all_sounds": "Stoppa alla ljud på soundboard",
+    "soundboard": "Ljudbräda",
+    "random_soundboard": "Slumpmässig ljudbräda",
+    "on_off": "Växla Voicemod",
+    "hear_my_voice_on": "Hör min röst på",
+    "hear_my_voice_off": "Hör min röst av",
+    "hear_my_voice_on_off": "Växla Hör min röst",
+    "background_on_off": "Växla Bakgrundseffekt",
+    "mic_on_off": "Växla Mikrofon",
+    "sound-duration-description": "Ljudets varaktighet i sekunder (behåll 0 för oändligt)"
   },
   "streamerbot": {
     "action": "Handling",
