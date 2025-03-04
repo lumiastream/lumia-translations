@@ -2192,7 +2192,16 @@
     "random_sound": "Willekeurig geluid",
     "on": "Voicemod Aan",
     "off": "Voicemod uit",
-    "stop_all_sounds": "Stop alle klankbordgeluiden"
+    "stop_all_sounds": "Stop alle klankbordgeluiden",
+    "soundboard": "Geluidsbord",
+    "random_soundboard": "Willekeurig geluidsbord",
+    "on_off": "Voicemod in-/uitschakelen",
+    "hear_my_voice_on": "Mijn stem horen aan",
+    "hear_my_voice_off": "Mijn stem horen uit",
+    "hear_my_voice_on_off": "Mijn stem horen wisselen",
+    "background_on_off": "Achtergrondeffect in-/uitschakelen",
+    "mic_on_off": "Microfoon in-/uitschakelen",
+    "sound-duration-description": "Duur van het geluid in seconden (laat op 0 voor oneindig)"
   },
   "streamerbot": {
     "action": "Actie",

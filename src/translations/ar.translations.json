@@ -2196,7 +2196,16 @@
     "random_sound": "صوت عشوائي",
     "on": "وضع الصوت قيد التشغيل",
     "off": "وضع الصوت معطل",
-    "stop_all_sounds": "إيقاف جميع أصوات بموجه الصوت"
+    "stop_all_sounds": "إيقاف جميع أصوات بموجه الصوت",
+    "soundboard": "لوحة الصوت",
+    "random_soundboard": "لوحة صوت عشوائية",
+    "on_off": "تبديل Voicemod",
+    "hear_my_voice_on": "استمع إلى صوتي مفعّل",
+    "hear_my_voice_off": "استمع إلى صوتي معطّل",
+    "hear_my_voice_on_off": "تبديل استماع صوتي",
+    "background_on_off": "تبديل تأثير الخلفية",
+    "mic_on_off": "تبديل الميكروفون",
+    "sound-duration-description": "مدة الصوت بالثواني (اتركه 0 للمدة غير المحدودة)"
   },
   "streamerbot": {
     "action": "فعل",

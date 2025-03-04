@@ -2196,7 +2196,16 @@
     "random_sound": "Zufälliger Ton",
     "on": "Voicemod Ein",
     "off": "Voicemod aus",
-    "stop_all_sounds": "Stoppen Sie alle Soundboard-Sounds"
+    "stop_all_sounds": "Stoppen Sie alle Soundboard-Sounds",
+    "soundboard": "Soundboard",
+    "random_soundboard": "Zufälliges Soundboard",
+    "on_off": "Voicemod umschalten",
+    "hear_my_voice_on": "Meine Stimme hören an",
+    "hear_my_voice_off": "Meine Stimme hören aus",
+    "hear_my_voice_on_off": "Meine Stimme hören umschalten",
+    "background_on_off": "Hintergrundeffekt umschalten",
+    "mic_on_off": "Mikrofon umschalten",
+    "sound-duration-description": "Dauer des Tons in Sekunden (bei 0 unendlich)"
   },
   "streamerbot": {
     "action": "Aktion",

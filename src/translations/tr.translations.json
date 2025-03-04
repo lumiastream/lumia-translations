@@ -2196,7 +2196,16 @@
     "random_sound": "Rastgele ses",
     "on": "Ses Modu Açık",
     "off": "Ses Modu Kapalı",
-    "stop_all_sounds": "Tüm ses tahtası seslerini durdur"
+    "stop_all_sounds": "Tüm ses tahtası seslerini durdur",
+    "soundboard": "Ses panosu",
+    "random_soundboard": "Rastgele ses panosu",
+    "on_off": "Voicemod'u aç/kapat",
+    "hear_my_voice_on": "Sesimi duy etkin",
+    "hear_my_voice_off": "Sesimi duy kapalı",
+    "hear_my_voice_on_off": "Sesimi duy aç/kapat",
+    "background_on_off": "Arka plan efektini aç/kapat",
+    "mic_on_off": "Mikrofonu aç/kapat",
+    "sound-duration-description": "Ses süresi (saniye cinsinden) (0 olarak bırakılırsa sonsuz)"
   },
   "streamerbot": {
     "action": "Aksiyon",

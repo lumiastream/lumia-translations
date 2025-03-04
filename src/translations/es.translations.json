@@ -2195,7 +2195,16 @@
     "random_sound": "sonido aleatorio",
     "on": "Modo de voz activado",
     "off": "Modificación de voz desactivada",
-    "stop_all_sounds": "Detener todos los sonidos de la caja de resonancia"
+    "stop_all_sounds": "Detener todos los sonidos de la caja de resonancia",
+    "soundboard": "Tablero de sonido",
+    "random_soundboard": "Tablero de sonido aleatorio",
+    "on_off": "Alternar Voicemod",
+    "hear_my_voice_on": "Escuchar mi voz activado",
+    "hear_my_voice_off": "Escuchar mi voz desactivado",
+    "hear_my_voice_on_off": "Alternar Escuchar mi voz",
+    "background_on_off": "Alternar Efecto de fondo",
+    "mic_on_off": "Alternar Micrófono",
+    "sound-duration-description": "Duración del sonido en segundos (mantener en 0 para infinito)"
   },
   "streamerbot": {
     "action": "Acción",
