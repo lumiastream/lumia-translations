@@ -1585,6 +1585,7 @@
     "role": "Rolle",
     "typing-speed": "Schreibgeschwindigkeit",
     "send-to-all-platforms": "An alle Plattformen senden",
+    "based-on-the-platform": "Basierend auf der gesendeten Plattform",
     "replying-to": "Antwort an {{username}}: {{message}}",
     "order-commands-in-website": "Befehle auf der Website sortieren",
     "order-commands-in-website-description": "Du kannst die Befehlsreihenfolge auf der Website steuern: in der App (wie sie in der App angezeigt werden), alphabetisch oder umgekehrt",

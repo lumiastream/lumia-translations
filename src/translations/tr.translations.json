@@ -1574,6 +1574,7 @@
     "role": "Rol",
     "typing-speed": "Yazma Hızı",
     "send-to-all-platforms": "Tüm platformlara gönder",
+    "based-on-the-platform": "Gönderilen platforma göre",
     "replying-to": "Yanıtlanıyor {{username}}: {{message}}",
     "order-commands-in-website": "Web sitesindeki komutları sipariş edin",
     "order-commands-in-website-description": "Web sitesinde komutların sırasını kontrol edebilirsiniz; ",
