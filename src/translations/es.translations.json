@@ -1585,6 +1585,7 @@
     "role": "Role",
     "typing-speed": "Typing Speed",
     "send-to-all-platforms": "Send to all platforms",
+    "based-on-the-platform": "Basado en la plataforma enviada",
     "replying-to": "Replying to {{username}}: {{message}}",
     "order-commands-in-website": "Order commands in the website",
     "order-commands-in-website-description": "You can control commands order in the website; app (how it's showing in the app), Alphabetical, and reverse",

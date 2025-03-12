@@ -1585,6 +1585,7 @@
     "role": "الدور",
     "typing-speed": "سرعة الكتابة",
     "send-to-all-platforms": "الإرسال إلى جميع المنصات",
+    "based-on-the-platform": "بناءً على المنصة المرسلة منها",
     "replying-to": "الرد على {{username}}: {{message}}",
     "order-commands-in-website": "ترتيب الأوامر في الموقع",
     "order-commands-in-website-description": "يمكنك التحكم في ترتيب الأوامر في الموقع؛ التطبيق (كيف تظهر في التطبيق)، أبجديًا، أو عكسيًا",
