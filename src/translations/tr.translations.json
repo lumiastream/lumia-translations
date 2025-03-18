@@ -4415,6 +4415,10 @@
     "merge": "Birleştir",
     "items-out-of": "{{from}} - {{to}} ile ilgili {{total}} öğeler",
     "page-out-of": "Sayfa {{current_page}} ile ilgili {{last_page}}",
-    "add-to-restriction-list": "Kullanıcıyı kısıtlama listesine ekle"
+    "add-to-restriction-list": "Kullanıcıyı kısıtlama listesine ekle",
+    "update-all-time": "Tüm zamanları güncelle {{currencyName}}",
+    "edit-selected-viewers": "{{count}} izleyiciyi düzenle",
+    "points-set-description": "Seçilen {{count}} kullanıcının puanları {{targetPoints}} {{currencyName}} olarak ayarlanacak, örneğin kullanıcı {{originalPoints}} {{currencyName}} puana sahipse, bu {{targetPoints}} {{currencyName}} olacaktır",
+    "points-sum-description": "Seçilen {{count}} kullanıcının mevcut puanlarına {{operator}}{{targetPoints}} puan eklenecek, örneğin kullanıcı {{originalPoints}} {{currencyName}} puana sahipse, bu {{resultPoints}} {{currencyName}} olacaktır"
   }
 }

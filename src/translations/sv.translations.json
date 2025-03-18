@@ -4413,6 +4413,10 @@
     "merge": "Merge",
     "items-out-of": "{{from}} - {{to}} of {{total}} items",
     "page-out-of": "Page {{current_page}} of {{last_page}}",
-    "add-to-restriction-list": "Add user to restriction list"
+    "add-to-restriction-list": "Add user to restriction list",
+    "update-all-time": "Uppdatera all tid {{currencyName}}",
+    "edit-selected-viewers": "Redigera {{count}} tittare",
+    "points-set-description": "Alla {{count}} valda användare kommer att få sina poäng inställda på {{targetPoints}} {{currencyName}}, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{targetPoints}} {{currencyName}}",
+    "points-sum-description": "Alla {{count}} valda användare kommer att få {{operator}}{{targetPoints}} poäng tillagda till sina befintliga poäng, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{resultPoints}} {{currencyName}}"
   }
 }

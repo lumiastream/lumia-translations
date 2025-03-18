@@ -4411,6 +4411,10 @@
     "merge": "Merge",
     "items-out-of": "{{from}} - {{to}} of {{total}} items",
     "page-out-of": "Page {{current_page}} of {{last_page}}",
-    "add-to-restriction-list": "Add user to restriction list"
+    "add-to-restriction-list": "Add user to restriction list",
+    "update-all-time": "Werk alle tijden bij {{currencyName}}",
+    "edit-selected-viewers": "Bewerk {{count}} kijkers",
+    "points-set-description": "Alle {{count}} geselecteerde gebruikers krijgen hun punten ingesteld op {{targetPoints}} {{currencyName}}, bijvoorbeeld als de gebruiker {{originalPoints}} {{currencyName}} heeft, wordt dit {{targetPoints}} {{currencyName}}",
+    "points-sum-description": "Alle {{count}} geselecteerde gebruikers krijgen {{operator}}{{targetPoints}} punten toegevoegd aan hun bestaande punten, bijvoorbeeld als de gebruiker {{originalPoints}} {{currencyName}} heeft, wordt dit {{resultPoints}} {{currencyName}}"
   }
 }

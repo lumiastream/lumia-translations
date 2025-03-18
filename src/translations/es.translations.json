@@ -4414,6 +4414,10 @@
     "merge": "Merge",
     "items-out-of": "{{from}} - {{to}} of {{total}} items",
     "page-out-of": "Page {{current_page}} of {{last_page}}",
-    "add-to-restriction-list": "Add user to restriction list"
+    "add-to-restriction-list": "Add user to restriction list",
+    "update-all-time": "Actualizar todo el tiempo {{currencyName}}",
+    "edit-selected-viewers": "Editar {{count}} espectadores",
+    "points-set-description": "Todos los {{count}} usuarios seleccionados tendrán sus puntos establecidos en {{targetPoints}} {{currencyName}}, por ejemplo, si el usuario tiene {{originalPoints}} {{currencyName}}, se convertirá en {{targetPoints}} {{currencyName}}",
+    "points-sum-description": "Todos los {{count}} usuarios seleccionados recibirán {{operator}}{{targetPoints}} puntos añadidos a sus puntos existentes, por ejemplo, si el usuario tiene {{originalPoints}} {{currencyName}}, se convertirá en {{resultPoints}} {{currencyName}}"
   }
 }
