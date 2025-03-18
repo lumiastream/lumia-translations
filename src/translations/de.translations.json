@@ -4415,6 +4415,10 @@
     "merge": "Zusammenführen",
     "items-out-of": "{{from}} - {{to}} von {{total}} Einträgen",
     "page-out-of": "Seite {{current_page}} von {{last_page}}",
-    "add-to-restriction-list": "Nutzer zur Einschränkungsliste hinzufügen"
+    "add-to-restriction-list": "Nutzer zur Einschränkungsliste hinzufügen",
+    "update-all-time": "Alle Zeiten aktualisieren {{currencyName}}",
+    "edit-selected-viewers": "{{count}} Zuschauer bearbeiten",
+    "points-set-description": "Allen ausgewählten Benutzern {{count}} werden ihre Punkte auf {{targetPoints}} {{currencyName}} gesetzt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{targetPoints}} {{currencyName}} haben",
+    "points-sum-description": "Allen ausgewählten Benutzern {{count}} werden {{operator}}{{targetPoints}} Punkte zu ihren vorhandenen Punkten hinzugefügt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{resultPoints}} {{currencyName}} haben"
   }
 }

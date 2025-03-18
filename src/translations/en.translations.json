@@ -4415,6 +4415,10 @@
     "merge": "Merge",
     "items-out-of": "{{from}} - {{to}} of {{total}} items",
     "page-out-of": "Page {{current_page}} of {{last_page}}",
-    "add-to-restriction-list": "Add user to restriction list"
+    "add-to-restriction-list": "Add user to restriction list",
+    "update-all-time": "Update all time {{currencyName}}",
+    "edit-selected-viewers": "Edit {{count}} viewers",
+    "points-set-description": "All {{count}} selected users will have their points set to {{targetPoints}} {{currencyName}} e.g if the user has {{originalPoints}} {{currencyName}} it will become {{targetPoints}} {{currencyName}}",
+    "points-sum-description": "All {{count}} selected users will have {{operator}}{{targetPoints}} points added to their existing points e.g if the user has {{originalPoints}} {{currencyName}} it will become {{resultPoints}} {{currencyName}}"
   }
 }

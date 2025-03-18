@@ -4415,6 +4415,10 @@
     "merge": "دمج",
     "items-out-of": "{{from}} - {{to}} من {{total}} العناصر",
     "page-out-of": "الصفحة {{current_page}} من {{last_page}}",
-    "add-to-restriction-list": "إضافة المستخدم إلى قائمة الحظر"
+    "add-to-restriction-list": "إضافة المستخدم إلى قائمة الحظر",
+    "update-all-time": "تحديث جميع الأوقات {{currencyName}}",
+    "edit-selected-viewers": "تعديل {{count}} مشاهدين",
+    "points-set-description": "سيتم تعيين نقاط جميع المستخدمين المحددين {{count}} إلى {{targetPoints}} {{currencyName}}، على سبيل المثال إذا كان لدى المستخدم {{originalPoints}} {{currencyName}} فسيصبح {{targetPoints}} {{currencyName}}",
+    "points-sum-description": "سيتم إضافة {{operator}}{{targetPoints}} نقاط لجميع المستخدمين المحددين {{count}} إلى نقاطهم الحالية، على سبيل المثال إذا كان لدى المستخدم {{originalPoints}} {{currencyName}} فسيصبح {{resultPoints}} {{currencyName}}"
   }
 }
