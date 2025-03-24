@@ -1636,7 +1636,12 @@
     "detectlang-deleteMessage": "Delete chat message",
     "detectlang-showDefaultMessage": "Show default message",
     "detectlang-translateMessage": "Translate message using AI",
-    "suggested-variables": "Suggested variables"
+    "suggested-variables": "Suggested variables",
+    "sort-custom-sort": "Custom sort",
+    "sort-alphabetical": "Alphabetical",
+    "sort-alphabetical-reverse": "Alphabetical reverse",
+    "sort-creation-date-old-first": "Creation date (old first)",
+    "sort-creation-date-new-first": "Creation date (new first)"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM of Ableton Link",

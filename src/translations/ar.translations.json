@@ -1636,7 +1636,12 @@
     "detectlang-deleteMessage": "حذف رسالة الدردشة",
     "detectlang-showDefaultMessage": "إظهار الرسالة الافتراضية",
     "detectlang-translateMessage": "ترجمة الرسالة باستخدام الذكاء الاصطناعي",
-    "suggested-variables": "المتغيرات المقترحة"
+    "suggested-variables": "المتغيرات المقترحة",
+    "sort-custom-sort": "فرز مخصص",
+    "sort-alphabetical": "ترتيب أبجدي",
+    "sort-alphabetical-reverse": "ترتيب أبجدي عكسي",
+    "sort-creation-date-old-first": "تاريخ الإنشاء (الأقدم أولاً)",
+    "sort-creation-date-new-first": "تاريخ الإنشاء (الأحدث أولاً)"
   },
   "variables": {
     "ableton_bpm": "(أبلتون) BPM من ابلتون لينك",

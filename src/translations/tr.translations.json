@@ -1636,7 +1636,12 @@
     "detectlang-deleteMessage": "Sohbet mesajını sil",
     "detectlang-showDefaultMessage": "Varsayılan mesajı göster",
     "detectlang-translateMessage": "Mesajı yapay zeka ile çevir",
-    "suggested-variables": "Önerilen değişkenler"
+    "suggested-variables": "Önerilen değişkenler",
+    "sort-custom-sort": "Özel sıralama",
+    "sort-alphabetical": "Alfabetik",
+    "sort-alphabetical-reverse": "Alfabetik ters",
+    "sort-creation-date-old-first": "Oluşturulma tarihi (en eski önce)",
+    "sort-creation-date-new-first": "Oluşturulma tarihi (en yeni önce)"
   },
   "variables": {
     "ableton_bpm": "(Ableton) Ableton Link'in BPM'si",
