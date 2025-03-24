@@ -1636,7 +1636,12 @@
     "detectlang-deleteMessage": "Chat-Nachricht löschen",
     "detectlang-showDefaultMessage": "Standardnachricht anzeigen",
     "detectlang-translateMessage": "Nachricht mit KI übersetzen",
-    "suggested-variables": "Vorgeschlagene Variablen"
+    "suggested-variables": "Vorgeschlagene Variablen",
+    "sort-custom-sort": "Benutzerdefinierte Sortierung",
+    "sort-alphabetical": "Alphabetisch",
+    "sort-alphabetical-reverse": "Alphabetisch (rückwärts)",
+    "sort-creation-date-old-first": "Erstellungsdatum (älteste zuerst)",
+    "sort-creation-date-new-first": "Erstellungsdatum (neueste zuerst)"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM von Ableton Link",
@@ -4416,7 +4421,7 @@
     "items-out-of": "{{from}} - {{to}} von {{total}} Einträgen",
     "page-out-of": "Seite {{current_page}} von {{last_page}}",
     "add-to-restriction-list": "Nutzer zur Einschränkungsliste hinzufügen",
-    "update-all-time": "Alle Zeiten aktualisieren {{currencyName}}",
+    "update-all-time": "Gesamt aktualisieren {{currencyName}}",
     "edit-selected-viewers": "{{count}} Zuschauer bearbeiten",
     "points-set-description": "Allen ausgewählten Benutzern {{count}} werden ihre Punkte auf {{targetPoints}} {{currencyName}} gesetzt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{targetPoints}} {{currencyName}} haben",
     "points-sum-description": "Allen ausgewählten Benutzern {{count}} werden {{operator}}{{targetPoints}} Punkte zu ihren vorhandenen Punkten hinzugefügt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{resultPoints}} {{currencyName}} haben"

@@ -1636,7 +1636,12 @@
     "detectlang-deleteMessage": "Supprimer le message du chat",
     "detectlang-showDefaultMessage": "Afficher le message par défaut",
     "detectlang-translateMessage": "Traduire le message avec l'IA",
-    "suggested-variables": "Variables suggérées"
+    "suggested-variables": "Variables suggérées",
+    "sort-custom-sort": "Tri personnalisé",
+    "sort-alphabetical": "Alphabétique",
+    "sort-alphabetical-reverse": "Alphabétique inversé",
+    "sort-creation-date-old-first": "Date de création (plus ancien en premier)",
+    "sort-creation-date-new-first": "Date de création (plus récent en premier)"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM de Ableton Link",
@@ -4416,7 +4421,7 @@
     "items-out-of": "{{from}} - {{to}} of {{total}} items",
     "page-out-of": "Page {{current_page}} of {{last_page}}",
     "add-to-restriction-list": "Add user to restriction list",
-    "update-all-time": "Mettre à jour tout le temps {{currencyName}}",
+    "update-all-time": "Mettre à jour All time {{currencyName}}",
     "edit-selected-viewers": "Modifier {{count}} spectateurs",
     "points-set-description": "Tous les {{count}} utilisateurs sélectionnés auront leurs points définis à {{targetPoints}} {{currencyName}}, par exemple si l'utilisateur a {{originalPoints}} {{currencyName}}, il deviendra {{targetPoints}} {{currencyName}}",
     "points-sum-description": "Tous les {{count}} utilisateurs sélectionnés auront {{operator}}{{targetPoints}} points ajoutés à leurs points existants, par exemple si l'utilisateur a {{originalPoints}} {{currencyName}}, il deviendra {{resultPoints}} {{currencyName}}"

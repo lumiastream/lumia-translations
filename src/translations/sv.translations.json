@@ -1636,7 +1636,12 @@
     "detectlang-deleteMessage": "Radera chattmeddelande",
     "detectlang-showDefaultMessage": "Visa standardmeddelande",
     "detectlang-translateMessage": "Översätt meddelande med AI",
-    "suggested-variables": "Föreslagna variabler"
+    "suggested-variables": "Föreslagna variabler",
+    "sort-custom-sort": "Anpassad sortering",
+    "sort-alphabetical": "Alfabetisk",
+    "sort-alphabetical-reverse": "Alfabetisk omvänd",
+    "sort-creation-date-old-first": "Skapelsedatum (äldst först)",
+    "sort-creation-date-new-first": "Skapelsedatum (nyast först)"
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM för Ableton Link",
@@ -4414,7 +4419,7 @@
     "items-out-of": "{{from}} - {{to}} of {{total}} items",
     "page-out-of": "Page {{current_page}} of {{last_page}}",
     "add-to-restriction-list": "Add user to restriction list",
-    "update-all-time": "Uppdatera all tid {{currencyName}}",
+    "update-all-time": "Uppdatera All time {{currencyName}}",
     "edit-selected-viewers": "Redigera {{count}} tittare",
     "points-set-description": "Alla {{count}} valda användare kommer att få sina poäng inställda på {{targetPoints}} {{currencyName}}, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{targetPoints}} {{currencyName}}",
     "points-sum-description": "Alla {{count}} valda användare kommer att få {{operator}}{{targetPoints}} poäng tillagda till sina befintliga poäng, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{resultPoints}} {{currencyName}}"
