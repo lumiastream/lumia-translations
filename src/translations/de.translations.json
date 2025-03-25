@@ -2608,7 +2608,10 @@
     "effect": "Effekt",
     "target-achieved": "Ziel erreicht",
     "powerups": "Power-Ups",
-    "powerup-type": "Power-Up-Typ"
+    "powerup-type": "Power-Up-Typ",
+    "powerupsPoints": "Powerups-Punkte",
+    "points-equal": "Punktebetrag gleich",
+    "points-greater-equal": "Punktebetrag größer oder gleich"
   },
   "discovery": {
     "light-ip-has-changed": "Einer von Ihnen {{type}} Die IP-Adresse der Leuchte hat sich geändert. ",

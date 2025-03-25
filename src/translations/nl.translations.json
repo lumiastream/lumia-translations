@@ -2605,7 +2605,10 @@
     "effect": "Effect",
     "target-achieved": "Target achieved",
     "powerups": "Powerups",
-    "powerup-type": "Powerup Type"
+    "powerup-type": "Powerup Type",
+    "powerupsPoints": "Powerups-punten",
+    "points-equal": "Puntenhoeveelheid gelijk aan",
+    "points-greater-equal": "Puntenhoeveelheid groter dan of gelijk aan"
   },
   "discovery": {
     "light-ip-has-changed": "Een van jouw {{type}} Het IP-adres van Light is gewijzigd. ",
