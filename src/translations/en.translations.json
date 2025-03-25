@@ -2608,9 +2608,10 @@
     "effect": "Effect",
     "target-achieved": "Target achieved",
     "powerups": "Powerups",
-    "powerupsPoints": "نقاط التعزيز",
-    "points-equal": "كمية النقاط تساوي",
-    "points-greater-equal": "كمية النقاط أكبر من أو تساوي"
+    "powerup-type": "Powerup Type",
+    "powerupsPoints": "Powerups Points",
+    "points-equal": "Points amount equal to",
+    "points-greater-equal": "Points amount greater or equal to"
   },
   "discovery": {
     "light-ip-has-changed": "One of your {{type}} light's IP address has changed. Press Refresh changes so Lumia uses the new IP Address",
