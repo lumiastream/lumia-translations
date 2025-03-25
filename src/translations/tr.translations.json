@@ -2608,7 +2608,10 @@
     "effect": "Etki",
     "target-achieved": "Hedefe ulaşıldı",
     "powerups": "Güç kaynağını çalıştırın",
-    "powerup-type": "Güçlendirme Türü"
+    "powerup-type": "Güçlendirme Türü",
+    "powerupsPoints": "Güçlendirme Puanları",
+    "points-equal": "Puan miktarı eşit",
+    "points-greater-equal": "Puan miktarı büyük veya eşit"
   },
   "discovery": {
     "light-ip-has-changed": "Senin bir tanesi {{type}} Light'ın IP adresi değişti. ",

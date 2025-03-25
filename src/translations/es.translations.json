@@ -2607,7 +2607,10 @@
     "effect": "Effect",
     "target-achieved": "Target achieved",
     "powerups": "Powerups",
-    "powerup-type": "Powerup Type"
+    "powerup-type": "Powerup Type",
+    "powerupsPoints": "Puntos de potenciadores",
+    "points-equal": "Cantidad de puntos igual a",
+    "points-greater-equal": "Cantidad de puntos mayor o igual a"
   },
   "discovery": {
     "light-ip-has-changed": "Uno de tus {{type}} La dirección IP de la luz ha cambiado. ",
