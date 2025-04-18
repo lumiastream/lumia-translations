@@ -170,6 +170,7 @@
     "chatgpt-press-next": "İleri'ye bastığınızda, gitmeniz iyi olur. ",
     "deepseek-head-to-api-keys": "DeepSeek API Anahtarları web sayfasını aç",
     "deepseek-press-next": "İleri'ye bas ve hazırsın. Komutlar > Sohbet Botu Komutları > DeepSeek altında yeni bir DeepSeek komutu oluşturulduğunu göreceksin. Bu komut ile !deepseek yazarak DeepSeek ile anında konuşmaya başlayabilirsin",
+    "deepseek-auth-failed": "Kimlik doğrulama başarısız oldu. Lütfen DeepSeek API anahtarınızın doğru olduğundan ve hesabınızda bakiye olduğundan emin olun",
     "client-id": "Müşteri Kimliği",
     "client-secret": "Müşteri Sırrı",
     "copy-url": "URL'yi kopyala",

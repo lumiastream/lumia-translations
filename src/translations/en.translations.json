@@ -170,6 +170,7 @@
     "chatgpt-press-next": "Press Next and you will be good to go. You will see a new ChatGPT command created under Commands > Chat Bot Commands > ChatGPT. This command will allow you to start typing !chatgpt and start talking to ChatGPT right away",
     "deepseek-head-to-api-keys": "Open up the DeepSeek API Keys web page",
     "deepseek-press-next": "Press Next and you will be good to go. You will see a new DeepSeek command created under Commands > Chat Bot Commands > DeepSeek. This command will allow you to start typing !deepseek and start talking to DeepSeek right away",
+    "deepseek-auth-failed": "Authentication failed. Please make sure your Deepseek API key is correct and that your account is funded.",
     "client-id": "Client ID",
     "client-secret": "Client Secret",
     "copy-url": "Copy URL",
