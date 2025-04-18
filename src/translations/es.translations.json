@@ -344,6 +344,7 @@
     "chatgpt-auth-failed": "No se pudo conectar. Asegúrese de haber completado su información de facturación en Chat GPT antes de poder usar su API.",
     "deepseek-head-to-api-keys": "Abre la página web de claves API de DeepSeek",
     "deepseek-press-next": "Presiona Siguiente y estarás listo para comenzar. Verás un nuevo comando DeepSeek creado en Comandos > Comandos del Bot de Chat > DeepSeek. Este comando te permitirá escribir !deepseek y comenzar a hablar con DeepSeek de inmediato",
+    "deepseek-auth-failed": "Autenticación fallida. Asegúrate de que tu clave API de DeepSeek sea correcta y que tu cuenta esté financiada",
     "api-secret-key": "clave secreta API",
     "enter-api-secret-key": "Ingrese su clave secreta API",
     "press-next": "Presiona Siguiente en Lumia Stream y listo.",

@@ -343,6 +343,7 @@
     "chatgpt-press-next": "Klicken Sie auf „Weiter“ und schon kann es losgehen. ",
     "deepseek-head-to-api-keys": "Öffne die DeepSeek API-Schlüssel-Webseite",
     "deepseek-press-next": "Drücke auf Weiter und du bist startklar. Du wirst einen neuen DeepSeek-Befehl unter Befehle > Chatbot-Befehle > DeepSeek sehen. Mit diesem Befehl kannst du einfach !deepseek eingeben und direkt mit DeepSeek sprechen",
+    "deepseek-auth-failed": "Authentifizierung fehlgeschlagen. Bitte stellen Sie sicher, dass Ihr DeepSeek-API-Schlüssel korrekt ist und Ihr Konto gedeckt ist",
     "chatgpt-auth-failed": "Es konnte keine Verbindung hergestellt werden. Stellen Sie sicher, dass Sie Ihre Rechnungsinformationen in Chat GPT ausgefüllt haben, bevor Sie deren API verwenden können",
     "api-secret-key": "Geheimer API-Schlüssel",
     "enter-api-secret-key": "Geben Sie Ihren geheimen API-Schlüssel ein",

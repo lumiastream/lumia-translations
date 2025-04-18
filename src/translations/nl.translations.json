@@ -344,6 +344,7 @@
     "chatgpt-auth-failed": "Kan geen verbinding maken. Zorg ervoor dat uw factuurgegevens zijn ingevuld op Chat GPT voordat u hun API kunt gebruiken",
     "deepseek-head-to-api-keys": "Open de DeepSeek API-sleutels webpagina",
     "deepseek-press-next": "Druk op Volgende en je bent klaar om te gaan. Je zult een nieuw DeepSeek-commando zien onder Commando’s > Chatbot Commando’s > DeepSeek. Met dit commando kun je eenvoudig !deepseek typen en direct met DeepSeek praten",
+    "deepseek-auth-failed": "Authenticatie mislukt. Zorg ervoor dat je DeepSeek API-sleutel correct is en dat je account voldoende saldo heeft",
     "api-secret-key": "API-geheime sleutel",
     "enter-api-secret-key": "Voer uw geheime API-sleutel in",
     "press-next": "Druk op Volgende in Lumia Stream en je bent klaar om te gaan",
