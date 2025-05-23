@@ -122,7 +122,8 @@
     "customize": "Personnaliser",
     "import": "Import",
     "origin": "Origin",
-    "here": "Here"
+    "here": "Here",
+    "or": "Ou"
   },
   "auth": {
     "login": "Se connecter",
@@ -1642,7 +1643,14 @@
     "sort-alphabetical": "Alphabétique",
     "sort-alphabetical-reverse": "Alphabétique inversé",
     "sort-creation-date-old-first": "Date de création (plus ancien en premier)",
-    "sort-creation-date-new-first": "Date de création (plus récent en premier)"
+    "sort-creation-date-new-first": "Date de création (plus récent en premier)",
+    "save-to-file": "Enregistrer dans un fichier",
+    "copy-to-clipboard": "Copier dans le presse-papiers",
+    "share-modal-description": "Vous pouvez partager la commande en envoyant le code ou en l'enregistrant dans un fichier. Votre ami devra l'importer manuellement dans tous les cas.",
+    "import-shared-command": "Importer une commande partagée",
+    "import-from-clipboard": "Importer depuis le presse-papiers",
+    "import-from-file": "Importer depuis un fichier",
+    "import-command-error": "Échec de l'importation de la commande. Veuillez vérifier le fichier ou le code que vous avez importé et vous assurer qu'il n'a pas été modifié, car toute modification peut empêcher son bon fonctionnement."
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM de Ableton Link",

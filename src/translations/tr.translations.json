@@ -122,7 +122,8 @@
     "customize": "Özelleştirmek",
     "import": "İçe aktarmak",
     "origin": "Menşei",
-    "here": "Burada"
+    "here": "Burada",
+    "or": "Veya"
   },
   "auth": {
     "login": "Giriş yapmak",
@@ -1642,7 +1643,14 @@
     "sort-alphabetical": "Alfabetik",
     "sort-alphabetical-reverse": "Alfabetik ters",
     "sort-creation-date-old-first": "Oluşturulma tarihi (en eski önce)",
-    "sort-creation-date-new-first": "Oluşturulma tarihi (en yeni önce)"
+    "sort-creation-date-new-first": "Oluşturulma tarihi (en yeni önce)",
+    "save-to-file": "Dosyaya kaydet",
+    "copy-to-clipboard": "Panoya kopyala",
+    "share-modal-description": "Komutu, kodu göndererek veya bir dosyaya kaydederek paylaşabilirsiniz. Arkadaşınız her iki durumda da komutu manuel olarak içe aktarmalıdır.",
+    "import-shared-command": "Paylaşılan komutu içe aktar",
+    "import-from-clipboard": "Panodan içe aktar",
+    "import-from-file": "Dosyadan içe aktar",
+    "import-command-error": "Komut içe aktarılamadı. Lütfen içe aktardığınız dosyayı veya kodu kontrol edin ve değiştirilmediğinden emin olun, çünkü herhangi bir değişiklik çalışmasını engelleyebilir."
   },
   "variables": {
     "ableton_bpm": "(Ableton) Ableton Link'in BPM'si",

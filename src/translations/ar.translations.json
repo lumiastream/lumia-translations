@@ -122,7 +122,8 @@
     "customize": "يعدل أو يكيف",
     "import": "استيراد",
     "origin": "الأصل",
-    "here": "هنا"
+    "here": "هنا",
+    "or": "أو"
   },
   "auth": {
     "login": "تسجيل الدخول",
@@ -1642,7 +1643,14 @@
     "sort-alphabetical": "ترتيب أبجدي",
     "sort-alphabetical-reverse": "ترتيب أبجدي عكسي",
     "sort-creation-date-old-first": "تاريخ الإنشاء (الأقدم أولاً)",
-    "sort-creation-date-new-first": "تاريخ الإنشاء (الأحدث أولاً)"
+    "sort-creation-date-new-first": "تاريخ الإنشاء (الأحدث أولاً)",
+    "save-to-file": "حفظ إلى ملف",
+    "copy-to-clipboard": "نسخ إلى الحافظة",
+    "share-modal-description": "يمكنك مشاركة الأمر عن طريق إرسال الرمز أو حفظه في ملف. سيحتاج صديقك إلى استيراده يدويًا في كلتا الحالتين.",
+    "import-shared-command": "استيراد أمر مشترك",
+    "import-from-clipboard": "الاستيراد من الحافظة",
+    "import-from-file": "الاستيراد من ملف",
+    "import-command-error": "فشل في استيراد الأمر. يرجى التحقق من الملف أو الرمز الذي قمت باستيراده والتأكد من أنه لم يتم تعديله، حيث أن أي تغييرات قد تمنع تشغيله."
   },
   "variables": {
     "ableton_bpm": "(أبلتون) BPM من ابلتون لينك",

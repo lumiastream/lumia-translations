@@ -122,7 +122,8 @@
     "customize": "Aanpassen",
     "import": "Import",
     "origin": "Origin",
-    "here": "Here"
+    "here": "Here",
+    "or": "Of"
   },
   "auth": {
     "login": "Log in",
@@ -1642,7 +1643,14 @@
     "sort-alphabetical": "Alfabetisch",
     "sort-alphabetical-reverse": "Alfabetisch omgekeerd",
     "sort-creation-date-old-first": "Aanmaakdatum (oudste eerst)",
-    "sort-creation-date-new-first": "Aanmaakdatum (nieuwste eerst)"
+    "sort-creation-date-new-first": "Aanmaakdatum (nieuwste eerst)",
+    "save-to-file": "Opslaan naar bestand",
+    "copy-to-clipboard": "Kopiëren naar klembord",
+    "share-modal-description": "Je kunt het commando delen door de code te versturen of op te slaan als bestand. Je vriend zal het in beide gevallen handmatig moeten importeren.",
+    "import-shared-command": "Gedeeld commando importeren",
+    "import-from-clipboard": "Importeren vanaf klembord",
+    "import-from-file": "Importeren vanaf bestand",
+    "import-command-error": "Importeren van commando mislukt. Controleer het bestand of de code die je hebt geïmporteerd en zorg ervoor dat deze niet is gewijzigd, want wijzigingen kunnen het functioneren verhinderen."
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM van Ableton Link",
