@@ -1648,8 +1648,8 @@
     "copy-to-clipboard": "Copy to clipboard",
     "share-modal-description": "You can share the command by sending the code or saving it to a file. Your friend will need to import it manually either way.",
     "import-shared-command": "Import a shared command",
-    "import-from-clipboard": "Import from file",
-    "import-from-file": "Import from clipboard",
+    "import-from-clipboard": "Import from clipboard",
+    "import-from-file": "Import from file",
     "import-command-error": "Import command failed. Please check the file or code you imported and make sure it hasn’t been modified, as any changes may prevent it from working."
   },
   "variables": {
