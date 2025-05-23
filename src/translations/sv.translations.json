@@ -1650,7 +1650,9 @@
     "import-shared-command": "Importera delat kommando",
     "import-from-clipboard": "Importera från urklipp",
     "import-from-file": "Importera från fil",
-    "import-command-error": "Det gick inte att importera kommandot. Kontrollera filen eller koden du importerade och säkerställ att den inte har ändrats, eftersom ändringar kan göra att det inte fungerar."
+    "import-command-error": "Det gick inte att importera kommandot. Kontrollera filen eller koden du importerade och säkerställ att den inte har ändrats, eftersom ändringar kan göra att det inte fungerar.",
+    "import-command-success": "Kommandot \"{{command}}\" har importerats",
+    "command-copied-to-clipboard": "Kommandot har kopierats till urklipp. Gå till importavsnittet för att använda det."
   },
   "variables": {
     "ableton_bpm": "(Ableton) BPM för Ableton Link",
