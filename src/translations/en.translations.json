@@ -1537,7 +1537,6 @@
 		"set-timer": "Set timer",
 		"set-timer-description": "Make sure you put in this format hours:minutes:seconds e.g. 00:00:20",
 		"poll-trigger-description": "Assign to a number to be it's voting trigger",
-		"indistinct-layers-found": "Layer \"{{layer}}\", has the same name in multiple overlays. Please rename them to something unique so that overlay actions function properly",
 		"select-all-lights": "Select all lights",
 		"remove-all-items": "Remove all items",
 		"recommend-skip-quuee": "We recommend turning on skip queue for this command so that it does not trigger a loop for your corresponding alerts. Would you like this command to skip the queue?",
