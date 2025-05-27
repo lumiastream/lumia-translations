@@ -2204,7 +2204,9 @@
 		"detected_language": "Die Sprache der geschriebenen Chat-Nachricht, wie Englisch, Spanisch usw.",
 		"detected_language_code": "Das Sprachenkürzel der geschriebenen Chat-Nachricht-Sprache, wie en, es, usw.",
 		"user_rank": "Die Position des Benutzers in der Rangliste der Treuepunkte. Zum Beispiel bedeutet Rang 4, dass der Benutzer auf Platz 4 in der Treuepunkte-Liste steht.",
-		"total_rank": "Die Gesamtzahl der Benutzer in der Treuepunkte-Liste. Zum Beispiel 125 Benutzer. Dies kann mit der Variable {{user_rank}} verwendet werden. Zum Beispiel ist der Rang des Benutzernamens 3 von insgesamt 125 Benutzern."
+		"total_rank": "Die Gesamtzahl der Benutzer in der Treuepunkte-Liste. Zum Beispiel 125 Benutzer. Dies kann mit der Variable {{user_rank}} verwendet werden. Zum Beispiel ist der Rang des Benutzernamens 3 von insgesamt 125 Benutzern.",
+		"interval": "Das Intervall des Alarms, wie monatlich, jährlich usw.",
+		"raw": "Die Rohdaten, die über die Plattform für den Alarm eingehen. Dies ist nützlich für benutzerdefinierten Code, wenn Daten benötigt werden, die wir standardmäßig nicht bereitstellen."
 	},
 	"voicemod": {
 		"delay": "Verzögerung",

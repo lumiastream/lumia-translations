@@ -2202,7 +2202,9 @@
 		"detected_language": "Språket för det skrivna chattmeddelandet, såsom engelska, spanska, etc.",
 		"detected_language_code": "Språkkoden för det skrivna chattmeddelandet, såsom en, es, etc.",
 		"user_rank": "Användarens position i lojalitetspoängens rangordning. Till exempel, rang 4 betyder att användaren är på 4:e plats i lojalitetspoänglistan.",
-		"total_rank": "Det totala antalet användare i lojalitetspoänglistan. Till exempel, 125 användare. Detta kan användas med {{user_rank}}-variabeln. Till exempel är användarnamnet rang 3 av totalt 125 användare."
+		"total_rank": "Det totala antalet användare i lojalitetspoänglistan. Till exempel, 125 användare. Detta kan användas med {{user_rank}}-variabeln. Till exempel är användarnamnet rang 3 av totalt 125 användare.",
+		"interval": "Intervall för varningen, såsom månatlig, årlig etc.",
+		"raw": "Rådata som kommer in genom plattformen för varningen. Detta är användbart för anpassad kod när data behövs som vi inte tillhandahåller som standard."
 	},
 	"voicemod": {
 		"delay": "Dröjsmål",

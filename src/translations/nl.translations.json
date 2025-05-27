@@ -2201,7 +2201,9 @@
 		"detected_language": "De taal van het geschreven chatbericht, zoals Engels, Spaans, enz.",
 		"detected_language_code": "De taalcode van het geschreven chatbericht, zoals en, es, enz.",
 		"user_rank": "De positie van de gebruiker in de loyaliteitspunten ranglijst. Bijvoorbeeld, rang 4 betekent dat de gebruiker op de 4e positie staat in de loyaliteitspuntenlijst.",
-		"total_rank": "Het totaal aantal gebruikers in de loyaliteitspuntenlijst. Bijvoorbeeld 125 gebruikers. Dit kan worden gebruikt met de {{user_rank}} variabele. Bijvoorbeeld, de rang van de gebruikersnaam is 3 van in totaal 125 gebruikers."
+		"total_rank": "Het totaal aantal gebruikers in de loyaliteitspuntenlijst. Bijvoorbeeld 125 gebruikers. Dit kan worden gebruikt met de {{user_rank}} variabele. Bijvoorbeeld, de rang van de gebruikersnaam is 3 van in totaal 125 gebruikers.",
+		"interval": "Het interval van de waarschuwing, zoals maandelijks, jaarlijks, enz.",
+		"raw": "De onbewerkte gegevens die binnenkomen via het platform voor de waarschuwing. Dit is handig voor aangepaste code wanneer gegevens nodig zijn die we niet standaard leveren."
 	},
 	"voicemod": {
 		"delay": "Vertraging",

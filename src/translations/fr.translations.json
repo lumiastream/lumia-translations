@@ -2204,7 +2204,9 @@
 		"detected_language": "La langue du message de chat écrit, telle que l'anglais, l'espagnol, etc.",
 		"detected_language_code": "Le code de langue du message de chat écrit, tel que en, es, etc.",
 		"user_rank": "La position de l'utilisateur dans la liste de classement des points de fidélité. Par exemple, le rang 4 signifie que l'utilisateur est en 4e position dans la liste des points de fidélité.",
-		"total_rank": "Le nombre total d'utilisateurs dans la liste des points de fidélité. Par exemple, 125 utilisateurs. Cela peut être utilisé avec la variable {{user_rank}}. Par exemple, le classement de l'utilisateur est 3 sur un total de 125 utilisateurs."
+		"total_rank": "Le nombre total d'utilisateurs dans la liste des points de fidélité. Par exemple, 125 utilisateurs. Cela peut être utilisé avec la variable {{user_rank}}. Par exemple, le classement de l'utilisateur est 3 sur un total de 125 utilisateurs.",
+		"interval": "L'intervalle de l'alerte, tel que mensuel, annuel, etc.",
+		"raw": "Les données brutes qui arrivent via la plateforme pour l'alerte. Ceci est utile pour le code personnalisé lorsque des données sont nécessaires que nous ne fournissons pas par défaut."
 	},
 	"voicemod": {
 		"delay": "Retard",
