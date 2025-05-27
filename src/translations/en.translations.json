@@ -2204,7 +2204,9 @@
 		"detected_language": "The language of the written chat message, such as English, Spanish, etc.",
 		"detected_language_code": "The language code of the written chat message, such as en, es, etc.",
 		"user_rank": "The user's position in the loyalty points ranking list. For example, rank 4 means the user is in the 4th position in the loyalty points list.",
-		"total_rank": "The total number of users in the loyalty points list. For example, 125 users. This can be used with the {{user_rank}} variable. For example, the username's rank is 3 out of a total of 125 users."
+		"total_rank": "The total number of users in the loyalty points list. For example, 125 users. This can be used with the {{user_rank}} variable. For example, the username's rank is 3 out of a total of 125 users.",
+		"interval": "The interval of the alert, such as monthly, yearly, etc.",
+		"raw": "The raw data that comes in through the platform for the alert. This is useful for custom code when data is needed that we don't provide by default."
 	},
 	"voicemod": {
 		"delay": "Delay",

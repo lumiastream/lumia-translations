@@ -2204,7 +2204,9 @@
 		"detected_language": "Yazılı sohbet mesajının dili, örneğin İngilizce, İspanyolca vb.",
 		"detected_language_code": "Yazılı sohbet mesajının dil kodu, örneğin en, es vb.",
 		"user_rank": "Kullanıcının sadakat puanları sıralamasındaki konumu. Örneğin, 4. sırada olmak, kullanıcının sadakat puanları listesinde 4. sırada olduğu anlamına gelir.",
-		"total_rank": "Sadakat puanları listesindeki toplam kullanıcı sayısı. Örneğin, 125 kullanıcı. Bu, {{user_rank}} değişkeniyle kullanılabilir. Örneğin, kullanıcı adı 125 kullanıcıdan 3. sırada."
+		"total_rank": "Sadakat puanları listesindeki toplam kullanıcı sayısı. Örneğin, 125 kullanıcı. Bu, {{user_rank}} değişkeniyle kullanılabilir. Örneğin, kullanıcı adı 125 kullanıcıdan 3. sırada.",
+		"interval": "Uyarının aralığı, örneğin aylık, yıllık vb.",
+		"raw": "Uyarı için platformdan gelen ham veri. Bu, varsayılan olarak sağladığımız verilerin ötesinde verilere ihtiyaç duyulduğunda özel kod için kullanışlıdır."
 	},
 	"voicemod": {
 		"delay": "Gecikme",
