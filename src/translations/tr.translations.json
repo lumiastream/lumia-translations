@@ -4423,7 +4423,7 @@
 		"confirmation-viewer-delete": "İzleyicilerin silinmesi geri alınamaz. ",
 		"confirmation-viewer-restrictionlist": "Eklemek istediğinizden emin misiniz? {{username}} kısıtlama listesine?",
 		"user-added-to-restriction-list": "Kullanıcı {{username}} kısıtlama listesine eklendi",
-		"confirmation-reset-loyalty": "Sıfırlama geri alınamaz; tüm bağlılık ayarlarınız kaybolacaktır. ",
+		"confirmation-reset-loyalty-users": "Sıfırlama geri alınamaz; tüm sadakat kullanıcılarınız kaybolacak. Devam etmek istediğinizden emin misiniz?",
 		"merge-existing": "Mevcut kullanıcı adını birleştir",
 		"merge-viewer-with": "Görüntüleyiciyi şununla birleştir: {{username}}",
 		"select-viewer-to-merge-with": "Birleştirilecek izleyiciyi seçin {{username}}",

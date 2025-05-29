@@ -4423,7 +4423,7 @@
 		"confirmation-viewer-delete": "حذف المشاهدين غير قابل للتراجع. هل أنت متأكد أنك تريد الحذف؟",
 		"confirmation-viewer-restrictionlist": "هل أنت متأكد أنك تريد إضافة {{username}} إلى قائمة الحظر؟",
 		"user-added-to-restriction-list": "تم إضافة المستخدم {{username}} إلى قائمة الحظر",
-		"confirmation-reset-loyalty": "إعادة التعيين غير قابلة للتراجع، ستفقد جميع إعدادات الولاء. هل أنت متأكد أنك تريد المتابعة؟",
+		"confirmation-reset-loyalty-users": "إعادة التعيين لا رجعة فيها؛ سيتم فقدان جميع مستخدمي الولاء. هل أنت متأكد أنك تريد المتابعة؟",
 		"merge-existing": "دمج مع اسم المستخدم الحالي",
 		"merge-viewer-with": "دمج المشاهد مع {{username}}",
 		"select-viewer-to-merge-with": "اختر المشاهد للدمج مع {{username}}",

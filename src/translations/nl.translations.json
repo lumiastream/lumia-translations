@@ -4420,7 +4420,7 @@
 		"confirmation-viewer-delete": "Deleting viewers is irreversible. Are you sure you want to delete?",
 		"confirmation-viewer-restrictionlist": "Are you sure you want to add {{username}} to restriction list?",
 		"user-added-to-restriction-list": "User {{username}} added to restriction list",
-		"confirmation-reset-loyalty": "Reseting is irreversible, all your loyalty settings will be lost. Are you sure you want to continue?",
+		"confirmation-reset-loyalty-users": "Reseting is irreversible, all your loyalty users will be lost. Are you sure you want to continue?",
 		"merge-existing": "Merge existing username",
 		"merge-viewer-with": "Merge viewer with {{username}}",
 		"select-viewer-to-merge-with": "Select viewer to Merge with {{username}}",

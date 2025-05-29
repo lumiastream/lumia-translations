@@ -4423,7 +4423,7 @@
 		"confirmation-viewer-delete": "Das Löschen von Zuschauern kann nicht rückgängig gemacht werden. Möchtest du wirklich löschen?",
 		"confirmation-viewer-restrictionlist": "Bist du sicher, dass du {{username}} zur Einschränkungsliste hinzufügen möchtest?",
 		"user-added-to-restriction-list": "Nutzer {{username}} wurde zur Einschränkungsliste hinzugefügt",
-		"confirmation-reset-loyalty": "Das Zurücksetzen ist endgültig. Alle Einstellungen des Treuesystems gehen verloren. Möchtest du fortfahren?",
+		"confirmation-reset-loyalty-users": "Das Zurücksetzen ist irreversibel, alle Loyalty-Nutzer gehen verloren. Möchten Sie wirklich fortfahren?",
 		"merge-existing": "Existierenden Benutzernamen zusammenführen",
 		"merge-viewer-with": "Zuschauer mit {{username}} zusammenführen",
 		"select-viewer-to-merge-with": "Wähle einen Zuschauer aus, der mit {{username}} zusammengeführt werden soll",
