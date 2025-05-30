@@ -2623,7 +2623,8 @@
 		"powerup-type": "Power-Up-Typ",
 		"powerupsPoints": "Powerups-Punkte",
 		"points-equal": "Punktebetrag gleich",
-		"points-greater-equal": "Punktebetrag größer oder gleich"
+		"points-greater-equal": "Punktebetrag größer oder gleich",
+		"confirmation-delete": "Das Löschen von Variationen ist unwiderruflich. Bist du sicher, dass du fortfahren möchtest?"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Einer von Ihnen {{type}} Die IP-Adresse der Leuchte hat sich geändert. ",

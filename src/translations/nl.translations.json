@@ -2620,7 +2620,8 @@
 		"powerup-type": "Powerup Type",
 		"powerupsPoints": "Powerups-punten",
 		"points-equal": "Puntenhoeveelheid gelijk aan",
-		"points-greater-equal": "Puntenhoeveelheid groter dan of gelijk aan"
+		"points-greater-equal": "Puntenhoeveelheid groter dan of gelijk aan",
+		"confirmation-delete": "Het verwijderen van variaties is onomkeerbaar. Weet je zeker dat je wilt doorgaan?"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Een van jouw {{type}} Het IP-adres van Light is gewijzigd. ",

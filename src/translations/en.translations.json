@@ -2623,7 +2623,8 @@
 		"powerup-type": "Powerup Type",
 		"powerupsPoints": "Powerups Points",
 		"points-equal": "Points amount equal to",
-		"points-greater-equal": "Points amount greater or equal to"
+		"points-greater-equal": "Points amount greater or equal to",
+		"confirmation-delete": "Deleting variations is irreversible. Are you sure you want to proceed?"
 	},
 	"discovery": {
 		"light-ip-has-changed": "One of your {{type}} light's IP address has changed. Press Refresh changes so Lumia uses the new IP Address",

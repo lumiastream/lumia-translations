@@ -2623,7 +2623,8 @@
 		"powerup-type": "نوع التعزيز",
 		"powerupsPoints": "نقاط التعزيز",
 		"points-equal": "كمية النقاط تساوي",
-		"points-greater-equal": "كمية النقاط أكبر من أو تساوي"
+		"points-greater-equal": "كمية النقاط أكبر من أو تساوي",
+		"confirmation-delete": "حذف التغييرات لا يمكن التراجع عنه. هل أنت متأكد أنك تريد المتابعة؟"
 	},
 	"discovery": {
 		"light-ip-has-changed": "واحدة من الخاص بك {{type}} لقد تغير عنوان IP الخاص بالضوء. ",

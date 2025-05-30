@@ -2621,7 +2621,8 @@
 		"powerup-type": "Powerup Type",
 		"powerupsPoints": "Powerups-poäng",
 		"points-equal": "Poängmängd lika med",
-		"points-greater-equal": "Poängmängd större än eller lika med"
+		"points-greater-equal": "Poängmängd större än eller lika med",
+		"confirmation-delete": "Att ta bort variationer är oåterkalleligt. Är du säker på att du vill fortsätta?"
 	},
 	"discovery": {
 		"light-ip-has-changed": "En av dina {{type}} lampans IP-adress har ändrats. ",

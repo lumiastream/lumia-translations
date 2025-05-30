@@ -2623,7 +2623,8 @@
 		"powerup-type": "Güçlendirme Türü",
 		"powerupsPoints": "Güçlendirme Puanları",
 		"points-equal": "Puan miktarı eşit",
-		"points-greater-equal": "Puan miktarı büyük veya eşit"
+		"points-greater-equal": "Puan miktarı büyük veya eşit",
+		"confirmation-delete": "Varyasyonları silmek geri alınamaz. Devam etmek istediğinizden emin misiniz?"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Senin bir tanesi {{type}} Light'ın IP adresi değişti. ",
