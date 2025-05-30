@@ -2622,7 +2622,8 @@
 		"powerup-type": "Powerup Type",
 		"powerupsPoints": "Puntos de potenciadores",
 		"points-equal": "Cantidad de puntos igual a",
-		"points-greater-equal": "Cantidad de puntos mayor o igual a"
+		"points-greater-equal": "Cantidad de puntos mayor o igual a",
+		"confirmation-delete": "Eliminar variaciones es irreversible. ¿Estás seguro de que deseas continuar?"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Uno de tus {{type}} La dirección IP de la luz ha cambiado. ",
