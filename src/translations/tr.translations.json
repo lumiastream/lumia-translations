@@ -3001,7 +3001,9 @@
 		"sv": "Svenska",
 		"ar": "العربية",
 		"de": "Deutsch",
-		"tr": "Türkçe"
+		"tr": "Türkçe",
+		"zh": "中文",
+		"pt": "Português"
 	},
 	"hotkeys": {
 		"description": "Belirli eylemleri hızla tetiklemek için özel kısayol tuşları ekleyin",

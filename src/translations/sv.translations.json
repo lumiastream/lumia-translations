@@ -2999,7 +2999,9 @@
 		"sv": "Svenska",
 		"ar": "العربية",
 		"de": "Deutsch",
-		"tr": "Türkçe"
+		"tr": "Türkçe",
+		"zh": "中文",
+		"pt": "Português"
 	},
 	"hotkeys": {
 		"description": "Lägg till anpassade snabbtangenter för att utlösa specifika åtgärder snabbt",

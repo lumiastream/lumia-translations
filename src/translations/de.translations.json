@@ -3001,7 +3001,9 @@
 		"sv": "Svenska",
 		"ar": "العربية",
 		"de": "Deutsch",
-		"tr": "Türkçe"
+		"tr": "Türkçe",
+		"zh": "中文",
+		"pt": "Português"
 	},
 	"hotkeys": {
 		"description": "Fügen Sie benutzerdefinierte Hotkeys hinzu, um bestimmte Aktionen schnell auszulösen",
