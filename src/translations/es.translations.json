@@ -3000,7 +3000,9 @@
 		"sv": "Svenska",
 		"ar": "العربية",
 		"de": "Deutsch",
-		"tr": "Türkçe"
+		"tr": "Türkçe",
+		"zh": "中文",
+		"pt": "Português"
 	},
 	"hotkeys": {
 		"description": "Agregue teclas de acceso rápido personalizadas para activar acciones específicas rápidamente",
