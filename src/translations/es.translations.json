@@ -471,6 +471,7 @@
 		"chatmatch": "Partido de chat",
 		"chatbots": "Comandos de chatbot",
 		"twitchpoints": "Puntos de Twitch",
+		"kickpoints": "Puntos Kick",
 		"twitchextensions": "Extensiones de Twitch",
 		"scenes": "Escenas",
 		"reactions": "Reacciones",
@@ -2206,7 +2207,13 @@
 		"user_rank": "La posición del usuario en la lista de clasificación de puntos de fidelidad. Por ejemplo, el rango 4 significa que el usuario está en la 4ª posición en la lista de puntos de fidelidad.",
 		"total_rank": "El número total de usuarios en la lista de puntos de fidelidad. Por ejemplo, 125 usuarios. Esto se puede usar con la variable {{user_rank}}. Por ejemplo, el rango del nombre de usuario es 3 de un total de 125 usuarios.",
 		"interval": "El intervalo de la alerta, como mensual, anual, etc.",
-		"raw": "Los datos sin procesar que llegan a través de la plataforma para la alerta. Esto es útil para el código personalizado cuando se necesitan datos que no proporcionamos por defecto."
+		"raw": "Los datos sin procesar que llegan a través de la plataforma para la alerta. Esto es útil para el código personalizado cuando se necesitan datos que no proporcionamos por defecto.",
+		"kick-points-settings": "Configuración de Puntos Kick",
+		"turn-on-kick-points": "Activar Puntos Kick",
+		"kick-points": "Puntos Kick",
+		"user-triggered-kick-points-command": "{{username}} activó el punto kick {{command}}",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} activó los puntos kick {{command}}, pero no cumple las condiciones de nivel de usuario",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} activó los puntos kick {{command}}, pero no cumple las condiciones de costo"
 	},
 	"voicemod": {
 		"delay": "Demora",
@@ -3580,6 +3587,7 @@
 		"test-twitchpoints-commands": "Comandos de prueba de puntos de Twitch",
 		"test-trovospells-commands": "Probar comandos de hechizos de Trovo",
 		"test-twitchextensions-commands": "Pruebe los comandos de extensión de Twitch",
+		"test-kickpoints-commands": "Probar comandos de Puntos Kick",
 		"test-alerts": "Alertas de prueba",
 		"turn-on-lights": "Encender las luces",
 		"turn-off-lights": "Apaga las luces",

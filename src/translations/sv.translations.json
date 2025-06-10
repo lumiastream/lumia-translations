@@ -471,6 +471,7 @@
 		"chatmatch": "Chattmatch",
 		"chatbots": "Chat Bot-kommandon",
 		"twitchpoints": "Twitch Points",
+		"kickpoints": "Kick-poäng",
 		"twitchextensions": "Twitch-förlängningar",
 		"scenes": "Scener",
 		"reactions": "Reaktioner",
@@ -2205,7 +2206,13 @@
 		"user_rank": "Användarens position i lojalitetspoängens rangordning. Till exempel, rang 4 betyder att användaren är på 4:e plats i lojalitetspoänglistan.",
 		"total_rank": "Det totala antalet användare i lojalitetspoänglistan. Till exempel, 125 användare. Detta kan användas med {{user_rank}}-variabeln. Till exempel är användarnamnet rang 3 av totalt 125 användare.",
 		"interval": "Intervall för varningen, såsom månatlig, årlig etc.",
-		"raw": "Rådata som kommer in genom plattformen för varningen. Detta är användbart för anpassad kod när data behövs som vi inte tillhandahåller som standard."
+		"raw": "Rådata som kommer in genom plattformen för varningen. Detta är användbart för anpassad kod när data behövs som vi inte tillhandahåller som standard.",
+		"kick-points-settings": "Inställningar för Kick-poäng",
+		"turn-on-kick-points": "Aktivera Kick-poäng",
+		"kick-points": "Kick-poäng",
+		"user-triggered-kick-points-command": "{{username}} utlöste kick-poängen {{command}}",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte användarnivåvillkoren",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte kostnadsvillkoren"
 	},
 	"voicemod": {
 		"delay": "Dröjsmål",
@@ -3579,6 +3586,7 @@
 		"test-twitchpoints-commands": "Testa Twitch Points-kommandon",
 		"test-trovospells-commands": "Testa Trovo-stavningskommandon",
 		"test-twitchextensions-commands": "Testa Twitch Extension-kommandon",
+		"test-kickpoints-commands": "Kick Puanı Komutlarını Test Et",
 		"test-alerts": "Testa varningar",
 		"turn-on-lights": "Tänd lampor",
 		"turn-off-lights": "Släck ljus",

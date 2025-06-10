@@ -472,6 +472,7 @@
 		"chatmatch": "Chat Match",
 		"chatbots": "Chat Bot Commands",
 		"twitchpoints": "Twitch Points",
+		"kickpoints": "Kick Points",
 		"twitchextensions": "Twitch Extensions",
 		"scenes": "Scenes",
 		"reactions": "Reactions",
@@ -2207,7 +2208,13 @@
 		"user_rank": "The user's position in the loyalty points ranking list. For example, rank 4 means the user is in the 4th position in the loyalty points list.",
 		"total_rank": "The total number of users in the loyalty points list. For example, 125 users. This can be used with the {{user_rank}} variable. For example, the username's rank is 3 out of a total of 125 users.",
 		"interval": "The interval of the alert, such as monthly, yearly, etc.",
-		"raw": "The raw data that comes in through the platform for the alert. This is useful for custom code when data is needed that we don't provide by default."
+		"raw": "The raw data that comes in through the platform for the alert. This is useful for custom code when data is needed that we don't provide by default.",
+		"kick-points-settings": "Kick Points Settings",
+		"turn-on-kick-points": "Turn On Kick Points",
+		"kick-points": "Kick Points",
+		"user-triggered-kick-points-command": "{{username}} triggered kick point {{command}}",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} triggered kick points {{command}}, but does not satisfy the user level conditions",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} triggered kick points {{command}}, but does not satisfy the cost conditions"
 	},
 	"voicemod": {
 		"delay": "Delay",
@@ -3581,6 +3588,7 @@
 		"test-twitchpoints-commands": "Test Twitch Points Commands",
 		"test-trovospells-commands": "Test Trovo Spells Commands",
 		"test-twitchextensions-commands": "Test Twitch Extension Commands",
+		"test-kickpoints-commands": "Test Kick Points Commands",
 		"test-alerts": "Test Alerts",
 		"turn-on-lights": "Turn On Lights",
 		"turn-off-lights": "Turn Off Lights",

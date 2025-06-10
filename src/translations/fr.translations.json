@@ -471,6 +471,7 @@
 		"chatmatch": "Correspondance par chat",
 		"chatbots": "Commandes du chatbot",
 		"twitchpoints": "Points Twitch",
+		"kickpoints": "Points Kick",
 		"twitchextensions": "Extensions Twitch",
 		"scenes": "Scènes",
 		"reactions": "Réactions",
@@ -2207,7 +2208,13 @@
 		"user_rank": "La position de l'utilisateur dans la liste de classement des points de fidélité. Par exemple, le rang 4 signifie que l'utilisateur est en 4e position dans la liste des points de fidélité.",
 		"total_rank": "Le nombre total d'utilisateurs dans la liste des points de fidélité. Par exemple, 125 utilisateurs. Cela peut être utilisé avec la variable {{user_rank}}. Par exemple, le classement de l'utilisateur est 3 sur un total de 125 utilisateurs.",
 		"interval": "L'intervalle de l'alerte, tel que mensuel, annuel, etc.",
-		"raw": "Les données brutes qui arrivent via la plateforme pour l'alerte. Ceci est utile pour le code personnalisé lorsque des données sont nécessaires que nous ne fournissons pas par défaut."
+		"raw": "Les données brutes qui arrivent via la plateforme pour l'alerte. Ceci est utile pour le code personnalisé lorsque des données sont nécessaires que nous ne fournissons pas par défaut.",
+		"kick-points-settings": "Paramètres des Points Kick",
+		"turn-on-kick-points": "Activer les Points Kick",
+		"kick-points": "Points Kick",
+		"user-triggered-kick-points-command": "{{username}} a déclenché le point kick {{command}}",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} a déclenché les points kick {{command}}, mais ne satisfait pas aux conditions de niveau d'utilisateur",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} a déclenché les points kick {{command}}, mais ne satisfait pas aux conditions de coût"
 	},
 	"voicemod": {
 		"delay": "Retard",
@@ -3581,6 +3588,7 @@
 		"test-twitchpoints-commands": "Tester les commandes des points Twitch",
 		"test-trovospells-commands": "Testez les commandes des sorts Trovo",
 		"test-twitchextensions-commands": "Tester les commandes d'extension Twitch",
+		"test-kickpoints-commands": "Tester les commandes Points Kick",
 		"test-alerts": "Alertes de test",
 		"turn-on-lights": "Allumez les lumières",
 		"turn-off-lights": "Éteindre les lumières",

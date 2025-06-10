@@ -471,6 +471,7 @@
 		"chatmatch": "مباراة الدردشة",
 		"chatbots": "أوامر الدردشة بوت",
 		"twitchpoints": "نقاط تويتش",
+		"kickpoints": "نقاط الكيك",
 		"twitchextensions": "ملحقات نشل",
 		"scenes": "مشاهد",
 		"reactions": "تفاعلات",
@@ -2207,7 +2208,13 @@
 		"user_rank": "مركز المستخدم في قائمة ترتيب نقاط الولاء. على سبيل المثال، إذا كان المركز 4 فهذا يعني أن المستخدم في المركز الرابع في قائمة نقاط الولاء.",
 		"total_rank": "إجمالي عدد المستخدمين في قائمة نقاط الولاء. على سبيل المثال، 125 مستخدمًا. يمكن استخدامه مع المتغير {{user_rank}}. على سبيل المثال، رتبة اسم المستخدم هي 3 من إجمالي 125 مستخدمًا.",
 		"interval": "الفاصل الزمني للتنبيه، مثل شهري، سنوي، إلخ.",
-		"raw": "البيانات الأولية التي تأتي من خلال المنصة للتنبيه. هذا مفيد للكود المخصص عندما تكون البيانات مطلوبة والتي لا نقدمها بشكل افتراضي."
+		"raw": "البيانات الأولية التي تأتي من خلال المنصة للتنبيه. هذا مفيد للكود المخصص عندما تكون البيانات مطلوبة والتي لا نقدمها بشكل افتراضي.",
+		"kick-points-settings": "إعدادات نقاط الكيك",
+		"turn-on-kick-points": "تفعيل نقاط الكيك",
+		"kick-points": "نقاط الكيك",
+		"user-triggered-kick-points-command": "{{username}} فعّل نقطة كيك {{command}}",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} فعّل نقاط الكيك {{command}}، ولكن لا يستوفي شروط مستوى المستخدم",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} فعّل نقاط الكيك {{command}}، ولكن لا يستوفي شروط التكلفة"
 	},
 	"voicemod": {
 		"delay": "تأخير",
@@ -3581,6 +3588,7 @@
 		"test-twitchpoints-commands": "اختبار أوامر نقاط Twitch",
 		"test-trovospells-commands": "اختبار أوامر تعويذة Trovo",
 		"test-twitchextensions-commands": "اختبار أوامر تمديد Twitch",
+		"test-kickpoints-commands": "اختبار أوامر نقاط الكيك",
 		"test-alerts": "تنبيهات الاختبار",
 		"turn-on-lights": "تشغيل أضواء",
 		"turn-off-lights": "إطفاء الأنوار",
