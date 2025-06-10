@@ -472,6 +472,7 @@
 		"chatmatch": "Correspondência de Chat",
 		"chatbots": "Comandos de Chat Bot",
 		"twitchpoints": "Pontos Twitch",
+		"kickpoints": "Pontos Kick",
 		"twitchextensions": "Extensões Twitch",
 		"scenes": "Cenas",
 		"reactions": "Reações",
@@ -2207,7 +2208,13 @@
 		"user_rank": "A posição do usuário na lista de classificação de pontos de fidelidade. Por exemplo, a classificação 4 significa que o usuário está na 4ª posição na lista de pontos de fidelidade.",
 		"total_rank": "O número total de usuários na lista de pontos de fidelidade. Por exemplo, 125 usuários. Isso pode ser usado com a variável {{user_rank}}. Por exemplo, a classificação do nome de usuário é 3 de um total de 125 usuários.",
 		"interval": "O intervalo do alerta, como mensal, anual, etc.",
-		"raw": "Os dados brutos que chegam através da plataforma para o alerta. Isso é útil para código personalizado quando são necessários dados que não fornecemos por padrão."
+		"raw": "Os dados brutos que chegam através da plataforma para o alerta. Isso é útil para código personalizado quando são necessários dados que não fornecemos por padrão.",
+		"kick-points-settings": "Configurações de Pontos Kick",
+		"turn-on-kick-points": "Ativar Pontos Kick",
+		"kick-points": "Pontos Kick",
+		"user-triggered-kick-points-command": "{{username}} acionou o ponto kick {{command}}",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} acionou os pontos kick {{command}}, mas não atende às condições de nível de usuário",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} acionou os pontos kick {{command}}, mas não atende às condições de custo"
 	},
 	"voicemod": {
 		"delay": "Atraso",
@@ -3581,6 +3588,7 @@
 		"test-twitchpoints-commands": "Teste de Twitch Points Comandos",
 		"test-trovospells-commands": "Teste os comandos de feitiços trovo",
 		"test-twitchextensions-commands": "Comandos de extensão de contração de teste",
+		"test-kickpoints-commands": "Testa kick-poängkommandon",
 		"test-alerts": "Alertas de teste",
 		"turn-on-lights": "Ligue as luzes",
 		"turn-off-lights": "Desligue as luzes",

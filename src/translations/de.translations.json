@@ -471,6 +471,7 @@
 		"chatmatch": "Chat-Match",
 		"chatbots": "Chat-Bot-Befehle",
 		"twitchpoints": "Twitch-Punkte",
+		"kickpoints": "Kick-Punkte",
 		"twitchextensions": "Twitch-Erweiterungen",
 		"scenes": "Szenen",
 		"reactions": "Reaktionen",
@@ -2207,7 +2208,13 @@
 		"user_rank": "Die Position des Benutzers in der Rangliste der Treuepunkte. Zum Beispiel bedeutet Rang 4, dass der Benutzer auf Platz 4 in der Treuepunkte-Liste steht.",
 		"total_rank": "Die Gesamtzahl der Benutzer in der Treuepunkte-Liste. Zum Beispiel 125 Benutzer. Dies kann mit der Variable {{user_rank}} verwendet werden. Zum Beispiel ist der Rang des Benutzernamens 3 von insgesamt 125 Benutzern.",
 		"interval": "Das Intervall des Alarms, wie monatlich, jährlich usw.",
-		"raw": "Die Rohdaten, die über die Plattform für den Alarm eingehen. Dies ist nützlich für benutzerdefinierten Code, wenn Daten benötigt werden, die wir standardmäßig nicht bereitstellen."
+		"raw": "Die Rohdaten, die über die Plattform für den Alarm eingehen. Dies ist nützlich für benutzerdefinierten Code, wenn Daten benötigt werden, die wir standardmäßig nicht bereitstellen.",
+		"kick-points-settings": "Kick-Punkte-Einstellungen",
+		"turn-on-kick-points": "Kick-Punkte aktivieren",
+		"kick-points": "Kick-Punkte",
+		"user-triggered-kick-points-command": "{{username}} hat den Kick-Punkt {{command}} ausgelöst",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} hat die Kick-Punkte {{command}} ausgelöst, erfüllt jedoch nicht die Benutzerlevel-Bedingungen",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} hat die Kick-Punkte {{command}} ausgelöst, erfüllt jedoch nicht die Kostenbedingungen"
 	},
 	"voicemod": {
 		"delay": "Verzögerung",
@@ -3581,6 +3588,7 @@
 		"test-twitchpoints-commands": "Testen Sie die Twitch Points-Befehle",
 		"test-trovospells-commands": "Testen Sie Trovo-Zauberbefehle",
 		"test-twitchextensions-commands": "Testen Sie die Twitch-Erweiterungsbefehle",
+		"test-kickpoints-commands": "Kick-Punkte-Befehle testen",
 		"test-alerts": "Test Alerts",
 		"turn-on-lights": "Licht einschalten",
 		"turn-off-lights": "Licht ausschalten",

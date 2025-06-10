@@ -471,6 +471,7 @@
 		"chatmatch": "Chatmatch",
 		"chatbots": "Chatbot-opdrachten",
 		"twitchpoints": "Twitch-punten",
+		"kickpoints": "Kick-punten",
 		"twitchextensions": "Twitch-extensies",
 		"scenes": "Scènes",
 		"reactions": "Reacties",
@@ -2204,7 +2205,13 @@
 		"user_rank": "De positie van de gebruiker in de loyaliteitspunten ranglijst. Bijvoorbeeld, rang 4 betekent dat de gebruiker op de 4e positie staat in de loyaliteitspuntenlijst.",
 		"total_rank": "Het totaal aantal gebruikers in de loyaliteitspuntenlijst. Bijvoorbeeld 125 gebruikers. Dit kan worden gebruikt met de {{user_rank}} variabele. Bijvoorbeeld, de rang van de gebruikersnaam is 3 van in totaal 125 gebruikers.",
 		"interval": "Het interval van de waarschuwing, zoals maandelijks, jaarlijks, enz.",
-		"raw": "De onbewerkte gegevens die binnenkomen via het platform voor de waarschuwing. Dit is handig voor aangepaste code wanneer gegevens nodig zijn die we niet standaard leveren."
+		"raw": "De onbewerkte gegevens die binnenkomen via het platform voor de waarschuwing. Dit is handig voor aangepaste code wanneer gegevens nodig zijn die we niet standaard leveren.",
+		"kick-points-settings": "Kick-punten-instellingen",
+		"turn-on-kick-points": "Kick-punten inschakelen",
+		"kick-points": "Kick-punten",
+		"user-triggered-kick-points-command": "{{username}} heeft kick-punt {{command}} geactiveerd",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} heeft kick-punten {{command}} geactiveerd, maar voldoet niet aan de gebruikersniveauvoorwaarden",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} heeft kick-punten {{command}} geactiveerd, maar voldoet niet aan de kostenvoorwaarden"
 	},
 	"voicemod": {
 		"delay": "Vertraging",
@@ -3578,6 +3585,7 @@
 		"test-twitchpoints-commands": "Twitch Point-opdrachten testen",
 		"test-trovospells-commands": "Test Trovo-spreukopdrachten",
 		"test-twitchextensions-commands": "Test Twitch-extensieopdrachten",
+		"test-kickpoints-commands": "Kick-puntencommando's testen",
 		"test-alerts": "Testwaarschuwingen",
 		"turn-on-lights": "Doe de lichten aan",
 		"turn-off-lights": "Lichten uitdoen",

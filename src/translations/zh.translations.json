@@ -472,6 +472,7 @@
 		"chatmatch": "聊天匹配",
 		"chatbots": "聊天机器人命令",
 		"twitchpoints": "Twitch 积分",
+		"kickpoints": "Kick 积分",
 		"twitchextensions": "Twitch 扩展",
 		"scenes": "场景",
 		"reactions": "反应",
@@ -2207,7 +2208,13 @@
 		"user_rank": "用户在忠诚度积分排名列表中的位置。例如，排名 4 表示用户在忠诚度积分列表中排名第 4。",
 		"total_rank": "忠诚度积分列表中的用户总数。例如，125 个用户。这可以与 {{user_rank}} 变量一起使用。例如，用户名的排名是 125 个用户中的第 3 位。",
 		"interval": "警报的间隔，例如每月、每年等。",
-		"raw": "通过平台传入的警报原始数据。这对于自定义代码在需要我们默认不提供的数据时很有用。"
+		"raw": "通过平台传入的警报原始数据。这对于自定义代码在需要我们默认不提供的数据时很有用。",
+		"kick-points-settings": "Kick 积分设置",
+		"turn-on-kick-points": "开启 Kick 积分",
+		"kick-points": "Kick 积分",
+		"user-triggered-kick-points-command": "{{username}} 触发了 Kick 积分 {{command}}",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} 触发了 Kick 积分 {{command}}，但不符合用户等级条件",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} 触发了 Kick 积分 {{command}}，但不符合成本条件"
 	},
 	"voicemod": {
 		"delay": "延迟",
@@ -3581,6 +3588,7 @@
 		"test-twitchpoints-commands": "测试 Twitch 点数命令",
 		"test-trovospells-commands": "测试 Trovo 法术命令",
 		"test-twitchextensions-commands": "测试 Twitch 扩展命令",
+		"test-kickpoints-commands": "测试 Kick 积分命令",
 		"test-alerts": "测试警报",
 		"turn-on-lights": "开灯",
 		"turn-off-lights": "关灯",

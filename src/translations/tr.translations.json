@@ -472,6 +472,8 @@
 		"chatmatch": "Sohbet Maçı",
 		"chatbots": "Sohbet Botu Komutları",
 		"twitchpoints": "Seğirme Puanları",
+		"kickpoints": "Kick Puanları",
+
 		"twitchextensions": "Twitch Uzantıları",
 		"scenes": "Sahneler",
 		"reactions": "Tepkiler",
@@ -2207,7 +2209,13 @@
 		"user_rank": "Kullanıcının sadakat puanları sıralamasındaki konumu. Örneğin, 4. sırada olmak, kullanıcının sadakat puanları listesinde 4. sırada olduğu anlamına gelir.",
 		"total_rank": "Sadakat puanları listesindeki toplam kullanıcı sayısı. Örneğin, 125 kullanıcı. Bu, {{user_rank}} değişkeniyle kullanılabilir. Örneğin, kullanıcı adı 125 kullanıcıdan 3. sırada.",
 		"interval": "Uyarının aralığı, örneğin aylık, yıllık vb.",
-		"raw": "Uyarı için platformdan gelen ham veri. Bu, varsayılan olarak sağladığımız verilerin ötesinde verilere ihtiyaç duyulduğunda özel kod için kullanışlıdır."
+		"raw": "Uyarı için platformdan gelen ham veri. Bu, varsayılan olarak sağladığımız verilerin ötesinde verilere ihtiyaç duyulduğunda özel kod için kullanışlıdır.",
+		"kick-points-settings": "Kick Puanları Ayarları",
+		"turn-on-kick-points": "Kick Puanlarını Aç",
+		"kick-points": "Kick Puanları",
+		"user-triggered-kick-points-command": "{{username}} {{command}} kick puanını tetikledi",
+		"user-triggered-kick-points-command-but-not-level": "{{username}} {{command}} kick puanlarını tetikledi ancak kullanıcı seviye koşullarını karşılamıyor",
+		"user-triggered-kick-points-command-but-not-points": "{{username}} {{command}} kick puanlarını tetikledi ancak maliyet koşullarını karşılamıyor"
 	},
 	"voicemod": {
 		"delay": "Gecikme",
@@ -3581,6 +3589,7 @@
 		"test-twitchpoints-commands": "Twitch Puanı Komutlarını Test Edin",
 		"test-trovospells-commands": "Trovo Büyü Komutlarını Test Edin",
 		"test-twitchextensions-commands": "Twitch Uzantı Komutlarını Test Edin",
+		"test-kickpoints-commands": "Testar comandos de Pontos Kick",
 		"test-alerts": "Test Uyarıları",
 		"turn-on-lights": "Işıkları Aç",
 		"turn-off-lights": "Işıkları Kapat",
