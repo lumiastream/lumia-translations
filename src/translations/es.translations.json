@@ -932,6 +932,7 @@
 		"set-point-value": "Establecer el valor de los puntos para canjear",
 		"set-point-value-description": "Puede usar matemáticas básicas como 100, -100, =300 o incluso *2 para sumar, restar, establecer, multiplicar y dividir del valor de puntos actual. ",
 		"set-bits-value": "Establecer el valor de bits para canjear",
+		"sync-with": "Sincronizar con {{service}}",
 		"connection": "Conexión",
 		"message": "Mensaje",
 		"word": "Palabra",

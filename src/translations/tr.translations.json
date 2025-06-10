@@ -942,6 +942,7 @@
 		"set-user-point": "Kullanıcı adı noktalarını şuna ayarla:",
 		"set-point-value-description": "Geçerli nokta değerine eklemek, çıkarmak, ayarlamak, çarpmak ve bölmek için +100, -100, =300 ve hatta *2 gibi temel matematiği kullanabilirsiniz. ",
 		"set-bits-value": "Kullanılacak bit değerini ayarlayın",
+		"sync-with": "{{service}} ile senkronize et",
 		"connection": "Bağlantı",
 		"message": "Mesaj",
 		"word": "Kelime",

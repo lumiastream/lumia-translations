@@ -932,6 +932,7 @@
 		"set-point-value": "Ställ in poängvärde att lösa in till",
 		"set-point-value-description": "Du kan använda grundläggande matematik som 100, -100, =300 eller till och med *2 för att addera, subtrahera, sätta, multiplicera och dividera från det aktuella poängvärdet. ",
 		"set-bits-value": "Ställ in bitvärde att lösa in till",
+		"sync-with": "Synkronisera med {{service}}",
 		"connection": "Förbindelse",
 		"message": "Meddelande",
 		"word": "Ord",

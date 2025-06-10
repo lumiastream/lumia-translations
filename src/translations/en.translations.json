@@ -942,6 +942,7 @@
 		"set-user-point": "Set username points to",
 		"set-point-value-description": "You can use basic math like +100, -100, =300, or even *2 to add, subtract, set, multiply, and divide from the current point value. This is useful for doing things like increasing the point value everytime someone redeems",
 		"set-bits-value": "Set bits value to redeem to",
+		"sync-with": "Sync with {{service}}",
 		"connection": "Connection",
 		"message": "Message",
 		"word": "Word",

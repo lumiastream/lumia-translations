@@ -932,6 +932,7 @@
 		"set-point-value": "Legen Sie den Punktewert fest, auf den eingelöst werden soll",
 		"set-point-value-description": "Sie können einfache Mathematik wie 100, -100, =300 oder sogar *2 verwenden, um vom aktuellen Punktwert zu addieren, zu subtrahieren, zu setzen, zu multiplizieren und zu dividieren. ",
 		"set-bits-value": "Stellen Sie den Bitwert ein, auf den eingelöst werden soll",
+		"sync-with": "Mit {{service}} synchronisieren",
 		"connection": "Verbindung",
 		"message": "Nachricht",
 		"word": "Wort",
