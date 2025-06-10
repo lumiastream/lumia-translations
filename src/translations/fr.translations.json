@@ -932,6 +932,7 @@
 		"set-point-value": "Définir la valeur des points à échanger",
 		"set-point-value-description": "Vous pouvez utiliser des mathématiques de base comme 100, -100, = 300 ou même *2 pour ajouter, soustraire, définir, multiplier et diviser à partir de la valeur actuelle du point. ",
 		"set-bits-value": "Définir la valeur des bits à échanger sur",
+		"sync-with": "Synchroniser avec {{service}}",
 		"connection": "Connexion",
 		"message": "Message",
 		"word": "Mot",

@@ -942,6 +942,7 @@
 		"set-user-point": "Definir pontos de usuário para",
 		"set-point-value-description": "Você pode usar matemática básica como +100, -100, =300, ou até *2 para adicionar, subtrair, definir, multiplicar e dividir do valor atual dos pontos. Isso é útil para fazer coisas como aumentar o valor dos pontos toda vez que alguém resgata",
 		"set-bits-value": "Definir valor de bits para resgatar",
+		"sync-with": "Sincronizar com {{service}}",
 		"connection": "Conexão",
 		"message": "Mensagem",
 		"word": "Palavra",

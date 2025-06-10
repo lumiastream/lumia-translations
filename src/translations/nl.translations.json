@@ -932,6 +932,7 @@
 		"set-point-value": "Stel de puntenwaarde in waarop u deze wilt inwisselen",
 		"set-point-value-description": "U kunt eenvoudige wiskunde gebruiken, zoals 100, -100, =300 of zelfs *2, om de huidige puntwaarde op te tellen, af te trekken, in te stellen, te vermenigvuldigen en te delen. ",
 		"set-bits-value": "Stel de bitwaarde in waarop u wilt inwisselen",
+		"sync-with": "Synchroniseren met {{service}}",
 		"connection": "Verbinding",
 		"message": "Bericht",
 		"word": "Woord",

@@ -942,6 +942,7 @@
 		"set-user-point": "设置用户点数",
 		"set-point-value-description": "您可以使用基本数学运算，例如 +100、-100、=300，甚至 *2 来对当前点数进行加、减、设置、乘和除。这对于每次有人兑换时增加点数很有用",
 		"set-bits-value": "设置比特值以兑换",
+		"sync-with": "与{{service}}同步",
 		"connection": "连接",
 		"message": "消息",
 		"word": "单词",
