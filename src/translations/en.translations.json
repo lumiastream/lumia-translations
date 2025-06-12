@@ -4237,6 +4237,7 @@
 		"use-in-chat": "Use in a Chat Command",
 		"use-in-twitch-point": "Use in a Twitch Point Command",
 		"use-in-twitch-extension": "Use in a Twitch Extension Command",
+		"use-in-kick-point": "Use in a Kick point command",
 		"command-created-success-title": "Command created successfully",
 		"command-created-success": "New {{commandType}} \"{{commandName}}\" has been created successfully",
 		"reached-chat-command-limit": "Reached the free Command limit for Chat commands. Max of 8 commands on the free version",
