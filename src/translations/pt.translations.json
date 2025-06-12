@@ -4227,6 +4227,7 @@
 		"use-in-chat": "Use em um comando de bate -papo",
 		"use-in-twitch-point": "Use em um comando de Twitch Point",
 		"use-in-twitch-extension": "Use em um comando de extensão do Twitch",
+		"use-in-kick-point": "Usar em um comando de ponto Kick",
 		"command-created-success-title": "Comando criado com sucesso",
 		"command-created-success": "Novo {{commandType}} \"{{commandName}}\"Foi criado com sucesso",
 		"reached-chat-command-limit": "Atingiu o limite de comando gratuito para comandos de bate -papo. ",

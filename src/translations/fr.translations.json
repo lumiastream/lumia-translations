@@ -4217,6 +4217,7 @@
 		"use-in-chat": "Utiliser dans une commande de chat",
 		"use-in-twitch-point": "Utiliser dans une commande de point Twitch",
 		"use-in-twitch-extension": "Utiliser dans une commande d'extension Twitch",
+		"use-in-kick-point": "Utiliser dans une commande de point Kick",
 		"command-created-success-title": "Commande créée avec succès",
 		"command-created-success": "Nouveau {{commandType}} \"{{commandName}}\" a été créé avec succès",
 		"reached-chat-command-limit": "Vous avez atteint la limite de commandes gratuites pour les commandes de chat. ",
