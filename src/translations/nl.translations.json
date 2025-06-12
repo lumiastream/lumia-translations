@@ -4224,6 +4224,7 @@
 		"use-in-chat": "Gebruik in een chatopdracht",
 		"use-in-twitch-point": "Gebruik in een Twitch Point-commando",
 		"use-in-twitch-extension": "Gebruik in een Twitch-extensiecommando",
+		"use-in-kick-point": "Gebruik in een Kick-puntcommando",
 		"command-created-success-title": "Commando is succesvol aangemaakt",
 		"command-created-success": "Nieuw {{commandType}} \"{{commandName}}\" is succesvol aangemaakt",
 		"reached-chat-command-limit": "De gratis opdrachtlimiet voor chatopdrachten bereikt. ",

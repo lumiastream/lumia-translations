@@ -4227,6 +4227,7 @@
 		"use-in-chat": "استخدم في أمر الدردشة",
 		"use-in-twitch-point": "استخدم في أمر Twitch Point",
 		"use-in-twitch-extension": "استخدمه في أمر ملحق Twitch",
+		"use-in-kick-point": "استخدم في أمر نقطة Kick",
 		"command-created-success-title": "تم إنشاء الأمر بنجاح",
 		"command-created-success": "جديد {{commandType}} \"{{commandName}}\"تم إنشاؤه بنجاح",
 		"reached-chat-command-limit": "تم الوصول إلى حد الأوامر المجاني لأوامر الدردشة. ",

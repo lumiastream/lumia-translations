@@ -4238,6 +4238,7 @@
 		"use-in-chat": "Sohbet Komutunda Kullan",
 		"use-in-twitch-point": "Twitch Noktası Komutunda Kullanım",
 		"use-in-twitch-extension": "Twitch Uzantı Komutunda Kullanım",
+		"use-in-kick-point": "Bir Kick noktası komutunda kullan",
 		"command-created-success-title": "Komut başarıyla oluşturuldu",
 		"command-created-success": "Yeni {{commandType}} \"{{commandName}}\" başarıyla oluşturuldu",
 		"reached-chat-command-limit": "Sohbet komutları için ücretsiz Komut sınırına ulaşıldı. ",

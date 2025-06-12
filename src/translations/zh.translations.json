@@ -4237,6 +4237,7 @@
 		"use-in-chat": "在聊天命令中使用",
 		"use-in-twitch-point": "在 Twitch 点数命令中使用",
 		"use-in-twitch-extension": "在 Twitch 扩展命令中使用",
+		"use-in-kick-point": "用于 Kick 点命令中",
 		"command-created-success-title": "命令创建成功",
 		"command-created-success": "新 {{commandType}} \"{{commandName}}\" 已成功创建",
 		"reached-chat-command-limit": "已达到聊天命令的免费命令限制。免费版最多 8 个命令",
