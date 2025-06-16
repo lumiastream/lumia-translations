@@ -1915,6 +1915,7 @@
 		"raffle_winners": "Çekilişi kazanan kullanıcıların tüm kullanıcı adları (Virgülle ayrılmış)",
 		"random": "İki sayı arasında rastgele seçim yapın; {{random=1,20}}",
 		"random_input": "Virgülle ayrılmış farklı girişler arasında rastgele seçim yapın; {{random_input=first,second,third}}",
+		"sum_variables": "Birleşik bir değer oluşturmak için birden fazla değişkeni toplayın. Bu, takipçiler gibi birleşik bir hedef oluşturmak için çok kullanışlıdır, örn. {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
 		"rawMessage": "Gönderenin gönderdiği ham, değiştirilmemiş mesaj",
 		"rawMessageWithoutEmotes": "(Twitch) Gönderenin mesajın içinde ifadeler olmadan gönderdiği ham mesaj",
 		"read_file": "Yerel bilgisayarınızdaki bir dosyadan düz metin olarak okuyun; {{read_file=C:\\User\\Myfile.txt}}",

@@ -1892,6 +1892,7 @@
 		"raffle_winners": "Tous les noms d'utilisateur des utilisateurs qui ont gagné le tirage au sort (séparés par des virgules)",
 		"random": "Choisissez au hasard entre deux nombres, par ex. {{random=1,20}}",
 		"random_input": "Choisissez au hasard entre différentes entrées séparées par une virgule, par ex. {{random_input=first,second,third}}",
+		"sum_variables": "Additionnez plusieurs variables pour créer une valeur combinée. C’est très utile pour créer un objectif combiné comme les abonnés, par ex. {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
 		"rawMessage": "Le message brut non modifié envoyé par l'expéditeur",
 		"rawMessageWithoutEmotes": "(Twitch) Le message brut que l'expéditeur a envoyé sans emotes à l'intérieur du message",
 		"read_file": "Lisez à partir d'un fichier sur votre ordinateur local en texte brut, par ex. {{read_file=C:\\User\\Myfile.txt}}",

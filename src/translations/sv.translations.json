@@ -1890,6 +1890,7 @@
 		"raffle_winners": "Alla användarnamn för användare som vann utlottningen (kommaseparerad)",
 		"random": "Välj slumpmässigt mellan två nummer, t.ex. {{random=1,20}}",
 		"random_input": "Välj slumpmässigt mellan olika ingångar separerade med kommatecken, t.ex. {{random_input=first,second,third}}",
+		"sum_variables": "Summera flera variabler för att skapa ett kombinerat värde. Detta är mycket användbart för att skapa ett kombinerat mål som följare, t.ex. {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
 		"rawMessage": "Det råa oförändrade meddelandet som avsändaren skickade",
 		"rawMessageWithoutEmotes": "(Twitch) Det råa meddelandet som avsändaren skickade utan emotes inuti meddelandet",
 		"read_file": "Läs från en fil på din lokala dator i klartext, t.ex. {{read_file=C:\\User\\Myfile.txt}}",

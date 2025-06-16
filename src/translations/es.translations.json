@@ -1891,6 +1891,7 @@
 		"raffle_winners": "Todos los nombres de usuario de los usuarios que ganaron el sorteo (separados por comas)",
 		"random": "Elija aleatoriamente entre dos números, p. {{random=1,20}}",
 		"random_input": "Elija aleatoriamente entre diferentes entradas separadas por una coma, p.e. {{random_input=first,second,third}}",
+		"sum_variables": "Suma varias variables para crear un valor combinado. Esto es muy útil para crear una meta combinada como seguidores, p. ej. {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
 		"rawMessage": "El mensaje sin editar y sin modificaciones que envió el remitente.",
 		"rawMessageWithoutEmotes": "(Twitch) El mensaje sin formato que el remitente envió sin emoticones dentro del mensaje.",
 		"read_file": "Leer desde un archivo en su computadora local en texto sin formato, p. {{read_file=C:\\User\\Myfile.txt}}",
