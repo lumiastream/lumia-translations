@@ -2353,6 +2353,7 @@
 		"pollSetTimer": "投票设置计时器",
 		"pollAddItem": "投票添加项目",
 		"pollRemoveItem": "投票移除项目",
+		"sendCustomOverlayContent": "发送自定义叠加内容",
 		"delay": "延迟"
 	},
 	"twitch": {

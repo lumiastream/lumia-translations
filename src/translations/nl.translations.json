@@ -2350,6 +2350,7 @@
 		"pollSetTimer": "Poll-settimer",
 		"pollAddItem": "Poll Item toevoegen",
 		"pollRemoveItem": "Poll Verwijder item",
+		"sendCustomOverlayContent": "Aangepaste overlay-inhoud verzenden",
 		"delay": "Vertraging"
 	},
 	"twitch": {

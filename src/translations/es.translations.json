@@ -2352,6 +2352,7 @@
 		"pollSetTimer": "Temporizador de configuración de encuesta",
 		"pollAddItem": "Encuesta Agregar elemento",
 		"pollRemoveItem": "Encuesta Eliminar elemento",
+		"sendCustomOverlayContent": "Enviar contenido de superposición personalizado",
 		"delay": "Demora"
 	},
 	"twitch": {

@@ -2351,6 +2351,7 @@
 		"pollSetTimer": "Poll Set Timer",
 		"pollAddItem": "Omröstning Lägg till objekt",
 		"pollRemoveItem": "Omröstning Ta bort objekt",
+		"sendCustomOverlayContent": "Skicka anpassat överläggsinnehåll",
 		"delay": "Dröjsmål"
 	},
 	"twitch": {

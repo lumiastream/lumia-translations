@@ -2353,6 +2353,7 @@
 		"pollSetTimer": "Umfrage-Timer einstellen",
 		"pollAddItem": "Umfrage Element hinzufügen",
 		"pollRemoveItem": "Umfrage Element entfernen",
+		"sendCustomOverlayContent": "Benutzerdefinierten Overlay-Inhalt senden",
 		"delay": "Verzögerung"
 	},
 	"twitch": {

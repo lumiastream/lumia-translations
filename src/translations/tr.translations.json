@@ -2354,6 +2354,7 @@
 		"pollSetTimer": "Anket Ayarlama Zamanlayıcısı",
 		"pollAddItem": "Anket Öğe Ekle",
 		"pollRemoveItem": "Anket Öğeyi Kaldır",
+		"sendCustomOverlayContent": "Özel bindirme içeriği gönder",
 		"delay": "Gecikme"
 	},
 	"twitch": {

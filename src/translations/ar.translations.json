@@ -2353,6 +2353,7 @@
 		"pollSetTimer": "تعيين توقيت الاستطلاع",
 		"pollAddItem": "استطلاع إضافة عنصر",
 		"pollRemoveItem": "استطلاع إزالة العنصر",
+		"sendCustomOverlayContent": "إرسال محتوى تراكب مخصص",
 		"delay": "تأخير"
 	},
 	"twitch": {
