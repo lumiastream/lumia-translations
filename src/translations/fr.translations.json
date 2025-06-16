@@ -2353,6 +2353,7 @@
 		"pollSetTimer": "Minuterie de réglage du sondage",
 		"pollAddItem": "Sondage Ajouter un élément",
 		"pollRemoveItem": "Sondage Supprimer l'élément",
+		"sendCustomOverlayContent": "Envoyer un contenu de superposition personnalisé",
 		"delay": "Retard"
 	},
 	"twitch": {

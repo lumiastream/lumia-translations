@@ -2353,6 +2353,7 @@
 		"pollSetTimer": "Poll Set Timer",
 		"pollAddItem": "Poll Add Item",
 		"pollRemoveItem": "Poll Remove Item",
+		"sendCustomOverlayContent": "Send Custom Overlay Content",
 		"delay": "Delay"
 	},
 	"twitch": {

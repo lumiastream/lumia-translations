@@ -2353,6 +2353,7 @@
 		"pollSetTimer": "Definir Temporizador da Enquete",
 		"pollAddItem": "Adicionar Item à Enquete",
 		"pollRemoveItem": "Remover Item da Enquete",
+		"sendCustomOverlayContent": "Enviar conteúdo de sobreposição personalizado",
 		"delay": "Atraso"
 	},
 	"twitch": {
