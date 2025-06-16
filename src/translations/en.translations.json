@@ -1914,6 +1914,7 @@
 		"raffle_winners": "All of the usernames of users who won the raffle (Comma separated)",
 		"random": "Randomly choose between two numbers, e.g. {{random=1,20}}",
 		"random_input": "Randomly choose between different inputs separated by a comma, e.g. {{random_input=first,second,third}}",
+		"sum_variables": "Sum multiple variables together to create a combined value. This is very useful for creating a combined goal like followers, e.g. {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
 		"rawMessage": "The raw unaltered message that the sender sent",
 		"rawMessageWithoutEmotes": "(Twitch) The raw message that the sender sent without emotes inside of the message",
 		"read_file": "Read from a file on your local computer in plain text, e.g. {{read_file=C:\\User\\Myfile.txt}}",
