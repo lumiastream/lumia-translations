@@ -1892,7 +1892,7 @@
 		"raffle_winners": "جميع أسماء المستخدمين الذين فازوا بالسحب (مفصولة بفواصل)",
 		"random": "اختر بشكل عشوائي بين رقمين، على سبيل المثال. {{random=1,20}}",
 		"random_input": "اختر عشوائيًا بين مدخلات مختلفة مفصولة بفاصلة، على سبيل المثال: {{random_input=first,second,third}}",
-		"sum_variables": "اجمع عدة متغيرات معًا لإنشاء قيمة مجمعة. هذا مفيد جدًا لإنشاء هدف مجمع مثل المتابعين، على سبيل المثال {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
+		"sum_variables": "اجمع عدة متغيرات معًا لإنشاء قيمة مجمعة. هذا مفيد جدًا لإنشاء هدف مجمع مثل المتابعين، على سبيل المثال {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
 		"rawMessage": "الرسالة الأولية غير المعدلة التي أرسلها المرسل",
 		"rawMessageWithoutEmotes": "(Twitch) الرسالة الأولية التي أرسلها المرسل بدون عواطف داخل الرسالة",
 		"read_file": "القراءة من ملف موجود على جهاز الكمبيوتر المحلي الخاص بك بنص عادي، على سبيل المثال. {{read_file=C:\\User\\Myfile.txt}}",

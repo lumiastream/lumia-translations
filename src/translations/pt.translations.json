@@ -1914,7 +1914,7 @@
 		"raffle_winners": "Todos os nomes de usuário dos usuários que ganharam o sorteio (separados por vírgula)",
 		"random": "Escolhe aleatoriamente entre dois números, por exemplo, {{random=1,20}}",
 		"random_input": "Escolhe aleatoriamente entre diferentes entradas separadas por vírgula, por exemplo, {{random_input=primeiro,segundo,terceiro}}",
-		"sum_variables": "Some várias variáveis para criar um valor combinado. Isso é muito útil para criar um objetivo combinado como seguidores, por exemplo {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
+		"sum_variables": "Some várias variáveis para criar um valor combinado. Isso é muito útil para criar um objetivo combinado como seguidores, por exemplo {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
 		"rawMessage": "A mensagem bruta inalterada que o remetente enviou",
 		"rawMessageWithoutEmotes": "(Twitch) A mensagem bruta que o remetente enviou sem emotes dentro da mensagem",
 		"read_file": "Lê de um arquivo em seu computador local em texto simples, por exemplo, {{read_file=C:\\User\\Myfile.txt}}",

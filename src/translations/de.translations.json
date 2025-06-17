@@ -1891,7 +1891,7 @@
 		"raffle_winners": "Alle Benutzernamen der Benutzer, die die Verlosung gewonnen haben (durch Kommas getrennt)",
 		"random": "Wählen Sie zufällig zwischen zwei Zahlen, z.B. {{random=1,20}}",
 		"random_input": "Wählen Sie zufällig zwischen verschiedenen, durch Komma getrennten Eingaben, z. B. {{random_input=first,second,third}}",
-		"sum_variables": "Addiere mehrere Variablen, um einen kombinierten Wert zu erstellen. Dies ist sehr nützlich, um ein kombiniertes Ziel wie Follower zu erstellen, z. B. {{{sum_variables=twitch_total_follower_count,kick_total_follower_count}}}",
+		"sum_variables": "Addiere mehrere Variablen, um einen kombinierten Wert zu erstellen. Dies ist sehr nützlich, um ein kombiniertes Ziel wie Follower zu erstellen, z. B. {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
 		"rawMessage": "Die rohe, unveränderte Nachricht, die der Absender gesendet hat",
 		"rawMessageWithoutEmotes": "(Twitch) Die Rohnachricht, die der Absender ohne Emotes in der Nachricht gesendet hat",
 		"read_file": "Aus einer Datei auf Ihrem lokalen Computer im Klartext lesen, z. B. {{read_file=C:\\User\\Myfile.txt}}",
