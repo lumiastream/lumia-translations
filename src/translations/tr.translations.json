@@ -1875,7 +1875,7 @@
 		"overlaySetVisibility": "Kaplama görünürlüğünü ayarlama",
 		"overlaySetVolume": "Medya katmanının hacmini gönder",
 		"overlayShoutout": "Bir Bildiri Gönder",
-		"overlaySendCustomOverlayContent": "Özel katmana içerik gönder",
+		"overlaySendCustomContent": "Özel katmana içerik gönder",
 		"overlayTimer": "Zamanlayıcı katmanını değiştirme",
 		"path": "İzlenen dosyanın yolu",
 		"platform": "Bu mesajın geldiği yayın platformu",

@@ -1874,7 +1874,7 @@
 		"overlaySetVisibility": "设置叠加层的可见性",
 		"overlaySetVolume": "发送媒体层的音量",
 		"overlayShoutout": "发送宣传",
-		"overlaySendCustomOverlayContent": "发送内容到自定义叠加层",
+		"overlaySendCustomContent": "发送内容到自定义叠加层",
 		"overlayTimer": "更改计时器层",
 		"path": "被监视文件的路径",
 		"platform": "此消息来自的流媒体平台",

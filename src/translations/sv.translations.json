@@ -1855,7 +1855,7 @@
 		"overlaySetVisibility": "Ställ in en överläggssynlighet",
 		"overlaySetVolume": "Skicka volym av ett medialager",
 		"overlayShoutout": "Skicka en Shoutout",
-		"overlaySendCustomOverlayContent": "Skicka innehåll till anpassat overlay",
+		"overlaySendCustomContent": "Skicka innehåll till anpassat overlay",
 		"overlayTimer": "Ändra ett timerlager",
 		"platform": "Streamingplattformen detta meddelande kommer från",
 		"points": "(Twitch) Hur många poäng användes för en Twitch Point-inlösen",

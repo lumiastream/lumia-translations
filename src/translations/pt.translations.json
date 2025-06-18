@@ -1874,7 +1874,7 @@
 		"overlaySetVisibility": "Define a visibilidade de uma sobreposição",
 		"overlaySetVolume": "Define o volume de uma camada de Mídia",
 		"overlayShoutout": "Envia um Grito",
-		"overlaySendCustomOverlayContent": "Enviar conteúdo para overlay personalizado",
+		"overlaySendCustomContent": "Enviar conteúdo para overlay personalizado",
 		"overlayTimer": "Altera uma camada de Temporizador",
 		"path": "Caminho do arquivo assistido",
 		"platform": "A plataforma de streaming de onde esta mensagem está vindo",

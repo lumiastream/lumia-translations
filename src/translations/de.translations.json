@@ -1856,7 +1856,7 @@
 		"overlaySetVisibility": "Legen Sie eine Overlay-Sichtbarkeit fest",
 		"overlaySetVolume": "Sendevolumen einer Medienschicht",
 		"overlayShoutout": "Senden Sie einen Shoutout",
-		"overlaySendCustomOverlayContent": "Inhalt an benutzerdefiniertes Overlay senden",
+		"overlaySendCustomContent": "Inhalt an benutzerdefiniertes Overlay senden",
 		"overlayTimer": "Ändern Sie eine Timer-Ebene",
 		"platform": "Die Streaming-Plattform, von der diese Nachricht stammt",
 		"points": "(Twitch) Wie viele Punkte wurden für die Einlösung von Twitch-Punkten verwendet?",

@@ -1856,7 +1856,7 @@
 		"overlaySetVisibility": "Establecer una visibilidad de Overlays",
 		"overlaySetVolume": "Enviar volumen de una capa multimedia",
 		"overlayShoutout": "Enviar un saludo",
-		"overlaySendCustomOverlayContent": "Enviar contenido a la superposición personalizada",
+		"overlaySendCustomContent": "Enviar contenido a la superposición personalizada",
 		"overlayTimer": "Cambiar una capa de temporizador",
 		"platform": "La plataforma de transmisión de la que proviene este mensaje.",
 		"points": "(Twitch) ¿Cuántos puntos se utilizaron para canjear puntos de Twitch?",
