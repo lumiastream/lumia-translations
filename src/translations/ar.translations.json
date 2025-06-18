@@ -1856,7 +1856,7 @@
 		"overlaySetVisibility": "قم بتعيين رؤية التراكبات",
 		"overlaySetVolume": "إرسال حجم طبقة الوسائط",
 		"overlayShoutout": "أرسل صيحة",
-		"overlaySendCustomOverlayContent": "إرسال محتوى إلى التراكب المخصص",
+		"overlaySendCustomContent": "إرسال محتوى إلى التراكب المخصص",
 		"overlayTimer": "تغيير طبقة الموقت",
 		"platform": "منصة البث التي تأتي منها هذه الرسالة",
 		"points": "(Twitch) كم عدد النقاط التي تم استخدامها لاسترداد نقاط Twitch",

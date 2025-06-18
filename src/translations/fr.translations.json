@@ -1856,7 +1856,7 @@
 		"overlaySetVisibility": "Définir une visibilité des superpositions",
 		"overlaySetVolume": "Envoyer le volume d'une couche Média",
 		"overlayShoutout": "Envoyez un cri",
-		"overlaySendCustomOverlayContent": "Envoyer du contenu vers la superposition personnalisée",
+		"overlaySendCustomContent": "Envoyer du contenu vers la superposition personnalisée",
 		"overlayTimer": "Changer un calque de minuterie",
 		"platform": "La plateforme de streaming d'où provient ce message",
 		"points": "(Twitch) Combien de points ont été utilisés pour l'échange de points Twitch",
