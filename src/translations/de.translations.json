@@ -1655,7 +1655,8 @@
 		"import-from-file": "Aus Datei importieren",
 		"import-command-error": "Import des Befehls fehlgeschlagen. Bitte überprüfe die Datei oder den Code, den du importiert hast, und stelle sicher, dass keine Änderungen vorgenommen wurden, da dies die Funktion beeinträchtigen kann.",
 		"import-command-success": "Befehl \"{{command}}\" wurde erfolgreich importiert",
-		"command-copied-to-clipboard": "Befehl wurde in die Zwischenablage kopiert. Gehe zum Importbereich, um ihn zu verwenden."
+		"command-copied-to-clipboard": "Befehl wurde in die Zwischenablage kopiert. Gehe zum Importbereich, um ihn zu verwenden.",
+		"code-id": "Code-ID"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM von Ableton Link",
@@ -4254,7 +4255,8 @@
 		"go-to": "Gehe zu",
 		"open-upload": "Öffnen Sie den Upload, den Sie importieren möchten",
 		"copy-id": "Kopiere das",
-		"paste-id": "Fügen Sie es unten ein 👇"
+		"paste-id": "Fügen Sie es unten ein 👇",
+		"hfx-info": "Hfx-Informationen"
 	},
 	"raffle": {
 		"add-user": "Benutzer hinzufügen",

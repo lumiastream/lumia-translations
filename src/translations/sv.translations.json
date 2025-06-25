@@ -1655,7 +1655,8 @@
 		"import-from-file": "Importera från fil",
 		"import-command-error": "Det gick inte att importera kommandot. Kontrollera filen eller koden du importerade och säkerställ att den inte har ändrats, eftersom ändringar kan göra att det inte fungerar.",
 		"import-command-success": "Kommandot \"{{command}}\" har importerats",
-		"command-copied-to-clipboard": "Kommandot har kopierats till urklipp. Gå till importavsnittet för att använda det."
+		"command-copied-to-clipboard": "Kommandot har kopierats till urklipp. Gå till importavsnittet för att använda det.",
+		"code-id": "Kod-ID"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM för Ableton Link",
@@ -4252,7 +4253,8 @@
 		"go-to": "Gå till",
 		"open-upload": "Öppna uppladdningen du vill importera",
 		"copy-id": "Kopiera",
-		"paste-id": "Klistra in den nedan 👇"
+		"paste-id": "Klistra in den nedan 👇",
+		"hfx-info": "Hfx-information"
 	},
 	"raffle": {
 		"add-user": "Lägg till användare",
