@@ -1656,7 +1656,8 @@
 		"import-from-file": "Dosyadan içe aktar",
 		"import-command-error": "Komut içe aktarılamadı. Lütfen içe aktardığınız dosyayı veya kodu kontrol edin ve değiştirilmediğinden emin olun, çünkü herhangi bir değişiklik çalışmasını engelleyebilir.",
 		"import-command-success": "\"{{command}}\" komutu başarıyla içe aktarıldı",
-		"command-copied-to-clipboard": "Komut panoya kopyalandı. Kullanmak için içe aktarma bölümüne gidin."
+		"command-copied-to-clipboard": "Komut panoya kopyalandı. Kullanmak için içe aktarma bölümüne gidin.",
+		"code-id": "Kod kimliği"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) Ableton Link'in BPM'si",
@@ -4265,7 +4266,8 @@
 		"go-to": "Git",
 		"open-upload": "İçe aktarmak istediğiniz yüklemeyi açın",
 		"copy-id": "Kopyala",
-		"paste-id": "Aşağıya yapıştırın 👇"
+		"paste-id": "Aşağıya yapıştırın 👇",
+		"hfx-info": "Hfx bilgisi"
 	},
 	"raffle": {
 		"add-user": "Kullanıcı ekle",

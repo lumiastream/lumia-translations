@@ -1655,7 +1655,8 @@
 		"import-from-file": "Importeren vanaf bestand",
 		"import-command-error": "Importeren van commando mislukt. Controleer het bestand of de code die je hebt geïmporteerd en zorg ervoor dat deze niet is gewijzigd, want wijzigingen kunnen het functioneren verhinderen.",
 		"import-command-success": "Commando \"{{command}}\" succesvol geïmporteerd",
-		"command-copied-to-clipboard": "Commando gekopieerd naar klembord. Ga naar het importgedeelte om het te gebruiken."
+		"command-copied-to-clipboard": "Commando gekopieerd naar klembord. Ga naar het importgedeelte om het te gebruiken.",
+		"code-id": "Code-ID"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM van Ableton Link",
@@ -4251,7 +4252,8 @@
 		"go-to": "Ga naar",
 		"open-upload": "Open de upload die je wilt importeren",
 		"copy-id": "Kopieer de",
-		"paste-id": "Plak het hieronder 👇"
+		"paste-id": "Plak het hieronder 👇",
+		"hfx-info": "Hfx-informatie"
 	},
 	"raffle": {
 		"add-user": "Voeg gebruiker toe",

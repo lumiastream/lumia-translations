@@ -1657,7 +1657,8 @@
 		"import-from-file": "Import from file",
 		"import-command-error": "Import command failed. Please check the file or code you imported and make sure it hasn’t been modified, as any changes may prevent it from working.",
 		"import-command-success": "Command \"{{command}}\" imported successfully",
-		"command-copied-to-clipboard": "Command copied to clipboard. Go to the import section to use it."
+		"command-copied-to-clipboard": "Command copied to clipboard. Go to the import section to use it.",
+		"code-id": "Code id"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM of Ableton Link",
@@ -4267,7 +4268,8 @@
 		"go-to": "Go to",
 		"open-upload": "Open the upload you want to import",
 		"copy-id": "Copy the",
-		"paste-id": "Paste it below 👇"
+		"paste-id": "Paste it below 👇",
+		"hfx-info": "Hfx info"
 	},
 	"raffle": {
 		"add-user": "Add user",
