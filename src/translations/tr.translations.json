@@ -3215,6 +3215,7 @@
 		"category": "Kategori",
 		"layer-count": "Katman sayısı",
 		"publish-on-marketplace": "Piyasada halka açık hale getirin",
+		"lock-custom-code": "Özel kodu düzenlemeye karşı kilitle",
 		"pending-approval": "Onay bekleniyor",
 		"denied-because": "Reddedildi çünkü {{reason}}",
 		"public-on-marketplace": "Pazar yerinde halka açık",

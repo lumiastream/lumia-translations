@@ -3214,6 +3214,7 @@
 		"category": "Kategorie",
 		"layer-count": "Ebenenanzahl",
 		"publish-on-marketplace": "Auf dem Marktplatz veröffentlichen",
+		"lock-custom-code": "Benutzerdefinierten Code vor Bearbeitung schützen",
 		"pending-approval": "Wartet auf Genehmigung",
 		"denied-because": "Abgelehnt wegen {{reason}}",
 		"public-on-marketplace": "Öffentlich auf dem Marktplatz",

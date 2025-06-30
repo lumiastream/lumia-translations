@@ -3211,6 +3211,7 @@
 		"category": "Category",
 		"layer-count": "Layer count",
 		"publish-on-marketplace": "Make it public on marketplace",
+		"lock-custom-code": "Aangepaste code vergrendelen zodat deze niet kan worden bewerkt",
 		"pending-approval": "Pending approval",
 		"denied-because": "Denied because {{reason}}",
 		"public-on-marketplace": "Public on marketplace",

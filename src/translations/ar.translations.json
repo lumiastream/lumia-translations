@@ -3214,6 +3214,7 @@
 		"category": "الفئة",
 		"layer-count": "عدد الطبقات",
 		"publish-on-marketplace": "نشرها في السوق العام",
+		"lock-custom-code": "قفل الكود المخصص لمنع تعديله",
 		"pending-approval": "قيد الموافقة",
 		"denied-because": "تم الرفض بسبب {{reason}}",
 		"public-on-marketplace": "عام في السوق",

@@ -3214,6 +3214,7 @@
 		"category": "类别",
 		"layer-count": "图层计数",
 		"publish-on-marketplace": "在市场上公开",
+		"lock-custom-code": "锁定自定义代码以防止修改",
 		"pending-approval": "待批准",
 		"denied-because": "拒绝原因：{{reason}}",
 		"public-on-marketplace": "在市场上公开",

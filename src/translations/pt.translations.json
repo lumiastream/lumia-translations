@@ -3214,6 +3214,7 @@
 		"category": "Categoria",
 		"layer-count": "Contagem de camadas",
 		"publish-on-marketplace": "Torne -o público no mercado",
+		"lock-custom-code": "Bloquear o código personalizado para que não seja editado",
 		"pending-approval": "Aprovação pendente",
 		"denied-because": "Negou porque {{reason}}",
 		"public-on-marketplace": "Público no mercado",
