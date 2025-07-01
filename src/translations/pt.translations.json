@@ -1758,6 +1758,7 @@
 		"get_queue_count": "A contagem atual de itens na fila. Por exemplo, {{get_queue_count}}",
 		"get_var_from_msg": "Obtém o valor de uma variável de uma mensagem. Use um sinal de igual dentro da mensagem para atribuir uma variável e uma vírgula para separar múltiplas variáveis. Por exemplo: !comando nome=lumi, idade=6. A variável será: {{get_var_from_msg=nome}} e {{get_var_from_msg=idade}}",
 		"get_user_loyalty_points": "Obtém o valor dos pontos de fidelidade de um usuário. Por exemplo, a variável será: {{get_user_loyalty_points={{message}}, ou nome de usuário e plataforma do visualizador {{get_user_loyalty_points=lumiastream,twitch}}. Em seguida, use-o assim: !comando nome de usuário ou !comando nome de usuário,plataforma. O resultado será o saldo de pontos sem moeda",
+		"translate": "Traduz uma mensagem usando Google Translate. Por exemplo: {{translate={{message}}}} ou {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "Obtém um arquivo aleatório de uma pasta. Por exemplo, {{get_random_file_from_folder=C:/Users/Desktop}}.",
 		"getAllCommands": "Obtém todos os comandos do Lumia que estão nas configurações do usuário",
 		"getAllVariables": "Obtém todas as variáveis como um objeto",
