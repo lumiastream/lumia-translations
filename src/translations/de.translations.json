@@ -2170,6 +2170,7 @@
 		"first_count": "Zähle, wie oft der Benutzername des ersten Chatters einen Chat beginnt",
 		"get_var_from_msg": "Ruft den Wert einer Variablen aus einer Nachricht ab. Verwende ein Gleichheitszeichen innerhalb der Nachricht, um eine Variable zuzuweisen, und ein Komma, um mehrere Variablen zu trennen. Beispiel: !command name=lumi, age=6. Die Variable wird sein: {{get_var_from_msg=name}} und {{get_var_from_msg=age}}",
 		"get_user_loyalty_points": "Ruft den Treuepunktewert eines Nutzers ab. Beispiel: Die Variable wird sein: {{get_user_loyalty_points={{message}}, oder Benutzername und Plattform des Zuschauers {{get_user_loyalty_points=lumiastream,twitch}}. Anschließend kann sie wie folgt verwendet werden: !command Benutzername oder !command Benutzername, Plattform. Das Ergebnis ist der Punktestand ohne Währungsangabe.",
+		"translate": "Übersetzt eine Nachricht mit Google Translate. Beispiel: {{translate={{message}}}} oder {{translate={{message}}|es}}",
 		"duel_result": "Das Duell-Ergebnis zeigt eine Gewinn-, Verlust- oder Ungültige-Eingabe-Nachricht basierend auf dem Spielstatus an",
 		"duel_winner": "Der Benutzername des Duell-Gewinners",
 		"duel_loser": "Der Benutzername des Duell-Verlierers",

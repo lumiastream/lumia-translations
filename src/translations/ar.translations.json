@@ -2171,6 +2171,7 @@
 		"first_count": "عد عدد المرات التي يبدأ فيها اسم أول متحدث في الدردشة",
 		"get_var_from_msg": "يستخرج قيمة متغير من الرسالة. استخدم علامة التساوي داخل الرسالة لتعيين متغير وفاصلة لفصل المتغيرات المتعددة. مثال: !command name=lumi, age=6. سيكون المتغير: {{get_var_from_msg=name}} و {{get_var_from_msg=age}}",
 		"get_user_loyalty_points": "جلب قيمة نقاط الولاء لمستخدم. مثال: المتغير سيكون: {{get_user_loyalty_points={{message}}, أو اسم المستخدم ومنصة المشاهد {{get_user_loyalty_points=lumiastream,twitch}}. ثم استخدمه هكذا: !command username أو !command username,platform. ستكون النتيجة رصيد النقاط بدون العملة",
+		"translate": "ترجم رسالة باستخدام Google Translate. مثال: {{translate={{message}}}} أو {{translate={{message}}|es}}",
 		"duel_result": "نتيجة التحدي ستعرض رسالة الفوز، الخسارة، أو الإدخال غير الصالح بناءً على حالة اللعبة",
 		"duel_winner": "اسم المستخدم الفائز في التحدي",
 		"duel_loser": "اسم المستخدم الخاسر في التحدي",
