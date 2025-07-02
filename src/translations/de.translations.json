@@ -1656,7 +1656,8 @@
 		"import-command-error": "Import des Befehls fehlgeschlagen. Bitte überprüfe die Datei oder den Code, den du importiert hast, und stelle sicher, dass keine Änderungen vorgenommen wurden, da dies die Funktion beeinträchtigen kann.",
 		"import-command-success": "Befehl \"{{command}}\" wurde erfolgreich importiert",
 		"command-copied-to-clipboard": "Befehl wurde in die Zwischenablage kopiert. Gehe zum Importbereich, um ihn zu verwenden.",
-		"code-id": "Code-ID"
+		"code-id": "Code-ID",
+		"translate-message": "Nachricht übersetzen"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM von Ableton Link",

@@ -1657,7 +1657,8 @@
 		"import-command-error": "Komut içe aktarılamadı. Lütfen içe aktardığınız dosyayı veya kodu kontrol edin ve değiştirilmediğinden emin olun, çünkü herhangi bir değişiklik çalışmasını engelleyebilir.",
 		"import-command-success": "\"{{command}}\" komutu başarıyla içe aktarıldı",
 		"command-copied-to-clipboard": "Komut panoya kopyalandı. Kullanmak için içe aktarma bölümüne gidin.",
-		"code-id": "Kod kimliği"
+		"code-id": "Kod kimliği",
+		"translate-message": "Mesajı çevir"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) Ableton Link'in BPM'si",
