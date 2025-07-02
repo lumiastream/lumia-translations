@@ -2328,6 +2328,7 @@
 		"pauseQueue": "Warteschlange pausieren",
 		"removeCurrentQueueItem": "Aktuelles Warteschlangen-Element entfernen",
 		"viewerQueueEntry": "Eintrag in die Zuschauer-Warteschlange",
+		"viewerQueueLeave": "Aus der Zuschauer-Warteschlange entfernen",
 		"viewerQueuePlayPause": "Zuschauer-Warteschlange abspielen/pausieren",
 		"viewerQueueEndQueue": "Zuschauer-Warteschlange beenden",
 		"viewerQueuePickPlayer": "Spieler aus der Zuschauer-Warteschlange auswählen"

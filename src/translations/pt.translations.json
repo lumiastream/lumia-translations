@@ -2328,6 +2328,7 @@
 		"refreshSettings": "Atualizar Configurações",
 		"delay": "Atraso",
 		"viewerQueueEntry": "Entrada na Fila de Espectadores",
+		"viewerQueueLeave": "Remover da Fila de Espectadores",
 		"viewerQueuePlayPause": "Reproduzir/Pausar Fila de Espectadores",
 		"viewerQueueEndQueue": "Terminar Fila de Espectadores",
 		"viewerQueuePickPlayer": "Escolher Jogador da Fila de Espectadores"

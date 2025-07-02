@@ -2329,6 +2329,7 @@
 		"refreshSettings": "Ayarları Yenile",
 		"delay": "Gecikme",
 		"viewerQueueEntry": "İzleyici Sıra Girişi",
+		"viewerQueueLeave": "İzleyici Sırasını Bırak",
 		"viewerQueuePlayPause": "İzleyici Sırası Oynatmayı Duraklat",
 		"viewerQueueEndQueue": "İzleyici Sırası Bitiş Sırası",
 		"viewerQueuePickPlayer": "İzleyici Sıra Seçimi Oyuncusu"
