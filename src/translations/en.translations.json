@@ -2331,6 +2331,7 @@
 		"refreshSettings": "Refresh Settings",
 		"delay": "Delay",
 		"viewerQueueEntry": "Viewer Queue Entry",
+		"viewerQueueLeave": "Viewer Queue Leave",
 		"viewerQueuePlayPause": "Viewer Queue Play Pause",
 		"viewerQueueEndQueue": "Viewer Queue End Queue",
 		"viewerQueuePickPlayer": "Viewer Queue Pick Player"
