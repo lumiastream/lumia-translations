@@ -1656,7 +1656,8 @@
 		"import-command-error": "命令导入失败。请检查您导入的文件或代码，并确保它未被修改，因为任何更改都可能导致其无法工作。",
 		"import-command-success": "命令“{{command}}”导入成功",
 		"command-copied-to-clipboard": "命令已复制到剪贴板。前往导入部分即可使用。",
-		"code-id": "代码 ID"
+		"code-id": "代码 ID",
+		"translate-message": "翻译消息"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) Ableton Link 的 BPM",

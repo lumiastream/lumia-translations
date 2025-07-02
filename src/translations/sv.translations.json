@@ -1656,7 +1656,8 @@
 		"import-command-error": "Det gick inte att importera kommandot. Kontrollera filen eller koden du importerade och säkerställ att den inte har ändrats, eftersom ändringar kan göra att det inte fungerar.",
 		"import-command-success": "Kommandot \"{{command}}\" har importerats",
 		"command-copied-to-clipboard": "Kommandot har kopierats till urklipp. Gå till importavsnittet för att använda det.",
-		"code-id": "Kod-ID"
+		"code-id": "Kod-ID",
+		"translate-message": "Översätt meddelande"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM för Ableton Link",

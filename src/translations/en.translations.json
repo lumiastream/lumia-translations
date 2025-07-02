@@ -1658,7 +1658,8 @@
 		"import-command-error": "Import command failed. Please check the file or code you imported and make sure it hasn’t been modified, as any changes may prevent it from working.",
 		"import-command-success": "Command \"{{command}}\" imported successfully",
 		"command-copied-to-clipboard": "Command copied to clipboard. Go to the import section to use it.",
-		"code-id": "Code id"
+		"code-id": "Code id",
+		"translate-message": "Translate message"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM of Ableton Link",
