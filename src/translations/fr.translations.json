@@ -4352,7 +4352,7 @@
 		"title-description": "A chatbot message containing this title will be sent when the queue start",
 		"limit-queue-list": "Limit queue list",
 		"queue-list": "Queue list",
-		"queue-list-description": "Viewers can join the queue list by typing",
+		"queue-list-description": "Viewers can join or leave the queue list by typing",
 		"recently-played": "Recently played",
 		"recently-played-description": "Recently played viewers can be added back to the queue",
 		"players-list": "Players list",

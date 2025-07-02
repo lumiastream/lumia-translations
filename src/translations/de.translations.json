@@ -4352,7 +4352,7 @@
 		"title-description": "Beim Start der Warteschlange wird eine Chat-Nachricht mit diesem Titel gesendet",
 		"limit-queue-list": "Warteschlangen-Größe begrenzen",
 		"queue-list": "Warteschlangen-Liste",
-		"queue-list-description": "Zuschauer können der Warteschlange beitreten, indem sie den folgenden Befehl eingeben",
+		"queue-list-description": "Zuschauer können der Warteschlange beitreten oder die Warteschlange verlassen, indem sie den folgenden Befehl eingeben",
 		"recently-played": "Zuletzt ausgewählte Zuschauer",
 		"recently-played-description": "Zuschauer, die zuletzt gespielt haben, können erneut in die Warteschlange aufgenommen werden",
 		"players-list": "Spielerliste",
