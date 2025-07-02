@@ -4332,7 +4332,7 @@
 		"title-description": "Uma mensagem de chatbot que contém este título será enviada quando o início da fila",
 		"limit-queue-list": "Lista de filas de limite",
 		"queue-list": "Lista de filas",
-		"queue-list-description": "Os espectadores podem ingressar na lista de filas digitando",
+		"queue-list-description": "Os espectadores podem ingressar ou sair da lista de filas digitando",
 		"recently-played": "Recentemente jogado",
 		"recently-played-description": "Os telespectadores recentemente jogados podem ser adicionados de volta à fila",
 		"players-list": "Lista de jogadores",

@@ -4332,7 +4332,7 @@
 		"title-description": "当队列开始时，将发送包含此标题的聊天机器人消息",
 		"limit-queue-list": "限制队列列表",
 		"queue-list": "队列列表",
-		"queue-list-description": "观众可以通过输入加入队列列表",
+		"queue-list-description": "观众可以输入加入或离开队列列表",
 		"recently-played": "最近播放",
 		"recently-played-description": "最近播放的观众可以重新添加到队列中",
 		"players-list": "玩家列表",

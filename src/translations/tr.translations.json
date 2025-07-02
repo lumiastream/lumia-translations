@@ -4333,7 +4333,7 @@
 		"title-description": "Sıra başladığında bu başlığı içeren bir chatbot mesajı gönderilecek",
 		"limit-queue-list": "Kuyruk listesini sınırla",
 		"queue-list": "Kuyruk listesi",
-		"queue-list-description": "İzleyiciler yazarak kuyruk listesine katılabilir",
+		"queue-list-description": "İzleyiciler kuyruk listesine katılabilir veya kaldırabilir",
 		"recently-played": "Son oynanan",
 		"recently-played-description": "Son oynatılan izleyiciler tekrar sıraya eklenebilir",
 		"players-list": "Oyuncu listesi",
