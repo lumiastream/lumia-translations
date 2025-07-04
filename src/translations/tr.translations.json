@@ -4099,6 +4099,7 @@
 		"update-to-smartlife-v2": "Şu anda eski Eski Smartlife API'sini kullanıyorsunuz. ",
 		"midi-triggered": "MIDI tetiklendi {{midiKey}}",
 		"message-twitch-generic-permission-missing": "Seğirme {{permission}} izin eksik.  {{permission}} izin verin ve tekrar bağlanın",
+		"message-kick-generic-permission-missing": "Kick {{permission}} izni eksik. Bağlantılar > Kick'i Düzenle kısmına gidin, {{permission}} iznini seçin ve tekrar bağlanın",
 		"message-emulate-alert": "Uyarı taklit ediliyor {{alert}}",
 		"multiple-instances": "Lumia Stream'i birden fazla yerde kullanıyorsunuz. ",
 		"message-discord-cant-reconnect": "Discord yeniden bağlanamıyor. ",

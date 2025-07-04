@@ -4098,6 +4098,7 @@
 		"update-to-smartlife-v2": "Você está atualmente usando a antiga API do SmartLife Legacy. ",
 		"midi-triggered": "Midi desencadeou {{midiKey}}",
 		"message-twitch-generic-permission-missing": "Contração muscular {{permission}} Falta permissão.  {{permission}} permissão e conectar novamente",
+		"message-kick-generic-permission-missing": "A permissão {{permission}} do Kick está ausente. Vá para Conexões > Editar Kick, selecione a permissão {{permission}} e conecte-se novamente",
 		"message-emulate-alert": "Alerta emulador {{alert}}",
 		"multiple-instances": "Você está usando o fluxo Lumia em vários lugares. ",
 		"message-discord-cant-reconnect": "Discord não é capaz de se reconectar. ",
