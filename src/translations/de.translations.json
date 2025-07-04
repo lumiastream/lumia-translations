@@ -4095,6 +4095,7 @@
 		"update-to-smartlife-v2": "Sie verwenden derzeit die alte Legacy Smartlife API. ",
 		"midi-triggered": "MIDI-getriggert {{midiKey}}",
 		"message-twitch-generic-permission-missing": "Twitch {{permission}} Erlaubnis fehlt.  {{permission}} Erlaubnis und stellen Sie erneut eine Verbindung her",
+		"message-kick-generic-permission-missing": "Die Kick-Berechtigung {{permission}} fehlt. Gehe zu Verbindungen > Kick bearbeiten und wähle die Berechtigung {{permission}} und verbinde dich erneut",
 		"message-emulate-alert": "Alert emulieren {{alert}}",
 		"message-has-been-deleted": "Mod hat eine Nachricht von {{username}} gelöscht. Die Nachricht lautete: {{message}}",
 		"message-fail-auth-chatbot": "Konnte den {{site}}-Chatbot nicht starten: Authentifizierung fehlgeschlagen",

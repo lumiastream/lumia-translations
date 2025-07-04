@@ -4093,6 +4093,7 @@
 		"update-to-smartlife-v2": "Du använder för närvarande det gamla Legacy Smartlife API. ",
 		"midi-triggered": "MIDI utlöst {{midiKey}}",
 		"message-twitch-generic-permission-missing": "Rycka till {{permission}} tillstånd saknas.  {{permission}} behörighet och anslut igen",
+		"message-kick-generic-permission-missing": "Kick-behörigheten {{permission}} saknas. Gå till Anslutningar > Redigera Kick och välj behörigheten {{permission}}, anslut igen",
 		"message-emulate-alert": "Emulerar varning {{alert}}",
 		"message-has-been-deleted": "Mod deleted message from {{username}}. The message was: {{message}}",
 		"message-fail-auth-chatbot": "Couldn't start {{site}} Chat Bot: Auth Failed",

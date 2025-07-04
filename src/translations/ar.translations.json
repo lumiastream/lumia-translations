@@ -4095,6 +4095,7 @@
 		"update-to-smartlife-v2": "أنت تستخدم حاليًا واجهة برمجة تطبيقات Legacy Smartlife القديمة. ",
 		"midi-triggered": "تم تشغيل MIDI {{midiKey}}",
 		"message-twitch-generic-permission-missing": "تويتش {{permission}} إذن مفقود.  {{permission}} إذن والاتصال مرة أخرى",
+		"message-kick-generic-permission-missing": "إذن {{permission}} مفقود من Kick. انتقل إلى الاتصالات > تعديل Kick واختر إذن {{permission}} وأعد الاتصال",
 		"message-emulate-alert": "محاكاة التنبيه {{alert}}",
 		"message-has-been-deleted": "قام المشرف بحذف رسالة من {{username}}. كانت الرسالة: {{message}}",
 		"message-fail-auth-chatbot": "تعذر بدء {{site}} Chat Bot: فشل في التوثيق",

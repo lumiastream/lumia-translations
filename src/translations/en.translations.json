@@ -4101,6 +4101,7 @@
 		"update-to-smartlife-v2": "You are currently using the old Legacy Smartlife API. Please head to Connections > Edit Smartlife to upgrade to the new V2 api",
 		"midi-triggered": "MIDI triggered {{midiKey}}",
 		"message-twitch-generic-permission-missing": "Twitch {{permission}} permission is missing. Head to Connections > Edit Twitch and select the {{permission}} permission and connect again",
+		"message-kick-generic-permission-missing": "Kick {{permission}} permission is missing. Head to Connections > Edit Kick and select the {{permission}} permission and connect again",
 		"message-emulate-alert": "Emulating alert {{alert}}",
 		"multiple-instances": "You are using Lumia Stream in multiple places. While this should not be done it's still allowed, but it will turn off Lumia Services on the previous connections so that alerts and commands are not fired twice",
 		"message-discord-cant-reconnect": "Discord is not able to reconnect. Please reconnect to Discord by going to Connections > Platforms",
