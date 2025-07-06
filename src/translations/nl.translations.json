@@ -448,6 +448,7 @@
 		"inputcontrol": "Invoercontrole",
 		"automations": "Automatiseringen",
 		"hotkeys": "Sneltoetsen",
+		"voicecommands": "Spraakopdrachten",
 		"filewatcher": "Bestandswachter",
 		"webhooks": "Webhaken",
 		"midi": "MIDI",

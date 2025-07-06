@@ -448,6 +448,7 @@
 		"inputcontrol": "Ingångskontroll",
 		"automations": "Automatiseringar",
 		"hotkeys": "Snabbtangenter",
+		"voicecommands": "Röstkommandon",
 		"filewatcher": "Filbevakare",
 		"webhooks": "Webhooks",
 		"midi": "MIDI",
