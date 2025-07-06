@@ -449,6 +449,7 @@
 		"inputcontrol": "输入控制",
 		"automations": "自动化",
 		"hotkeys": "热键",
+		"voicecommands": "语音命令",
 		"filewatcher": "文件/文件夹监视器",
 		"webhooks": "Webhooks",
 		"midi": "MIDI",
@@ -2328,7 +2329,6 @@
 		"refreshSettings": "刷新设置",
 		"delay": "延迟",
 		"viewerQueueEntry": "观众队列条目",
-		"viewerQueueLeave": "观众队列离开",
 		"viewerQueuePlayPause": "观众队列播放/暂停",
 		"viewerQueueEndQueue": "观众队列结束队列",
 		"viewerQueuePickPlayer": "观众队列选择玩家"

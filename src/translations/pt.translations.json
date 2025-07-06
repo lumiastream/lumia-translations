@@ -449,6 +449,7 @@
 		"inputcontrol": "Controle de Entrada",
 		"automations": "Automações",
 		"hotkeys": "Atalhos",
+		"voicecommands": "Comandos de Voz",
 		"filewatcher": "Observador de Arquivos/Pastas",
 		"webhooks": "Webhooks",
 		"midi": "MIDI",
