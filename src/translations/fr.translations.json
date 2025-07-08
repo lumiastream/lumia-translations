@@ -526,7 +526,8 @@
 		"activate-now": "Activer maintenant",
 		"cooldown-is-empty": "Le temps de recharge est vide",
 		"unsaved-changes": "Vous avez des modifications qui nécessitent une actualisation",
-		"chat-not-activated": "Le chat n'est pas activé"
+		"chat-not-activated": "Le chat n'est pas activé",
+		"mod-queue-is-empty": "La file de modération est vide"
 	},
 	"controlcenter": {
 		"controlcenter": "Centre de contrôle",
@@ -4201,7 +4202,8 @@
 		"raffle": "Raffle",
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
-		"add-to-dashboard": "Add to dashboard"
+		"add-to-dashboard": "Add to dashboard",
+		"mod-queue": "File de modération"
 	},
 	"event-list": {
 		"event-to-show": "Événements à montrer",
@@ -4464,6 +4466,11 @@
 		"update-all-time": "Mettre à jour All time {{currencyName}}",
 		"edit-selected-viewers": "Modifier {{count}} spectateurs",
 		"points-set-description": "Tous les {{count}} utilisateurs sélectionnés auront leurs points définis à {{targetPoints}} {{currencyName}}, par exemple si l'utilisateur a {{originalPoints}} {{currencyName}}, il deviendra {{targetPoints}} {{currencyName}}",
-		"points-sum-description": "Tous les {{count}} utilisateurs sélectionnés auront {{operator}}{{targetPoints}} points ajoutés à leurs points existants, par exemple si l'utilisateur a {{originalPoints}} {{currencyName}}, il deviendra {{resultPoints}} {{currencyName}}"
+		"points-sum-description": "Tous les {{count}} utilisateurs sélectionnés auront {{operator}}{{targetPoints}} points ajoutés à leurs points existants, par exemple si l'utilisateur a {{originalPoints}} {{currencyName}}, il deviendra {{resultPoints}} {{currencyName}}",
+		"reset-all-loyalty-users": "Réinitialiser tous les utilisateurs fidélité"
+	},
+	"modqueue": {
+		"search-placeholder": "Rechercher par nom d'utilisateur ou commande ...",
+		"mod-approval-required": "Nécessite l'approbation d'un modérateur"
 	}
 }

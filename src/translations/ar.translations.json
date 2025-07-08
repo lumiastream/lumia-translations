@@ -526,7 +526,8 @@
 		"activate-now": "نشط الآن",
 		"cooldown-is-empty": "فترة التهدئة فارغة",
 		"unsaved-changes": "لديك تغييرات تتطلب التحديث",
-		"chat-not-activated": "الدردشة غير مفعلة"
+		"chat-not-activated": "الدردشة غير مفعلة",
+		"mod-queue-is-empty": "قائمة التعديلات فارغة"
 	},
 	"controlcenter": {
 		"controlcenter": "مركز التحكم",
@@ -4201,7 +4202,8 @@
 		"raffle": "سحب الجوائز",
 		"visible-in-dashboard": "مرئي في لوحة التحكم",
 		"remove-from-dashboard": "إزالة من لوحة التحكم",
-		"add-to-dashboard": "إضافة إلى لوحة التحكم"
+		"add-to-dashboard": "إضافة إلى لوحة التحكم",
+		"mod-queue": "قائمة التعديلات"
 	},
 	"event-list": {
 		"event-to-show": "الأحداث للعرض",
@@ -4464,6 +4466,11 @@
 		"update-all-time": "تحديث جميع الأوقات {{currencyName}}",
 		"edit-selected-viewers": "تعديل {{count}} مشاهدين",
 		"points-set-description": "سيتم تعيين نقاط جميع المستخدمين المحددين {{count}} إلى {{targetPoints}} {{currencyName}}، على سبيل المثال إذا كان لدى المستخدم {{originalPoints}} {{currencyName}} فسيصبح {{targetPoints}} {{currencyName}}",
-		"points-sum-description": "سيتم إضافة {{operator}}{{targetPoints}} نقاط لجميع المستخدمين المحددين {{count}} إلى نقاطهم الحالية، على سبيل المثال إذا كان لدى المستخدم {{originalPoints}} {{currencyName}} فسيصبح {{resultPoints}} {{currencyName}}"
+		"points-sum-description": "سيتم إضافة {{operator}}{{targetPoints}} نقاط لجميع المستخدمين المحددين {{count}} إلى نقاطهم الحالية، على سبيل المثال إذا كان لدى المستخدم {{originalPoints}} {{currencyName}} فسيصبح {{resultPoints}} {{currencyName}}",
+		"reset-all-loyalty-users": "إعادة تعيين جميع مستخدمي الولاء"
+	},
+	"modqueue": {
+		"search-placeholder": "ابحث بواسطة اسم المستخدم أو الأمر ...",
+		"mod-approval-required": "يتطلب موافقة المشرف"
 	}
 }

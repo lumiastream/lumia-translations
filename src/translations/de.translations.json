@@ -526,7 +526,8 @@
 		"activate-now": "Jetzt aktivieren",
 		"cooldown-is-empty": "Die Abklingzeit ist leer",
 		"unsaved-changes": "Sie haben Änderungen, die eine Aktualisierung erfordern",
-		"chat-not-activated": "Der Chat ist nicht aktiviert"
+		"chat-not-activated": "Der Chat ist nicht aktiviert",
+		"mod-queue-is-empty": "Moderationswarteschlange ist leer"
 	},
 	"controlcenter": {
 		"controlcenter": "Kontrollzentrum",
@@ -4201,7 +4202,8 @@
 		"raffle": "Verlosung",
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Vom Dashboard entfernen",
-		"add-to-dashboard": "Zum Dashboard hinzufügen"
+		"add-to-dashboard": "Zum Dashboard hinzufügen",
+		"mod-queue": "Moderationswarteschlange"
 	},
 	"event-list": {
 		"event-to-show": "Veranstaltungen zum Anzeigen",
@@ -4464,6 +4466,11 @@
 		"update-all-time": "Gesamt aktualisieren {{currencyName}}",
 		"edit-selected-viewers": "{{count}} Zuschauer bearbeiten",
 		"points-set-description": "Allen ausgewählten Benutzern {{count}} werden ihre Punkte auf {{targetPoints}} {{currencyName}} gesetzt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{targetPoints}} {{currencyName}} haben",
-		"points-sum-description": "Allen ausgewählten Benutzern {{count}} werden {{operator}}{{targetPoints}} Punkte zu ihren vorhandenen Punkten hinzugefügt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{resultPoints}} {{currencyName}} haben"
+		"points-sum-description": "Allen ausgewählten Benutzern {{count}} werden {{operator}}{{targetPoints}} Punkte zu ihren vorhandenen Punkten hinzugefügt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{resultPoints}} {{currencyName}} haben",
+		"reset-all-loyalty-users": "Alle Treuebenutzer zurücksetzen"
+	},
+	"modqueue": {
+		"search-placeholder": "Suche nach Benutzername oder Befehl ...",
+		"mod-approval-required": "Benötigt Moderatorgenehmigung"
 	}
 }
