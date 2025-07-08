@@ -526,7 +526,8 @@
 		"activate-now": "Aktivera nu",
 		"cooldown-is-empty": "Cooldown är tom",
 		"unsaved-changes": "Du har ändringar som kräver en uppdatering",
-		"chat-not-activated": "Chatten är inte aktiverad"
+		"chat-not-activated": "Chatten är inte aktiverad",
+		"mod-queue-is-empty": "Modkö är tom"
 	},
 	"controlcenter": {
 		"controlcenter": "Kontrollcenter",
@@ -4201,7 +4202,8 @@
 		"raffle": "Raffle",
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
-		"add-to-dashboard": "Add to dashboard"
+		"add-to-dashboard": "Add to dashboard",
+		"mod-queue": "Modkö"
 	},
 	"event-list": {
 		"event-to-show": "Händelser att visa",
@@ -4464,6 +4466,11 @@
 		"update-all-time": "Uppdatera All time {{currencyName}}",
 		"edit-selected-viewers": "Redigera {{count}} tittare",
 		"points-set-description": "Alla {{count}} valda användare kommer att få sina poäng inställda på {{targetPoints}} {{currencyName}}, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{targetPoints}} {{currencyName}}",
-		"points-sum-description": "Alla {{count}} valda användare kommer att få {{operator}}{{targetPoints}} poäng tillagda till sina befintliga poäng, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{resultPoints}} {{currencyName}}"
+		"points-sum-description": "Alla {{count}} valda användare kommer att få {{operator}}{{targetPoints}} poäng tillagda till sina befintliga poäng, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{resultPoints}} {{currencyName}}",
+		"reset-all-loyalty-users": "Återställ alla lojalitetsanvändare"
+	},
+	"modqueue": {
+		"search-placeholder": "Sök efter användarnamn eller kommando ...",
+		"mod-approval-required": "Kräver moderatorgodkännande"
 	}
 }

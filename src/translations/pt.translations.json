@@ -526,7 +526,8 @@
 		"activate-now": "Ativar Agora",
 		"cooldown-is-empty": "Resfriamento Está Vazio",
 		"unsaved-changes": "Você tem mudanças que exigem uma atualização",
-		"chat-not-activated": "O Chat Não Está Ativado"
+		"chat-not-activated": "O Chat Não Está Ativado",
+		"mod-queue-is-empty": "Fila de moderação vazia"
 	},
 	"controlcenter": {
 		"controlcenter": "Central de Controle",
@@ -4211,7 +4212,8 @@
 		"raffle": "!!!>>> Failed to fetch <<<!!!",
 		"visible-in-dashboard": "Visível no painel",
 		"remove-from-dashboard": "Retire do painel",
-		"add-to-dashboard": "Adicione ao painel"
+		"add-to-dashboard": "Adicione ao painel",
+		"mod-queue": "Fila de moderação"
 	},
 	"event-list": {
 		"event-to-show": "Eventos para mostrar",
@@ -4466,5 +4468,9 @@
 		"points-set-description": "Todos {{count}} Usuários selecionados terão seus pontos definidos para {{targetPoints}} {{currencyName}} por exemplo, se o usuário tiver {{originalPoints}} {{currencyName}} vai se tornar {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "Todos {{count}} Usuários selecionados terão {{operator}}{{targetPoints}} pontos adicionados aos seus pontos existentes, por exemplo, se o usuário tiver {{originalPoints}} {{currencyName}} vai se tornar {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "Redefina todos os usuários de lealdade"
+	},
+	"modqueue": {
+		"search-placeholder": "Pesquisar por nome de usuário ou comando ...",
+		"mod-approval-required": "Requer aprovação do moderador"
 	}
 }

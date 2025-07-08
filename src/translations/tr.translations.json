@@ -527,7 +527,8 @@
 		"activate-now": "Şimdi Etkinleştir",
 		"cooldown-is-empty": "Bekleme Süresi Boş",
 		"unsaved-changes": "Yenileme gerektiren değişiklikleriniz var",
-		"chat-not-activated": "Sohbet Etkin Değil"
+		"chat-not-activated": "Sohbet Etkin Değil",
+		"mod-queue-is-empty": "Mod kuyruğu boş"
 	},
 	"controlcenter": {
 		"controlcenter": "Kontrol Merkezi",
@@ -4214,7 +4215,8 @@
 		"raffle": "Çekiliş",
 		"visible-in-dashboard": "Kontrol panelinde görünür",
 		"remove-from-dashboard": "Kontrol panelinden kaldır",
-		"add-to-dashboard": "Kontrol paneline ekle"
+		"add-to-dashboard": "Kontrol paneline ekle",
+		"mod-queue": "Mod kuyruğu"
 	},
 	"event-list": {
 		"event-to-show": "Gösterilecek etkinlikler",
@@ -4467,6 +4469,11 @@
 		"update-all-time": "Tüm zamanları güncelle {{currencyName}}",
 		"edit-selected-viewers": "{{count}} izleyiciyi düzenle",
 		"points-set-description": "Seçilen {{count}} kullanıcının puanları {{targetPoints}} {{currencyName}} olarak ayarlanacak, örneğin kullanıcı {{originalPoints}} {{currencyName}} puana sahipse, bu {{targetPoints}} {{currencyName}} olacaktır",
-		"points-sum-description": "Seçilen {{count}} kullanıcının mevcut puanlarına {{operator}}{{targetPoints}} puan eklenecek, örneğin kullanıcı {{originalPoints}} {{currencyName}} puana sahipse, bu {{resultPoints}} {{currencyName}} olacaktır"
+		"points-sum-description": "Seçilen {{count}} kullanıcının mevcut puanlarına {{operator}}{{targetPoints}} puan eklenecek, örneğin kullanıcı {{originalPoints}} {{currencyName}} puana sahipse, bu {{resultPoints}} {{currencyName}} olacaktır",
+		"reset-all-loyalty-users": "Tüm sadakat kullanıcılarını sıfırla"
+	},
+	"modqueue": {
+		"search-placeholder": "Kullanıcı adı veya komuta göre ara ...",
+		"mod-approval-required": "Moderatör onayı gerektirir"
 	}
 }

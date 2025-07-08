@@ -526,7 +526,8 @@
 		"activate-now": "Activate Now",
 		"cooldown-is-empty": "Cooldown Is Empty",
 		"unsaved-changes": "You have changes that require a refresh",
-		"chat-not-activated": "Chat is Not Activated"
+		"chat-not-activated": "Chat is Not Activated",
+		"mod-queue-is-empty": "Mod queue is empty"
 	},
 	"controlcenter": {
 		"controlcenter": "Control Center",
@@ -4219,7 +4220,8 @@
 		"raffle": "Raffle",
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
-		"add-to-dashboard": "Add to dashboard"
+		"add-to-dashboard": "Add to dashboard",
+		"mod-queue": "Mod queue"
 	},
 	"event-list": {
 		"event-to-show": "Events to show",
@@ -4474,5 +4476,9 @@
 		"points-set-description": "All {{count}} selected users will have their points set to {{targetPoints}} {{currencyName}} e.g if the user has {{originalPoints}} {{currencyName}} it will become {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "All {{count}} selected users will have {{operator}}{{targetPoints}} points added to their existing points e.g if the user has {{originalPoints}} {{currencyName}} it will become {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "Reset All Loyalty Users"
+	},
+	"modqueue": {
+		"search-placeholder": "Search by username or command ...",
+		"mod-approval-required": "Requires moderator approval"
 	}
 }

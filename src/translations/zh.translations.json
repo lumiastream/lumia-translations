@@ -526,7 +526,8 @@
 		"activate-now": "立即激活",
 		"cooldown-is-empty": "冷却时间为空",
 		"unsaved-changes": "您有需要刷新的更改",
-		"chat-not-activated": "聊天未激活"
+		"chat-not-activated": "聊天未激活",
+		"mod-queue-is-empty": "审核队列为空"
 	},
 	"controlcenter": {
 		"controlcenter": "控制中心",
@@ -4210,7 +4211,8 @@
 		"raffle": "抽奖",
 		"visible-in-dashboard": "在仪表盘中可见",
 		"remove-from-dashboard": "从仪表盘中移除",
-		"add-to-dashboard": "添加到仪表盘"
+		"add-to-dashboard": "添加到仪表盘",
+		"mod-queue": "审核队列"
 	},
 	"event-list": {
 		"event-to-show": "要显示的事件",
@@ -4465,5 +4467,9 @@
 		"points-set-description": "所有 {{count}} 位选定的用户的积分都将设置为 {{targetPoints}} {{currencyName}}，例如，如果用户有 {{originalPoints}} {{currencyName}}，它将变为 {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "所有 {{count}} 位选定的用户都将有 {{operator}}{{targetPoints}} 积分添加到他们现有的积分中，例如，如果用户有 {{originalPoints}} {{currencyName}}，它将变为 {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "重置所有忠诚度用户"
+	},
+	"modqueue": {
+		"search-placeholder": "按用户名或指令搜索 ...",
+		"mod-approval-required": "需要版主审核"
 	}
 }
