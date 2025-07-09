@@ -4471,6 +4471,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "Suche nach Benutzername oder Befehl ...",
-		"mod-approval-required": "Benötigt Moderatorgenehmigung"
+		"mod-approval-required": "Benötigt Moderatorgenehmigung",
+		"deny-all": "Alle ablehnen",
+		"approve-all": "Alle genehmigen"
 	}
 }

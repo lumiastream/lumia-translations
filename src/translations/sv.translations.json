@@ -4471,6 +4471,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "Sök efter användarnamn eller kommando ...",
-		"mod-approval-required": "Kräver moderatorgodkännande"
+		"mod-approval-required": "Kräver moderatorgodkännande",
+		"deny-all": "Neka alla",
+		"approve-all": "Godkänn alla"
 	}
 }

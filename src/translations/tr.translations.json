@@ -4474,6 +4474,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "Kullanıcı adı veya komuta göre ara ...",
-		"mod-approval-required": "Moderatör onayı gerektirir"
+		"mod-approval-required": "Moderatör onayı gerektirir",
+		"deny-all": "Hepsini reddet",
+		"approve-all": "Hepsini onayla"
 	}
 }

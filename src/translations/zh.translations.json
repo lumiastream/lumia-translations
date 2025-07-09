@@ -4470,6 +4470,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "按用户名或指令搜索 ...",
-		"mod-approval-required": "需要版主审核"
+		"mod-approval-required": "需要版主审核",
+		"deny-all": "全部拒绝",
+		"approve-all": "全部批准"
 	}
 }

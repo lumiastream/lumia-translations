@@ -4468,6 +4468,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "Zoek op gebruikersnaam of commando ...",
-		"mod-approval-required": "Moderator goedkeuring vereist"
+		"mod-approval-required": "Moderator goedkeuring vereist",
+		"deny-all": "Alles weigeren",
+		"approve-all": "Alles goedkeuren"
 	}
 }
