@@ -4471,6 +4471,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "Rechercher par nom d'utilisateur ou commande ...",
-		"mod-approval-required": "Nécessite l'approbation d'un modérateur"
+		"mod-approval-required": "Nécessite l'approbation d'un modérateur",
+		"deny-all": "Tout refuser",
+		"approve-all": "Tout approuver"
 	}
 }

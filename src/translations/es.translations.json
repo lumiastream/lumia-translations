@@ -4470,6 +4470,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "Buscar por nombre de usuario o comando ...",
-		"mod-approval-required": "Requiere aprobación del moderador"
+		"mod-approval-required": "Requiere aprobación del moderador",
+		"deny-all": "Rechazar todo",
+		"approve-all": "Aprobar todo"
 	}
 }

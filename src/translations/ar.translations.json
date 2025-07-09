@@ -4471,6 +4471,8 @@
 	},
 	"modqueue": {
 		"search-placeholder": "ابحث بواسطة اسم المستخدم أو الأمر ...",
-		"mod-approval-required": "يتطلب موافقة المشرف"
+		"mod-approval-required": "يتطلب موافقة المشرف",
+		"deny-all": "رفض الكل",
+		"approve-all": "الموافقة على الكل"
 	}
 }
