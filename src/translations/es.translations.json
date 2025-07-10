@@ -4202,7 +4202,8 @@
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
-		"mod-queue": "Cola de moderación"
+		"mod-queue": "Cola de moderación",
+		"mod-queue-description": "La cola de moderación se utiliza para comandos que requieren aprobación de un moderador. Tú y tus moderadores pueden aprobar o rechazar estos comandos. Tú y tus moderadores saltarán la cola si son el origen del comando."
 	},
 	"event-list": {
 		"event-to-show": "Eventos para mostrar",

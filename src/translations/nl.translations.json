@@ -4200,7 +4200,8 @@
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
-		"mod-queue": "Modqueue"
+		"mod-queue": "Modqueue",
+		"mod-queue-description": "De modqueue wordt gebruikt voor opdrachten die een moderatie vereisen. Je en je moderators kunnen deze opdrachten goedkeuren of weigeren. Je en je moderators overslaan de wachtrij als je de oorsprong van de opdracht bent."
 	},
 	"event-list": {
 		"event-to-show": "Evenementen om te laten zien",

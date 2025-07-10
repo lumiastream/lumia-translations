@@ -4203,7 +4203,8 @@
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Vom Dashboard entfernen",
 		"add-to-dashboard": "Zum Dashboard hinzufügen",
-		"mod-queue": "Moderationswarteschlange"
+		"mod-queue": "Moderationswarteschlange",
+		"mod-queue-description": "Die Moderationswarteschlange wird für Befehle verwendet, die eine Moderation erfordern. Du und deine Moderatoren können diese Befehle genehmigen oder ablehnen. Du und deine Moderatoren überspringen die Warteschlange, wenn du der Ursprung des Befehls bist."
 	},
 	"event-list": {
 		"event-to-show": "Veranstaltungen zum Anzeigen",

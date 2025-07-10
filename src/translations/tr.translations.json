@@ -4216,7 +4216,8 @@
 		"visible-in-dashboard": "Kontrol panelinde görünür",
 		"remove-from-dashboard": "Kontrol panelinden kaldır",
 		"add-to-dashboard": "Kontrol paneline ekle",
-		"mod-queue": "Mod kuyruğu"
+		"mod-queue": "Mod kuyruğu",
+		"mod-queue-description": "Mod kuyruğu, bir moderatör onayı gerektiren komutlar için kullanılır. Sen ve moderatörleriniz bu komutları onaylayabilir veya reddedebilirsiniz. Sen ve moderatörleriniz komutun kaynağıysanız kuyruğu atlayabilirsiniz."
 	},
 	"event-list": {
 		"event-to-show": "Gösterilecek etkinlikler",

@@ -4212,7 +4212,8 @@
 		"visible-in-dashboard": "在仪表盘中可见",
 		"remove-from-dashboard": "从仪表盘中移除",
 		"add-to-dashboard": "添加到仪表盘",
-		"mod-queue": "审核队列"
+		"mod-queue": "审核队列",
+		"mod-queue-description": "审核队列用于需要审核的命令。您和您的审核员可以批准或拒绝这些命令。如果您是命令的来源，您和您的审核员将跳过队列。"
 	},
 	"event-list": {
 		"event-to-show": "要显示的事件",
