@@ -4199,7 +4199,7 @@
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
-		"mod-queue": "Modkö",
+		"modQueue": "Modkö",
 		"mod-queue-description": "Modkön används för kommandon som kräver godkännande från en moderator. Du och dina moderatorer kan godkänna eller neka dessa kommandon. Du och dina moderatorer kommer att hoppa över kön om du är ursprung för kommandot."
 	},
 	"event-list": {
