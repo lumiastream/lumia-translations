@@ -4218,7 +4218,7 @@
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
-		"mod-queue": "Mod queue",
+		"modQueue": "Mod queue",
 		"mod-queue-description": "Mod queue is used for commands that require approval from a moderator. You as the streamer and your mods can approve or deny these commands. Streamer and mods will bypass the queue if they are the origin of the command."
 	},
 	"event-list": {

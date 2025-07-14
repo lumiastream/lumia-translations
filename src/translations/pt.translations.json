@@ -4209,7 +4209,7 @@
 		"visible-in-dashboard": "Visível no painel",
 		"remove-from-dashboard": "Retire do painel",
 		"add-to-dashboard": "Adicione ao painel",
-		"mod-queue": "Fila de moderação",
+		"modQueue": "Fila de moderação",
 		"mod-queue-description": "A fila de moderação é usada para comandos que requerem aprovação de um moderador. Você e seus moderadores podem aprovar ou rejeitar esses comandos. Você e seus moderadores ignorarão a fila se forem o criador do comando."
 	},
 	"event-list": {

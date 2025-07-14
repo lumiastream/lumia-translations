@@ -4199,7 +4199,7 @@
 		"visible-in-dashboard": "Visible in dashboard",
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
-		"mod-queue": "File de modération",
+		"modQueue": "File de modération",
 		"mod-queue-description": "La file de modération est utilisée pour les commandes qui nécessitent l'approbation d'un modérateur. Vous et vos modérateurs pouvez approuver ou refuser ces commandes. Vous et vos modérateurs passeront la file si vous êtes le créateur de la commande."
 	},
 	"event-list": {
