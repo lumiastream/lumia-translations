@@ -1360,7 +1360,6 @@
 		"scroll-horizontal": "Horisontell ( =upp, -=ner)",
 		"move-type": "Flytta typ",
 		"input-types": "Ingångstyper",
-		"key-input": "Nyckelingång",
 		"keybind": "Keybind",
 		"test-action": "Testa åtgärd",
 		"key-input-placeholder": "t.ex. ",

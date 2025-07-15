@@ -1360,7 +1360,6 @@
 		"scroll-horizontal": "Horizontal (=arriba, -=abajo)",
 		"move-type": "Tipo de movimiento",
 		"input-types": "Tipos de entrada",
-		"key-input": "Entrada clave",
 		"keybind": "Combinación de teclas",
 		"test-action": "Acción de prueba",
 		"key-input-placeholder": "p.ej. ",

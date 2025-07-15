@@ -1374,7 +1374,6 @@
 		"scroll-horizontal": "水平（+=上，-=下）",
 		"move-type": "移动类型",
 		"input-types": "输入类型",
-		"key-input": "按键输入",
 		"keybind": "快捷键",
 		"test-action": "测试动作",
 		"key-input-placeholder": "例如：我爱 Lumia Stream",

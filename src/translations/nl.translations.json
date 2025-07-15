@@ -1360,7 +1360,6 @@
 		"scroll-horizontal": "Horizontaal ( = omhoog, -= omlaag)",
 		"move-type": "Verplaatsingstype",
 		"input-types": "Invoertypen",
-		"key-input": "Sleutelinvoer",
 		"keybind": "Sleutelbinder",
 		"test-action": "Testactie",
 		"key-input-placeholder": "bijv. ",

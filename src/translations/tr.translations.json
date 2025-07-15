@@ -1375,7 +1375,6 @@
 		"scroll-horizontal": "Yatay (+=yukarı, -=aşağı)",
 		"move-type": "Taşıma Türü",
 		"input-types": "Giriş Türleri",
-		"key-input": "Tuş Girişi",
 		"keybind": "Tuş bağı",
 		"test-action": "Test Eylemi",
 		"key-input-placeholder": "örneğin ",
