@@ -703,7 +703,20 @@
 		"bind-to-command": "Bind to command",
 		"want-new-command": "Or Create a new command",
 		"create-new-command": "Create new chat command",
-		"folder-will-only-trigger": "Folder watcher will only trigger when a file is added to this exact folder"
+		"folder-will-only-trigger": "Folder watcher will only trigger when a file is added to this exact folder",
+		"type-mode": "Type",
+		"select-mode": "Select",
+		"record-mode": "Record",
+		"type-help": "Type key combinations like: ctrl+alt+f4, shift+tab, etc.",
+		"modifier-keys": "Modifier Keys",
+		"main-key": "Main Key",
+		"select-key": "Select a key...",
+		"letters": "Letters",
+		"numbers": "Numbers",
+		"function-keys": "Function Keys",
+		"special-keys": "Special Keys",
+		"preview": "Preview",
+		"no-combination": "No key combination set"
 	},
 	"eventlist": {
 		"free-ticket": "Free ticket",
