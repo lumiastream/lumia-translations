@@ -716,7 +716,14 @@
 		"function-keys": "Function Keys",
 		"special-keys": "Special Keys",
 		"preview": "Preview",
-		"no-combination": "No key combination set"
+		"no-combination": "No key combination set",
+		"record-mouse-location": "Record Mouse Location",
+		"type-key-combinations-description": "Type key combinations like: ctrl+alt+f4, shift+tab, etc.",
+		"instant": "Instant",
+		"20-words": "20 words per minute",
+		"40-words": "40 words per minute",
+		"80-words": "80 words per minute",
+		"160-words": "160 words per minute"
 	},
 	"eventlist": {
 		"free-ticket": "Free ticket",
