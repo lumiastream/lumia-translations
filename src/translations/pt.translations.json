@@ -1527,7 +1527,7 @@
 		"choose-specific-overlay": "Escolha a camada de overlay em que deseja que seu HFX seja reproduzido (deixe em branco se quiser que ele seja reproduzido em todas as camadas)",
 		"filter-source-description": "Para usar filtros em uma cena, digite o nome da cena no campo Fonte (sensível a maiúsculas e minúsculas)",
 		"nested-source-description": "Para usar cenas aninhadas, digite o nome da cena no campo de origem (sensível a maiúsculas e minúsculas)",
-		"helping-create-command": "Criação de Comando",
+		"helping-create-command": "Ações de comando",
 		"choose-what-command-do": "Escolha o que você quer que seu comando faça",
 		"start-from-scratch": "Começar do zero",
 		"edit-from-scratch": "Editar do zero",

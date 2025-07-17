@@ -1528,7 +1528,7 @@
 		"choose-specific-overlay": "HFX'inizin oynamasını istediğiniz kaplama katmanını seçin (tüm katmanlarda oynamasını istiyorsanız boş bırakın)",
 		"filter-source-description": "Bir sahnede filtreleri kullanmak için, sahne adını Kaynak alanına yazın (büyük/küçük harfe duyarlı)",
 		"nested-source-description": "Yuvalanmış sahneleri kullanmak için kaynak alana sahne adını yazın (büyük/küçük harfe duyarlı)",
-		"helping-create-command": "Komut Oluşturma",
+		"helping-create-command": "Komut Eylemleri",
 		"choose-what-command-do": "Komutunuzun ne yapmasını istediğinizi seçin",
 		"start-from-scratch": "Sıfırdan başla",
 		"edit-from-scratch": "Sıfırdan düzenle",

@@ -1512,7 +1512,7 @@
 		"empty-selection": "Selección vacía",
 		"choose-specific-overlay": "Elija la capa superpuesta en la que desea que se reproduzca su HFX (déjelo en blanco si desea que se reproduzca en todas las capas)",
 		"filter-source-description": "Para usar filtros en una escena, escriba el nombre de la escena en el campo Fuente (distingue entre mayúsculas y minúsculas)",
-		"helping-create-command": "Creación de comandos",
+		"helping-create-command": "Acciones del comando",
 		"choose-what-command-do": "Elige lo que quieres que haga tu comando",
 		"start-from-scratch": "Empezar desde el principio",
 		"edit-from-scratch": "Editar desde cero",

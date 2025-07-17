@@ -1512,7 +1512,7 @@
 		"empty-selection": "Tomt urval",
 		"choose-specific-overlay": "Välj det överläggslager du vill att din HFX ska spela på (lämna tomt om du vill att den ska spela i alla lager)",
 		"filter-source-description": "För att använda filter på en scen, skriv in scennamnet i fältet Källa (skiftlägeskänsligt)",
-		"helping-create-command": "Skapa kommando",
+		"helping-create-command": "Kommandoåtgärder",
 		"choose-what-command-do": "Välj vad du vill att ditt kommando ska göra",
 		"start-from-scratch": "Börja från början",
 		"edit-from-scratch": "Redigera från grunden",
