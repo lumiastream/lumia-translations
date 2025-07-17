@@ -1527,7 +1527,7 @@
 		"choose-specific-overlay": "选择您希望 HFX 在哪个叠加层中播放（如果希望在所有层中播放，则留空）",
 		"filter-source-description": "要在场景上使用滤镜，请在“源”字段中输入场景名称（区分大小写）",
 		"nested-source-description": "要使用嵌套场景，请在源字段中输入场景名称（区分大小写）",
-		"helping-create-command": "命令创建",
+		"helping-create-command": "指令操作",
 		"choose-what-command-do": "选择您希望您的命令做什么",
 		"start-from-scratch": "从头开始",
 		"edit-from-scratch": "从头开始编辑",

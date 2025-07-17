@@ -1532,7 +1532,7 @@
 		"choose-specific-overlay": "Choose the overlay layer you want your HFX to play on (leave blank if you want it to play in all layers)",
 		"filter-source-description": "To use filters on a scene, type the scene name into the Source field (case-sensitive)",
 		"nested-source-description": "To use nested scenes, type the scene name into the source field (case-sensitive)",
-		"helping-create-command": "Command Creation",
+		"helping-create-command": "Command Actions",
 		"choose-what-command-do": "Choose what you want your command to do",
 		"start-from-scratch": "Start from scratch",
 		"edit-from-scratch": "Edit from scratch",

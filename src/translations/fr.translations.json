@@ -1512,7 +1512,7 @@
 		"empty-selection": "Sélection vide",
 		"choose-specific-overlay": "Choisissez le calque de superposition sur lequel vous souhaitez que votre HFX joue (laissez vide si vous souhaitez qu'il soit lu dans tous les calques)",
 		"filter-source-description": "Pour utiliser des filtres sur une scène, saisissez le nom de la scène dans le champ Source (sensible à la casse)",
-		"helping-create-command": "Création de commandes",
+		"helping-create-command": "Actions de commande",
 		"choose-what-command-do": "Choisissez ce que vous voulez que votre commande fasse",
 		"start-from-scratch": "Commencer à partir de zéro",
 		"edit-from-scratch": "Modifier à partir de zéro",

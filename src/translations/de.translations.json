@@ -1512,7 +1512,7 @@
 		"empty-selection": "Leere Auswahl",
 		"choose-specific-overlay": "Wählen Sie die Overlay-Ebene aus, auf der Ihr HFX abgespielt werden soll (lassen Sie das Feld leer, wenn Sie möchten, dass es auf allen Ebenen abgespielt wird).",
 		"filter-source-description": "Um Filter für eine Szene zu verwenden, geben Sie den Szenennamen in das Feld „Quelle“ ein (Groß-/Kleinschreibung beachten).",
-		"helping-create-command": "Befehlserstellung",
+		"helping-create-command": "Befehlsaktionen",
 		"choose-what-command-do": "Wählen Sie aus, was Ihr Befehl tun soll",
 		"start-from-scratch": "Von vorne anfangen",
 		"edit-from-scratch": "Im Scratch bearbeiten",
