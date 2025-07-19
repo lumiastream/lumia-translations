@@ -1955,6 +1955,8 @@
 		"readFile": "Read from a file on your local computer to get the contents of it to be displayed in your code",
 		"reason": "Ban Reason, e.g. this will get the reason when using /ban [username] [reason]",
 		"recipient": "User being gifted the sub",
+		"recipients": "Users being gifted the gift subscription. Comma separated list of usernames",
+		"recipientsRaw": "Users being gifted the gift subscription. Raw array of usernames, avatar, and userId. mainly used for custom code and custom overlays. Can be accessed with dot notation e.g. {{recipientsRaw.0.avatar}} to get the first users avatar",
 		"resetStore": "Resets the store removing all items inside of it",
 		"retweets": "Retweets count",
 		"roulette_result": "The roulette result will display a winning, losing, or invalid input message based on the game status",
