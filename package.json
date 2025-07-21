@@ -1,6 +1,6 @@
 {
   "name": "@lumiastream/lumia-translations",
-  "version": "1.1.32",
+  "version": "1.1.33",
   "description": "Translations for the lumia stream app en, ar, es, de, nl, sv, fr",
   "main": "src/index.js",
   "scripts": {
