@@ -2952,6 +2952,7 @@
 		"beta-disclamer": "Be careful beta releases are still in the testing phase. It could be unstable.",
 		"obs": "OBS",
 		"remux-to-mp4": "Remux All OBS Replays to MP4. Turn this off if you do not have Remux on in OBS and do not want to use the MP4 value",
+		"always-auto-refresh": "Always auto refresh when unsaved changes are detected",
 		"always-start-from-scratch": "Always start from scratch",
 		"always-edit-from-scratch": "Always edit from scratch",
 		"vertical-backtrack-folder": "Vertical backtrack folder",
