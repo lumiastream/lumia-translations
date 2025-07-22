@@ -3233,7 +3233,7 @@
 		"choose-overlay": "Yer paylaşımı seç",
 		"upload-title": "Başlığı yükle",
 		"upload-version": "Sürümü yükle",
-		"thumbnails-requirement": "Yer paylaşımlı küçük resimler (512px * 384px)",
+		"thumbnails-requirement": "Yer paylaşımlı küçük resimler {{resolution}}",
 		"choose-image": "Resim seç",
 		"myuploads": "Yüklemelerim",
 		"comment": "Yüklemelerim",

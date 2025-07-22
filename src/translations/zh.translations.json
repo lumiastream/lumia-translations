@@ -3229,7 +3229,7 @@
 		"choose-overlay": "选择叠加层",
 		"upload-title": "上传标题",
 		"upload-version": "上传版本",
-		"thumbnails-requirement": "叠加层缩略图 (512px * 384px)",
+		"thumbnails-requirement": "叠加层缩略图 {{resolution}}",
 		"choose-image": "选择图片",
 		"myuploads": "我的上传",
 		"comment": "我的上传",

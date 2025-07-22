@@ -3230,7 +3230,7 @@
 		"choose-overlay": "اختيار التغطية",
 		"upload-title": "عنوان الرفع",
 		"upload-version": "نسخة الرفع",
-		"thumbnails-requirement": "متطلبات الصور المصغرة للتغطية (512px * 384px)",
+		"thumbnails-requirement": "متطلبات الصور المصغرة للتغطية {{resolution}}",
 		"choose-image": "اختيار الصورة",
 		"myuploads": "رفعاتي",
 		"comment": "تعليق",

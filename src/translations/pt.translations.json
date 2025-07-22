@@ -3230,7 +3230,7 @@
 		"choose-overlay": "Escolha sobreposição",
 		"upload-title": "Título do upload",
 		"upload-version": "Versão de upload",
-		"thumbnails-requirement": "Sobreposição miniaturas (512px * 384px)",
+		"thumbnails-requirement": "Sobreposição miniaturas {{resolution}}",
 		"choose-image": "Escolha a imagem",
 		"myuploads": "Meus uploads",
 		"comment": "Meus uploads",
