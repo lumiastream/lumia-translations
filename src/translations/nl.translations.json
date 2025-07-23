@@ -3227,7 +3227,7 @@
 		"choose-overlay": "Choose overlay",
 		"upload-title": "Upload title",
 		"upload-version": "Upload version",
-		"thumbnails-requirement": "Overlay thumbnails (512px * 384px)",
+		"thumbnails-requirement": "Overlay thumbnails {{resolution}}",
 		"choose-image": "Choose image",
 		"myuploads": "My uploads",
 		"comment": "My uploads",
