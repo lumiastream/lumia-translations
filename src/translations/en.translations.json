@@ -1842,6 +1842,7 @@
 		"kick_session_subscribers": "(Kick) the subscribers received in this session",
 		"kick_stream_title": "(Kick) the title of the stream",
 		"kick_total_follower_count": "(Kick) the total follower count of your channel",
+		"kick_total_subscriber_count": "(Kick) the total subscriber count of your channel",
 		"kofi_last_order_amount": "(KOFI) the amount for the last order that was made",
 		"kofi_last_order_amount_currency": "(KOFI) the currency of the amount for the last order that was made",
 		"kofi_last_order_name": "(KOFI) the last person who ordered an item's name",
