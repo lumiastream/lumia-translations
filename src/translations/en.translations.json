@@ -2411,6 +2411,8 @@
 		"createStreamMarker": "Create Stream Marker",
 		"banUser": "Ban User",
 		"unbanUser": "Unban User",
+		"addModerator": "Add Moderator",
+		"removeModerator": "Remove Moderator",
 		"addVip": "Add VIP",
 		"removeVip": "Remove VIP",
 		"timeoutUser": "Timeout User",
