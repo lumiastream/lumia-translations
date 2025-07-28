@@ -1686,7 +1686,8 @@
 		"import-command-success": "Command \"{{command}}\" imported successfully",
 		"command-copied-to-clipboard": "Command copied to clipboard. Go to the import section to use it.",
 		"code-id": "Code id",
-		"translate-message": "Translate message"
+		"translate-message": "Translate message",
+		"lumia-assistant-chat-gpt": "Lumia Stream assistant ChatGPT"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM of Ableton Link",
