@@ -123,7 +123,9 @@
 		"import": "Import",
 		"origin": "Origin",
 		"here": "Here",
-		"or": "Or"
+		"or": "Or",
+		"muted": "Muted",
+		"unmuted": "Unmuted"
 	},
 	"auth": {
 		"login": "Login",
