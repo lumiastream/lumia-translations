@@ -2336,6 +2336,7 @@
 		"sendToDiscordWithMediaWebhook": "发送带媒体到 Discord Webhook",
 		"sendToWebhook": "发送到 Webhook (JSON)",
 		"raffleEntry": "抽奖条目",
+		"raffleRemoveEntry": "移除抽奖条目",
 		"raffleGetWinner": "抽奖获取赢家",
 		"raffleStop": "停止抽奖",
 		"backToDefault": "恢复默认",

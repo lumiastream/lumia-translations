@@ -2330,6 +2330,7 @@
 		"sendToDiscordWithMediaWebhook": "Verzenden naar Discord-webhook met media",
 		"sendToWebhook": "Verzenden naar webhook (JSON)",
 		"raffleEntry": "Inzending loterij",
+		"raffleRemoveEntry": "Verwijder inzending uit loterij",
 		"raffleGetWinner": "Winnaar loterij",
 		"raffleStop": "Loterij stop",
 		"backToDefault": "Terug naar standaard",

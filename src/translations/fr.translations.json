@@ -2333,6 +2333,7 @@
 		"sendToDiscordWithMediaWebhook": "Envoyer vers un webhook Discord avec des médias",
 		"sendToWebhook": "Envoyer vers un webhook (JSON)",
 		"raffleEntry": "Entrée au tirage au sort",
+		"raffleRemoveEntry": "Supprimer l'entrée du tirage au sort",
 		"raffleGetWinner": "Tirage au sort, obtenez le gagnant",
 		"raffleStop": "Arrêt de tombola",
 		"backToDefault": "Retour aux valeurs par défaut",

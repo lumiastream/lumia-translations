@@ -2333,6 +2333,7 @@
 		"sendToDiscordWithMediaWebhook": "Skicka till Discord Webhook med media",
 		"sendToWebhook": "Skicka till Webhook (JSON)",
 		"raffleEntry": "Inträde i lotteriet",
+		"raffleRemoveEntry": "Ta bort inträde från lotteriet",
 		"raffleGetWinner": "Lotta Få vinnare",
 		"raffleStop": "Tombola Stopp",
 		"backToDefault": "Tillbaka till standard",

@@ -2332,6 +2332,7 @@
 		"sendToDiscordWithMediaWebhook": "Enviar a Discord Webhook con medios",
 		"sendToWebhook": "Enviar a webhook (JSON)",
 		"raffleEntry": "Entrada a la rifa",
+		"raffleRemoveEntry": "Eliminar entrada de la rifa",
 		"raffleGetWinner": "Ganador del sorteo",
 		"raffleStop": "Parada de la rifa",
 		"backToDefault": "Volver al valor predeterminado",

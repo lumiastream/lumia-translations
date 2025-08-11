@@ -2333,6 +2333,7 @@
 		"sendToDiscordWithMediaWebhook": "Mit Medien an Discord Webhook senden",
 		"sendToWebhook": "An Webhook senden (JSON)",
 		"raffleEntry": "Teilnahme an der Verlosung",
+		"raffleRemoveEntry": "Entfernen Sie den Eintrag aus der Verlosung",
 		"raffleGetWinner": "Verlosung. Holen Sie sich den Gewinner",
 		"raffleStop": "Verlosungsstopp",
 		"backToDefault": "Zurück zur Standardeinstellung",

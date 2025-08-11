@@ -2365,6 +2365,7 @@
 		"sendToDiscordWithMediaWebhook": "Send To Discord Webhook With Media",
 		"sendToWebhook": "Send To Webhook (JSON)",
 		"raffleEntry": "Raffle Entry",
+		"raffleRemoveEntry": "Raffle Remove Entry",
 		"raffleGetWinner": "Raffle Get Winner",
 		"raffleStop": "Raffle Stop",
 		"backToDefault": "Back To Default",

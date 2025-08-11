@@ -2339,6 +2339,7 @@
 		"sendToDiscordWithMediaWebhook": "Medyayla Discord Webhook'a Gönder",
 		"sendToWebhook": "Webhook'a Gönder (JSON)",
 		"raffleEntry": "Çekiliş Girişi",
+		"raffleRemoveEntry": "Çekiliş Girişini Kaldır",
 		"raffleGetWinner": "Çekiliş Kazananı Kazanın",
 		"raffleStop": "Çekiliş Durağı",
 		"backToDefault": "Varsayılana Dön",

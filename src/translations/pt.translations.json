@@ -2336,6 +2336,7 @@
 		"sendToDiscordWithMediaWebhook": "Enviar para Discord Webhook com Mídia",
 		"sendToWebhook": "Enviar para Webhook (JSON)",
 		"raffleEntry": "Entrada de Sorteio",
+		"raffleRemoveEntry": "Remover Entrada de Sorteio",
 		"raffleGetWinner": "Sorteio Obter Vencedor",
 		"raffleStop": "Parar Sorteio",
 		"backToDefault": "Voltar ao Padrão",

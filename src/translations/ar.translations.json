@@ -2333,6 +2333,7 @@
 		"sendToDiscordWithMediaWebhook": "أرسل إلى Discord Webhook مع الوسائط",
 		"sendToWebhook": "إرسال إلى Webhook (JSON)",
 		"raffleEntry": "دخول السحب",
+		"raffleRemoveEntry": "إزالة الدخول في السحب",
 		"raffleGetWinner": "السحب على الفائز",
 		"raffleStop": "توقف السحب",
 		"backToDefault": "العودة إلى الافتراضي",
