@@ -1678,7 +1678,9 @@
 		"import-command-success": "Commando \"{{command}}\" succesvol geïmporteerd",
 		"command-copied-to-clipboard": "Commando gekopieerd naar klembord. Ga naar het importgedeelte om het te gebruiken.",
 		"code-id": "Code-ID",
-		"translate-message": "Vertaal bericht"
+		"translate-message": "Vertaal bericht",
+		"ban": "Bannen",
+		"ban-user-description": "Weet u zeker dat u {{username}} wilt verbannen?"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM van Ableton Link",

@@ -1678,7 +1678,9 @@
 		"import-command-success": "Kommandot \"{{command}}\" har importerats",
 		"command-copied-to-clipboard": "Kommandot har kopierats till urklipp. Gå till importavsnittet för att använda det.",
 		"code-id": "Kod-ID",
-		"translate-message": "Översätt meddelande"
+		"translate-message": "Översätt meddelande",
+		"ban": "Bann",
+		"ban-user-description": "Är du säker på att du vill banna {{username}}?"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM för Ableton Link",

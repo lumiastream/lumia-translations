@@ -1678,7 +1678,9 @@
 		"import-command-success": "تم استيراد الأمر \"{{command}}\" بنجاح",
 		"command-copied-to-clipboard": "تم نسخ الأمر إلى الحافظة. انتقل إلى قسم الاستيراد لاستخدامه.",
 		"code-id": "معرّف الكود",
-		"translate-message": "ترجمة الرسالة"
+		"translate-message": "ترجمة الرسالة",
+		"ban": "حظر",
+		"ban-user-description": "هل أنت متأكد أنك تريد حظر {{username}}؟"
 	},
 	"variables": {
 		"ableton_bpm": "(أبلتون) BPM من ابلتون لينك",

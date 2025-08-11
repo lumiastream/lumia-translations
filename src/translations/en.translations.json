@@ -1691,7 +1691,9 @@
 		"code-id": "Code id",
 		"translate-message": "Translate message",
 		"lumia-assistant-chat-gpt": "Lumia Stream assistant ChatGPT",
-		"use-default-message": "Use default message"
+		"use-default-message": "Use default message",
+		"ban": "Ban",
+		"ban-user-description": "Are you sure you want to ban {{username}}?"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM of Ableton Link",

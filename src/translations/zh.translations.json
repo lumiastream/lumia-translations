@@ -1678,7 +1678,9 @@
 		"import-command-success": "命令“{{command}}”导入成功",
 		"command-copied-to-clipboard": "命令已复制到剪贴板。前往导入部分即可使用。",
 		"code-id": "代码 ID",
-		"translate-message": "翻译消息"
+		"translate-message": "翻译消息",
+		"ban": "封禁",
+		"ban-user-description": "您确定要封禁 {{username}} 吗？"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) Ableton Link 的 BPM",

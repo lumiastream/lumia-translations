@@ -1678,7 +1678,9 @@
 		"import-command-success": "Befehl \"{{command}}\" wurde erfolgreich importiert",
 		"command-copied-to-clipboard": "Befehl wurde in die Zwischenablage kopiert. Gehe zum Importbereich, um ihn zu verwenden.",
 		"code-id": "Code-ID",
-		"translate-message": "Nachricht übersetzen"
+		"translate-message": "Nachricht übersetzen",
+		"ban": "Sperren",
+		"ban-user-description": "Sind Sie sicher, dass Sie {{username}} sperren möchten?"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM von Ableton Link",

@@ -1678,7 +1678,9 @@
 		"import-command-success": "Comando \"{{command}}\" importado com sucesso",
 		"command-copied-to-clipboard": "Comando copiado para a área de transferência. Vá para a seção de importação para usá-lo.",
 		"code-id": "ID do código",
-		"translate-message": "Traduzir mensagem"
+		"translate-message": "Traduzir mensagem",
+		"ban": "Banir",
+		"ban-user-description": "Tem certeza de que deseja banir {{username}}?"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM do Ableton Link",

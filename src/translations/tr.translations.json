@@ -1679,7 +1679,9 @@
 		"import-command-success": "\"{{command}}\" komutu başarıyla içe aktarıldı",
 		"command-copied-to-clipboard": "Komut panoya kopyalandı. Kullanmak için içe aktarma bölümüne gidin.",
 		"code-id": "Kod kimliği",
-		"translate-message": "Mesajı çevir"
+		"translate-message": "Mesajı çevir",
+		"ban": "Yasakla",
+		"ban-user-description": "{{username}} kullanıcısını yasaklamak istediğinize emin misiniz?"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) Ableton Link'in BPM'si",
