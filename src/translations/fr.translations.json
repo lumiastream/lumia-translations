@@ -2405,6 +2405,7 @@
 		"addVip": "Ajouter un VIP",
 		"removeVip": "Supprimer VIP",
 		"raid": "Raid",
+		"raidOut": "Raid sortant",
 		"timeoutUser": "Utilisateur d'expiration du délai d'attente",
 		"clearChat": "Effacer le chat",
 		"changeUserColor": "Changer ma couleur",
