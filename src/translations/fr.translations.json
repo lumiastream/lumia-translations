@@ -2404,6 +2404,7 @@
 		"unbanUser": "Annuler le bannissement d'un utilisateur",
 		"addVip": "Ajouter un VIP",
 		"removeVip": "Supprimer VIP",
+		"raid": "Raid",
 		"timeoutUser": "Utilisateur d'expiration du délai d'attente",
 		"clearChat": "Effacer le chat",
 		"changeUserColor": "Changer ma couleur",
