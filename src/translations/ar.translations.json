@@ -1680,7 +1680,8 @@
 		"code-id": "معرّف الكود",
 		"translate-message": "ترجمة الرسالة",
 		"ban": "حظر",
-		"ban-user-description": "هل أنت متأكد أنك تريد حظر {{username}}؟"
+		"ban-user-description": "هل أنت متأكد أنك تريد حظر {{username}}؟",
+		"send-native-shoutout": "إرسال /shoutout الأصلي إلى تويتر"
 	},
 	"variables": {
 		"ableton_bpm": "(أبلتون) BPM من ابلتون لينك",

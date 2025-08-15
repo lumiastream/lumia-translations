@@ -1680,7 +1680,8 @@
 		"code-id": "Code-ID",
 		"translate-message": "Nachricht übersetzen",
 		"ban": "Sperren",
-		"ban-user-description": "Sind Sie sicher, dass Sie {{username}} sperren möchten?"
+		"ban-user-description": "Sind Sie sicher, dass Sie {{username}} sperren möchten?",
+		"send-native-shoutout": "Sende native /shoutout zu Twitch"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM von Ableton Link",

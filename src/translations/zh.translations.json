@@ -1680,7 +1680,8 @@
 		"code-id": "代码 ID",
 		"translate-message": "翻译消息",
 		"ban": "封禁",
-		"ban-user-description": "您确定要封禁 {{username}} 吗？"
+		"ban-user-description": "您确定要封禁 {{username}} 吗？",
+		"send-native-shoutout": "发送原生 /shoutout 到 Twitch"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) Ableton Link 的 BPM",

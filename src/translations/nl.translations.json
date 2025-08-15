@@ -1680,7 +1680,8 @@
 		"code-id": "Code-ID",
 		"translate-message": "Vertaal bericht",
 		"ban": "Bannen",
-		"ban-user-description": "Weet u zeker dat u {{username}} wilt verbannen?"
+		"ban-user-description": "Weet u zeker dat u {{username}} wilt verbannen?",
+		"send-native-shoutout": "Verstuur native /shoutout naar Twitch"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM van Ableton Link",

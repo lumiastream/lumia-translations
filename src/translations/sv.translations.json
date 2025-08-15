@@ -1680,7 +1680,8 @@
 		"code-id": "Kod-ID",
 		"translate-message": "Översätt meddelande",
 		"ban": "Bann",
-		"ban-user-description": "Är du säker på att du vill banna {{username}}?"
+		"ban-user-description": "Är du säker på att du vill banna {{username}}?",
+		"send-native-shoutout": "Skicka /shoutout nativt till Twitch"
 	},
 	"variables": {
 		"ableton_bpm": "(Ableton) BPM för Ableton Link",
