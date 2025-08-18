@@ -2991,7 +2991,9 @@
 		"session-type-DAILY": "يوميًا",
 		"session-type-WEEKLY": "أسبوعيًا",
 		"session-type-MONTHLY": "شهريًا",
-		"session-type-YEARLY": "سنويًا"
+		"session-type-YEARLY": "سنويًا",
+		"gift-your-friends-subscription": "أهدِ أصدقاءك اشتراكًا",
+		"go-to-shop": "اذهب إلى المتجر"
 	},
 	"billing": {
 		"card": "بطاقة",

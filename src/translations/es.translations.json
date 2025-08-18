@@ -2990,7 +2990,9 @@
 		"session-type-DAILY": "Daily",
 		"session-type-WEEKLY": "Weekly",
 		"session-type-MONTHLY": "Monthly",
-		"session-type-YEARLY": "Yearly"
+		"session-type-YEARLY": "Yearly",
+		"gift-your-friends-subscription": "Regala a tus amigos una suscripción",
+		"go-to-shop": "Ir a la tienda"
 	},
 	"billing": {
 		"card": "Tarjeta",

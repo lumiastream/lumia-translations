@@ -2988,7 +2988,9 @@
 		"session-type-DAILY": "Daily",
 		"session-type-WEEKLY": "Weekly",
 		"session-type-MONTHLY": "Monthly",
-		"session-type-YEARLY": "Yearly"
+		"session-type-YEARLY": "Yearly",
+		"gift-your-friends-subscription": "Geef je vrienden een abonnement cadeau",
+		"go-to-shop": "Ga naar de winkel"
 	},
 	"billing": {
 		"card": "Kaart",

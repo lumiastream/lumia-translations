@@ -2991,7 +2991,9 @@
 		"session-type-DAILY": "Diário",
 		"session-type-WEEKLY": "Semanalmente",
 		"session-type-MONTHLY": "Mensal",
-		"session-type-YEARLY": "Anual"
+		"session-type-YEARLY": "Anual",
+		"gift-your-friends-subscription": "Presenteie seus amigos com uma assinatura",
+		"go-to-shop": "Ir para a loja"
 	},
 	"billing": {
 		"card": "Cartão",
