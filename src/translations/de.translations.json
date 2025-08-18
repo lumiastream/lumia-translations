@@ -2988,7 +2988,9 @@
 		"session-type-DAILY": "Täglich",
 		"session-type-WEEKLY": "Wöchentlich",
 		"session-type-MONTHLY": "Monatlich",
-		"session-type-YEARLY": "Jährlich"
+		"session-type-YEARLY": "Jährlich",
+		"gift-your-friends-subscription": "Schenke deinen Freunden ein Abonnement",
+		"go-to-shop": "Zum Shop gehen"
 	},
 	"billing": {
 		"card": "Karte",

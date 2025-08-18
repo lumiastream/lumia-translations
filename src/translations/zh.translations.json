@@ -2987,7 +2987,9 @@
 		"session-type-DAILY": "每天",
 		"session-type-WEEKLY": "每周",
 		"session-type-MONTHLY": "每月",
-		"session-type-YEARLY": "每年"
+		"session-type-YEARLY": "每年",
+		"gift-your-friends-subscription": "赠送朋友订阅",
+		"go-to-shop": "前往商店"
 	},
 	"billing": {
 		"card": "银行卡",

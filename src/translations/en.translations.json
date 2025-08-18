@@ -3020,7 +3020,9 @@
 		"session-type-DAILY": "Daily",
 		"session-type-WEEKLY": "Weekly",
 		"session-type-MONTHLY": "Monthly",
-		"session-type-YEARLY": "Yearly"
+		"session-type-YEARLY": "Yearly",
+		"gift-your-friends-subscription": "Gift your friends a subscription",
+		"go-to-shop": "Go to shop"
 	},
 	"billing": {
 		"card": "Card",

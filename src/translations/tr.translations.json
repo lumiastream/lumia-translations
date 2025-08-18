@@ -2991,7 +2991,9 @@
 		"session-type-DAILY": "Günlük",
 		"session-type-WEEKLY": "Haftalık",
 		"session-type-MONTHLY": "Aylık",
-		"session-type-YEARLY": "Yıllık"
+		"session-type-YEARLY": "Yıllık",
+		"gift-your-friends-subscription": "Arkadaşlarına bir abonelik hediye et",
+		"go-to-shop": "Mağazaya git"
 	},
 	"billing": {
 		"card": "Kart",
