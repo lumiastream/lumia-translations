@@ -1803,6 +1803,8 @@
 		"kick_category_id": "(Kicka) kategorin id strömmen är i",
 		"kick_channel_id": "(Kicka) kanalen id strömmen är i",
 		"kick_channel_title": "(Kicka) kanalens titel",
+		"kick_channel_description": "(Kicka) kanalens beskrivning",
+		"kick_avatar": "(Kicka) kanalens avatar",
 		"kick_user_id": "(Kicka) användarens id",
 		"kick_username": "(Kicka) användarens namn",
 		"kick_current_first_chatter": "(Spark) den första användaren som chattade",

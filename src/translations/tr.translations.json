@@ -1818,6 +1818,8 @@
 		"kick_category_id": "Akışın bulunduğu kategori kimliğini (Kick)",
 		"kick_channel_id": "Akışın bulunduğu kanal kimliğini (Kick)",
 		"kick_channel_title": "Akışın bulunduğu kanalın başlığını (Kick)",
+		"kick_channel_description": "Akışın bulunduğu kanalın açıklamasını (Kick)",
+		"kick_avatar": "Akışın bulunduğu kanalın avatarını (Kick)",
 		"kick_user_id": "Akışın bulunduğu kullanıcının kimliğini (Kick)",
 		"kick_username": "Akışın bulunduğu kullanıcının kullanıcı adını (Kick)",
 		"kick_current_first_chatter": "İlk sohbet eden kullanıcıyı (Kick)",

@@ -1803,6 +1803,8 @@
 		"kick_category_id": "(Kick) de categorie-id waarin de stream zich bevindt",
 		"kick_channel_id": "(Kick) de kanaal-id waarin de stream zich bevindt",
 		"kick_channel_title": "(Kick) de titel van het kanaal waarin de stream zich bevindt",
+		"kick_channel_description": "(Kick) de beschrijving van het kanaal waarin de stream zich bevindt",
+		"kick_avatar": "(Kick) de avatar van het kanaal waarin de stream zich bevindt",
 		"kick_user_id": "(Kick) de gebruikers-id van de streamer",
 		"kick_username": "(Kick) de gebruikersnaam van de streamer",
 		"kick_current_first_chatter": "(Kick) de eerste gebruiker die heeft gechat",

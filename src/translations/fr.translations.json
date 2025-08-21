@@ -1803,6 +1803,8 @@
 		"kick_category_id": "(Kick) l'identifiant de la catégorie dans laquelle se trouve le flux",
 		"kick_channel_id": "(Kick) l'identifiant de la chaîne dans laquelle se trouve le flux",
 		"kick_channel_title": "(Kick) le titre de la chaîne dans laquelle se trouve le flux",
+		"kick_channel_description": "(Kick) la description de la chaîne dans laquelle se trouve le flux",
+		"kick_avatar": "(Kick) l'avatar de la chaîne dans laquelle se trouve le flux",
 		"kick_user_id": "(Kick) l'identifiant de l'utilisateur qui est le streamer",
 		"kick_username": "(Kick) le nom d'utilisateur de l'utilisateur qui est le streamer",
 		"kick_current_first_chatter": "(Kick) le premier utilisateur qui a discuté",

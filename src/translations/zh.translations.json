@@ -1817,6 +1817,8 @@
 		"kick_category_id": "(Kick) 直播所在的类别 ID",
 		"kick_channel_id": "(Kick) 直播所在的频道 ID",
 		"kick_channel_title": "(Kick) 直播所在的频道标题",
+		"kick_channel_description": "(Kick) 直播所在的频道描述",
+		"kick_avatar": "(Kick) 直播所在的频道头像",
 		"kick_user_id": "(Kick) 直播所在的用户 ID",
 		"kick_username": "(Kick) 直播所在的用户名",
 		"kick_current_first_chatter": "(Kick) 第一个聊天的用户",

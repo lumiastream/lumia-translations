@@ -1817,6 +1817,8 @@
 		"kick_category_id": "(Kick) a categoria id em que a transmissão está",
 		"kick_channel_id": "(Kick) a canal id em que a transmissão está",
 		"kick_channel_title": "(Kick) o título do canal em que a transmissão está",
+		"kick_channel_description": "(Kick) a descrição do canal em que a transmissão está",
+		"kick_avatar": "(Kick) o avatar do canal em que a transmissão está",
 		"kick_user_id": "(Kick) o usuário id em que a transmissão está",
 		"kick_username": "(Kick) o nome de usuário em que a transmissão está",
 		"kick_current_first_chatter": "(Kick) o primeiro usuário que conversou",

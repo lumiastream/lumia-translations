@@ -1803,6 +1803,8 @@
 		"kick_category_id": "(Patea) la categoría id en la que se encuentra la transmisión",
 		"kick_channel_id": "(Patea) la canal id en la que se encuentra la transmisión",
 		"kick_channel_title": "(Patea) el título del canal",
+		"kick_channel_description": "(Patea) la descripción del canal",
+		"kick_avatar": "(Patea) el avatar del canal",
 		"kick_user_id": "(Patea) el usuario id del streamer",
 		"kick_username": "(Patea) el nombre de usuario del streamer",
 		"kick_current_first_chatter": "(Patear) al primer usuario que chateó",

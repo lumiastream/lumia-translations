@@ -1803,6 +1803,8 @@
 		"kick_category_id": "(ركلة) معرف الفئة التي ينتمي إليها الدفق",
 		"kick_channel_id": "(ركلة) معرف القناة",
 		"kick_channel_title": "(ركلة) عنوان القناة",
+		"kick_channel_description": "(ركلة) وصف القناة",
+		"kick_avatar": "(ركلة) الصورة الشخصية للقناة",
 		"kick_user_id": "(ركلة) معرف المستخدم",
 		"kick_username": "(ركلة) اسم المستخدم",
 		"kick_current_first_chatter": "(ركلة) المستخدم الأول الذي قام بالدردشة",
