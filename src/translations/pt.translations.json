@@ -397,7 +397,8 @@
 		"ip-address": "Endereço IP",
 		"having-issues-click-here": "Está tendo problemas? Clique aqui",
 		"copy-auth-and-paste": "Copie o link de autenticação e cole na barra de URL do seu navegador preferido",
-		"enable-twitch-chatters-permission": "Ativar 'Ler Chatters' para o widget de Visualizadores na Conexão Twitch. Vá para Conexões > Editar Twitch e selecione 'Ler Chatters' para o widget de Visualizadores"
+		"enable-twitch-chatters-permission": "Ativar 'Ler Chatters' para o widget de Visualizadores na Conexão Twitch. Vá para Conexões > Editar Twitch e selecione 'Ler Chatters' para o widget de Visualizadores",
+		"offline": "Offline — o chat e os alertas estarão disponíveis quando a transmissão estiver ao vivo"
 	},
 	"lumia": {
 		"chatbot": "Chat Bot",

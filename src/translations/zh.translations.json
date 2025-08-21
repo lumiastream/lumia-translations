@@ -397,7 +397,8 @@
 		"ip-address": "IP 地址",
 		"having-issues-click-here": "遇到问题？点击这里",
 		"copy-auth-and-paste": "复制身份验证链接并粘贴到您首选的浏览器地址栏中",
-		"enable-twitch-chatters-permission": "在 Twitch 连接中为观众小部件启用“读取聊天者”。前往“连接”>“编辑 Twitch”并为观众小部件选择“读取聊天者”"
+		"enable-twitch-chatters-permission": "在 Twitch 连接中为观众小部件启用“读取聊天者”。前往“连接”>“编辑 Twitch”并为观众小部件选择“读取聊天者”",
+		"offline": "离线 — 聊天和提醒将在直播开始后可用"
 	},
 	"lumia": {
 		"chatbot": "聊天机器人",

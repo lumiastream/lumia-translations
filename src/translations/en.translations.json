@@ -399,7 +399,8 @@
 		"ip-address": "IP address",
 		"having-issues-click-here": "Having issues? Click here",
 		"copy-auth-and-paste": "Copy auth link and paste it in your preferred browser url bar",
-		"enable-twitch-chatters-permission": "Enable Read Chatters for the Viewers widget in Twitch Connection. Head to Connections > Edit Twitch and select the Read Chatters for the Viewers widget"
+		"enable-twitch-chatters-permission": "Enable Read Chatters for the Viewers widget in Twitch Connection. Head to Connections > Edit Twitch and select the Read Chatters for the Viewers widget",
+		"offline": "Offline — chat and alerts will be available once the stream is live"
 	},
 	"lumia": {
 		"chatbot": "Chat Bot",

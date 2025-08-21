@@ -397,7 +397,8 @@
 		"ip-address": "IP-adress",
 		"having-issues-click-here": "Har du problem? ",
 		"copy-auth-and-paste": "Kopiera autentiseringslänk och klistra in den i webbläsarens webbadressfält",
-		"enable-twitch-chatters-permission": "Aktivera Läs Chatters för Viewers-widgeten i Twitch Connection. "
+		"enable-twitch-chatters-permission": "Aktivera Läs Chatters för Viewers-widgeten i Twitch Connection. ",
+		"offline": "Offline — chatt och aviseringar blir tillgängliga när streamen är live"
 	},
 	"lumia": {
 		"chatbot": "Chat Bot",
