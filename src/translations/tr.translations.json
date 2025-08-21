@@ -397,7 +397,8 @@
 		"ip-address": "IP adresi",
 		"having-issues-click-here": "Sorun mu yaşıyorsunuz? ",
 		"copy-auth-and-paste": "Kimlik doğrulama bağlantısını kopyalayın ve tercih ettiğiniz tarayıcı URL çubuğuna yapıştırın",
-		"enable-twitch-chatters-permission": "Twitch Bağlantısında İzleyiciler widget'ı için Sohbetleri Oku'yu etkinleştirin. "
+		"enable-twitch-chatters-permission": "Twitch Bağlantısında İzleyiciler widget'ı için Sohbetleri Oku'yu etkinleştirin. ",
+		"offline": "Çevrimdışı — sohbet ve uyarılar, yayın başladığında kullanılabilir olacak"
 	},
 	"lumia": {
 		"chatbot": "Sohbet Botu",

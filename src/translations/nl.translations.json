@@ -397,7 +397,8 @@
 		"ip-address": "IP adres",
 		"having-issues-click-here": "Heeft u problemen? ",
 		"copy-auth-and-paste": "Kopieer de auth-link en plak deze in de URL-balk van uw voorkeursbrowser",
-		"enable-twitch-chatters-permission": "Schakel Lees Chatters in voor de Viewers-widget in Twitch Connection. "
+		"enable-twitch-chatters-permission": "Schakel Lees Chatters in voor de Viewers-widget in Twitch Connection. ",
+		"offline": "Offline — chat en meldingen zijn beschikbaar zodra de stream live is"
 	},
 	"lumia": {
 		"chatbot": "Chatbot",
