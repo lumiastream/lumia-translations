@@ -3327,7 +3327,15 @@
 		"try-again": "Try Again",
 		"update-error": "Update error!",
 		"update": "Update",
-		"update-internal": "Update internal"
+		"update-internal": "Update internal",
+		"update-failed": "Auto update failed",
+		"update-error-description": "An error occurred while updating Lumia Stream. Please try again later.",
+		"update-error-generic": "An error occurred while updating Lumia Stream. Please try again later.",
+		"manual-download-suggestion-version": "You can manually download version {{version}} from here",
+		"manual-download-suggestion": "You can manually download the latest version from here",
+		"direct-download-available": "Direct download link available",
+		"download-manually": "Direct download",
+		"download-from-site": "Download from site"
 	},
 	"chatbot": {
 		"chatbot-description": "Give Lumia Stream the ability to convey what's going on inside of Lumia in chat with our Chat Bot. Make sure you mod Lumia Stream with /mod lumiastream in your twitch chat",
