@@ -397,7 +397,8 @@
 		"ip-address": "adresse IP",
 		"having-issues-click-here": "Vous avez des problèmes ? ",
 		"copy-auth-and-paste": "Copiez le lien d'authentification et collez-le dans la barre d'URL de votre navigateur préféré",
-		"enable-twitch-chatters-permission": "Activez Lire les discussions pour le widget Viewers dans Twitch Connection. "
+		"enable-twitch-chatters-permission": "Activez Lire les discussions pour le widget Viewers dans Twitch Connection. ",
+		"offline": "Hors ligne — le chat et les alertes seront disponibles une fois le stream en direct"
 	},
 	"lumia": {
 		"chatbot": "Bot de discussion",
