@@ -1918,6 +1918,7 @@
 		"random": "Välj slumpmässigt mellan två nummer, t.ex. {{random=1,20}}",
 		"random_input": "Välj slumpmässigt mellan olika ingångar separerade med kommatecken, t.ex. {{random_input=first,second,third}}",
 		"sum_variables": "Summera flera variabler för att skapa ett kombinerat värde. Detta är mycket användbart för att skapa ett kombinerat mål som följare, t.ex. {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
+		"offset_count": "Offset the count of a variable by a number, e.g. {{offset_count=twitch_total_follower_count,10}}",
 		"rawMessage": "Det råa oförändrade meddelandet som avsändaren skickade",
 		"rawMessageWithoutEmotes": "Det råa meddelandet som avsändaren skickade utan emotes inuti meddelandet",
 		"read_file": "Läs från en fil på din lokala dator i klartext, t.ex. {{read_file=C:\\User\\Myfile.txt}}",

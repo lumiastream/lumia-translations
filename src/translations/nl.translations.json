@@ -1917,6 +1917,7 @@
 		"random": "Kies willekeurig tussen twee cijfers, b.v. {{random=1,20}}",
 		"random_input": "Kies willekeurig tussen verschillende ingangen, gescheiden door een komma, b.v. {{random_input=first,second,third}}",
 		"sum_variables": "Tel meerdere variabelen bij elkaar op om een gecombineerde waarde te maken. Dit is erg handig om een gecombineerd doel zoals volgers te maken, bijv. {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
+		"offset_count": "Offset the count of a variable by a number, e.g. {{offset_count=twitch_total_follower_count,10}}",
 		"rawMessage": "Het onbewerkte, ongewijzigde bericht dat de afzender heeft verzonden",
 		"rawMessageWithoutEmotes": "Het onbewerkte bericht dat de afzender heeft verzonden zonder emoties in het bericht",
 		"read_file": "Lees uit een bestand op uw lokale computer in platte tekst, b.v. {{read_file=C:\\User\\Myfile.txt}}",

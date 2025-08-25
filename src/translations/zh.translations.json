@@ -1943,6 +1943,7 @@
 		"random": "在两个数字之间随机选择，例如：{{random=1,20}}",
 		"random_input": "在用逗号分隔的不同输入之间随机选择，例如：{{random_input=first,second,third}}",
 		"sum_variables": "将多个变量相加以生成一个合并值。这对于创建诸如关注者之类的合并目标非常有用，例如 {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
+		"offset_count": "Offset the count of a variable by a number, e.g. {{offset_count=twitch_total_follower_count,10}}",
 		"rawMessage": "发送者发送的原始未更改消息",
 		"rawMessageWithoutEmotes": "发送者发送的原始消息，不包含消息中的表情",
 		"read_file": "从本地计算机上的文件以纯文本形式读取，例如：{{read_file=C:\\User\\Myfile.txt}}",
