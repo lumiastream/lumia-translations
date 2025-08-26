@@ -1626,6 +1626,8 @@
 		"shoutout-target": "Shoutout target",
 		"get-random-clip": "Get random clip",
 		"get-only-featured-clips": "Get only featured clips",
+		"use-native-twitch-shoutout-instead-of-chatbot": "Use native Twitch /shoutout instead of chatbot",
+		"use-native-twitch-shoutout-instead-of-chatbot-description": "On Twitch you can use the built in /shoutout instead of chatbot",
 		"max-time-in-seconds-for-a-clip": "Max time in seconds for a clip",
 		"system-message": "System message",
 		"keep-track-of-all-messages": "Keep track of all messages (when disabled only system message will be in chatgpt memory)",
