@@ -1014,6 +1014,7 @@
 		"background-color-twitch-point": "Color de fondo del punto Twitch",
 		"max-redemptions-per-stream": "La cantidad máxima de veces que alguien puede canjear por transmisión (deje en 0 para ilimitado)",
 		"max-user-redemptions-per-stream": "La cantidad máxima de veces que un usuario puede canjear por transmisión (dejar en 0 para ilimitado)",
+		"points-global-cooldown-seconds": "Tiempo de reutilización global donde nadie puede usar el comando hasta que finalice el tiempo de reutilización (segundos) - dejar en 0 para no tiempo de reutilización global",
 		"slow-mode-wait-time": "Tiempo de espera en modo lento",
 		"slow-mode-wait-time-description": "La cantidad de tiempo, en segundos, que los usuarios deben esperar entre el envío de mensajes.",
 		"follow-mode-duration": "Duración del modo de seguimiento",

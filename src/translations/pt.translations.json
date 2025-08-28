@@ -1023,6 +1023,7 @@
 		"background-color-twitch-point": "Cor de Fundo do Ponto Twitch",
 		"max-redemptions-per-stream": "Número máximo de resgates por transmissão (Deixe em 0 para ilimitado)",
 		"max-user-redemptions-per-stream": "Número máximo de resgates por usuário por transmissão (Deixe em 0 para ilimitado)",
+		"points-global-cooldown-seconds": "Tempo de resfriamento global onde ninguém pode usar o comando até que o resfriamento termine (segundos) - deixe em 0 para nenhum resfriamento global",
 		"slow-mode-wait-time": "Tempo de Espera do Modo Lento",
 		"slow-mode-wait-time-description": "A quantidade de tempo, em segundos, que os usuários precisam esperar entre o envio de mensagens",
 		"follow-mode-duration": "Duração do Modo Seguir",

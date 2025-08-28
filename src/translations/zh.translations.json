@@ -1023,6 +1023,7 @@
 		"background-color-twitch-point": "Twitch 积分的背景颜色",
 		"max-redemptions-per-stream": "每个直播的最大兑换次数（0 表示无限制）",
 		"max-user-redemptions-per-stream": "每个用户在每个直播中的最大兑换次数（0 表示无限制）",
+		"points-global-cooldown-seconds": "点数全局冷却时间，在此期间没有人可以使用命令，直到冷却时间结束（秒） - 留空表示无全局冷却",
 		"slow-mode-wait-time": "慢速模式等待时间",
 		"slow-mode-wait-time-description": "用户发送消息之间需要等待的时间（秒）",
 		"follow-mode-duration": "关注模式持续时间",

@@ -1014,6 +1014,7 @@
 		"background-color-twitch-point": "Bakgrundsfärg av Twitch Point",
 		"max-redemptions-per-stream": "Det maximala antalet gånger någon kan lösa in per stream (lämna vid 0 för obegränsat)",
 		"max-user-redemptions-per-stream": "Det maximala antalet gånger en användare kan lösa in per stream (lämna vid 0 för obegränsat)",
+		"points-global-cooldown-seconds": "Punkt-global nedkylningstid där ingen kan använda kommandot tills nedkylningstiden är över (sekunder) - lämna vid 0 för ingen global nedkylning",
 		"slow-mode-wait-time": "Väntetid i långsamt läge",
 		"slow-mode-wait-time-description": "Den tid, i sekunder, som användare behöver vänta mellan att skicka meddelanden",
 		"follow-mode-duration": "Följ lägeslängd",

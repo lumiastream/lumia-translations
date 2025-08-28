@@ -1014,6 +1014,7 @@
 		"background-color-twitch-point": "Couleur d'arrière-plan du point Twitch",
 		"max-redemptions-per-stream": "Le nombre maximum de fois que n'importe qui peut échanger par flux (laisser à 0 pour un nombre illimité)",
 		"max-user-redemptions-per-stream": "Le nombre maximum de fois qu'un utilisateur peut échanger par flux (laisser à 0 pour un accès illimité)",
+		"points-global-cooldown-seconds": "Temps de recharge global où personne ne peut utiliser la commande jusqu'à ce que le temps de recharge soit terminé (secondes) - laisser à 0 pour aucun temps de recharge global",
 		"slow-mode-wait-time": "Temps d'attente en mode lent",
 		"slow-mode-wait-time-description": "Le temps, en secondes, pendant lequel les utilisateurs doivent attendre entre l'envoi de messages",
 		"follow-mode-duration": "Durée du mode suivi",

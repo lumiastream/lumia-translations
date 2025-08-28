@@ -1014,6 +1014,7 @@
 		"background-color-twitch-point": "Hintergrundfarbe von Twitch Point",
 		"max-redemptions-per-stream": "Die maximale Anzahl, die jeder pro Stream einlösen kann (bei 0 belassen für unbegrenzt)",
 		"max-user-redemptions-per-stream": "Die maximale Anzahl, wie oft ein Benutzer pro Stream einlösen kann (bei 0 belassen für unbegrenzt)",
+		"points-global-cooldown-seconds": "Punkte-Globale Abklingzeit, bei der niemand den Befehl verwenden kann, bis die Abklingzeit abgelaufen ist (Sekunden) - bei 0 keine globale Abklingzeit",
 		"slow-mode-wait-time": "Wartezeit im langsamen Modus",
 		"slow-mode-wait-time-description": "Die Zeit in Sekunden, die Benutzer zwischen dem Senden von Nachrichten warten müssen",
 		"follow-mode-duration": "Dauer des Folgemodus",

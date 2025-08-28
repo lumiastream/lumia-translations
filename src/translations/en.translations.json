@@ -1029,6 +1029,7 @@
 		"background-color-twitch-point": "Background Color of Twitch Point",
 		"max-redemptions-per-stream": "The maximum number of times anyone can redeem per stream (Leave at 0 for unlimited)",
 		"max-user-redemptions-per-stream": "The maximum number of times a user can redeem per stream (Leave at 0 for unlimited)",
+		"points-global-cooldown-seconds": "Points Global Cooldown where no one can use the command until the cooldown is over (Seconds) - Leave at 0 for no global cooldown",
 		"slow-mode-wait-time": "Slow Mode Wait Time",
 		"slow-mode-wait-time-description": "The amount of time, in seconds, that users need to wait between sending messages",
 		"follow-mode-duration": "Follow Mode Duration",
