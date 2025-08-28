@@ -1030,6 +1030,7 @@
 		"max-redemptions-per-stream": "The maximum number of times anyone can redeem per stream (Leave at 0 for unlimited)",
 		"max-user-redemptions-per-stream": "The maximum number of times a user can redeem per stream (Leave at 0 for unlimited)",
 		"points-global-cooldown-seconds": "Points Global Cooldown where no one can use the command until the cooldown is over (Seconds) - Leave at 0 for no global cooldown",
+		"points-global-cooldown-description": "It is recommended to set global cooldowns per Twitch Points Command instead of using Lumia's cooldowns so that it shows the point is in a cooldown within their UI. Only use Lumia's cooldowns if you want to set cooldowns per individual user which Twitch does not support.",
 		"slow-mode-wait-time": "Slow Mode Wait Time",
 		"slow-mode-wait-time-description": "The amount of time, in seconds, that users need to wait between sending messages",
 		"follow-mode-duration": "Follow Mode Duration",

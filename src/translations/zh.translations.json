@@ -1024,6 +1024,7 @@
 		"max-redemptions-per-stream": "每个直播的最大兑换次数（0 表示无限制）",
 		"max-user-redemptions-per-stream": "每个用户在每个直播中的最大兑换次数（0 表示无限制）",
 		"points-global-cooldown-seconds": "点数全局冷却时间，在此期间没有人可以使用命令，直到冷却时间结束（秒） - 留空表示无全局冷却",
+		"points-global-cooldown-description": "建议设置每个 Twitch 点数命令的全局冷却时间，而不是使用 Lumia 的冷却时间，以便在他们的 UI 中显示点数处于冷却状态。仅使用 Lumia 的冷却时间，如果您想设置 Twitch 不支持的每个用户的单独冷却时间。",
 		"slow-mode-wait-time": "慢速模式等待时间",
 		"slow-mode-wait-time-description": "用户发送消息之间需要等待的时间（秒）",
 		"follow-mode-duration": "关注模式持续时间",

@@ -1025,6 +1025,7 @@
 		"max-redemptions-per-stream": "Herkesin akış başına kullanabileceği maksimum sayı (Sınırsız için 0'da bırakın)",
 		"max-user-redemptions-per-stream": "Bir kullanıcının akış başına kullanabileceği maksimum sayı (Sınırsız için 0'da bırakın)",
 		"points-global-cooldown-seconds": "Puanlar Genel Soğuma Süresi, herhangi bir kullanıcının komutu kullanamadığı süre (Saniye) - 0'da bırakın, genel soğuma süresi yok",
+		"points-global-cooldown-description": "Puanlar Genel Soğuma Süresi, herhangi bir kullanıcının komutu kullanamadığı süre (Saniye) - 0'da bırakın, genel soğuma süresi yok",
 		"slow-mode-wait-time": "Yavaş Mod Bekleme Süresi",
 		"slow-mode-wait-time-description": "Kullanıcıların mesaj gönderme arasında beklemesi gereken sürenin saniye cinsinden miktarı",
 		"follow-mode-duration": "Takip Modu Süresi",

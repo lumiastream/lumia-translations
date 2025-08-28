@@ -1015,6 +1015,7 @@
 		"max-redemptions-per-stream": "Det maximala antalet gånger någon kan lösa in per stream (lämna vid 0 för obegränsat)",
 		"max-user-redemptions-per-stream": "Det maximala antalet gånger en användare kan lösa in per stream (lämna vid 0 för obegränsat)",
 		"points-global-cooldown-seconds": "Punkt-global nedkylningstid där ingen kan använda kommandot tills nedkylningstiden är över (sekunder) - lämna vid 0 för ingen global nedkylning",
+		"points-global-cooldown-description": "Det är rekommenderat att ställa in globala nedkylningar per Twitch Points Command i stället för att använda Lumia's nedkylningar så att det visas att punkten är i en nedkylning inom deras UI. Använd endast Lumia's nedkylningar om du vill ställa in nedkylningar per individ som Twitch inte stöder.",
 		"slow-mode-wait-time": "Väntetid i långsamt läge",
 		"slow-mode-wait-time-description": "Den tid, i sekunder, som användare behöver vänta mellan att skicka meddelanden",
 		"follow-mode-duration": "Följ lägeslängd",

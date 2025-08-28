@@ -1015,6 +1015,7 @@
 		"max-redemptions-per-stream": "Het maximale aantal keren dat iemand per stream kan inwisselen (laat op 0 staan voor onbeperkt)",
 		"max-user-redemptions-per-stream": "Het maximale aantal keren dat een gebruiker per stream kan inwisselen (laat op 0 staan voor onbeperkt)",
 		"points-global-cooldown-seconds": "Punten-globale afkoelperiode waarbij niemand de opdracht kan gebruiken totdat de afkoelperiode voorbij is (seconden) - laat op 0 voor geen globale afkoelperiode",
+		"points-global-cooldown-description": "Het is aanbevolen om globale afkoelperiodes per Twitch Points Commando in te stellen in plaats van Lumia's afkoelperiodes, zodat het wordt weergegeven dat het punt in een afkoelperiode is binnen hun UI. Gebruik alleen Lumia's afkoelperiodes als u afkoelperiodes per individuele gebruiker wilt instellen die Twitch niet ondersteunt.",
 		"slow-mode-wait-time": "Wachttijd in langzame modus",
 		"slow-mode-wait-time-description": "De hoeveelheid tijd, in seconden, die gebruikers moeten wachten tussen het verzenden van berichten",
 		"follow-mode-duration": "Volgmodusduur",
