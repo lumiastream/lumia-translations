@@ -2619,6 +2619,7 @@
 		"variation-GIFT_SUB_GREATER": "Quantidade de Presentes de Inscrição Maior ou Igual a",
 		"variation-IS_PRIME": "É uma Inscrição Prime",
 		"variation-EQUAL_USER_LEVEL": "Igual ao nível de usuário",
+		"variation-COUNT_IS_MULTIPLE_OF": "Contagem é um múltiplo de",
 		"user-level-equal": "Nível de usuário igual a",
 		"vendor-type-equal": "Fornecedor + Tipo de Evento igual a {vendorname} {eventType}",
 		"random": "Aleatório baseado na chance",

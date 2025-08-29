@@ -2616,6 +2616,7 @@
 		"variation-GIFT_SUB_GREATER": "Montant des abonnements cadeaux supérieur ou égal à",
 		"variation-IS_PRIME": "Est un Prime Sub",
 		"variation-EQUAL_USER_LEVEL": "Égal au niveau utilisateur",
+		"variation-COUNT_IS_MULTIPLE_OF": "Nombre est un multiple de",
 		"user-level-equal": "Niveau utilisateur égal à",
 		"vendor-type-equal": "Type d'événement du fournisseur égal à {vendorname} {eventType}",
 		"random": "Aléatoire basé sur le hasard",

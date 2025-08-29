@@ -2616,6 +2616,7 @@
 		"variation-GIFT_SUB_GREATER": "كمية هدايا الاشتراكات أكبر من أو تساوي",
 		"variation-IS_PRIME": "هو رئيس الفرعية",
 		"variation-EQUAL_USER_LEVEL": "يساوي مستوى المستخدم",
+		"variation-COUNT_IS_MULTIPLE_OF": "عدد هو مضاعف",
 		"user-level-equal": "مستوى المستخدم يساوي",
 		"vendor-type-equal": "نوع حدث المورد يساوي {vendorname} {eventType}",
 		"random": "عشوائية على أساس الصدفة",

@@ -2622,6 +2622,7 @@
 		"variation-GIFT_SUB_GREATER": "Hediye Abonelik Tutarı Büyük veya Eşittir",
 		"variation-IS_PRIME": "Prime Sub'dır",
 		"variation-EQUAL_USER_LEVEL": "Kullanıcı seviyesine eşit",
+		"variation-COUNT_IS_MULTIPLE_OF": "Sayı bir çokluğudur",
 		"user-level-equal": "Kullanıcı düzeyi şuna eşit:",
 		"vendor-type-equal": "Satıcı + Etkinlik Türü şuna eşittir: {vendorname} {eventType}",
 		"random": "Şansa dayalı rastgele",

@@ -2613,6 +2613,7 @@
 		"variation-GIFT_SUB_GREATER": "Aantal cadeaubonnen groter dan of gelijk aan",
 		"variation-IS_PRIME": "Is een Prime Sub",
 		"variation-EQUAL_USER_LEVEL": "Gelijk aan gebruikersniveau",
+		"variation-COUNT_IS_MULTIPLE_OF": "Aantal is een veelvoud van",
 		"user-level-equal": "Gebruikersniveau gelijk aan",
 		"vendor-type-equal": "Leveranciersgebeurtenistype gelijk aan {vendorname} {eventType}",
 		"random": "Willekeurig gebaseerd op toeval",

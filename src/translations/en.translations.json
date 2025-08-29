@@ -2676,6 +2676,7 @@
 		"variation-GIFT_SUB_GREATER": "Amount of Gift Subs Greater Than or Equal to",
 		"variation-IS_PRIME": "Is a Prime Sub",
 		"variation-EQUAL_USER_LEVEL": "Equal to user level",
+		"variation-COUNT_IS_MULTIPLE_OF": "Count is a multiple of",
 		"user-level-equal": "User level equal to",
 		"vendor-type-equal": "Vendor + Event Type equal to {vendorname} {eventType}",
 		"random": "Random based on chance",

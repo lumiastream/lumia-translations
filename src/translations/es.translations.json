@@ -2615,6 +2615,7 @@
 		"variation-GIFT_SUB_GREATER": "Cantidad de subs de regalo mayor o igual a",
 		"variation-IS_PRIME": "es un submarino principal",
 		"variation-EQUAL_USER_LEVEL": "Igual al nivel de usuario",
+		"variation-COUNT_IS_MULTIPLE_OF": "Cantidad es un múltiplo de",
 		"user-level-equal": "Nivel de usuario igual a",
 		"vendor-type-equal": "Tipo de evento de proveedor igual a {vendorname} {eventType}",
 		"random": "Aleatorio basado en el azar",

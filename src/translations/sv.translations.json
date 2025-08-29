@@ -2616,6 +2616,7 @@
 		"variation-GIFT_SUB_GREATER": "Mängd gåvosubventioner större än eller lika med",
 		"variation-IS_PRIME": "Är en Prime Sub",
 		"variation-EQUAL_USER_LEVEL": "Lika användarnivå",
+		"variation-COUNT_IS_MULTIPLE_OF": "Antal är ett multiplum av",
 		"user-level-equal": "Användarnivå lika med",
 		"vendor-type-equal": "Leverantörshändelsetyp lika med {vendorname} {eventType}",
 		"random": "Slumpmässigt baserat på slumpen",
