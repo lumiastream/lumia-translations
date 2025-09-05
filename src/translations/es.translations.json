@@ -1923,7 +1923,7 @@
 		"sum_variables": "Suma varias variables para crear un valor combinado. Esto es muy útil para crear una meta combinada como seguidores, p. ej. {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
 		"offset_count": "Offset the count of a variable by a number, e.g. {{offset_count=twitch_total_follower_count,10}}",
 		"rawMessage": "El mensaje sin editar y sin modificaciones que envió el remitente.",
-		"rawMessageWithoutEmotes": "(Twitch) El mensaje sin formato que el remitente envió sin emoticones dentro del mensaje.",
+		"rawMessageWithoutEmotes": "El mensaje sin formato que el remitente envió sin emoticones dentro del mensaje.",
 		"read_file": "Leer desde un archivo en su computadora local en texto sin formato, p. {{read_file=C:\\User\\Myfile.txt}}",
 		"read_url": "Leer desde una simple URL GET.  {{read_url=https://api.lumiastream.com/api/url-test}}",
 		"readFile": "Lea desde un archivo en su computadora local para que su contenido se muestre en su código",

@@ -1924,7 +1924,7 @@
 		"sum_variables": "اجمع عدة متغيرات معًا لإنشاء قيمة مجمعة. هذا مفيد جدًا لإنشاء هدف مجمع مثل المتابعين، على سبيل المثال {{sum_variables=twitch_total_follower_count,kick_total_follower_count}}",
 		"offset_count": "اضبط العدد المتغير بواسطة رقم، على سبيل المثال {{offset_count=twitch_total_follower_count,10}}",
 		"rawMessage": "الرسالة الأولية غير المعدلة التي أرسلها المرسل",
-		"rawMessageWithoutEmotes": "(Twitch) الرسالة الأولية التي أرسلها المرسل بدون عواطف داخل الرسالة",
+		"rawMessageWithoutEmotes": "الرسالة الأولية التي أرسلها المرسل بدون عواطف داخل الرسالة",
 		"read_file": "القراءة من ملف موجود على جهاز الكمبيوتر المحلي الخاص بك بنص عادي، على سبيل المثال. {{read_file=C:\\User\\Myfile.txt}}",
 		"read_url": "اقرأ من عنوان URL بسيط لـ GET.  {{read_url=https://api.lumiastream.com/api/url-test}}",
 		"readFile": "اقرأ من ملف موجود على جهاز الكمبيوتر المحلي لديك لعرض محتوياته في التعليمات البرمجية الخاصة بك",
