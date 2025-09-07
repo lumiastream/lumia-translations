@@ -296,7 +296,6 @@
 		"setup-lumia-first": "Bağlantı Zamanı",
 		"slobs-auth-failed": "Kimlik Doğrulama Başarısız Oldu, Streamlabs Masaüstünün açık olduğundan emin olun",
 		"slobs-is-not-streamlabs": "Streamlabs Masaüstü, Streamlabs ile aynı değildir; Streamlabs uyarılarını etkinleştirmek için Streamlabs'a da bağlanmanız gerekecektir. ",
-		"slobs-status": "Streamlabs Masaüstünü açın, Ayarlar Simgesine basın, Kenar Çubuğunda Uzaktan Kumandaya tıklayın, ortaya çıkarmak için QR Koduna tıklayın, bilgileri göstermek için Ayrıntıları Göster'e basın, API Simgenizi kopyalayın ve aşağıya girin",
 		"slobs-streamlabs-warn": "Streamlabs Masaüstü, Streamlabs ile aynı değildir; Streamlabs uyarılarını etkinleştirmek için Streamlabs'a da bağlanmanız gerekecektir.",
 		"smartlife-credentials-incorrect": "Smartlife kimlik bilgileri yanlıştı. ",
 		"smartlife-info": "Smartlife bilgilerinizi girin. ",

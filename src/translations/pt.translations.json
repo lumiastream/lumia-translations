@@ -296,7 +296,6 @@
 		"setup-lumia-first": "É Hora da Conexão",
 		"slobs-auth-failed": "Falha na Autenticação, certifique-se de que o Streamlabs Desktop esteja ligado",
 		"slobs-is-not-streamlabs": "Streamlabs Desktop não é o mesmo que Streamlabs, você terá que conectar ao Streamlabs também para habilitar os alertas do Streamlabs. Caso contrário, você não poderá testar seus alertas do Streamlabs",
-		"slobs-status": "Abra o Streamlabs Desktop, pressione o Ícone de Configurações, Clique em Controle Remoto na Barra Lateral, Clique no Código QR para revelar, Pressione Mostrar Detalhes para exibir informações, Copie seu Token de API e insira-o abaixo",
 		"slobs-streamlabs-warn": "Streamlabs Desktop não é o mesmo que Streamlabs, você terá que conectar ao Streamlabs também para habilitar os alertas do Streamlabs",
 		"smartlife-credentials-incorrect": "As credenciais do Smartlife estavam incorretas. Por favor, tente inseri-las novamente",
 		"smartlife-info": "Insira suas informações do Smartlife. Certifique-se de ter se registrado no Smartlife usando e-mail e senha. Se você se registrou originalmente usando o Google, isso não funcionará com a API deles.",

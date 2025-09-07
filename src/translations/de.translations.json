@@ -202,7 +202,6 @@
 		"streamerbot-status": "Streamerbot muss geöffnet sein, um fortfahren zu können",
 		"streamerbot-warn": "Streamerbot muss geöffnet sein, um fortfahren zu können",
 		"streamerbot-auth-failed": "Die Verbindung ist fehlgeschlagen. Stellen Sie sicher, dass Streamerbot installiert und geöffnet ist",
-		"slobs-status": "Öffnen Sie Streamlabs Desktop, drücken Sie auf das Einstellungssymbol, klicken Sie in der Seitenleiste auf „Fernsteuerung“, klicken Sie auf den QR-Code, um ihn anzuzeigen, drücken Sie „Details anzeigen“, um Informationen anzuzeigen, kopieren Sie Ihr API-Token und geben Sie es unten ein",
 		"slobs-streamlabs-warn": "Streamlabs Desktop ist nicht dasselbe wie Streamlabs. Sie müssen sich auch mit Streamlabs verbinden, um Streamlabs-Benachrichtigungen zu aktivieren",
 		"slobs-is-not-streamlabs": "Streamlabs Desktop ist nicht dasselbe wie Streamlabs. Sie müssen sich auch mit Streamlabs verbinden, um Streamlabs-Benachrichtigungen zu aktivieren. ",
 		"slobs-auth-failed": "Authentifizierung fehlgeschlagen. Stellen Sie sicher, dass Streamlabs Desktop aktiviert ist",

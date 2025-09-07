@@ -202,7 +202,6 @@
 		"streamerbot-status": "Streamerbot moet open zijn om door te kunnen gaan",
 		"streamerbot-warn": "Streamerbot moet open zijn om door te kunnen gaan",
 		"streamerbot-auth-failed": "Verbinding mislukt. Controleer of Streamerbot is geïnstalleerd en open is",
-		"slobs-status": "Open Streamlabs Desktop, druk op het instellingenpictogram, klik op Afstandsbediening in de zijbalk, klik op de QR-code om deze weer te geven, druk op Details weergeven om informatie weer te geven, kopieer uw API-token en voer deze hieronder in",
 		"slobs-streamlabs-warn": "Streamlabs Desktop is niet hetzelfde als Streamlabs, u zult ook verbinding moeten maken met Streamlabs om Streamlabs-waarschuwingen in te schakelen",
 		"slobs-is-not-streamlabs": "Streamlabs Desktop is niet hetzelfde als Streamlabs, u zult ook verbinding moeten maken met Streamlabs om Streamlabs-waarschuwingen in te schakelen. ",
 		"slobs-auth-failed": "Verificatie mislukt. Zorg ervoor dat Streamlabs Desktop is ingeschakeld",

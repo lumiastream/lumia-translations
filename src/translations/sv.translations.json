@@ -202,7 +202,6 @@
 		"streamerbot-status": "Streamerbot måste vara öppen för att fortsätta",
 		"streamerbot-warn": "Streamerbot måste vara öppen för att fortsätta",
 		"streamerbot-auth-failed": "Anslutningen misslyckades, se till att Streamerbot är installerad och öppen",
-		"slobs-status": "Öppna Streamlabs Desktop, tryck på Inställningsikonen, Klicka på Fjärrkontroll i sidofältet, Klicka på QR-koden för att visa, Tryck på Visa detaljer för att visa information, Kopiera din API-token och ange den nedan",
 		"slobs-streamlabs-warn": "Streamlabs Desktop är inte samma sak som Streamlabs, du måste ansluta till Streamlabs också för att aktivera Streamlabs-varningar",
 		"slobs-is-not-streamlabs": "Streamlabs Desktop är inte samma sak som Streamlabs, du måste också ansluta till Streamlabs för att aktivera Streamlabs-varningar. ",
 		"slobs-auth-failed": "Autentisering misslyckades, se till att Streamlabs Desktop är på",

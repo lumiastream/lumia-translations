@@ -296,7 +296,6 @@
 		"setup-lumia-first": "连接时间到",
 		"slobs-auth-failed": "身份验证失败，请确保 Streamlabs Desktop 已打开",
 		"slobs-is-not-streamlabs": "Streamlabs Desktop 与 Streamlabs 不同，您还需要连接到 Streamlabs 才能启用 Streamlabs 警报。否则您将无法测试来自 Streamlabs 的警报",
-		"slobs-status": "打开 Streamlabs Desktop，按下设置图标，单击侧边栏上的远程控制，单击二维码以显示，按下显示详细信息以显示信息，复制您的 API 令牌并将其输入到下方",
 		"slobs-streamlabs-warn": "Streamlabs Desktop 与 Streamlabs 不同，您还需要连接到 Streamlabs 才能启用 Streamlabs 警报",
 		"smartlife-credentials-incorrect": "Smartlife 凭据不正确。请尝试重新输入",
 		"smartlife-info": "输入您的 Smartlife 信息。请确保您使用电子邮件和密码在 Smartlife 上注册。如果您最初使用 Google 注册，这将无法与他们的 API 配合使用。",

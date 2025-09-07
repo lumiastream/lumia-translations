@@ -202,7 +202,6 @@
 		"streamerbot-status": "يجب أن يكون Streamerbot مفتوحًا للمتابعة",
 		"streamerbot-warn": "يجب أن يكون Streamerbot مفتوحًا للمتابعة",
 		"streamerbot-auth-failed": "فشل الاتصال، تأكد من تثبيت Streamerbot وفتحه",
-		"slobs-status": "افتح Streamlabs Desktop، واضغط على أيقونة الإعدادات، وانقر على جهاز التحكم عن بعد على الشريط الجانبي، وانقر على رمز الاستجابة السريعة للكشف، واضغط على إظهار التفاصيل لإظهار المعلومات، وانسخ رمز واجهة برمجة التطبيقات (API) الخاص بك وأدخله أدناه",
 		"slobs-streamlabs-warn": "يختلف Streamlabs Desktop عن Streamlabs، سيتعين عليك الاتصال بـ Streamlabs أيضًا لتمكين تنبيهات Streamlabs",
 		"slobs-is-not-streamlabs": "يختلف Streamlabs Desktop عن Streamlabs، وسيتعين عليك الاتصال بـ Streamlabs أيضًا لتمكين تنبيهات Streamlabs. ",
 		"slobs-auth-failed": "فشلت المصادقة، تأكد من تشغيل Streamlabs Desktop",
