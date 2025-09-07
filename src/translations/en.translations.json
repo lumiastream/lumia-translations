@@ -1975,6 +1975,7 @@
 		"offset_count": "Offset the count of a variable by a number, e.g. {{offset_count=twitch_total_follower_count,10}}",
 		"rawMessage": "The raw unaltered message that the sender sent",
 		"rawMessageWithoutEmotes": "The raw message that the sender sent without emotes inside of the message",
+		"messageWithoutEmotes": "The message that the sender sent without the command/alias and without emots inside of the message. Mainly used for TTS.",
 		"read_file": "Read from a file on your local computer in plain text, e.g. {{read_file=C:\\User\\Myfile.txt}}",
 		"read_url": "Read from a simple GET url. This has a timeout of 2 seconds by default and will display the body of the request in plain text, e.g. {{read_url=https://api.lumiastream.com/api/url-test}}",
 		"readFile": "Read from a file on your local computer to get the contents of it to be displayed in your code",
