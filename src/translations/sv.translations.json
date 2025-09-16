@@ -2196,7 +2196,7 @@
 		"file": "Sökväg till den övervakade filen",
 		"first_count": "Räkna hur många gånger den första chatterens användarnamn startar en chatt",
 		"get_var_from_msg": "Hämtar värdet av en variabel från ett meddelande. Använd ett likhetstecken i meddelandet för att tilldela en variabel och ett komma för att separera flera variabler. Exempel: !command name=lumi, age=6. Variabeln blir: {{get_var_from_msg=name}} och {{get_var_from_msg=age}}",
-		"get_user_loyalty_points": "Hämta värdet på en användares lojalitetspoäng. Exempel: variabeln blir: {{get_user_loyalty_points={{message}}, eller tittarens användarnamn och plattform {{get_user_loyalty_points=lumiastream,twitch}}. Använd sedan så här: !command username eller !command username,platform. Resultatet blir poängsaldot utan valuta",
+		"get_user_loyalty_points": "Hämta lojalitetspoängen för en användare. Exempel: {{get_user_loyalty_points={{message}}}}, eller användarnamn och plattform {{get_user_loyalty_points={{username}},{{platform}}}}. Använd det sedan så här: !command username eller !command username,platform. Resultatet blir poängsaldot utan valuta.",
 		"translate": "Översätt ett meddelande med Google Translate. Exempel: {{translate={{message}}}} eller {{translate={{message}}|es}}",
 		"duel_result": "Duellresultatet visar ett vinst-, förlust- eller ogiltigt inmatningsmeddelande baserat på spelets status",
 		"duel_winner": "Användarnamnet på vinnaren av duellen",

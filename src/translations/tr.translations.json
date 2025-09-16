@@ -1778,7 +1778,7 @@
 		"get_latest_file_from_folder": "Bir klasördeki en son dosyayı alır.  {{get_latest_file_from_folder=C:/Users/Desktop}}.",
 		"get_queue_count": "Kuyruktaki mevcut öğe sayısı.  {{get_queue_count}}",
 		"get_var_from_msg": "Bir mesajdaki değişkenin değerini alır.  {{get_var_from_msg=name}} Ve {{get_var_from_msg=age}}",
-		"get_user_loyalty_points": "Bir kullanıcının bağlılık puanı değerini alın.  {{get_user_loyalty_points={{message}}veya izleyicinin kullanıcı adı ve platformu {{get_user_loyalty_points=lumiastream,twitch}}. ",
+		"get_user_loyalty_points": "Bir kullanıcının sadakat puanı değerini alın. Örnek: {{get_user_loyalty_points={{message}}}} veya kullanıcı adı ve platform {{get_user_loyalty_points={{username}},{{platform}}}}. Daha sonra şu şekilde kullanın: !command username veya !command username,platform. Sonuç para birimi olmadan puan bakiyesi olacaktır.",
 		"translate": "Bir mesajı Google Translate ile çevirir. Örnek: {{translate={{message}}}} veya {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "Bir klasörden rastgele bir dosya alır.  {{get_random_file_from_folder=C:/Users/Desktop}}.",
 		"getAllCommands": "Kullanıcı ayarlarında bulunan tüm komutları Lumia'dan alır",

@@ -2195,7 +2195,7 @@
 		"file": "Ruta del archivo observado",
 		"first_count": "Cuenta cuántas veces el nombre de usuario del primer hablante inicia un chat",
 		"get_var_from_msg": "Obtiene el valor de una variable de un mensaje. Usa un signo igual dentro del mensaje para asignar una variable y una coma para separar múltiples variables. Por ejemplo, !command name=lumi, age=6. La variable será: {{get_var_from_msg=name}} y {{get_var_from_msg=age}}",
-		"get_user_loyalty_points": "Obtén el valor de los puntos de lealtad de un usuario. Por ejemplo, la variable será: {{get_user_loyalty_points={{message}}, o el nombre de usuario y la plataforma del espectador {{get_user_loyalty_points=lumiastream,twitch}}. Luego úsalo así: !command username o !command username,platform. El resultado será el saldo de puntos sin moneda",
+		"get_user_loyalty_points": "Obtén el valor de los puntos de fidelidad de un usuario. Ejemplo: {{get_user_loyalty_points={{message}}}}, o nombre de usuario y plataforma {{get_user_loyalty_points={{username}},{{platform}}}}. Luego úsalo así: !command username o !command username,platform. El resultado será el saldo de puntos sin moneda.",
 		"translate": "Traduce un mensaje usando Google Translate. Por ejemplo: {{translate={{message}}}} o {{translate={{message}}|es}}",
 		"duel_result": "El resultado del duelo mostrará un mensaje de victoria, derrota o entrada inválida según el estado del juego",
 		"duel_winner": "El nombre de usuario del ganador del duelo",
