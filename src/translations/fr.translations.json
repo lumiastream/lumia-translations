@@ -2196,7 +2196,7 @@
 		"file": "Chemin du fichier surveillé",
 		"first_count": "Comptez combien de fois le nom d'utilisateur du premier bavard commence un chat",
 		"get_var_from_msg": "Obtient la valeur d'une variable à partir d'un message. Utilisez un signe égal dans le message pour assigner une variable et une virgule pour séparer plusieurs variables. Par exemple, !command name=lumi, age=6. La variable sera : {{get_var_from_msg=name}} et {{get_var_from_msg=age}}",
-		"get_user_loyalty_points": "Obtenez la valeur des points de fidélité d'un utilisateur. Par exemple, la variable sera : {{get_user_loyalty_points={{message}}, ou le nom d'utilisateur et la plateforme du spectateur {{get_user_loyalty_points=lumiastream,twitch}}. Ensuite, utilisez-le comme ceci : !command username ou !command username,platform. Le résultat sera le solde de points sans devise",
+		"get_user_loyalty_points": "Obtenez la valeur des points de fidélité d’un utilisateur. Exemple : {{get_user_loyalty_points={{message}}}} ou nom d’utilisateur et plateforme {{get_user_loyalty_points={{username}},{{platform}}}}. Utilisez-le ensuite ainsi : !command username ou !command username,platform. Le résultat sera le solde de points sans devise.",
 		"translate": "Traduisez un message en utilisant Google Translate. Par exemple: {{translate={{message}}}} ou {{translate={{message}}|es}}",
 		"duel_result": "Le résultat du duel affichera un message de victoire, de défaite ou d'entrée invalide en fonction de l'état du jeu",
 		"duel_winner": "Le nom d'utilisateur du gagnant du duel",

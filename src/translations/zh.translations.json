@@ -1777,7 +1777,7 @@
 		"get_latest_file_from_folder": "从文件夹中获取最新文件。例如：{{get_latest_file_from_folder=C:/Users/Desktop}}。",
 		"get_queue_count": "队列中当前项目的数量。例如：{{get_queue_count}}",
 		"get_var_from_msg": "从消息中获取变量的值。在消息中使用等号分配变量，用逗号分隔多个变量。例如：!command name=lumi, age=6. 变量将是：{{get_var_from_msg=name}} 和 {{get_var_from_msg=age}}",
-		"get_user_loyalty_points": "获取用户的忠诚点数。例如，变量将是：{{get_user_loyalty_points={{message}}，或观众的用户名和平台 {{get_user_loyalty_points=lumiastream,twitch}}。然后这样使用：!command username 或 !command username,platform。结果将是不带货币的积分余额",
+		"get_user_loyalty_points": "获取用户的忠诚度积分值。例如：{{get_user_loyalty_points={{message}}}}，或用户名和平台 {{get_user_loyalty_points={{username}},{{platform}}}}。然后这样使用：!command username 或 !command username,platform。结果将是没有货币的积分余额。",
 		"translate": "使用 Google Translate 翻译消息。例如：{{translate={{message}}}} 或 {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "从文件夹中获取一个随机文件。例如：{{get_random_file_from_folder=C:/Users/Desktop}}。",
 		"getAllCommands": "获取用户设置中 Lumia 的所有命令",

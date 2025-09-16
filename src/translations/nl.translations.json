@@ -2193,7 +2193,7 @@
 		"file": "Pad van het bewaakte bestand",
 		"first_count": "Tel hoe vaak de gebruikersnaam van de eerste chatter een chat start",
 		"get_var_from_msg": "Haalt de waarde van een variabele uit een bericht. Gebruik een gelijkteken in het bericht om een variabele toe te wijzen en een komma om meerdere variabelen te scheiden. Bijv. !command name=lumi, age=6. De variabele wordt: {{get_var_from_msg=name}} en {{get_var_from_msg=age}}",
-		"get_user_loyalty_points": "Haal de waarde van loyaliteitspunten van een gebruiker op. Bijv. de variabele wordt: {{get_user_loyalty_points={{message}}, of de gebruikersnaam en het platform van de kijker {{get_user_loyalty_points=lumiastream,twitch}}. Gebruik het vervolgens als volgt: !command username of !command username,platform. Het resultaat is het puntensaldo zonder valuta",
+		"get_user_loyalty_points": "Haal de loyaliteitspuntenwaarde van een gebruiker op. Bijvoorbeeld: {{get_user_loyalty_points={{message}}}}, of gebruikersnaam en platform {{get_user_loyalty_points={{username}},{{platform}}}}. Gebruik het daarna zo: !command username of !command username,platform. Het resultaat is het puntenaantal zonder valuta.",
 		"translate": "Vertaal een bericht met Google Translate. Bijv. {{translate={{message}}}} of {{translate={{message}}|es}}",
 		"duel_result": "Het resultaat van het duel geeft een win-, verlies- of ongeldige invoerbericht weer, afhankelijk van de spelstatus",
 		"duel_winner": "De gebruikersnaam van de winnaar van het duel",
