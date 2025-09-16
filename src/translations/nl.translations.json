@@ -4203,6 +4203,7 @@
 		"add-widgets-btn": "Widgets toevoegen",
 		"add-widgets-desc": "Voeg meer widgets toe aan het dashboard",
 		"chatbox": "Chatbox",
+		"chatbox-settings": "Chatbox-instellingen",
 		"chat-messages-does-not-work-on-platform": "U kunt momenteel geen chatberichten verzenden via {{platform}}",
 		"twitchViewers": "Twitch-kijkers",
 		"viewers": "Kijkers",
