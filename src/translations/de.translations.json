@@ -1572,7 +1572,7 @@
 		"keymouseoutputs": "Tastatur-/Mausausgaben",
 		"set-user-point": "Punktestand des Benutzernamens festlegen auf",
 		"refresh-settings": "Einstellungen aktualisieren",
-		"settings-refreshed": "Einstellungen wurden aktualisiert",
+		"settings-refreshed": "{{connection}} Einstellungen wurden aktualisiert",
 		"skip-replay-for": "Wiedergabe überspringen für {{value}}",
 		"audio-subtitle-modtool": "Audio kann im Moderationstool nicht verwendet werden",
 		"allowed-username": "Erlaubter Benutzername",

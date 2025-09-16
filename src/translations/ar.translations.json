@@ -1572,7 +1572,7 @@
 		"keymouseoutputs": "مخرجات لوحة المفاتيح/الماوس",
 		"set-user-point": "تعيين نقاط المستخدم إلى",
 		"refresh-settings": "تحديث الإعدادات",
-		"settings-refreshed": "تم تحديث الإعدادات",
+		"settings-refreshed": "تم تحديث إعدادات {{connection}}",
 		"skip-replay-for": "تخطي إعادة التشغيل لـ {{value}}",
 		"audio-subtitle-modtool": "لا يمكن استخدام الصوت عند استخدام أداة التعديل",
 		"allowed-username": "اسم المستخدم المسموح به",

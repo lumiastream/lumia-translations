@@ -1068,7 +1068,7 @@
 		"import-chat": "İçe aktarma komutu",
 		"automation": "Otomasyon",
 		"refresh-settings": "Ayarları Yenile",
-		"settings-refreshed": "Ayarlar yenilendi",
+		"settings-refreshed": "{{connection}} ayarlar yenilendi",
 		"auto-fulfill-requests": "Otomatik Yerine Getirme İstekleri",
 		"auto-fulfill-requests-description": "Lumia'nın ödemeleri otomatik olarak yerine getirmesine ve otomatik olarak geri ödeme yapmasına izin verin",
 		"auto-stop-play-requests": "Kullanımları Otomatik Oynat/Duraklat",

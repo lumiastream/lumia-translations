@@ -1074,7 +1074,7 @@
 		"import-chat": "Import command",
 		"automation": "Automation",
 		"refresh-settings": "Refresh Settings",
-		"settings-refreshed": "Settings have been refreshed",
+		"settings-refreshed": "{{connection}} settings have been refreshed",
 		"auto-fulfill-requests": "Auto Fulfill Requests",
 		"auto-fulfill-requests-description": "Allow Lumia to auto fulfill and auto refund redemptions",
 		"auto-stop-play-requests": "Auto Play/Pause Redemptions",

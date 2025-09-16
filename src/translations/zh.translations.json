@@ -1067,7 +1067,7 @@
 		"import-chat": "导入命令",
 		"automation": "自动化",
 		"refresh-settings": "刷新设置",
-		"settings-refreshed": "设置已刷新",
+		"settings-refreshed": "{{connection}} 设置已刷新",
 		"auto-fulfill-requests": "自动完成请求",
 		"auto-fulfill-requests-description": "允许 Lumia 自动完成和自动退款兑换",
 		"auto-stop-play-requests": "自动播放/暂停兑换",

@@ -1572,7 +1572,7 @@
 		"keymouseoutputs": "Key/Mouse Outputs",
 		"set-user-point": "Set username points to",
 		"refresh-settings": "Refresh Settings",
-		"settings-refreshed": "Settings have been refreshed",
+		"settings-refreshed": "{{connection}} settings have been refreshed",
 		"skip-replay-for": "Skip replay for {{value}}",
 		"audio-subtitle-modtool": "Audio can not be used when using Mod Tool",
 		"allowed-username": "Allowed username",

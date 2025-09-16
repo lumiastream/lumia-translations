@@ -1067,7 +1067,7 @@
 		"import-chat": "Importar comando",
 		"automation": "Automação",
 		"refresh-settings": "Atualizar Configurações",
-		"settings-refreshed": "Configurações atualizadas",
+		"settings-refreshed": "{{connection}} Configurações atualizadas",
 		"auto-fulfill-requests": "Atender Pedidos Automaticamente",
 		"auto-fulfill-requests-description": "Permitir que o Lumia atenda e reembolse automaticamente os resgates",
 		"auto-stop-play-requests": "Reproduzir/Pausar Resgates Automaticamente",
