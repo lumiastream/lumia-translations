@@ -1804,7 +1804,7 @@
 		"get_latest_file_from_folder": "Gets the latest file from a folder. e.g. {{get_latest_file_from_folder=C:/Users/Desktop}}.",
 		"get_queue_count": "The current count of items in queue. e.g. {{get_queue_count}}",
 		"get_var_from_msg": "Gets the value of a variable from a message. Use an equal sign within the message to assign a variable and a comma to separate multiple variables. e.g. !command name=lumi, age=6. var will be: {{get_var_from_msg=name}} and {{get_var_from_msg=age}}",
-		"get_user_loyalty_points": "Get the loyalty points value of a user. e.g. variable will be: {{get_user_loyalty_points={{message}}, or viewer's username and platform {{get_user_loyalty_points=lumiastream,twitch}}. Then use it like this: !command username or !command username,platform. Result will be the point ballance without currency",
+		"get_user_loyalty_points": "Get the loyalty points value of a user. e.g. variable will be: {{get_user_loyalty_points={{message}}}}, or viewer's username and platform {{get_user_loyalty_points={{username}},{{platform}}}}. Then use it like this: !command username or !command username,platform. Result will be the point ballance without currency",
 		"translate": "Translate a message using Google Translate. e.g. {{translate={{message}}}} or {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "Gets a random file from a folder. e.g. {{get_random_file_from_folder=C:/Users/Desktop}}.",
 		"getAllCommands": "Gets all commands from Lumia that are in the users settings",
