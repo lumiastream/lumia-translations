@@ -2249,7 +2249,8 @@
 		"kick-points": "Kick-poäng",
 		"user-triggered-kick-points-command": "{{username}} utlöste kick-poängen {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte användarnivåvillkoren",
-		"user-triggered-kick-points-command-but-not-points": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte kostnadsvillkoren"
+		"user-triggered-kick-points-command-but-not-points": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte kostnadsvillkoren",
+		"ai_prompt": "Skicka en prompt till AI med Chat GPT, DeepSeek och mer. Exempel: {{ai_prompt=Gör ett roligt citat}}. Eller låt användare skicka en prompt {{ai_prompt={{message}}}}"
 	},
 	"voicemod": {
 		"delay": "Dröjsmål",

@@ -2246,7 +2246,8 @@
 		"kick-points": "Kick-punten",
 		"user-triggered-kick-points-command": "{{username}} heeft kick-punt {{command}} geactiveerd",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} heeft kick-punten {{command}} geactiveerd, maar voldoet niet aan de gebruikersniveauvoorwaarden",
-		"user-triggered-kick-points-command-but-not-points": "{{username}} heeft kick-punten {{command}} geactiveerd, maar voldoet niet aan de kostenvoorwaarden"
+		"user-triggered-kick-points-command-but-not-points": "{{username}} heeft kick-punten {{command}} geactiveerd, maar voldoet niet aan de kostenvoorwaarden",
+		"ai_prompt": "Stuur een prompt naar AI met Chat GPT, DeepSeek en meer. Voorbeeld: {{ai_prompt=Maak een grappig citaat}}. Of laat gebruikers een prompt sturen {{ai_prompt={{message}}}}"
 	},
 	"voicemod": {
 		"delay": "Vertraging",

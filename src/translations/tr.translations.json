@@ -2251,7 +2251,8 @@
 		"kick-points": "Kick Puanları",
 		"user-triggered-kick-points-command": "{{username}} {{command}} kick puanını tetikledi",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} {{command}} kick puanlarını tetikledi ancak kullanıcı seviye koşullarını karşılamıyor",
-		"user-triggered-kick-points-command-but-not-points": "{{username}} {{command}} kick puanlarını tetikledi ancak maliyet koşullarını karşılamıyor"
+		"user-triggered-kick-points-command-but-not-points": "{{username}} {{command}} kick puanlarını tetikledi ancak maliyet koşullarını karşılamıyor",
+		"ai_prompt": "Chat GPT, DeepSeek ve daha fazlasını kullanarak yapay zekaya bir komut gönderin. Örnek: {{ai_prompt=Komik bir alıntı yap}}. Veya kullanıcıların komut göndermesine izin verin {{ai_prompt={{message}}}}"
 	},
 	"voicemod": {
 		"delay": "Gecikme",
