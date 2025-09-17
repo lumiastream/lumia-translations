@@ -2295,7 +2295,7 @@
 		"user-triggered-kick-points-command": "{{username}} triggered kick point {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} triggered kick points {{command}}, but does not satisfy the user level conditions",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} triggered kick points {{command}}, but does not satisfy the cost conditions",
-		"ai_prompt": "Get the ai response from ai integration. Example: {{ai_prompt={{message}}}}. Use as {{ai_prompt}}"
+		"ai_prompt": "Send a prompt to ai using Chat GPT, DeepSeek and more. Example: {{ai_prompt=Make a funny quote}}. Or allow users to send in a prompt {{ai_prompt={{message}}}}"
 	},
 	"voicemod": {
 		"delay": "Delay",
