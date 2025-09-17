@@ -2249,7 +2249,8 @@
 		"kick-points": "Pontos Kick",
 		"user-triggered-kick-points-command": "{{username}} acionou o ponto kick {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} acionou os pontos kick {{command}}, mas não atende às condições de nível de usuário",
-		"user-triggered-kick-points-command-but-not-points": "{{username}} acionou os pontos kick {{command}}, mas não atende às condições de custo"
+		"user-triggered-kick-points-command-but-not-points": "{{username}} acionou os pontos kick {{command}}, mas não atende às condições de custo",
+		"ai_prompt": "Envie um prompt para a IA usando Chat GPT, DeepSeek e mais. Exemplo: {{ai_prompt=Faça uma citação engraçada}}. Ou permita que os usuários enviem um prompt {{ai_prompt={{message}}}}"
 	},
 	"voicemod": {
 		"delay": "Atraso",

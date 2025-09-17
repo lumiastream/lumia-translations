@@ -2249,7 +2249,8 @@
 		"kick-points": "Kick 积分",
 		"user-triggered-kick-points-command": "{{username}} 触发了 Kick 积分 {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} 触发了 Kick 积分 {{command}}，但不符合用户等级条件",
-		"user-triggered-kick-points-command-but-not-points": "{{username}} 触发了 Kick 积分 {{command}}，但不符合成本条件"
+		"user-triggered-kick-points-command-but-not-points": "{{username}} 触发了 Kick 积分 {{command}}，但不符合成本条件",
+		"ai_prompt": "使用 Chat GPT、DeepSeek 等向 AI 发送提示。示例：{{ai_prompt=生成一个有趣的引言}}。或允许用户发送提示 {{ai_prompt={{message}}}}"
 	},
 	"voicemod": {
 		"delay": "延迟",

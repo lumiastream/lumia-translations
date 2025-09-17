@@ -2249,7 +2249,8 @@
 		"kick-points": "نقاط الكيك",
 		"user-triggered-kick-points-command": "{{username}} فعّل نقطة كيك {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} فعّل نقاط الكيك {{command}}، ولكن لا يستوفي شروط مستوى المستخدم",
-		"user-triggered-kick-points-command-but-not-points": "{{username}} فعّل نقاط الكيك {{command}}، ولكن لا يستوفي شروط التكلفة"
+		"user-triggered-kick-points-command-but-not-points": "{{username}} فعّل نقاط الكيك {{command}}، ولكن لا يستوفي شروط التكلفة",
+		"ai_prompt": "أرسل مطالبة إلى الذكاء الاصطناعي باستخدام Chat GPT و DeepSeek والمزيد. مثال: {{ai_prompt=اكتب اقتباسًا مضحكًا}}. أو اسمح للمستخدمين بإرسال مطالبة {{ai_prompt={{message}}}}"
 	},
 	"voicemod": {
 		"delay": "تأخير",

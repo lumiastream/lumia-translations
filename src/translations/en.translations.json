@@ -2294,7 +2294,8 @@
 		"kick-points": "Kick Points",
 		"user-triggered-kick-points-command": "{{username}} triggered kick point {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} triggered kick points {{command}}, but does not satisfy the user level conditions",
-		"user-triggered-kick-points-command-but-not-points": "{{username}} triggered kick points {{command}}, but does not satisfy the cost conditions"
+		"user-triggered-kick-points-command-but-not-points": "{{username}} triggered kick points {{command}}, but does not satisfy the cost conditions",
+		"ai_prompt": "Get the ai response from ai integration. Example: {{ai_prompt={{message}}}}. Use as {{ai_prompt}}"
 	},
 	"voicemod": {
 		"delay": "Delay",
