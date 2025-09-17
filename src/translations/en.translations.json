@@ -491,7 +491,8 @@
 		"brand": "Brand",
 		"globalcode": "Global Code",
 		"popout-title": "Popout widget",
-		"loyaltypoints": "Loyalty points"
+		"loyaltypoints": "Loyalty points",
+		"poll": "Poll"
 	},
 	"home": {
 		"test-setup": "Test Setup",
@@ -1695,7 +1696,9 @@
 		"use-default-message": "Use default message",
 		"ban": "Ban",
 		"ban-user-description": "Are you sure you want to ban {{username}}?",
-		"send-native-shoutout": "Send native /shoutout to twitch"
+		"send-native-shoutout": "Send native /shoutout to twitch",
+		"interaction-moved": "For better organization, {{interaction}} has been relocated to a different page",
+		"go-to-interaction": "Go to {{interaction}}"
 	},
 	"variables": {
 		"action": "Action name",
