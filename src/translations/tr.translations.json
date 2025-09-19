@@ -3267,7 +3267,8 @@
 		"drag-drop": "6 adede kadar küçük resmi buraya sürükleyip bırakın",
 		"load-file": "Dosyayı yükle",
 		"review-and-upload": "İncele ve yükle",
-		"user-downloaded": "{{downloads}} kullanıcı bu temayı indirdi"
+		"user-downloaded": "{{downloads}} kullanıcı bu temayı indirdi",
+		"no-description": "Bu overlay'in açıklaması yok"
 	},
 	"update": {
 		"update-now": "Şimdi Güncelle",
