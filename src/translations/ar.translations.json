@@ -3265,7 +3265,8 @@
 		"drag-drop": "اسحب & أفلِت حتى 6 صور مصغرة هنا",
 		"load-file": "تحميل الملف",
 		"review-and-upload": "مراجعة & رفع",
-		"user-downloaded": "{{downloads}} مستخدم قام بتحميل هذا الموضوع"
+		"user-downloaded": "{{downloads}} مستخدم قام بتحميل هذا الموضوع",
+		"no-description": "هذا الـ Overlay ليس له وصف"
 	},
 	"update": {
 		"update-now": "تحديث الان",

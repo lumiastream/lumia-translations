@@ -3264,7 +3264,8 @@
 		"drag-drop": "拖放最多 6 张缩略图到此处",
 		"load-file": "加载文件",
 		"review-and-upload": "审核并上传",
-		"user-downloaded": "{{downloads}} 位用户下载了此主题"
+		"user-downloaded": "{{downloads}} 位用户下载了此主题",
+		"no-description": "此叠加没有描述"
 	},
 	"update": {
 		"update-now": "立即更新",
