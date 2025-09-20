@@ -3265,7 +3265,8 @@
 		"drag-drop": "Arraste e cair para 6 miniaturas aqui",
 		"load-file": "Carregar arquivo",
 		"review-and-upload": "Revisão e upload",
-		"user-downloaded": "{{downloads}} usuário baixou este tema"
+		"user-downloaded": "{{downloads}} usuário baixou este tema",
+		"no-description": "Este overlay não tem descrição"
 	},
 	"update": {
 		"update-now": "Atualizar agora",

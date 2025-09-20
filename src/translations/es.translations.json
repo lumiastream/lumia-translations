@@ -3294,7 +3294,8 @@
 		"drag-drop": "Drag & drop up to 6 thumbnails here",
 		"load-file": "Load file",
 		"review-and-upload": "Review & upload",
-		"user-downloaded": "{{downloads}} user downloaded this theme"
+		"user-downloaded": "{{downloads}} user downloaded this theme",
+		"no-description": "Esta superposición no tiene descripción"
 	},
 	"update": {
 		"update-now": "Actualizar ahora",

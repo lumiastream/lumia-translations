@@ -3295,7 +3295,8 @@
 		"drag-drop": "Bis zu 6 Miniaturansichten hierher ziehen & ablegen",
 		"load-file": "Datei laden",
 		"review-and-upload": "Überprüfen & hochladen",
-		"user-downloaded": "{{downloads}} Nutzer haben dieses Theme heruntergeladen"
+		"user-downloaded": "{{downloads}} Nutzer haben dieses Theme heruntergeladen",
+		"no-description": "Dieses Overlay hat keine Beschreibung"
 	},
 	"update": {
 		"update-now": "Jetzt aktualisieren",
