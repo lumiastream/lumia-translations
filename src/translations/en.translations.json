@@ -1796,6 +1796,7 @@
 		"fourthwall_last_subscriber": "(Fourthwall) The last subscriber that was added. Use Object dot notation to access the properties. e.g. {{fourthwall_last_subscriber.username}}, {{fourthwall_last_subscriber.amount}}, {{fourthwall_last_subscriber.currency}}, {{fourthwall_last_subscriber.interval}}",
 		"fourthwall_current_giveaway": "(Fourthwall) The current giveaway. Use Object dot notation to access the properties. e.g. {{fourthwall_current_giveaway.name}}, {{fourthwall_current_giveaway.amount}}, {{fourthwall_current_giveaway.currency}}",
 		"fourthwall_giveaway_completed": "(Fourthwall) The giveaway that was completed. Use Object dot notation to access the properties. e.g. {{fourthwall_giveaway_completed.name}}, {{fourthwall_giveaway_completed.amount}}, {{fourthwall_giveaway_completed.currency}}, {{fourthwall_giveaway_completed.username}}, {{fourthwall_giveaway_completed.totalGifts}}, {{fourthwall_giveaway_completed.winnerNames}}, {{fourthwall_giveaway_completed.winners}}",
+
 		"file": "Path of the watched file",
 		"first_count": "Count how many times the first chatter's username starts a chat",
 		"followers": "Followers count",
@@ -4626,5 +4627,24 @@
 		"mod-approval-required": "Requires moderator approval",
 		"deny-all": "Deny all",
 		"approve-all": "Approve all"
+	},
+	"plugins": {
+		"install-plugin": "Install Plugin",
+		"install-package": "Install Package",
+		"install-package-description": "Install a plugin package file",
+		"choose-package-file": "Choose Package File",
+		"installing": "Installing...",
+		"choose-directory": "Choose Directory",
+		"security-notice": "Security Notice",
+		"security-description": "Only install plugins from trusted sources. All plugins are validated and sandboxed for security.",
+		"install-success": "Plugin \"{{name}}\" installed successfully!",
+		"install-error": "Plugin installation failed: {{error}}",
+		"uninstall-success": "Plugin \"{{name}}\" uninstalled successfully!",
+		"uninstall-error": "Plugin uninstallation failed: {{error}}",
+		"toggle-success": "Plugin toggled successfully",
+		"toggle-error": "Failed to toggle plugin: {{error}}",
+		"uninstall-confirm-title": "Confirm Uninstall",
+		"uninstall-confirm-message": "Are you sure you want to uninstall \"{{name}}\"? This action cannot be undone.",
+		"uninstall-confirm": "Yes, Uninstall"
 	}
 }
