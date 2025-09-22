@@ -3296,7 +3296,13 @@
 		"load-file": "Load file",
 		"review-and-upload": "Review & upload",
 		"user-downloaded": "{{downloads}} user downloaded this theme",
-		"no-description": "Cet overlay n’a pas de description"
+		"no-description": "Cet overlay n’a pas de description",
+		"votes": "Votes",
+		"poll-items": "Éléments du sondage",
+		"voters": "Votants",
+		"trigger": "Déclencheur (message envoyé après la commande de vote)",
+		"poll-description": "Le widget de sondage vous permet de créer des sondages avec un titre, un déclencheur et une image facultative. Les spectateurs peuvent voter en tapant une commande (par ex. !vote) suivie du déclencheur (par ex. !vote 1).",
+		"no-poll-found": "Aucun sondage trouvé, vous pouvez en créer un en ajoutant une couche de sondage dans l’overlay"
 	},
 	"update": {
 		"update-now": "Mettez à jour maintenant",

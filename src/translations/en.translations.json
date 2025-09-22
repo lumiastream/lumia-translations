@@ -3374,7 +3374,13 @@
 		"load-file": "Load file",
 		"review-and-upload": "Review & upload",
 		"user-downloaded": "{{downloads}} user downloaded this theme",
-		"no-description": "This overlay has no description"
+		"no-description": "This overlay has no description",
+		"votes": "Votes",
+		"poll-items": "Poll items",
+		"voters": "Voters",
+		"trigger": "Trigger (Message sent after the vote command)",
+		"poll-description": "The Poll widget lets you create polls with items that include a title, trigger, and an optional image. Viewers can vote by typing a command (e.g., !vote) followed by the trigger (e.g., !vote 1).",
+		"no-poll-found": "No poll found, you can create one by adding a poll overlay layer"
 	},
 	"update": {
 		"update-now": "Update Now",
