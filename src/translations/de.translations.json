@@ -3296,7 +3296,13 @@
 		"load-file": "Datei laden",
 		"review-and-upload": "Überprüfen & hochladen",
 		"user-downloaded": "{{downloads}} Nutzer haben dieses Theme heruntergeladen",
-		"no-description": "Dieses Overlay hat keine Beschreibung"
+		"no-description": "Dieses Overlay hat keine Beschreibung",
+		"votes": "Stimmen",
+		"poll-items": "Umfrageelemente",
+		"voters": "Wähler",
+		"trigger": "Auslöser (Nachricht, die nach dem Abstimmungsbefehl gesendet wird)",
+		"poll-description": "Mit dem Umfrage-Widget können Sie Umfragen mit einem Titel, Auslöser und optionalem Bild erstellen. Zuschauer können abstimmen, indem sie einen Befehl eingeben (z. B. !vote) gefolgt vom Auslöser (z. B. !vote 1).",
+		"no-poll-found": "Keine Umfrage gefunden, Sie können eine erstellen, indem Sie eine Umfrage-Overlay-Ebene hinzufügen"
 	},
 	"update": {
 		"update-now": "Jetzt aktualisieren",

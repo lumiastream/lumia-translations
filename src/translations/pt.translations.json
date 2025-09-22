@@ -3266,7 +3266,13 @@
 		"load-file": "Carregar arquivo",
 		"review-and-upload": "Revisão e upload",
 		"user-downloaded": "{{downloads}} usuário baixou este tema",
-		"no-description": "Este overlay não tem descrição"
+		"no-description": "Este overlay não tem descrição",
+		"votes": "Votos",
+		"poll-items": "Itens da enquete",
+		"voters": "Votantes",
+		"trigger": "Gatilho (mensagem enviada após o comando de voto)",
+		"poll-description": "O widget de enquete permite criar enquetes com título, gatilho e imagem opcional. Os espectadores podem votar digitando um comando (ex.: !vote) seguido do gatilho (ex.: !vote 1).",
+		"no-poll-found": "Nenhuma enquete encontrada, você pode criar uma adicionando uma camada de enquete no overlay"
 	},
 	"update": {
 		"update-now": "Atualizar agora",

@@ -3295,7 +3295,13 @@
 		"load-file": "Load file",
 		"review-and-upload": "Review & upload",
 		"user-downloaded": "{{downloads}} user downloaded this theme",
-		"no-description": "Esta superposición no tiene descripción"
+		"no-description": "Esta superposición no tiene descripción",
+		"votes": "Votos",
+		"poll-items": "Elementos de la encuesta",
+		"voters": "Votantes",
+		"trigger": "Disparador (mensaje enviado después del comando de voto)",
+		"poll-description": "El widget de encuestas te permite crear encuestas con un título, un disparador y una imagen opcional. Los espectadores pueden votar escribiendo un comando (ej. !vote) seguido del disparador (ej. !vote 1).",
+		"no-poll-found": "No se encontró ninguna encuesta, puedes crear una agregando una capa de encuesta en el overlay"
 	},
 	"update": {
 		"update-now": "Actualizar ahora",

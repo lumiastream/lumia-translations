@@ -3266,7 +3266,13 @@
 		"load-file": "Load file",
 		"review-and-upload": "Review & upload",
 		"user-downloaded": "{{downloads}} user downloaded this theme",
-		"no-description": "Detta overlay har ingen beskrivning"
+		"no-description": "Detta overlay har ingen beskrivning",
+		"votes": "Röster",
+		"poll-items": "Omröstningsobjekt",
+		"voters": "Röstare",
+		"trigger": "Utlösare (meddelande som skickas efter röstningskommandot)",
+		"poll-description": "Omröstningswidgeten låter dig skapa omröstningar med en titel, utlösare och en valfri bild. Tittarna kan rösta genom att skriva ett kommando (t.ex. !vote) följt av utlösaren (t.ex. !vote 1).",
+		"no-poll-found": "Ingen omröstning hittades, du kan skapa en genom att lägga till ett omröstningslager i overlayen"
 	},
 	"update": {
 		"update-now": "Uppdatera nu",

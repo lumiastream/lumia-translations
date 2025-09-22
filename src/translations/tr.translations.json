@@ -3268,7 +3268,13 @@
 		"load-file": "Dosyayı yükle",
 		"review-and-upload": "İncele ve yükle",
 		"user-downloaded": "{{downloads}} kullanıcı bu temayı indirdi",
-		"no-description": "Bu overlay'in açıklaması yok"
+		"no-description": "Bu overlay'in açıklaması yok",
+		"votes": "Oylar",
+		"poll-items": "Anket öğeleri",
+		"voters": "Oy verenler",
+		"trigger": "Tetikleyici (oy komutundan sonra gönderilen mesaj)",
+		"poll-description": "Anket widget’ı, başlık, tetikleyici ve isteğe bağlı görsel içeren anketler oluşturmanıza olanak tanır. İzleyiciler, bir komut (örn. !vote) ve ardından tetikleyici (örn. !vote 1) yazarak oy verebilir.",
+		"no-poll-found": "Hiç anket bulunamadı, bir anket overlay katmanı ekleyerek oluşturabilirsiniz"
 	},
 	"update": {
 		"update-now": "Şimdi Güncelle",
