@@ -3263,7 +3263,13 @@
 		"load-file": "加载文件",
 		"review-and-upload": "审核并上传",
 		"user-downloaded": "{{downloads}} 位用户下载了此主题",
-		"no-description": "此叠加没有描述"
+		"no-description": "此叠加没有描述",
+		"votes": "投票数",
+		"poll-items": "投票项",
+		"voters": "投票者",
+		"trigger": "触发器（在投票命令后发送的消息）",
+		"poll-description": "投票小部件允许您创建包含标题、触发器和可选图片的投票。观众可以通过输入命令（例如 !vote）并跟上触发器（例如 !vote 1）来投票。",
+		"no-poll-found": "未找到投票，您可以通过添加一个投票覆盖层来创建"
 	},
 	"update": {
 		"update-now": "立即更新",

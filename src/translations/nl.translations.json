@@ -3261,7 +3261,13 @@
 		"load-file": "Load file",
 		"review-and-upload": "Review & upload",
 		"user-downloaded": "{{downloads}} user downloaded this theme",
-		"no-description": "Deze overlay heeft geen beschrijving"
+		"no-description": "Deze overlay heeft geen beschrijving",
+		"votes": "Stemmen",
+		"poll-items": "Peilingitems",
+		"voters": "Stemmers",
+		"trigger": "Trigger (bericht dat wordt verzonden na het stemcommando)",
+		"poll-description": "Met de poll-widget kun je peilingen maken met een titel, trigger en optionele afbeelding. Kijkers kunnen stemmen door een commando te typen (bijv. !vote) gevolgd door de trigger (bijv. !vote 1).",
+		"no-poll-found": "Geen peiling gevonden, je kunt er een maken door een poll-overlaylaag toe te voegen"
 	},
 	"update": {
 		"update-now": "Update nu",
