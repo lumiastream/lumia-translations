@@ -1161,8 +1161,6 @@
 		"duplicate-error": "يجب أن يكون لكل أمر اسم فريد",
 		"folder-is-disabled": "مجلد {{folder}} معطل حاليا. {{command}} لن يؤدي",
 		"chatbot-state": "قم بتشغيل الشات بوت",
-		"chatbot-show-in-chat-list": "إظهار Chat Bot في Overlays وقائمة Lumia Chat",
-		"chatbot-show-in-chat-list-description": "عندما يكون غير نشط، لن تظهر رسائل chatbot في Overlays أو Lumia Link أو في قائمة الدردشة في Dashboards",
 		"chatcommand-state": "قم بتشغيل أوامر الدردشة",
 		"global-state": "الدولة العالمية",
 		"global-state-description": "عندما يكون غير نشط، سيتم تعطيل كافة أوامر الدردشة",

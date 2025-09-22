@@ -1161,8 +1161,6 @@
 		"duplicate-error": "Varje kommando måste ha ett unikt namn",
 		"folder-is-disabled": "Mapp {{folder}} är för närvarande inaktiverad. {{command}} kommer inte att utlösas",
 		"chatbot-state": "Slå på Chat Bot",
-		"chatbot-show-in-chat-list": "Visa chattbot i Overlays och Lumia Chat-lista",
-		"chatbot-show-in-chat-list-description": "När chatbotmeddelanden är inaktiva visas inte i Overlays, Lumia Link eller i Dashboards Chat List",
 		"chatcommand-state": "Slå på chattkommandon",
 		"global-state": "Global stat",
 		"global-state-description": "När den är inaktiv kommer alla chattkommandon att inaktiveras",

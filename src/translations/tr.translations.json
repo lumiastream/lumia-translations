@@ -1173,8 +1173,6 @@
 		"duplicate-error": "Her komutun benzersiz bir adı olmalıdır",
 		"folder-is-disabled": "Dosya {{folder}} şu anda devre dışı. {{command}} tetiklenmeyecek",
 		"chatbot-state": "Chat Bot'u Etkinleştirin",
-		"chatbot-show-in-chat-list": "Sohbet Botunu Kaplamalarda ve Lumia Sohbet listesinde göster",
-		"chatbot-show-in-chat-list-description": "Etkin olmadığında chatbot mesajları Kaplamalar'da, Lumia Bağlantısı'nda veya Kontrol Paneli Sohbet Listesi'nde gösterilmez",
 		"chatcommand-state": "Sohbet Komutlarını Aç",
 		"global-state": "Küresel Durum",
 		"global-state-description": "Etkin olmadığında tüm sohbet komutları devre dışı bırakılır",

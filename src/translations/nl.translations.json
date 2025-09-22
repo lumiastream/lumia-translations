@@ -1161,8 +1161,6 @@
 		"duplicate-error": "Elke opdracht moet een unieke naam hebben",
 		"folder-is-disabled": "Map {{folder}} is momenteel uitgeschakeld. {{command}} zal niet activeren",
 		"chatbot-state": "Chatbot inschakelen",
-		"chatbot-show-in-chat-list": "Chatbot weergeven in overlays en Lumia-chatlijst",
-		"chatbot-show-in-chat-list-description": "Wanneer ze inactief zijn, worden chatbotberichten niet weergegeven in Overlays, Lumia Link of in de Dashboards-chatlijst",
 		"chatcommand-state": "Schakel chatopdrachten in",
 		"global-state": "Mondiale staat",
 		"global-state-description": "Indien inactief, worden alle chatopdrachten uitgeschakeld",
