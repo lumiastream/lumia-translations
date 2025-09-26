@@ -1173,8 +1173,6 @@
 		"duplicate-error": "每个命令必须有一个唯一的名称",
 		"folder-is-disabled": "文件夹 {{folder}} 当前已禁用。{{command}} 将不会触发",
 		"chatbot-state": "开启聊天机器人",
-		"chatbot-show-in-chat-list": "在叠加层和 Lumia 聊天列表中显示聊天机器人",
-		"chatbot-show-in-chat-list-description": "不活动时，聊天机器人消息将不会显示在叠加层、Lumia Link 或仪表板的聊天列表中",
 		"chatcommand-state": "开启聊天命令",
 		"global-state": "全局状态",
 		"global-state-description": "不活动时，所有聊天命令将被禁用",

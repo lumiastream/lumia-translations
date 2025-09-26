@@ -1161,8 +1161,6 @@
 		"duplicate-error": "Chaque commande doit avoir un nom unique",
 		"folder-is-disabled": "Dossier {{folder}} est actuellement désactivé. {{command}} ne déclenchera pas",
 		"chatbot-state": "Activer le chatbot",
-		"chatbot-show-in-chat-list": "Afficher le Chat Bot dans les superpositions et la liste Lumia Chat",
-		"chatbot-show-in-chat-list-description": "Lorsqu'ils sont inactifs, les messages du chatbot ne s'afficheront pas dans les superpositions, Lumia Link ou dans la liste de discussions des tableaux de bord.",
 		"chatcommand-state": "Activer les commandes de discussion",
 		"global-state": "État global",
 		"global-state-description": "Lorsqu'elles sont inactives, toutes les commandes de chat seront désactivées",

@@ -1161,8 +1161,6 @@
 		"duplicate-error": "Jeder Befehl muss einen eindeutigen Namen haben",
 		"folder-is-disabled": "Ordner {{folder}} ist derzeit deaktiviert. {{command}} wird nicht ausgelöst",
 		"chatbot-state": "Aktivieren Sie den Chat-Bot",
-		"chatbot-show-in-chat-list": "Chat-Bot in Overlays und Lumia-Chat-Liste anzeigen",
-		"chatbot-show-in-chat-list-description": "Wenn sie inaktiv sind, werden Chatbot-Nachrichten nicht in Overlays, Lumia Link oder in der Chat-Liste von Dashboards angezeigt",
 		"chatcommand-state": "Aktivieren Sie Chat-Befehle",
 		"global-state": "Globaler Status",
 		"global-state-description": "Bei Inaktivität werden alle Chat-Befehle deaktiviert",

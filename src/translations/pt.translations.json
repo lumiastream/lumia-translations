@@ -1173,8 +1173,6 @@
 		"duplicate-error": "Todo comando deve ter um nome único",
 		"folder-is-disabled": "A pasta {{folder}} está atualmente desativada. {{command}} não será acionado",
 		"chatbot-state": "Ativar Chat Bot",
-		"chatbot-show-in-chat-list": "Mostrar Chat Bot em Overlays e na lista de Chat do Lumia",
-		"chatbot-show-in-chat-list-description": "Quando inativo, as mensagens do chatbot não aparecerão em Overlays, Lumia Link ou na Lista de Chat do Painel",
 		"chatcommand-state": "Ativar Comandos de Chat",
 		"global-state": "Estado Global",
 		"global-state-description": "Quando inativo, todos os comandos de chat serão desativados",
