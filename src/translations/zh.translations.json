@@ -4361,7 +4361,11 @@
 		"subs-chance": "订阅者有 {{chance}} 倍的获胜机会",
 		"raffle-is-empty": "抽奖中没有项目",
 		"infos": "信息",
-		"confirm-reset-description": "将重置所有参赛作品和获胜者"
+		"confirm-reset-description": "将重置所有参赛作品和获胜者",
+		"current-settings": "当前设置",
+		"auto-end": "自动结束抽奖",
+		"ends-at": "结束于",
+		"raffle-run-for": "抽奖将持续 {{duration}}"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "尚未启动观众队列",

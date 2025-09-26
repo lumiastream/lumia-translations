@@ -4364,7 +4364,11 @@
 		"subs-chance": "Aboneler var {{chance}}x kazanma şansı daha fazla",
 		"raffle-is-empty": "Raffle'da öğe yok",
 		"infos": "Bilgiler",
-		"confirm-reset-description": "Tüm girişleri ve kazananları sıfırlayacak"
+		"confirm-reset-description": "Tüm girişleri ve kazananları sıfırlayacak",
+		"current-settings": "Mevcut ayarlar",
+		"auto-end": "Çekilişi otomatik bitir",
+		"ends-at": "Şu saatte biter:",
+		"raffle-run-for": "Çekiliş {{duration}} sürecek"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Henüz izleyici sırası başlatılmadı",

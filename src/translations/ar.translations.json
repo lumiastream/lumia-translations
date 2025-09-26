@@ -4352,7 +4352,11 @@
 		"subs-chance": "المشتركين لديهم {{chance}}× فرصة أكبر للفوز",
 		"raffle-is-empty": "لا توجد عناصر في السحب",
 		"infos": "معلومات",
-		"confirm-reset-description": "سيتم إعادة تعيين جميع الإدخالات والفائزين"
+		"confirm-reset-description": "سيتم إعادة تعيين جميع الإدخالات والفائزين",
+		"current-settings": "الإعدادات الحالية",
+		"auto-end": "إنهاء السحب تلقائيًا",
+		"ends-at": "ينتهي في",
+		"raffle-run-for": "سيستمر السحب لمدة {{duration}}"
 	},
 	"date": {
 		"year": "سنة",

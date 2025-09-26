@@ -4352,7 +4352,11 @@
 		"subs-chance": "Prenumeranter har {{chance}}x större chans att vinna",
 		"raffle-is-empty": "No items in Raffle",
 		"infos": "Infos",
-		"confirm-reset-description": "Will reset all entries and winners"
+		"confirm-reset-description": "Will reset all entries and winners",
+		"current-settings": "Aktuella inställningar",
+		"auto-end": "Avsluta utlottning automatiskt",
+		"ends-at": "Slutar kl.",
+		"raffle-run-for": "Utlottningen pågår i {{duration}}"
 	},
 	"date": {
 		"year": "år",

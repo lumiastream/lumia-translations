@@ -4514,7 +4514,11 @@
 		"subs-chance": "Subscribers have {{chance}}x more chance of winning",
 		"raffle-is-empty": "No items in Raffle",
 		"infos": "Infos",
-		"confirm-reset-description": "Will reset all entries and winners"
+		"confirm-reset-description": "Will reset all entries and winners",
+		"current-settings": "Current settings",
+		"auto-end": "Auto end raffle",
+		"ends-at": "Ends at",
+		"raffle-run-for": "Raffle will run for {{duration}}"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

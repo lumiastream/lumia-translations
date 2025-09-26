@@ -4350,7 +4350,11 @@
 		"subs-chance": "Abonnees hebben {{chance}}x meer kans om te winnen",
 		"raffle-is-empty": "No items in Raffle",
 		"infos": "Infos",
-		"confirm-reset-description": "Will reset all entries and winners"
+		"confirm-reset-description": "Will reset all entries and winners",
+		"current-settings": "Huidige instellingen",
+		"auto-end": "Raffle automatisch beëindigen",
+		"ends-at": "Eindigt om",
+		"raffle-run-for": "De loterij duurt {{duration}}"
 	},
 	"date": {
 		"year": "jaar",
