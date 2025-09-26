@@ -4384,7 +4384,11 @@
 		"subs-chance": "Los suscriptores tienen {{chance}}x más posibilidades de ganar",
 		"raffle-is-empty": "No items in Raffle",
 		"infos": "Infos",
-		"confirm-reset-description": "Will reset all entries and winners"
+		"confirm-reset-description": "Will reset all entries and winners",
+		"current-settings": "Configuración actual",
+		"auto-end": "Finalización automática de la rifa",
+		"ends-at": "Termina a las",
+		"raffle-run-for": "La rifa durará {{duration}}"
 	},
 	"date": {
 		"year": "año",

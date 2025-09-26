@@ -4364,7 +4364,11 @@
 		"subs-chance": "Os assinantes têm {{chance}}x mais chance de ganhar",
 		"raffle-is-empty": "Sem itens no sorteio",
 		"infos": "Infos",
-		"confirm-reset-description": "Redefinirá todas as entradas e vencedores"
+		"confirm-reset-description": "Redefinirá todas as entradas e vencedores",
+		"current-settings": "Configurações atuais",
+		"auto-end": "Encerrar sorteio automaticamente",
+		"ends-at": "Termina em",
+		"raffle-run-for": "O sorteio durará {{duration}}"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Nenhuma fila de espectador começou ainda",

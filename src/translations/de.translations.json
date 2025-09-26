@@ -4385,7 +4385,11 @@
 		"subs-chance": "Abonnenten haben {{chance}}x mehr Gewinnchance",
 		"raffle-is-empty": "Keine Einträge in der Verlosung",
 		"infos": "Infos",
-		"confirm-reset-description": "Setzt alle Einträge und Gewinner zurück"
+		"confirm-reset-description": "Setzt alle Einträge und Gewinner zurück",
+		"current-settings": "Aktuelle Einstellungen",
+		"auto-end": "Raffle automatisch beenden",
+		"ends-at": "Endet um",
+		"raffle-run-for": "Das Gewinnspiel läuft für {{duration}}"
 	},
 	"date": {
 		"year": "Jahr",

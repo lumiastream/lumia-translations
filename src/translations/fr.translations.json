@@ -4385,7 +4385,11 @@
 		"subs-chance": "Les abonnés ont {{chance}}x plus de chances de gagner",
 		"raffle-is-empty": "No items in Raffle",
 		"infos": "Infos",
-		"confirm-reset-description": "Will reset all entries and winners"
+		"confirm-reset-description": "Will reset all entries and winners",
+		"current-settings": "Paramètres actuels",
+		"auto-end": "Fin automatique du tirage",
+		"ends-at": "Se termine à",
+		"raffle-run-for": "Le tirage durera {{duration}}"
 	},
 	"date": {
 		"year": "année",
