@@ -4368,7 +4368,8 @@
 		"current-settings": "Mevcut ayarlar",
 		"auto-end": "Çekilişi otomatik bitir",
 		"ends-at": "Şu saatte biter:",
-		"raffle-run-for": "Çekiliş {{duration}} sürecek"
+		"raffle-run-for": "Çekiliş {{duration}} sürecek",
+		"save-settings-confirmation": "Bu çekiliş ayarlarını gelecekte kullanmak üzere kaydetmek ister misiniz?"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Henüz izleyici sırası başlatılmadı",

@@ -4354,7 +4354,8 @@
 		"current-settings": "Huidige instellingen",
 		"auto-end": "Raffle automatisch beëindigen",
 		"ends-at": "Eindigt om",
-		"raffle-run-for": "De loterij duurt {{duration}}"
+		"raffle-run-for": "De loterij duurt {{duration}}",
+		"save-settings-confirmation": "Wil je deze loterij-instellingen opslaan voor toekomstig gebruik?"
 	},
 	"date": {
 		"year": "jaar",

@@ -4387,7 +4387,8 @@
 		"current-settings": "Paramètres actuels",
 		"auto-end": "Fin automatique du tirage",
 		"ends-at": "Se termine à",
-		"raffle-run-for": "Le tirage durera {{duration}}"
+		"raffle-run-for": "Le tirage durera {{duration}}",
+		"save-settings-confirmation": "Voulez-vous enregistrer ces paramètres de tirage pour une utilisation future ?"
 	},
 	"date": {
 		"year": "année",
