@@ -4518,7 +4518,8 @@
 		"current-settings": "Current settings",
 		"auto-end": "Auto end raffle",
 		"ends-at": "Ends at",
-		"raffle-run-for": "Raffle will run for {{duration}}"
+		"raffle-run-for": "Raffle will run for {{duration}}",
+		"save-settings-confirmation": "Do you want to store these raffle settings for future use?"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

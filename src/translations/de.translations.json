@@ -4387,7 +4387,8 @@
 		"current-settings": "Aktuelle Einstellungen",
 		"auto-end": "Raffle automatisch beenden",
 		"ends-at": "Endet um",
-		"raffle-run-for": "Das Gewinnspiel läuft für {{duration}}"
+		"raffle-run-for": "Das Gewinnspiel läuft für {{duration}}",
+		"save-settings-confirmation": "Möchten Sie diese Gewinnspiel-Einstellungen für die zukünftige Verwendung speichern?"
 	},
 	"date": {
 		"year": "Jahr",
