@@ -4676,6 +4676,8 @@
 		"install-plugin": "Install Plugin",
 		"install-package": "Install Package",
 		"install-package-description": "Install a plugin package file",
+		"install-directory": "Install Directory",
+		"install-directory-description": "Install a plugin from directory for development",
 		"choose-package-file": "Choose Package File",
 		"installing": "Installing...",
 		"choose-directory": "Choose Directory",
