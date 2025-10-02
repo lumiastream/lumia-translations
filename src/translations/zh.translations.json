@@ -4347,6 +4347,7 @@
 		"subscriber-chance": "订阅者几率",
 		"subscriber-chance-info": "随着数字的增加，订阅者在抽奖中获胜的可能性更高。1 倍的值表示所有参与者都有相同的机会。",
 		"time-since-started": "抽奖开始时间",
+		"raffle-ends-after": "抽奖将在…后结束",
 		"tutorial": "抽奖教程",
 		"use": "使用",
 		"use-raffle-command": "进入抽奖",

@@ -4368,6 +4368,7 @@
 		"subscriber-chance": "Oportunidad de suscriptor",
 		"subscriber-chance-info": "A medida que aumenta el número, los suscriptores tienen más posibilidades de ganar en el sorteo. ",
 		"time-since-started": "Tiempo desde que empezó el sorteo",
+		"raffle-ends-after": "El sorteo termina después de",
 		"tutorial": "tutorial de rifa",
 		"use": "Usar",
 		"use-raffle-command": "para participar en el sorteo",

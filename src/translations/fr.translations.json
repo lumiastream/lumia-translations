@@ -4369,6 +4369,7 @@
 		"subscriber-chance": "Chance d'abonné",
 		"subscriber-chance-info": "À mesure que le nombre augmente, les abonnés ont plus de chances de gagner au tirage au sort. ",
 		"time-since-started": "Temps écoulé depuis le début du tirage au sort",
+		"raffle-ends-after": "Le tirage se termine après",
 		"tutorial": "Tutoriel de tombola",
 		"use": "Utiliser",
 		"use-raffle-command": "pour participer au tirage au sort",
