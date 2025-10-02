@@ -1678,7 +1678,8 @@
 		"ban-user-description": "Weet u zeker dat u {{username}} wilt verbannen?",
 		"send-native-shoutout": "Verstuur native /shoutout naar Twitch",
 		"interaction-moved": "Voor een betere organisatie is {{interaction}} naar een andere pagina verplaatst",
-		"go-to-interaction": "Ga naar {{interaction}}"
+		"go-to-interaction": "Ga naar {{interaction}}",
+		"clip-starting-date": "Startdatum van de clip"
 	},
 	"variables": {
 		"action": "Naam van actie",

@@ -1697,7 +1697,8 @@
 		"ban-user-description": "Are you sure you want to ban {{username}}?",
 		"send-native-shoutout": "Send native /shoutout to twitch",
 		"interaction-moved": "For better organization, {{interaction}} has been relocated to a different page",
-		"go-to-interaction": "Go to {{interaction}}"
+		"go-to-interaction": "Go to {{interaction}}",
+		"clip-starting-date": "Clip starting date"
 	},
 	"variables": {
 		"action": "Action name",
@@ -4410,6 +4411,7 @@
 	"event-list": {
 		"event-to-show": "Events to show",
 		"bits": "Bits",
+		"kicks": "Kicks",
 		"follower": "Follower",
 		"extension": "Twitch Extension Commands",
 		"points": "Twitch Point Commands",

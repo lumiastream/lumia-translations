@@ -1678,7 +1678,8 @@
 		"ban-user-description": "¿Estás seguro de que quieres bloquear a {{username}}?",
 		"send-native-shoutout": "Enviar /shoutout nativo a Twitch",
 		"interaction-moved": "Para una mejor organización, {{interaction}} se ha trasladado a otra página",
-		"go-to-interaction": "Ir a {{interaction}}"
+		"go-to-interaction": "Ir a {{interaction}}",
+		"clip-starting-date": "Fecha de inicio del clip"
 	},
 	"variables": {
 		"action": "Nombre de la acción",

@@ -1678,7 +1678,8 @@
 		"ban-user-description": "{{username}} kullanıcısını yasaklamak istediğinize emin misiniz?",
 		"send-native-shoutout": "Twitch'e yerel /shoutout gönder",
 		"interaction-moved": "Daha iyi bir düzen için {{interaction}} başka bir sayfaya taşındı",
-		"go-to-interaction": "{{interaction}} sayfasına git"
+		"go-to-interaction": "{{interaction}} sayfasına git",
+		"clip-starting-date": "Klibin başlangıç tarihi"
 	},
 	"variables": {
 		"action": "İşlem adı",
