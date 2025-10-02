@@ -1678,7 +1678,8 @@
 		"ban-user-description": "Är du säker på att du vill banna {{username}}?",
 		"send-native-shoutout": "Skicka /shoutout nativt till Twitch",
 		"interaction-moved": "För bättre organisation har {{interaction}} flyttats till en annan sida",
-		"go-to-interaction": "Gå till {{interaction}}"
+		"go-to-interaction": "Gå till {{interaction}}",
+		"clip-starting-date": "Klipps startdatum"
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",

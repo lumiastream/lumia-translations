@@ -1678,7 +1678,8 @@
 		"ban-user-description": "您确定要封禁 {{username}} 吗？",
 		"send-native-shoutout": "发送原生 /shoutout 到 Twitch",
 		"interaction-moved": "为了更好的组织，{{interaction}} 已被移动到另一个页面",
-		"go-to-interaction": "前往 {{interaction}}"
+		"go-to-interaction": "前往 {{interaction}}",
+		"clip-starting-date": "剪辑开始日期"
 	},
 	"variables": {
 		"action": "动作名称",

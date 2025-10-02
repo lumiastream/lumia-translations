@@ -1678,7 +1678,8 @@
 		"ban-user-description": "هل أنت متأكد أنك تريد حظر {{username}}؟",
 		"send-native-shoutout": "إرسال /shoutout الأصلي إلى تويتر",
 		"interaction-moved": "لتحسين التنظيم، تم نقل {{interaction}} إلى صفحة أخرى",
-		"go-to-interaction": "انتقل إلى {{interaction}}"
+		"go-to-interaction": "انتقل إلى {{interaction}}",
+		"clip-starting-date": "Clip starting date"
 	},
 	"variables": {
 		"action": "اسم الفعل",
