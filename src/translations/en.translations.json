@@ -4501,6 +4501,7 @@
 		"subscriber-chance": "Subscriber chance",
 		"subscriber-chance-info": "As the number increases, subscribers have a higher likelihood of winning in the raffle. A value of 1x signifies equal chances for all participants.",
 		"time-since-started": "Time since raffle started",
+		"raffle-ends-after": "Raffle ends after",
 		"tutorial": "Raffle tutorial",
 		"use": "Use",
 		"use-raffle-command": "to enter the raffle",

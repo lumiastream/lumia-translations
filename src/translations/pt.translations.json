@@ -4348,6 +4348,7 @@
 		"subscriber-chance": "Chance de assinante",
 		"subscriber-chance-info": "À medida que o número aumenta, os assinantes têm uma maior probabilidade de ganhar no sorteio. ",
 		"time-since-started": "Tempo desde que o sorteio começou",
+		"raffle-ends-after": "O sorteio termina após",
 		"tutorial": "Tutorial do sorteio",
 		"use": "Usar",
 		"use-raffle-command": "Para entrar no sorteio",
