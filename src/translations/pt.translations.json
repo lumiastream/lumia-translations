@@ -2346,6 +2346,8 @@
 		"raffleRemoveEntry": "Remover Entrada de Sorteio",
 		"raffleGetWinner": "Sorteio Obter Vencedor",
 		"raffleStop": "Parar Sorteio",
+		"raffleStart": "Início do sorteio",
+		"raffleEnd": "Fim do sorteio",
 		"backToDefault": "Voltar ao Padrão",
 		"resumeQueue": "Retomar Fila",
 		"pauseQueue": "Pausar Fila",

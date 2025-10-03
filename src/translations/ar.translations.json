@@ -2343,6 +2343,8 @@
 		"raffleRemoveEntry": "إزالة الدخول في السحب",
 		"raffleGetWinner": "السحب على الفائز",
 		"raffleStop": "توقف السحب",
+		"raffleStart": "بداية السحب",
+		"raffleEnd": "نهاية السحب",
 		"backToDefault": "العودة إلى الافتراضي",
 		"clearQueue": "مسح قائمة الانتظار",
 		"clearCooldowns": "مسح فترات التهدئة",

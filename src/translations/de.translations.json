@@ -2343,6 +2343,8 @@
 		"raffleRemoveEntry": "Entfernen Sie den Eintrag aus der Verlosung",
 		"raffleGetWinner": "Verlosung. Holen Sie sich den Gewinner",
 		"raffleStop": "Verlosungsstopp",
+		"raffleStart": "Start der Verlosung",
+		"raffleEnd": "Ende der Verlosung",
 		"backToDefault": "Zurück zur Standardeinstellung",
 		"clearQueue": "Warteschlange löschen",
 		"clearCooldowns": "Abklingzeiten löschen",

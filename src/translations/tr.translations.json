@@ -2348,6 +2348,8 @@
 		"raffleRemoveEntry": "Çekiliş Girişini Kaldır",
 		"raffleGetWinner": "Çekiliş Kazananı Kazanın",
 		"raffleStop": "Çekiliş Durağı",
+		"raffleStart": "Çekiliş Başlangıcı",
+		"raffleEnd": "Çekiliş Sonu",
 		"backToDefault": "Varsayılana Dön",
 		"resumeQueue": "Sırayı Devam Ettir",
 		"pauseQueue": "Sırayı Duraklat",

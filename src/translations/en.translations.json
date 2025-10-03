@@ -2417,6 +2417,8 @@
 		"raffleRemoveEntry": "Raffle Remove Entry",
 		"raffleGetWinner": "Raffle Get Winner",
 		"raffleStop": "Raffle Stop",
+		"raffleStart": "Raffle Start",
+		"raffleEnd": "Raffle End",
 		"backToDefault": "Back To Default",
 		"resumeQueue": "Resume Queue",
 		"pauseQueue": "Pause Queue",
