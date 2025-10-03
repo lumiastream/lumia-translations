@@ -2346,6 +2346,8 @@
 		"raffleRemoveEntry": "移除抽奖条目",
 		"raffleGetWinner": "抽奖获取赢家",
 		"raffleStop": "停止抽奖",
+		"raffleStart": "抽奖开始",
+		"raffleEnd": "抽奖结束",
 		"backToDefault": "恢复默认",
 		"resumeQueue": "恢复队列",
 		"pauseQueue": "暂停队列",

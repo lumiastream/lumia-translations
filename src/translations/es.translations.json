@@ -2342,6 +2342,8 @@
 		"raffleRemoveEntry": "Eliminar entrada de la rifa",
 		"raffleGetWinner": "Ganador del sorteo",
 		"raffleStop": "Parada de la rifa",
+		"raffleStart": "Inicio del sorteo",
+		"raffleEnd": "Fin del sorteo",
 		"backToDefault": "Volver al valor predeterminado",
 		"clearQueue": "Borrar cola de espera",
 		"clearCooldowns": "Borrar tiempos de reutilización",

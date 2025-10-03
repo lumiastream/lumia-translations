@@ -2340,6 +2340,8 @@
 		"raffleRemoveEntry": "Verwijder inzending uit loterij",
 		"raffleGetWinner": "Winnaar loterij",
 		"raffleStop": "Loterij stop",
+		"raffleStart": "Start van de loting",
+		"raffleEnd": "Einde van de loting",
 		"backToDefault": "Terug naar standaard",
 		"clearQueue": "Wachtrij wissen",
 		"clearCooldowns": "Wis cooldowns",

@@ -2343,6 +2343,8 @@
 		"raffleRemoveEntry": "Supprimer l'entrée du tirage au sort",
 		"raffleGetWinner": "Tirage au sort, obtenez le gagnant",
 		"raffleStop": "Arrêt de tombola",
+		"raffleStart": "Début du tirage",
+		"raffleEnd": "Fin du tirage",
 		"backToDefault": "Retour aux valeurs par défaut",
 		"clearQueue": "Effacer la file d'attente",
 		"clearCooldowns": "Effacer les temps de recharge",

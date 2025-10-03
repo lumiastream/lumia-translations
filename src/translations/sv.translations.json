@@ -2343,6 +2343,8 @@
 		"raffleRemoveEntry": "Ta bort inträde från lotteriet",
 		"raffleGetWinner": "Lotta Få vinnare",
 		"raffleStop": "Tombola Stopp",
+		"raffleStart": "Start av utlottning",
+		"raffleEnd": "Slut av utlottning",
 		"backToDefault": "Tillbaka till standard",
 		"clearQueue": "Rensa kö",
 		"clearCooldowns": "Rensa nedkylningar",
