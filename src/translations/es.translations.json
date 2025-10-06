@@ -4391,7 +4391,9 @@
 		"auto-end": "Finalización automática de la rifa",
 		"ends-at": "Termina a las",
 		"raffle-run-for": "La rifa durará {{duration}}",
-		"save-settings-confirmation": "¿Quieres guardar estos ajustes de la rifa para usarlos en el futuro?"
+		"save-settings-confirmation": "¿Quieres guardar estos ajustes de la rifa para usarlos en el futuro?",
+		"ends-after": "Termina después de",
+		"will-end-after": "La rifa terminará después de {{duration}}"
 	},
 	"date": {
 		"year": "año",

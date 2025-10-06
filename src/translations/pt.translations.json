@@ -4371,7 +4371,9 @@
 		"auto-end": "Encerrar sorteio automaticamente",
 		"ends-at": "Termina em",
 		"raffle-run-for": "O sorteio durará {{duration}}",
-		"save-settings-confirmation": "Deseja salvar estas configurações do sorteio para uso futuro?"
+		"save-settings-confirmation": "Deseja salvar estas configurações do sorteio para uso futuro?",
+		"ends-after": "Termina após",
+		"will-end-after": "O sorteio terminará após {{duration}}"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Nenhuma fila de espectador começou ainda",

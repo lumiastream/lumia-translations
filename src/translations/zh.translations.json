@@ -4370,7 +4370,9 @@
 		"auto-end": "自动结束抽奖",
 		"ends-at": "结束于",
 		"raffle-run-for": "抽奖将持续 {{duration}}",
-		"save-settings-confirmation": "您要保存这些抽奖设置以供将来使用吗？"
+		"save-settings-confirmation": "您要保存这些抽奖设置以供将来使用吗？",
+		"ends-after": "在…后结束",
+		"will-end-after": "抽奖将在 {{duration}} 后结束"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "尚未启动观众队列",

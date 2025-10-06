@@ -4392,7 +4392,9 @@
 		"auto-end": "Raffle automatisch beenden",
 		"ends-at": "Endet um",
 		"raffle-run-for": "Das Gewinnspiel läuft für {{duration}}",
-		"save-settings-confirmation": "Möchten Sie diese Gewinnspiel-Einstellungen für die zukünftige Verwendung speichern?"
+		"save-settings-confirmation": "Möchten Sie diese Gewinnspiel-Einstellungen für die zukünftige Verwendung speichern?",
+		"ends-after": "Endet nach",
+		"will-end-after": "Die Verlosung endet nach {{duration}}"
 	},
 	"date": {
 		"year": "Jahr",

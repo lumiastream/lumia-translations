@@ -4360,7 +4360,9 @@
 		"current-settings": "Aktuella inställningar",
 		"auto-end": "Avsluta utlottning automatiskt",
 		"ends-at": "Slutar kl.",
-		"raffle-run-for": "Utlottningen pågår i {{duration}}"
+		"raffle-run-for": "Utlottningen pågår i {{duration}}",
+		"ends-after": "Slutar efter",
+		"will-end-after": "Utlottningen slutar efter {{duration}}"
 	},
 	"date": {
 		"year": "år",
