@@ -4392,7 +4392,9 @@
 		"auto-end": "Fin automatique du tirage",
 		"ends-at": "Se termine à",
 		"raffle-run-for": "Le tirage durera {{duration}}",
-		"save-settings-confirmation": "Voulez-vous enregistrer ces paramètres de tirage pour une utilisation future ?"
+		"save-settings-confirmation": "Voulez-vous enregistrer ces paramètres de tirage pour une utilisation future ?",
+		"ends-after": "Se termine après",
+		"will-end-after": "Le tirage se terminera après {{duration}}"
 	},
 	"date": {
 		"year": "année",

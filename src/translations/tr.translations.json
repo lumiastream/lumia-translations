@@ -4373,7 +4373,9 @@
 		"auto-end": "Çekilişi otomatik bitir",
 		"ends-at": "Şu saatte biter:",
 		"raffle-run-for": "Çekiliş {{duration}} sürecek",
-		"save-settings-confirmation": "Bu çekiliş ayarlarını gelecekte kullanmak üzere kaydetmek ister misiniz?"
+		"save-settings-confirmation": "Bu çekiliş ayarlarını gelecekte kullanmak üzere kaydetmek ister misiniz?",
+		"ends-after": "Şu süreden sonra biter",
+		"will-end-after": "Çekiliş {{duration}} sonra bitecek"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Henüz izleyici sırası başlatılmadı",

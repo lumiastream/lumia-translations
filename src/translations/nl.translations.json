@@ -4359,7 +4359,9 @@
 		"auto-end": "Raffle automatisch beëindigen",
 		"ends-at": "Eindigt om",
 		"raffle-run-for": "De loterij duurt {{duration}}",
-		"save-settings-confirmation": "Wil je deze loterij-instellingen opslaan voor toekomstig gebruik?"
+		"save-settings-confirmation": "Wil je deze loterij-instellingen opslaan voor toekomstig gebruik?",
+		"ends-after": "Eindigt na",
+		"will-end-after": "De loting eindigt na {{duration}}"
 	},
 	"date": {
 		"year": "jaar",
