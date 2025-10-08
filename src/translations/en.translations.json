@@ -3402,6 +3402,7 @@
 		"pending-approval": "Pending approval",
 		"denied-because": "Denied because {{reason}}",
 		"public-on-marketplace": "Public on marketplace",
+		"newer-version-available": "Newer version available",
 		"not-published": "Not published",
 		"remove": "Remove",
 		"drag-drop": "Drag & drop up to 6 thumbnails here",
