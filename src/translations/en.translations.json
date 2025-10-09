@@ -2433,7 +2433,9 @@
 		"viewerQueueLeave": "Viewer Queue Leave",
 		"viewerQueuePlayPause": "Viewer Queue Play Pause",
 		"viewerQueueEndQueue": "Viewer Queue End Queue",
-		"viewerQueuePickPlayer": "Viewer Queue Pick Player"
+		"viewerQueuePickPlayer": "Viewer Queue Pick Player",
+		"appendToVariable": "Append to variable",
+		"unappendFromVariable": "Unappend from variable"
 	},
 	"overlay-actions": {
 		"alertTrigger": "Alert Trigger",
