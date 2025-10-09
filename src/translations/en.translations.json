@@ -2435,7 +2435,8 @@
 		"viewerQueueEndQueue": "Viewer Queue End Queue",
 		"viewerQueuePickPlayer": "Viewer Queue Pick Player",
 		"appendToVariable": "Append to variable",
-		"unappendFromVariable": "Unappend from variable"
+		"unappendFromVariable": "Unappend from variable",
+		"unique-values": "Unique values"
 	},
 	"overlay-actions": {
 		"alertTrigger": "Alert Trigger",
