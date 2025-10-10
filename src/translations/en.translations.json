@@ -2469,6 +2469,7 @@
 		"pollAddItem": "Poll Add Item",
 		"pollRemoveItem": "Poll Remove Item",
 		"sendCustomOverlayContent": "Send Custom Overlay Content",
+		"takeScreenshot": "Take Screenshot of Overlay",
 		"delay": "Delay"
 	},
 	"twitch": {
