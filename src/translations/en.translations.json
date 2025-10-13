@@ -1698,7 +1698,13 @@
 		"send-native-shoutout": "Send native /shoutout to twitch",
 		"interaction-moved": "For better organization, {{interaction}} has been relocated to a different page",
 		"go-to-interaction": "Go to {{interaction}}",
-		"clip-starting-date": "Clip starting date"
+		"clip-starting-date": "Clip starting date",
+		"screenshot-conversion-description": "Overlay must be connected within OBS or HUD and visible in order to capture a screenshot.",
+		"printer-type": "Print type (Image or Text)",
+		"printer-text": "Text to print",
+		"printer-text-description": "Enter one or more lines. Each line prints separately.",
+		"printer-image": "Image to print",
+		"printer-image-description": "Enter the path to the image to print or use the variable function {{overlay_screenshot=my overlay name,thermal}} to send a screenshot as well or {{obs_screenshot}} to send your screenshot from OBS"
 	},
 	"variables": {
 		"action": "Action name",
