@@ -4667,6 +4667,15 @@
 		"review-deny-reason-required": "Proporciona un motivo para continuar",
 		"review-approved-success": "El complemento {{name}} ha sido aprobado",
 		"review-denied-success": "El complemento {{name}} ha sido rechazado",
-		"review-error": "Error al enviar la revisión del complemento {{name}}"
+		"review-error": "Error al enviar la revisión del complemento {{name}}",
+		"changelog-modal-title": "Registro de cambios de la versión {{version}}",
+		"changelog-loading": "Cargando registro de cambios…",
+		"changelog-empty": "No se proporcionó registro de cambios para esta actualización.",
+		"changelog-load-error": "No se pudo cargar el registro de cambios. Aun así puedes continuar con la actualización.",
+		"update-now": "Actualizar complemento",
+		"title": "Administrador de complementos",
+		"description": "Gestiona los complementos instalados, las actualizaciones y las instalaciones manuales.",
+		"install-manual-hint": "Suelta un archivo .lumiaplugin o haz clic para buscar.",
+		"upload-invalid-file": "Archivo de complemento no válido. Sube un paquete .lumiaplugin."
 	}
 }

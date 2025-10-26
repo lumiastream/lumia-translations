@@ -4637,6 +4637,15 @@
 		"review-deny-reason-required": "يرجى تقديم سبب للمتابعة",
 		"review-approved-success": "تمت الموافقة على الإضافة {{name}}",
 		"review-denied-success": "تم رفض الإضافة {{name}}",
-		"review-error": "حدث خطأ أثناء إرسال مراجعة الإضافة {{name}}"
+		"review-error": "حدث خطأ أثناء إرسال مراجعة الإضافة {{name}}",
+		"changelog-modal-title": "سجل التغييرات للإصدار {{version}}",
+		"changelog-loading": "جارٍ تحميل سجل التغييرات…",
+		"changelog-empty": "لم يتم توفير سجل تغييرات لهذا التحديث.",
+		"changelog-load-error": "فشل تحميل سجل التغييرات. لا يزال بإمكانك متابعة التحديث.",
+		"update-now": "تحديث الإضافة",
+		"title": "مدير الإضافات",
+		"description": "إدارة الإضافات المثبتة والتحديثات والتثبيتات اليدوية.",
+		"install-manual-hint": "أسقط ملف .lumiaplugin أو انقر للاستعراض.",
+		"upload-invalid-file": "ملف الإضافة غير صالح. يرجى رفع حزمة .lumiaplugin."
 	}
 }

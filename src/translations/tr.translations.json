@@ -4639,6 +4639,15 @@
 		"review-deny-reason-required": "Devam etmek için lütfen bir neden belirtin",
 		"review-approved-success": "{{name}} eklentisi onaylandı",
 		"review-denied-success": "{{name}} eklentisi reddedildi",
-		"review-error": "{{name}} eklentisi incelemesi gönderilirken hata oluştu"
+		"review-error": "{{name}} eklentisi incelemesi gönderilirken hata oluştu",
+		"changelog-modal-title": "{{version}} sürümü için değişiklik günlüğü",
+		"changelog-loading": "Değişiklik günlüğü yükleniyor…",
+		"changelog-empty": "Bu güncelleme için değişiklik günlüğü sağlanmadı.",
+		"changelog-load-error": "Değişiklik günlüğü yüklenemedi. Yine de güncellemeye devam edebilirsiniz.",
+		"update-now": "Eklentiyi güncelle",
+		"title": "Eklenti Yöneticisi",
+		"description": "Yüklü eklentileri, güncellemeleri ve manuel kurulumları yönetin.",
+		"install-manual-hint": "Bir .lumiaplugin dosyası bırakın veya göz atmak için tıklayın.",
+		"upload-invalid-file": "Geçersiz eklenti dosyası. Lütfen bir .lumiaplugin paketi yükleyin."
 	}
 }

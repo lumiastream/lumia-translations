@@ -4636,6 +4636,15 @@
 		"review-deny-reason-required": "请提供原因以继续",
 		"review-approved-success": "插件 {{name}} 已批准",
 		"review-denied-success": "插件 {{name}} 已被拒绝",
-		"review-error": "提交插件 {{name}} 的审核时出错"
+		"review-error": "提交插件 {{name}} 的审核时出错",
+		"changelog-modal-title": "版本 {{version}} 的更新日志",
+		"changelog-loading": "正在加载更新日志…",
+		"changelog-empty": "此更新未提供更新日志。",
+		"changelog-load-error": "加载更新日志失败，你仍可继续更新。",
+		"update-now": "更新插件",
+		"title": "插件管理器",
+		"description": "管理已安装的插件、更新和手动安装。",
+		"install-manual-hint": "拖放一个 .lumiaplugin 文件或点击浏览。",
+		"upload-invalid-file": "插件文件无效。请上传一个 .lumiaplugin 包。"
 	}
 }

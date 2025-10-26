@@ -4668,6 +4668,15 @@
 		"review-deny-reason-required": "Bitte gib einen Grund an, um fortzufahren",
 		"review-approved-success": "Plugin {{name}} wurde genehmigt",
 		"review-denied-success": "Plugin {{name}} wurde abgelehnt",
-		"review-error": "Fehler beim Übermitteln der Plugin-Prüfung {{name}}"
+		"review-error": "Fehler beim Übermitteln der Plugin-Prüfung {{name}}",
+		"changelog-modal-title": "Changelog für Version {{version}}",
+		"changelog-loading": "Changelog wird geladen…",
+		"changelog-empty": "Für dieses Update wurde kein Changelog bereitgestellt.",
+		"changelog-load-error": "Changelog konnte nicht geladen werden. Du kannst das Update trotzdem fortsetzen.",
+		"update-now": "Plugin aktualisieren",
+		"title": "Plugin-Manager",
+		"description": "Verwalte installierte Plugins, Updates und manuelle Installationen.",
+		"install-manual-hint": "Eine .lumiaplugin-Datei hier ablegen oder zum Auswählen klicken.",
+		"upload-invalid-file": "Ungültige Plugindatei. Bitte lade ein .lumiaplugin-Paket hoch."
 	}
 }
