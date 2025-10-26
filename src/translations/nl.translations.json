@@ -4635,6 +4635,15 @@
 		"review-deny-reason-required": "Geef een reden op om door te gaan",
 		"review-approved-success": "Plugin {{name}} is goedgekeurd",
 		"review-denied-success": "Plugin {{name}} is afgewezen",
-		"review-error": "Fout bij het indienen van de beoordeling voor plugin {{name}}"
+		"review-error": "Fout bij het indienen van de beoordeling voor plugin {{name}}",
+		"changelog-modal-title": "Changelog voor versie {{version}}",
+		"changelog-loading": "Changelog wordt geladen…",
+		"changelog-empty": "Er is geen changelog opgegeven voor deze update.",
+		"changelog-load-error": "Changelog kon niet worden geladen. Je kunt de update toch voortzetten.",
+		"update-now": "Plugin bijwerken",
+		"title": "Pluginbeheer",
+		"description": "Beheer geïnstalleerde plugins, updates en handmatige installaties.",
+		"install-manual-hint": "Zet een .lumiaplugin-bestand hier neer of klik om te bladeren.",
+		"upload-invalid-file": "Ongeldig pluginbestand. Upload een .lumiaplugin-pakket."
 	}
 }

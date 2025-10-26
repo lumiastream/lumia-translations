@@ -4809,6 +4809,15 @@
 		"review-deny-reason-required": "Please provide a reason to continue",
 		"review-approved-success": "Plugin {{name}} has been approved",
 		"review-denied-success": "Plugin {{name}} has been denied",
-		"review-error": "Plugin {{name}} review submission error"
+		"review-error": "Plugin {{name}} review submission error",
+		"changelog-modal-title": "Changelog for version {{version}}",
+		"changelog-loading": "Loading changelog…",
+		"changelog-empty": "No changelog provided for this update.",
+		"changelog-load-error": "Failed to load changelog. You can still continue with the update.",
+		"update-now": "Update Plugin",
+		"title": "Plugin Manager",
+		"description": "Manage installed plugins, updates, and manual installs.",
+		"install-manual-hint": "Drop a .lumiaplugin file or click to browse.",
+		"upload-invalid-file": "Invalid plugin file. Please upload a .lumiaplugin package."
 	}
 }

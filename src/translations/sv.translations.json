@@ -4636,6 +4636,15 @@
 		"review-deny-reason-required": "Ange en anledning för att fortsätta",
 		"review-approved-success": "Insticksprogrammet {{name}} har godkänts",
 		"review-denied-success": "Insticksprogrammet {{name}} har nekats",
-		"review-error": "Fel vid inlämning av granskningen för insticksprogrammet {{name}}"
+		"review-error": "Fel vid inlämning av granskningen för insticksprogrammet {{name}}",
+		"changelog-modal-title": "Ändringslogg för version {{version}}",
+		"changelog-loading": "Laddar ändringslogg…",
+		"changelog-empty": "Ingen ändringslogg angavs för den här uppdateringen.",
+		"changelog-load-error": "Ändringsloggen kunde inte läsas in. Du kan ändå fortsätta uppdateringen.",
+		"update-now": "Uppdatera insticksprogram",
+		"title": "Insticksprogramhanterare",
+		"description": "Hantera installerade insticksprogram, uppdateringar och manuella installationer.",
+		"install-manual-hint": "Släpp en .lumiaplugin-fil här eller klicka för att bläddra.",
+		"upload-invalid-file": "Ogiltig insticksprogramfil. Ladda upp ett .lumiaplugin-paket."
 	}
 }

@@ -4668,6 +4668,15 @@
 		"review-deny-reason-required": "Veuillez fournir une raison pour continuer",
 		"review-approved-success": "Le plugin {{name}} a été approuvé",
 		"review-denied-success": "Le plugin {{name}} a été refusé",
-		"review-error": "Erreur lors de l'envoi de l'examen du plugin {{name}}"
+		"review-error": "Erreur lors de l'envoi de l'examen du plugin {{name}}",
+		"changelog-modal-title": "Journal des modifications de la version {{version}}",
+		"changelog-loading": "Chargement du journal des modifications…",
+		"changelog-empty": "Aucun journal des modifications fourni pour cette mise à jour.",
+		"changelog-load-error": "Échec du chargement du journal des modifications. Vous pouvez tout de même poursuivre la mise à jour.",
+		"update-now": "Mettre à jour le plugin",
+		"title": "Gestionnaire de plugins",
+		"description": "Gérez les plugins installés, les mises à jour et les installations manuelles.",
+		"install-manual-hint": "Déposez un fichier .lumiaplugin ou cliquez pour parcourir.",
+		"upload-invalid-file": "Fichier de plugin invalide. Veuillez téléverser un paquet .lumiaplugin."
 	}
 }
