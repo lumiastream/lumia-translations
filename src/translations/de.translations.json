@@ -4677,6 +4677,24 @@
 		"title": "Plugin-Manager",
 		"description": "Verwalte installierte Plugins, Updates und manuelle Installationen.",
 		"install-manual-hint": "Eine .lumiaplugin-Datei hier ablegen oder zum Auswählen klicken.",
-		"upload-invalid-file": "Ungültige Plugindatei. Bitte lade ein .lumiaplugin-Paket hoch."
+		"upload-invalid-file": "Ungültige Plugindatei. Bitte lade ein .lumiaplugin-Paket hoch.",
+		"author-label": "Autor: {{author}}",
+		"delete-upload-confirm-title": "Plugin löschen?",
+		"delete-upload-confirm-message": "Möchten Sie „{{name}}“ löschen?",
+		"delete-upload-success": "{{name}} wurde gelöscht",
+		"delete-upload-error": "{{name}} konnte nicht gelöscht werden",
+		"image-invalid-ratio": "Plugin-Bilder müssen quadratisch sein (Seitenverhältnis 1:1).",
+		"image-upload-missing-slug": "Lege die Plugin-ID fest, bevor du ein Bild hochlädst.",
+		"image-upload-fail": "Bildupload fehlgeschlagen. {{error}}",
+		"image-uploading": "Bitte warte, bis der Bildupload abgeschlossen ist.",
+		"install-latest": "Neueste Version installieren",
+		"my-uploads": "Meine Uploads",
+		"no-description": "Keine Beschreibung vorhanden.",
+		"no-changelog": "Kein Änderungsprotokoll vorhanden.",
+		"no-uploads-title": "Noch keine Uploads",
+		"no-uploads-description": "Lade ein Plugin über die Marketplace-Registerkarte hoch, um es hier anzuzeigen.",
+		"updated-relative": "Aktualisiert {{time}}",
+		"uploaded-relative": "Hochgeladen {{time}}",
+		"view-changelog": "Änderungsprotokoll anzeigen"
 	}
 }

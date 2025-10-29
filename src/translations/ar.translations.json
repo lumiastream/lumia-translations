@@ -4646,6 +4646,24 @@
 		"title": "مدير الإضافات",
 		"description": "إدارة الإضافات المثبتة والتحديثات والتثبيتات اليدوية.",
 		"install-manual-hint": "أسقط ملف .lumiaplugin أو انقر للاستعراض.",
-		"upload-invalid-file": "ملف الإضافة غير صالح. يرجى رفع حزمة .lumiaplugin."
+		"upload-invalid-file": "ملف الإضافة غير صالح. يرجى رفع حزمة .lumiaplugin.",
+		"author-label": "المؤلف: {{author}}",
+		"delete-upload-confirm-title": "حذف الإضافة؟",
+		"delete-upload-confirm-message": "هل تريد حذف \"{{name}}\"؟",
+		"delete-upload-success": "تم حذف {{name}}",
+		"delete-upload-error": "تعذّر حذف {{name}}",
+		"image-invalid-ratio": "يجب أن تكون صور الإضافة مربعة (نسبة 1:1).",
+		"image-upload-missing-slug": "عيّن معرف الإضافة قبل تحميل صورة.",
+		"image-upload-fail": "فشل تحميل الصورة. {{error}}",
+		"image-uploading": "يرجى الانتظار حتى يكتمل تحميل الصورة.",
+		"install-latest": "تثبيت الأحدث",
+		"my-uploads": "عمليات الرفع الخاصة بي",
+		"no-description": "لم يتم تقديم وصف.",
+		"no-changelog": "لم يتم تقديم سجل تغييرات.",
+		"no-uploads-title": "لا توجد عمليات رفع بعد",
+		"no-uploads-description": "قم برفع إضافة من علامة تبويب السوق لرؤيتها هنا.",
+		"updated-relative": "تم التحديث {{time}}",
+		"uploaded-relative": "تم الرفع {{time}}",
+		"view-changelog": "عرض سجل التغييرات"
 	}
 }

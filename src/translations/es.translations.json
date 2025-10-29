@@ -4676,6 +4676,24 @@
 		"title": "Administrador de complementos",
 		"description": "Gestiona los complementos instalados, las actualizaciones y las instalaciones manuales.",
 		"install-manual-hint": "Suelta un archivo .lumiaplugin o haz clic para buscar.",
-		"upload-invalid-file": "Archivo de complemento no válido. Sube un paquete .lumiaplugin."
+		"upload-invalid-file": "Archivo de complemento no válido. Sube un paquete .lumiaplugin.",
+		"author-label": "Autor: {{author}}",
+		"delete-upload-confirm-title": "¿Eliminar complemento?",
+		"delete-upload-confirm-message": "¿Quieres eliminar \"{{name}}\"?",
+		"delete-upload-success": "Se eliminó {{name}}",
+		"delete-upload-error": "No se pudo eliminar {{name}}",
+		"image-invalid-ratio": "Las imágenes del complemento deben ser cuadradas (relación 1:1).",
+		"image-upload-missing-slug": "Define el ID del complemento antes de subir una imagen.",
+		"image-upload-fail": "Error al subir la imagen. {{error}}",
+		"image-uploading": "Espera a que finalice la carga de la imagen.",
+		"install-latest": "Instalar la última versión",
+		"my-uploads": "Mis subidas",
+		"no-description": "No se proporcionó descripción.",
+		"no-changelog": "No se proporcionó registro de cambios.",
+		"no-uploads-title": "Aún no hay subidas",
+		"no-uploads-description": "Sube un complemento desde la pestaña del mercado para verlo aquí.",
+		"updated-relative": "Actualizado {{time}}",
+		"uploaded-relative": "Subido {{time}}",
+		"view-changelog": "Ver registro de cambios"
 	}
 }

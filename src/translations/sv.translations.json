@@ -4645,6 +4645,24 @@
 		"title": "Insticksprogramhanterare",
 		"description": "Hantera installerade insticksprogram, uppdateringar och manuella installationer.",
 		"install-manual-hint": "Släpp en .lumiaplugin-fil här eller klicka för att bläddra.",
-		"upload-invalid-file": "Ogiltig insticksprogramfil. Ladda upp ett .lumiaplugin-paket."
+		"upload-invalid-file": "Ogiltig insticksprogramfil. Ladda upp ett .lumiaplugin-paket.",
+		"author-label": "Författare: {{author}}",
+		"delete-upload-confirm-title": "Ta bort insticksprogram?",
+		"delete-upload-confirm-message": "Vill du ta bort \"{{name}}\"?",
+		"delete-upload-success": "{{name}} togs bort",
+		"delete-upload-error": "{{name}} kunde inte tas bort",
+		"image-invalid-ratio": "Pluginbilder måste vara kvadratiska (förhållande 1:1).",
+		"image-upload-missing-slug": "Ställ in plugin-ID innan du laddar upp en bild.",
+		"image-upload-fail": "Bilduppladdningen misslyckades. {{error}}",
+		"image-uploading": "Vänta tills bilduppladdningen är klar.",
+		"install-latest": "Installera senaste versionen",
+		"my-uploads": "Mina uppladdningar",
+		"no-description": "Ingen beskrivning angavs.",
+		"no-changelog": "Ingen ändringslogg angavs.",
+		"no-uploads-title": "Inga uppladdningar ännu",
+		"no-uploads-description": "Ladda upp ett insticksprogram från Marketplace-fliken för att visa det här.",
+		"updated-relative": "Uppdaterad {{time}}",
+		"uploaded-relative": "Uppladdad {{time}}",
+		"view-changelog": "Visa ändringslogg"
 	}
 }

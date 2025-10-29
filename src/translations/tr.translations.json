@@ -4648,6 +4648,24 @@
 		"title": "Eklenti Yöneticisi",
 		"description": "Yüklü eklentileri, güncellemeleri ve manuel kurulumları yönetin.",
 		"install-manual-hint": "Bir .lumiaplugin dosyası bırakın veya göz atmak için tıklayın.",
-		"upload-invalid-file": "Geçersiz eklenti dosyası. Lütfen bir .lumiaplugin paketi yükleyin."
+		"upload-invalid-file": "Geçersiz eklenti dosyası. Lütfen bir .lumiaplugin paketi yükleyin.",
+		"author-label": "Yazar: {{author}}",
+		"delete-upload-confirm-title": "Eklenti silinsin mi?",
+		"delete-upload-confirm-message": "\"{{name}}\" öğesini silmek istiyor musunuz?",
+		"delete-upload-success": "{{name}} silindi",
+		"delete-upload-error": "{{name}} silinemedi",
+		"image-invalid-ratio": "Eklenti görselleri kare (1:1 oranında) olmalıdır.",
+		"image-upload-missing-slug": "Bir görsel yüklemeden önce eklenti kimliğini ayarlayın.",
+		"image-upload-fail": "Görsel yüklenemedi. {{error}}",
+		"image-uploading": "Lütfen görsel yüklemesinin bitmesini bekleyin.",
+		"install-latest": "En son sürümü yükle",
+		"my-uploads": "Yüklemelerim",
+		"no-description": "Açıklama sağlanmadı.",
+		"no-changelog": "Değişiklik günlüğü sağlanmadı.",
+		"no-uploads-title": "Henüz yükleme yok",
+		"no-uploads-description": "Burada görmek için marketplace sekmesinden bir eklenti yükleyin.",
+		"updated-relative": "Güncellendi {{time}}",
+		"uploaded-relative": "Yüklendi {{time}}",
+		"view-changelog": "Değişiklik günlüğünü görüntüle"
 	}
 }
