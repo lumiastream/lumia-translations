@@ -4644,6 +4644,24 @@
 		"title": "Pluginbeheer",
 		"description": "Beheer geïnstalleerde plugins, updates en handmatige installaties.",
 		"install-manual-hint": "Zet een .lumiaplugin-bestand hier neer of klik om te bladeren.",
-		"upload-invalid-file": "Ongeldig pluginbestand. Upload een .lumiaplugin-pakket."
+		"upload-invalid-file": "Ongeldig pluginbestand. Upload een .lumiaplugin-pakket.",
+		"author-label": "Auteur: {{author}}",
+		"delete-upload-confirm-title": "Plugin verwijderen?",
+		"delete-upload-confirm-message": "Wil je \"{{name}}\" verwijderen?",
+		"delete-upload-success": "{{name}} verwijderd",
+		"delete-upload-error": "Verwijderen van {{name}} is mislukt",
+		"image-invalid-ratio": "Plugin-afbeeldingen moeten vierkant zijn (verhouding 1:1).",
+		"image-upload-missing-slug": "Stel de plugin-ID in voordat je een afbeelding uploadt.",
+		"image-upload-fail": "Uploaden van afbeelding mislukt. {{error}}",
+		"image-uploading": "Wacht tot het uploaden van de afbeelding is voltooid.",
+		"install-latest": "Laatste versie installeren",
+		"my-uploads": "Mijn uploads",
+		"no-description": "Geen beschrijving opgegeven.",
+		"no-changelog": "Geen changelog opgegeven.",
+		"no-uploads-title": "Nog geen uploads",
+		"no-uploads-description": "Upload een plugin vanuit het marktplaatstabblad om die hier te zien.",
+		"updated-relative": "Bijgewerkt {{time}}",
+		"uploaded-relative": "Geüpload {{time}}",
+		"view-changelog": "Changelog bekijken"
 	}
 }

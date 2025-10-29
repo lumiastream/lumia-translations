@@ -4677,6 +4677,24 @@
 		"title": "Gestionnaire de plugins",
 		"description": "Gérez les plugins installés, les mises à jour et les installations manuelles.",
 		"install-manual-hint": "Déposez un fichier .lumiaplugin ou cliquez pour parcourir.",
-		"upload-invalid-file": "Fichier de plugin invalide. Veuillez téléverser un paquet .lumiaplugin."
+		"upload-invalid-file": "Fichier de plugin invalide. Veuillez téléverser un paquet .lumiaplugin.",
+		"author-label": "Auteur : {{author}}",
+		"delete-upload-confirm-title": "Supprimer le plugin ?",
+		"delete-upload-confirm-message": "Voulez-vous supprimer « {{name}} » ?",
+		"delete-upload-success": "« {{name}} » a été supprimé",
+		"delete-upload-error": "Impossible de supprimer {{name}}",
+		"image-invalid-ratio": "Les images du plugin doivent être carrées (ratio 1:1).",
+		"image-upload-missing-slug": "Définissez l'identifiant du plugin avant de téléverser une image.",
+		"image-upload-fail": "Le téléversement de l'image a échoué. {{error}}",
+		"image-uploading": "Veuillez patienter jusqu'à la fin du téléversement de l'image.",
+		"install-latest": "Installer la dernière version",
+		"my-uploads": "Mes téléversements",
+		"no-description": "Aucune description fournie.",
+		"no-changelog": "Aucun journal des modifications fourni.",
+		"no-uploads-title": "Aucun téléversement pour le moment",
+		"no-uploads-description": "Téléversez un plugin depuis l'onglet marketplace pour l'afficher ici.",
+		"updated-relative": "Mis à jour {{time}}",
+		"uploaded-relative": "Téléversé {{time}}",
+		"view-changelog": "Voir le journal des modifications"
 	}
 }

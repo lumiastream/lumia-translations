@@ -4818,6 +4818,24 @@
 		"title": "Plugin Manager",
 		"description": "Manage installed plugins, updates, and manual installs.",
 		"install-manual-hint": "Drop a .lumiaplugin file or click to browse.",
-		"upload-invalid-file": "Invalid plugin file. Please upload a .lumiaplugin package."
+		"upload-invalid-file": "Invalid plugin file. Please upload a .lumiaplugin package.",
+		"author-label": "Author: {{author}}",
+		"delete-upload-confirm-title": "Delete plugin?",
+		"delete-upload-confirm-message": "Do you want to delete \"{{name}}\"?",
+		"delete-upload-success": "Deleted {{name}}",
+		"delete-upload-error": "Failed to delete {{name}}",
+		"image-invalid-ratio": "Plugin images must be square (1:1 ratio).",
+		"image-upload-missing-slug": "Set the plugin ID before uploading an image.",
+		"image-upload-fail": "Image upload failed. {{error}}",
+		"image-uploading": "Please wait for the image upload to finish.",
+		"install-latest": "Install Latest",
+		"my-uploads": "My Uploads",
+		"no-description": "No description provided.",
+		"no-changelog": "No changelog provided.",
+		"no-uploads-title": "No uploads yet",
+		"no-uploads-description": "Upload a plugin from the marketplace tab to see it here.",
+		"updated-relative": "Updated {{time}}",
+		"uploaded-relative": "Uploaded {{time}}",
+		"view-changelog": "View Changelog"
 	}
 }

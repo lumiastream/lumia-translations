@@ -4646,6 +4646,24 @@
 		"title": "Gerenciador de plugins",
 		"description": "Gerencie plugins instalados, atualizações e instalações manuais.",
 		"install-manual-hint": "Solte um arquivo .lumiaplugin ou clique para procurar.",
-		"upload-invalid-file": "Arquivo de plugin inválido. Envie um pacote .lumiaplugin."
+		"upload-invalid-file": "Arquivo de plugin inválido. Envie um pacote .lumiaplugin.",
+		"author-label": "Autor: {{author}}",
+		"delete-upload-confirm-title": "Excluir plugin?",
+		"delete-upload-confirm-message": "Você quer excluir \"{{name}}\"?",
+		"delete-upload-success": "{{name}} foi excluído",
+		"delete-upload-error": "Falha ao excluir {{name}}",
+		"image-invalid-ratio": "As imagens do plugin devem ser quadradas (proporção 1:1).",
+		"image-upload-missing-slug": "Defina o ID do plugin antes de enviar uma imagem.",
+		"image-upload-fail": "Falha ao enviar a imagem. {{error}}",
+		"image-uploading": "Aguarde até que o envio da imagem seja concluído.",
+		"install-latest": "Instalar a mais recente",
+		"my-uploads": "Meus uploads",
+		"no-description": "Nenhuma descrição fornecida.",
+		"no-changelog": "Nenhum changelog fornecido.",
+		"no-uploads-title": "Nenhum upload ainda",
+		"no-uploads-description": "Envie um plugin na aba do marketplace para vê-lo aqui.",
+		"updated-relative": "Atualizado {{time}}",
+		"uploaded-relative": "Enviado {{time}}",
+		"view-changelog": "Ver changelog"
 	}
 }

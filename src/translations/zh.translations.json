@@ -4645,6 +4645,24 @@
 		"title": "插件管理器",
 		"description": "管理已安装的插件、更新和手动安装。",
 		"install-manual-hint": "拖放一个 .lumiaplugin 文件或点击浏览。",
-		"upload-invalid-file": "插件文件无效。请上传一个 .lumiaplugin 包。"
+		"upload-invalid-file": "插件文件无效。请上传一个 .lumiaplugin 包。",
+		"author-label": "作者：{{author}}",
+		"delete-upload-confirm-title": "删除插件？",
+		"delete-upload-confirm-message": "你要删除“{{name}}”吗？",
+		"delete-upload-success": "已删除 {{name}}",
+		"delete-upload-error": "删除 {{name}} 失败",
+		"image-invalid-ratio": "插件图片必须为正方形（1:1 比例）。",
+		"image-upload-missing-slug": "上传图片前请先设置插件 ID。",
+		"image-upload-fail": "图片上传失败。{{error}}",
+		"image-uploading": "请等待图片上传完成。",
+		"install-latest": "安装最新版本",
+		"my-uploads": "我的上传",
+		"no-description": "未提供描述。",
+		"no-changelog": "未提供更新日志。",
+		"no-uploads-title": "尚无上传",
+		"no-uploads-description": "请从市场标签上传插件后即可在此查看。",
+		"updated-relative": "已更新 {{time}}",
+		"uploaded-relative": "已上传 {{time}}",
+		"view-changelog": "查看更新日志"
 	}
 }
