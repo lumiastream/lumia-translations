@@ -4718,7 +4718,6 @@
 		"toggle-error": "Failed to toggle plugin: {{error}}",
 		"uninstall-confirm-title": "Confirm Uninstall",
 		"uninstall-confirm-message": "Are you sure you want to uninstall \"{{name}}\"? This action cannot be undone.",
-<<<<<<< Updated upstream
 		"uninstall-confirm": "Yes, Uninstall",
 		"marketplace": "Marketplace",
 		"install": "Install",
@@ -4838,8 +4837,6 @@
 		"updated-relative": "Updated {{time}}",
 		"uploaded-relative": "Uploaded {{time}}",
 		"view-changelog": "View Changelog"
-=======
-		"uninstall-confirm": "Yes, Uninstall"
 	},
 	"tts": {
 		"tab-discover": "Discover",
@@ -4959,6 +4956,5 @@
 		"estimated-tts": "TTS characters",
 		"estimated-total": "Combined total",
 		"limits-not-available": "Usage limits are not available for your account yet."
->>>>>>> Stashed changes
 	}
 }
