@@ -3752,6 +3752,7 @@
 	},
 	"brands": {
 		"hue": "Hue",
+		"huepro": "Hue Pro",
 		"fast-warn": "{{brand}} is currently using Fast mode so Lumia won't be able to trigger Hue's native scenes. Use {{brand}} Regular mode to enable native scenes again",
 		"lifx": "Lifx",
 		"tplink": "Tplink Kasa",
