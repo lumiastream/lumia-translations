@@ -1680,7 +1680,16 @@
 		"send-native-shoutout": "发送原生 /shoutout 到 Twitch",
 		"interaction-moved": "为了更好的组织，{{interaction}} 已被移动到另一个页面",
 		"go-to-interaction": "前往 {{interaction}}",
-		"clip-starting-date": "剪辑开始日期"
+		"clip-starting-date": "剪辑开始日期",
+		"tts-monthly-remaining-with-limit": "本月剩余：{{remaining}} / {{limit}} 个字符。",
+		"tts-monthly-remaining": "本月剩余：{{remaining}} 个字符。",
+		"tts-quota-loading": "正在检查 TTS 配额...",
+		"marketplace-tts-regular-command-info": "Marketplace TTS 会使用你每月配额中的代币。价格为 {{threshold}} 比特或以上的 Twitch 扩展命令可覆盖这些 AI TTS 费用，建议创建一个。",
+		"marketplace-tts-extension-free-trigger": "这个价格为 {{threshold}} 比特或以上的 Twitch 扩展命令会覆盖 marketplace TTS 代币，因此不会消耗你的每月配额。",
+		"marketplace-tts-extension-low-bits": "{{bits}} 低于 {{threshold}} 比特。设置为 {{threshold}}+ 比特可由 Twitch 覆盖 AI TTS，否则将使用你的每月 TTS 配额。",
+		"extension-free-tts-tooltip": "价格为 {{threshold}} 比特或以上的 Twitch 扩展命令会覆盖 marketplace AI TTS 代币，因此触发不会消耗你的每月配额。",
+		"extension-free-tts-badge": "免配额",
+		"extension-free-tts-summary": "适用于 Twitch 扩展：设置 100 比特或以上，让 Twitch 覆盖 AI TTS 代币。更低的数值将使用你每月的 marketplace TTS 配额。"
 	},
 	"variables": {
 		"action": "动作名称",

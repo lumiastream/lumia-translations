@@ -1680,7 +1680,16 @@
 		"send-native-shoutout": "Skicka /shoutout nativt till Twitch",
 		"interaction-moved": "För bättre organisation har {{interaction}} flyttats till en annan sida",
 		"go-to-interaction": "Gå till {{interaction}}",
-		"clip-starting-date": "Klipps startdatum"
+		"clip-starting-date": "Klipps startdatum",
+		"tts-monthly-remaining-with-limit": "Månadsvis kvar: {{remaining}} av {{limit}} tecken.",
+		"tts-monthly-remaining": "Månadsvis kvar: {{remaining}} tecken.",
+		"tts-quota-loading": "Kontrollerar TTS-kvot...",
+		"marketplace-tts-regular-command-info": "Marketplace-TTS använder tokens från din månads­kvot. Twitch-tilläggskommandon som kostar {{threshold}} bits eller mer täcker dessa AI-TTS-kostnader, så överväg att skapa ett.",
+		"marketplace-tts-extension-free-trigger": "Detta Twitch-tilläggskommando som kostar {{threshold}} bits eller mer täcker marketplace TTS-tokens, så det förbrukar inte din månads­kvot.",
+		"marketplace-tts-extension-low-bits": "{{bits}} är under {{threshold}} bits. Ställ in {{threshold}}+ bits så att Twitch täcker AI-TTS, annars används din månadsvisa TTS-kvot.",
+		"extension-free-tts-tooltip": "Twitch-tilläggskommandon som kostar {{threshold}} bits eller mer täcker marketplace AI TTS-tokens, så utlösare förbrukar inte din månads­kvot.",
+		"extension-free-tts-badge": "Kvotfri",
+		"extension-free-tts-summary": "För Twitch-tillägg: ställ in 100 bits eller mer så att Twitch täcker AI TTS-tokens. Allt lägre använder din månatliga marketplace TTS-kvot."
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",

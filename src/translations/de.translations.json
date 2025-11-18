@@ -1680,7 +1680,16 @@
 		"send-native-shoutout": "Sende native /shoutout zu Twitch",
 		"interaction-moved": "Zur besseren Organisation wurde {{interaction}} auf eine andere Seite verschoben",
 		"go-to-interaction": "Gehe zu {{interaction}}",
-		"clip-starting-date": "Startdatum des Clips"
+		"clip-starting-date": "Startdatum des Clips",
+		"tts-monthly-remaining-with-limit": "Monatlich verbleibend: {{remaining}} von {{limit}} Zeichen.",
+		"tts-monthly-remaining": "Monatlich verbleibend: {{remaining}} Zeichen.",
+		"tts-quota-loading": "TTS-Kontingent wird geprüft...",
+		"marketplace-tts-regular-command-info": "Marketplace-TTS nutzt Token aus deinem monatlichen Kontingent. Twitch-Erweiterungsbefehle ab {{threshold}} Bits decken diese KI-TTS-Kosten, also erwäge, einen zu erstellen.",
+		"marketplace-tts-extension-free-trigger": "Dieser Twitch-Erweiterungsbefehl, der {{threshold}} Bits oder mehr kostet, deckt Marketplace-TTS-Token ab, sodass er nicht von deinem monatlichen Kontingent abgezogen wird.",
+		"marketplace-tts-extension-low-bits": "{{bits}} liegen unter {{threshold}} Bits. Setze {{threshold}}+ Bits, damit Twitch die KI-TTS-Kosten übernimmt; andernfalls wird dein monatliches TTS-Kontingent genutzt.",
+		"extension-free-tts-tooltip": "Twitch-Erweiterungsbefehle ab {{threshold}} Bits decken Marketplace-AI-TTS-Tokens, sodass Auslöser dein monatliches Kontingent nicht verbrauchen.",
+		"extension-free-tts-badge": "Kontingentfrei",
+		"extension-free-tts-summary": "Für Twitch-Erweiterungen: Setze 100 Bits oder mehr, damit Twitch AI-TTS-Tokens abdeckt. Alles darunter nutzt dein monatliches Marketplace-TTS-Kontingent."
 	},
 	"variables": {
 		"action": "Aktionsname",
