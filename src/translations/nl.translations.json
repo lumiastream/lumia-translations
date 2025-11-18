@@ -3770,7 +3770,9 @@
 		"no-credit-card-required": "Geen kredietkaart nodig",
 		"trial-description": "Je kunt al deze functies 7 dagen gratis uitproberen ",
 		"webhook": "Webhook",
-		"webhook-upgrade": "Upgrade naar premium om webhooks te gaan gebruiken"
+		"webhook-upgrade": "Upgrade naar premium om webhooks te gaan gebruiken",
+		"create-voice": "Stem maken is vergrendeld",
+		"create-voice-upgrade": "Maak een volledig getrainde AI-stem van authentieke samples, met eigen afbeeldingen en profielgegevens. Publiceer en toon je stemmodel op de marktplaats - beschikbaar met Premium."
 	},
 	"comparison": {
 		"streamdeck": "Streamdeckbediening",

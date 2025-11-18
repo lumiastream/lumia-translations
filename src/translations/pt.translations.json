@@ -3773,7 +3773,9 @@
 		"no-credit-card-required": "Não é necessário cartão de crédito",
 		"trial-description": "Você pode tentar todos esses recursos por 7 dias grátis ",
 		"webhook": "Webhook",
-		"webhook-upgrade": "Atualize para o prêmio para começar a usar webhooks"
+		"webhook-upgrade": "Atualize para o prêmio para começar a usar webhooks",
+		"create-voice": "Criar voz está bloqueado",
+		"create-voice-upgrade": "Crie uma voz de IA totalmente treinada a partir de amostras autênticas, com imagens personalizadas e detalhes do perfil. Publique e destaque seu modelo de voz no marketplace - disponível com Premium."
 	},
 	"comparison": {
 		"streamdeck": "Controle do convés do fluxo",

@@ -3943,7 +3943,9 @@
 		"no-credit-card-required": "No credit card required",
 		"trial-description": "You can try all of these features for 7 days free ",
 		"webhook": "Webhook",
-		"webhook-upgrade": "Upgrade to premium to start using webhooks"
+		"webhook-upgrade": "Upgrade to premium to start using webhooks",
+		"create-voice": "Create voice is locked",
+		"create-voice-upgrade": "Create a fully trained AI voice from authentic samples, complete with custom imagery and profile details. Publish and showcase your voice model in the marketplace — available with Premium."
 	},
 	"comparison": {
 		"streamdeck": "Stream Deck Control",

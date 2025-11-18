@@ -3803,7 +3803,9 @@
 		"no-credit-card-required": "Keine Kreditkarte benötigt",
 		"trial-description": "Sie können alle diese Funktionen 7 Tage lang kostenlos testen ",
 		"webhook": "Webhook",
-		"webhook-upgrade": "Führen Sie ein Upgrade auf Premium durch, um mit der Nutzung von Webhooks zu beginnen"
+		"webhook-upgrade": "Führen Sie ein Upgrade auf Premium durch, um mit der Nutzung von Webhooks zu beginnen",
+		"create-voice": "Stimme erstellen ist gesperrt",
+		"create-voice-upgrade": "Erstelle eine vollständig trainierte KI-Stimme aus authentischen Aufnahmen, mit eigenen Bildern und Profildetails. Veröffentliche und präsentiere dein Stimmmodell im Marktplatz - verfügbar mit Premium."
 	},
 	"comparison": {
 		"streamdeck": "Stream-Deck-Steuerung",

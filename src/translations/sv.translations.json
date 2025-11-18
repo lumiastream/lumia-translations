@@ -3773,7 +3773,9 @@
 		"no-credit-card-required": "Inget kreditkort krävs",
 		"trial-description": "Du kan prova alla dessa funktioner i 7 dagar gratis ",
 		"webhook": "Webhook",
-		"webhook-upgrade": "Uppgradera till premium för att börja använda webhooks"
+		"webhook-upgrade": "Uppgradera till premium för att börja använda webhooks",
+		"create-voice": "Skapa röst är låst",
+		"create-voice-upgrade": "Skapa en fullt tränad AI-röst från autentiska inspelningar med egen bild och profildetaljer. Publicera och visa upp din röstmodell på marknadsplatsen - tillgängligt med Premium."
 	},
 	"comparison": {
 		"streamdeck": "Strömdäckskontroll",
