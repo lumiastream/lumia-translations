@@ -1684,12 +1684,12 @@
 		"tts-monthly-remaining-with-limit": "Maandelijks resterend: {{remaining}} van {{limit}} tekens.",
 		"tts-monthly-remaining": "Maandelijks resterend: {{remaining}} tekens.",
 		"tts-quota-loading": "TTS-tegoed controleren...",
-		"marketplace-tts-regular-command-info": "Marketplace-TTS gebruikt tokens uit je maandelijkse quotum. Twitch-extensiecommando's van {{threshold}} bits of meer dekken deze AI-TTS-kosten, overweeg er eentje te maken.",
-		"marketplace-tts-extension-free-trigger": "Dit Twitch-extensiecommando dat {{threshold}} bits of meer kost, dekt marketplace TTS-tokens, dus het gaat niet van je maandelijkse quotum af.",
-		"marketplace-tts-extension-low-bits": "{{bits}} ligt onder {{threshold}} bits. Stel {{threshold}}+ bits in zodat Twitch AI TTS dekt; anders gaat dit van je maandelijkse TTS-quota af.",
-		"extension-free-tts-tooltip": "Twitch-extensiecommando's van {{threshold}} bits of meer dekken marketplace AI TTS-tokens, dus triggers verbruiken je maandelijkse quotum niet.",
-		"extension-free-tts-badge": "Quotumvrij",
-		"extension-free-tts-summary": "Voor Twitch-extensies: stel 100 bits of meer in zodat Twitch AI TTS-tokens dekt. Alles daaronder gebruikt je maandelijkse marketplace TTS-quotum."
+		"marketplace-tts-regular-command-info": "Marketplace TTS gebruikt tokens uit je maandelijkse tegoed. Twitch-extensiecommando’s met {{threshold}} bits of meer dekken de AI-TTS-kosten, zodat je tegoed niet wordt belast.",
+		"marketplace-tts-extension-free-trigger": "Deze Twitch-extensieopdracht kost {{threshold}} bits of meer. Twitch dekt daardoor de AI-TTS-kosten en gebruikt je maandelijkse tegoed niet.",
+		"marketplace-tts-extension-low-bits": "{{bits}} bits is lager dan het minimum van {{threshold}} bits. Gebruik {{threshold}}+ bits zodat Twitch de AI-TTS-kosten dekt; anders gaat het van je tegoed af.",
+		"extension-free-tts-tooltip": "Twitch-extensiecommando’s met {{threshold}} bits of meer dekken de AI-TTS-kosten zonder je maandelijkse tegoed te gebruiken.",
+		"extension-free-tts-badge": "Tegoedvrij",
+		"extension-free-tts-summary": "Voor Twitch-extensies: stel {{threshold}} bits of meer in zodat Twitch de AI-TTS-kosten dekt. Lagere bedragen gebruiken je maandelijkse tegoed."
 	},
 	"variables": {
 		"action": "Naam van actie",

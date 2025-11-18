@@ -1709,12 +1709,12 @@
 		"tts-monthly-remaining-with-limit": "Monthly remaining: {{remaining}} of {{limit}} characters.",
 		"tts-monthly-remaining": "Monthly remaining: {{remaining}} characters.",
 		"tts-quota-loading": "Checking TTS quota...",
-		"marketplace-tts-regular-command-info": "Marketplace TTS uses tokens from your monthly quota. Twitch extension commands priced at {{threshold}} bits or more cover these AI TTS expenses, so consider creating one.",
-		"marketplace-tts-extension-free-trigger": "This Twitch extension command that costs {{threshold}} bits or more covers marketplace TTS tokens, so it won't consume from your monthly quota.",
-		"marketplace-tts-extension-low-bits": "{{bits}} is below {{threshold}} bits. Set {{threshold}}+ bits to have Twitch cover AI TTS; otherwise this will use your monthly TTS quota.",
-		"extension-free-tts-tooltip": "Twitch extension commands priced at {{threshold}} bits or more cover marketplace AI TTS tokens, so triggers do not consume your monthly quota.",
-		"extension-free-tts-badge": "Quota free",
-		"extension-free-tts-summary": "For Twitch extensions: set 100 bits or more to let Twitch cover AI TTS tokens. Anything lower will use your monthly marketplace TTS quota."
+		"marketplace-tts-regular-command-info": "Marketplace TTS uses tokens from your monthly quota. Twitch extension commands priced at {{threshold}} bits or higher cover these AI TTS costs, so you won’t be charged quota for those.",
+		"marketplace-tts-extension-free-trigger": "This Twitch extension command costs {{threshold}} bits or higher, so Twitch covers the AI TTS cost. It won’t use your monthly quota.",
+		"marketplace-tts-extension-low-bits": "{{bits}} bits is below the {{threshold}}-bit minimum. Set {{threshold}}+ bits for Twitch to cover AI TTS; otherwise this will use your monthly TTS quota.",
+		"extension-free-tts-tooltip": "Twitch extension commands priced at {{threshold}} bits or higher have their AI TTS costs covered, so they don’t use your monthly quota.",
+		"extension-free-tts-badge": "Quota-Free",
+		"extension-free-tts-summary": "For Twitch extensions: set the command price to {{threshold}} bits or higher for Twitch to cover AI TTS. Anything lower uses your monthly Marketplace TTS quota."
 	},
 	"variables": {
 		"action": "Action name",

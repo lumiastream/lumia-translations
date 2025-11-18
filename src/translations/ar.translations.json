@@ -1684,12 +1684,12 @@
 		"tts-monthly-remaining-with-limit": "المتبقي الشهري: {{remaining}} من {{limit}} حرفًا.",
 		"tts-monthly-remaining": "المتبقي الشهري: {{remaining}} حرفًا.",
 		"tts-quota-loading": "جارٍ التحقق من حصة TTS...",
-		"marketplace-tts-regular-command-info": "يستخدم TTS في السوق رموزًا من حصتك الشهرية. تغطي أوامر إضافة Twitch التي تكلف {{threshold}} بت أو أكثر تكاليف TTS بالذكاء الاصطناعي، لذا فكر في إنشاء واحد.",
-		"marketplace-tts-extension-free-trigger": "يغطي أمر إضافة Twitch الذي يكلف {{threshold}} بت أو أكثر رموز TTS في السوق، لذا لن يستهلك من حصتك الشهرية.",
-		"marketplace-tts-extension-low-bits": "{{bits}} أقل من {{threshold}} بت. اضبط {{threshold}}+ بت لكي تغطي Twitch TTS بالذكاء الاصطناعي؛ وإلا سيُستخدم من حصتك الشهرية لـ TTS.",
-		"extension-free-tts-tooltip": "أوامر إضافة Twitch التي يبلغ سعرها {{threshold}} بت أو أكثر تغطي رموز الذكاء الاصطناعي لـ TTS في السوق، لذلك لا تستهلك المشغلات من حصتك الشهرية.",
-		"extension-free-tts-badge": "خالٍ من الحصة",
-		"extension-free-tts-summary": "لإضافات Twitch: اضبط 100 بت أو أكثر للسماح لـ Twitch بتغطية رموز الذكاء الاصطناعي لـ TTS. أي قيمة أقل ستستخدم حصتك الشهرية لـ TTS في السوق."
+		"marketplace-tts-regular-command-info": "تستخدم خدمة TTS في المتجر رموزًا من حصتك الشهرية. أوامر إضافة تويتش التي تكلف {{threshold}} بت أو أكثر تغطي تكاليف TTS بالذكاء الاصطناعي، لذلك لن تُخصم من حصتك.",
+		"marketplace-tts-extension-free-trigger": "هذا الأمر في إضافة تويتش يكلف {{threshold}} بت أو أكثر، لذلك يغطي تويتش تكلفة TTS بالذكاء الاصطناعي ولن يستهلك من حصتك الشهرية.",
+		"marketplace-tts-extension-low-bits": "{{bits}} بت أقل من الحد الأدنى {{threshold}} بت. استخدم {{threshold}} بت أو أكثر ليغطي تويتش تكلفة TTS، وإلا سيُخصم من حصتك الشهرية.",
+		"extension-free-tts-tooltip": "أوامر إضافة تويتش التي تكلف {{threshold}} بت أو أكثر يغطي تويتش تكاليف TTS فيها، لذلك لا تُخصم من حصتك الشهرية.",
+		"extension-free-tts-badge": "بدون حصة",
+		"extension-free-tts-summary": "لإضافة تويتش: ضع السعر {{threshold}} بت أو أكثر ليغطي تويتش تكلفة TTS. أي قيمة أقل ستستخدم حصتك الشهرية."
 	},
 	"variables": {
 		"action": "اسم الفعل",

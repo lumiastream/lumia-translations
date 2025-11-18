@@ -1684,12 +1684,12 @@
 		"tts-monthly-remaining-with-limit": "Aylık kalan: {{remaining}} / {{limit}} karakter.",
 		"tts-monthly-remaining": "Aylık kalan: {{remaining}} karakter.",
 		"tts-quota-loading": "TTS kotası kontrol ediliyor...",
-		"marketplace-tts-regular-command-info": "Marketplace TTS, aylık kotanızdaki jetonları kullanır. {{threshold}} bit veya üzeri fiyatlı Twitch eklentisi komutları bu yapay zeka TTS masraflarını karşılar, bu yüzden bir tane oluşturmayı düşünün.",
-		"marketplace-tts-extension-free-trigger": "{{threshold}} bit veya daha fazla maliyetli bu Twitch eklentisi komutu, marketplace TTS jetonlarını karşılar; bu yüzden aylık kotanızdan harcamaz.",
-		"marketplace-tts-extension-low-bits": "{{bits}}, {{threshold}} bitten düşük. Twitch'in yapay zeka TTS'i karşılaması için {{threshold}}+ bit ayarlayın; yoksa aylık TTS kotanız kullanılır.",
-		"extension-free-tts-tooltip": "{{threshold}} bit veya üzeri fiyatlı Twitch eklentisi komutları, marketplace AI TTS jetonlarını karşılar; böylece tetikleyiciler aylık kotanızı tüketmez.",
+		"marketplace-tts-regular-command-info": "Marketplace TTS, aylık kotanızdan token kullanır. {{threshold}} bit veya üzeri Twitch eklenti komutları bu AI TTS maliyetlerini karşılar ve kotanızdan düşmez.",
+		"marketplace-tts-extension-free-trigger": "Bu Twitch eklenti komutu {{threshold}} bit veya üzeri olduğundan, AI TTS maliyetini Twitch karşılar. Aylık kotanızı kullanmaz.",
+		"marketplace-tts-extension-low-bits": "{{bits}} bit, {{threshold}} bit minimumunun altındadır. Twitch’in AI TTS’i karşılaması için {{threshold}}+ bit ayarlayın; aksi halde kotanızdan düşer.",
+		"extension-free-tts-tooltip": "{{threshold}} bit ve üzeri Twitch eklenti komutları AI TTS maliyetlerini karşılar ve kotanızdan harcanmaz.",
 		"extension-free-tts-badge": "Kotasız",
-		"extension-free-tts-summary": "Twitch eklentileri için: Twitch'in AI TTS jetonlarını karşılaması için 100 bit veya üzerini ayarlayın. Daha düşük her şey aylık marketplace TTS kotanızı kullanır."
+		"extension-free-tts-summary": "Twitch eklentileri için: {{threshold}} bit veya üzeri fiyat belirleyin ki Twitch AI TTS’i karşılasın. Daha düşük değerler aylık kotanızı kullanır."
 	},
 	"variables": {
 		"action": "İşlem adı",
