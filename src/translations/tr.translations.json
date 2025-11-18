@@ -1680,7 +1680,16 @@
 		"send-native-shoutout": "Twitch'e yerel /shoutout gönder",
 		"interaction-moved": "Daha iyi bir düzen için {{interaction}} başka bir sayfaya taşındı",
 		"go-to-interaction": "{{interaction}} sayfasına git",
-		"clip-starting-date": "Klibin başlangıç tarihi"
+		"clip-starting-date": "Klibin başlangıç tarihi",
+		"tts-monthly-remaining-with-limit": "Aylık kalan: {{remaining}} / {{limit}} karakter.",
+		"tts-monthly-remaining": "Aylık kalan: {{remaining}} karakter.",
+		"tts-quota-loading": "TTS kotası kontrol ediliyor...",
+		"marketplace-tts-regular-command-info": "Marketplace TTS, aylık kotanızdaki jetonları kullanır. {{threshold}} bit veya üzeri fiyatlı Twitch eklentisi komutları bu yapay zeka TTS masraflarını karşılar, bu yüzden bir tane oluşturmayı düşünün.",
+		"marketplace-tts-extension-free-trigger": "{{threshold}} bit veya daha fazla maliyetli bu Twitch eklentisi komutu, marketplace TTS jetonlarını karşılar; bu yüzden aylık kotanızdan harcamaz.",
+		"marketplace-tts-extension-low-bits": "{{bits}}, {{threshold}} bitten düşük. Twitch'in yapay zeka TTS'i karşılaması için {{threshold}}+ bit ayarlayın; yoksa aylık TTS kotanız kullanılır.",
+		"extension-free-tts-tooltip": "{{threshold}} bit veya üzeri fiyatlı Twitch eklentisi komutları, marketplace AI TTS jetonlarını karşılar; böylece tetikleyiciler aylık kotanızı tüketmez.",
+		"extension-free-tts-badge": "Kotasız",
+		"extension-free-tts-summary": "Twitch eklentileri için: Twitch'in AI TTS jetonlarını karşılaması için 100 bit veya üzerini ayarlayın. Daha düşük her şey aylık marketplace TTS kotanızı kullanır."
 	},
 	"variables": {
 		"action": "İşlem adı",

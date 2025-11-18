@@ -1705,7 +1705,16 @@
 		"printer-text": "Text to print",
 		"printer-text-description": "Enter one or more lines. Each line prints separately.",
 		"printer-image": "Image to print",
-		"printer-image-description": "Enter the path to the image to print or use the variable function {{overlay_screenshot=my overlay name,thermal}} to send a screenshot as well or {{obs_screenshot}} to send your screenshot from OBS"
+		"printer-image-description": "Enter the path to the image to print or use the variable function {{overlay_screenshot=my overlay name,thermal}} to send a screenshot as well or {{obs_screenshot}} to send your screenshot from OBS",
+		"tts-monthly-remaining-with-limit": "Monthly remaining: {{remaining}} of {{limit}} characters.",
+		"tts-monthly-remaining": "Monthly remaining: {{remaining}} characters.",
+		"tts-quota-loading": "Checking TTS quota...",
+		"marketplace-tts-regular-command-info": "Marketplace TTS uses tokens from your monthly quota. Twitch extension commands priced at {{threshold}} bits or more cover these AI TTS expenses, so consider creating one.",
+		"marketplace-tts-extension-free-trigger": "This Twitch extension command that costs {{threshold}} bits or more covers marketplace TTS tokens, so it won't consume from your monthly quota.",
+		"marketplace-tts-extension-low-bits": "{{bits}} is below {{threshold}} bits. Set {{threshold}}+ bits to have Twitch cover AI TTS; otherwise this will use your monthly TTS quota.",
+		"extension-free-tts-tooltip": "Twitch extension commands priced at {{threshold}} bits or more cover marketplace AI TTS tokens, so triggers do not consume your monthly quota.",
+		"extension-free-tts-badge": "Quota free",
+		"extension-free-tts-summary": "For Twitch extensions: set 100 bits or more to let Twitch cover AI TTS tokens. Anything lower will use your monthly marketplace TTS quota."
 	},
 	"variables": {
 		"action": "Action name",

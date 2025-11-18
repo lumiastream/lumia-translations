@@ -1680,7 +1680,16 @@
 		"send-native-shoutout": "إرسال /shoutout الأصلي إلى تويتر",
 		"interaction-moved": "لتحسين التنظيم، تم نقل {{interaction}} إلى صفحة أخرى",
 		"go-to-interaction": "انتقل إلى {{interaction}}",
-		"clip-starting-date": "Clip starting date"
+		"clip-starting-date": "Clip starting date",
+		"tts-monthly-remaining-with-limit": "المتبقي الشهري: {{remaining}} من {{limit}} حرفًا.",
+		"tts-monthly-remaining": "المتبقي الشهري: {{remaining}} حرفًا.",
+		"tts-quota-loading": "جارٍ التحقق من حصة TTS...",
+		"marketplace-tts-regular-command-info": "يستخدم TTS في السوق رموزًا من حصتك الشهرية. تغطي أوامر إضافة Twitch التي تكلف {{threshold}} بت أو أكثر تكاليف TTS بالذكاء الاصطناعي، لذا فكر في إنشاء واحد.",
+		"marketplace-tts-extension-free-trigger": "يغطي أمر إضافة Twitch الذي يكلف {{threshold}} بت أو أكثر رموز TTS في السوق، لذا لن يستهلك من حصتك الشهرية.",
+		"marketplace-tts-extension-low-bits": "{{bits}} أقل من {{threshold}} بت. اضبط {{threshold}}+ بت لكي تغطي Twitch TTS بالذكاء الاصطناعي؛ وإلا سيُستخدم من حصتك الشهرية لـ TTS.",
+		"extension-free-tts-tooltip": "أوامر إضافة Twitch التي يبلغ سعرها {{threshold}} بت أو أكثر تغطي رموز الذكاء الاصطناعي لـ TTS في السوق، لذلك لا تستهلك المشغلات من حصتك الشهرية.",
+		"extension-free-tts-badge": "خالٍ من الحصة",
+		"extension-free-tts-summary": "لإضافات Twitch: اضبط 100 بت أو أكثر للسماح لـ Twitch بتغطية رموز الذكاء الاصطناعي لـ TTS. أي قيمة أقل ستستخدم حصتك الشهرية لـ TTS في السوق."
 	},
 	"variables": {
 		"action": "اسم الفعل",

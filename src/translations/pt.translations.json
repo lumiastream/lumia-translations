@@ -1680,7 +1680,16 @@
 		"send-native-shoutout": "Enviar /shoutout nativo para Twitch",
 		"interaction-moved": "Para melhor organização, {{interaction}} foi movido para outra página",
 		"go-to-interaction": "Ir para {{interaction}}",
-		"clip-starting-date": "Data de início do clipe"
+		"clip-starting-date": "Data de início do clipe",
+		"tts-monthly-remaining-with-limit": "Restante no mês: {{remaining}} de {{limit}} caracteres.",
+		"tts-monthly-remaining": "Restante no mês: {{remaining}} caracteres.",
+		"tts-quota-loading": "Verificando a cota de TTS...",
+		"marketplace-tts-regular-command-info": "O TTS do marketplace usa tokens da sua cota mensal. Comandos da extensão da Twitch com preço de {{threshold}} bits ou mais cobrem esses custos de TTS com IA, então considere criar um.",
+		"marketplace-tts-extension-free-trigger": "Este comando da extensão da Twitch que custa {{threshold}} bits ou mais cobre os tokens de TTS do marketplace, então não consumirá da sua cota mensal.",
+		"marketplace-tts-extension-low-bits": "{{bits}} está abaixo de {{threshold}} bits. Defina {{threshold}}+ bits para a Twitch cobrir o TTS de IA; caso contrário, isso usará sua cota mensal de TTS.",
+		"extension-free-tts-tooltip": "Comandos da extensão da Twitch com preço de {{threshold}} bits ou mais cobrem os tokens de IA TTS do marketplace, então os gatilhos não consomem sua cota mensal.",
+		"extension-free-tts-badge": "Sem cota",
+		"extension-free-tts-summary": "Para extensões da Twitch: defina 100 bits ou mais para a Twitch cobrir os tokens de IA TTS. Qualquer valor menor usará sua cota mensal de TTS do marketplace."
 	},
 	"variables": {
 		"action": "Nome da Ação",
