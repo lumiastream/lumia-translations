@@ -1684,12 +1684,12 @@
 		"tts-monthly-remaining-with-limit": "Restante no mês: {{remaining}} de {{limit}} caracteres.",
 		"tts-monthly-remaining": "Restante no mês: {{remaining}} caracteres.",
 		"tts-quota-loading": "Verificando a cota de TTS...",
-		"marketplace-tts-regular-command-info": "O TTS do marketplace usa tokens da sua cota mensal. Comandos da extensão da Twitch com preço de {{threshold}} bits ou mais cobrem esses custos de TTS com IA, então considere criar um.",
-		"marketplace-tts-extension-free-trigger": "Este comando da extensão da Twitch que custa {{threshold}} bits ou mais cobre os tokens de TTS do marketplace, então não consumirá da sua cota mensal.",
-		"marketplace-tts-extension-low-bits": "{{bits}} está abaixo de {{threshold}} bits. Defina {{threshold}}+ bits para a Twitch cobrir o TTS de IA; caso contrário, isso usará sua cota mensal de TTS.",
-		"extension-free-tts-tooltip": "Comandos da extensão da Twitch com preço de {{threshold}} bits ou mais cobrem os tokens de IA TTS do marketplace, então os gatilhos não consomem sua cota mensal.",
+		"marketplace-tts-regular-command-info": "O Marketplace TTS usa tokens da sua cota mensal. Comandos da extensão Twitch com {{threshold}} bits ou mais cobrem os custos de TTS com IA, sem usar sua cota.",
+		"marketplace-tts-extension-free-trigger": "Este comando da extensão Twitch custa {{threshold}} bits ou mais, então a Twitch cobre o custo de TTS com IA. Não usará sua cota mensal.",
+		"marketplace-tts-extension-low-bits": "{{bits}} bits está abaixo do mínimo de {{threshold}} bits. Use {{threshold}}+ bits para que a Twitch cubra o TTS; caso contrário, usará sua cota mensal.",
+		"extension-free-tts-tooltip": "Comandos da extensão Twitch com {{threshold}} bits ou mais cobrem o TTS com IA sem consumir sua cota mensal.",
 		"extension-free-tts-badge": "Sem cota",
-		"extension-free-tts-summary": "Para extensões da Twitch: defina 100 bits ou mais para a Twitch cobrir os tokens de IA TTS. Qualquer valor menor usará sua cota mensal de TTS do marketplace."
+		"extension-free-tts-summary": "Para extensões da Twitch: defina {{threshold}} bits ou mais para que a Twitch cubra o TTS com IA. Valores menores usarão sua cota mensal."
 	},
 	"variables": {
 		"action": "Nome da Ação",

@@ -1684,12 +1684,12 @@
 		"tts-monthly-remaining-with-limit": "Restante del mes: {{remaining}} de {{limit}} caracteres.",
 		"tts-monthly-remaining": "Restante del mes: {{remaining}} caracteres.",
 		"tts-quota-loading": "Comprobando la cuota de TTS...",
-		"marketplace-tts-regular-command-info": "TTS del mercado usa fichas de tu cuota mensual. Los comandos de la extensión de Twitch con precio de {{threshold}} bits o más cubren estos gastos de IA TTS, así que considera crear uno.",
-		"marketplace-tts-extension-free-trigger": "Este comando de la extensión de Twitch que cuesta {{threshold}} bits o más cubre los tokens de TTS del mercado, por lo que no consumirá tu cuota mensual.",
-		"marketplace-tts-extension-low-bits": "{{bits}} está por debajo de {{threshold}} bits. Configura {{threshold}}+ bits para que Twitch cubra el TTS de IA; de lo contrario, usará tu cuota mensual de TTS.",
-		"extension-free-tts-tooltip": "Los comandos de la extensión de Twitch con precio de {{threshold}} bits o más cubren los tokens de IA TTS del marketplace, por lo que los disparadores no consumen tu cuota mensual.",
+		"marketplace-tts-regular-command-info": "Marketplace TTS utiliza tokens de tu cuota mensual. Los comandos de la extensión de Twitch con precio de {{threshold}} bits o más cubren los costos de AI TTS, por lo que no usarán tu cuota.",
+		"marketplace-tts-extension-free-trigger": "Este comando de la extensión de Twitch cuesta {{threshold}} bits o más, así que Twitch cubre el costo de AI TTS sin usar tu cuota mensual.",
+		"marketplace-tts-extension-low-bits": "{{bits}} bits están por debajo del mínimo de {{threshold}} bits. Usa {{threshold}}+ bits para que Twitch cubra el AI TTS; de lo contrario, se usará tu cuota mensual.",
+		"extension-free-tts-tooltip": "Los comandos de la extensión de Twitch con {{threshold}} bits o más cubren los costos de AI TTS y no consumen tu cuota mensual.",
 		"extension-free-tts-badge": "Sin cuota",
-		"extension-free-tts-summary": "Para extensiones de Twitch: define 100 bits o más para que Twitch cubra los tokens de IA TTS. Cualquier valor menor usará tu cuota mensual de TTS del marketplace."
+		"extension-free-tts-summary": "Para extensiones de Twitch: fija el precio en {{threshold}} bits o más para que Twitch cubra el AI TTS. Valores inferiores usarán tu cuota mensual."
 	},
 	"variables": {
 		"action": "Nombre de la acción",

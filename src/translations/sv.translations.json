@@ -1684,12 +1684,12 @@
 		"tts-monthly-remaining-with-limit": "Månadsvis kvar: {{remaining}} av {{limit}} tecken.",
 		"tts-monthly-remaining": "Månadsvis kvar: {{remaining}} tecken.",
 		"tts-quota-loading": "Kontrollerar TTS-kvot...",
-		"marketplace-tts-regular-command-info": "Marketplace-TTS använder tokens från din månads­kvot. Twitch-tilläggskommandon som kostar {{threshold}} bits eller mer täcker dessa AI-TTS-kostnader, så överväg att skapa ett.",
-		"marketplace-tts-extension-free-trigger": "Detta Twitch-tilläggskommando som kostar {{threshold}} bits eller mer täcker marketplace TTS-tokens, så det förbrukar inte din månads­kvot.",
-		"marketplace-tts-extension-low-bits": "{{bits}} är under {{threshold}} bits. Ställ in {{threshold}}+ bits så att Twitch täcker AI-TTS, annars används din månadsvisa TTS-kvot.",
-		"extension-free-tts-tooltip": "Twitch-tilläggskommandon som kostar {{threshold}} bits eller mer täcker marketplace AI TTS-tokens, så utlösare förbrukar inte din månads­kvot.",
+		"marketplace-tts-regular-command-info": "Marketplace TTS använder tokens från din månatliga kvot. Twitch-tilläggskommandon som kostar {{threshold}} bits eller mer täcker AI-TTS-kostnaderna utan att använda din kvot.",
+		"marketplace-tts-extension-free-trigger": "Detta Twitch-tilläggskommando kostar {{threshold}} bits eller mer, så Twitch täcker AI-TTS-kostnaden. Det använder inte din månatliga kvot.",
+		"marketplace-tts-extension-low-bits": "{{bits}} bits är under minimum på {{threshold}} bits. Använd {{threshold}}+ bits för att låta Twitch täcka AI-TTS; annars används din kvot.",
+		"extension-free-tts-tooltip": "Twitch-tilläggskommandon på {{threshold}} bits eller mer täcker AI-TTS-kostnaderna och använder inte din månatliga kvot.",
 		"extension-free-tts-badge": "Kvotfri",
-		"extension-free-tts-summary": "För Twitch-tillägg: ställ in 100 bits eller mer så att Twitch täcker AI TTS-tokens. Allt lägre använder din månatliga marketplace TTS-kvot."
+		"extension-free-tts-summary": "För Twitch-tillägg: sätt priset till {{threshold}} bits eller mer för att Twitch ska täcka AI-TTS. Lägre värden använder din månatliga kvot."
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",

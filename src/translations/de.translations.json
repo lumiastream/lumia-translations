@@ -1684,12 +1684,12 @@
 		"tts-monthly-remaining-with-limit": "Monatlich verbleibend: {{remaining}} von {{limit}} Zeichen.",
 		"tts-monthly-remaining": "Monatlich verbleibend: {{remaining}} Zeichen.",
 		"tts-quota-loading": "TTS-Kontingent wird geprüft...",
-		"marketplace-tts-regular-command-info": "Marketplace-TTS nutzt Token aus deinem monatlichen Kontingent. Twitch-Erweiterungsbefehle ab {{threshold}} Bits decken diese KI-TTS-Kosten, also erwäge, einen zu erstellen.",
-		"marketplace-tts-extension-free-trigger": "Dieser Twitch-Erweiterungsbefehl, der {{threshold}} Bits oder mehr kostet, deckt Marketplace-TTS-Token ab, sodass er nicht von deinem monatlichen Kontingent abgezogen wird.",
-		"marketplace-tts-extension-low-bits": "{{bits}} liegen unter {{threshold}} Bits. Setze {{threshold}}+ Bits, damit Twitch die KI-TTS-Kosten übernimmt; andernfalls wird dein monatliches TTS-Kontingent genutzt.",
-		"extension-free-tts-tooltip": "Twitch-Erweiterungsbefehle ab {{threshold}} Bits decken Marketplace-AI-TTS-Tokens, sodass Auslöser dein monatliches Kontingent nicht verbrauchen.",
+		"marketplace-tts-regular-command-info": "Marketplace-TTS verwendet Tokens aus deinem monatlichen Kontingent. Twitch-Erweiterungsbefehle mit {{threshold}} Bits oder mehr decken diese KI-TTS-Kosten ab, sodass dein Kontingent nicht belastet wird.",
+		"marketplace-tts-extension-free-trigger": "Dieser Twitch-Erweiterungsbefehl kostet {{threshold}} Bits oder mehr, daher übernimmt Twitch die KI-TTS-Kosten. Es belastet dein monatliches Kontingent nicht.",
+		"marketplace-tts-extension-low-bits": "{{bits}} Bits liegen unter dem Mindestwert von {{threshold}} Bits. Setze {{threshold}}+ Bits, damit Twitch die KI-TTS-Kosten übernimmt; sonst wird dein Kontingent genutzt.",
+		"extension-free-tts-tooltip": "Twitch-Erweiterungsbefehle ab {{threshold}} Bits decken die KI-TTS-Kosten ab und belasten dein monatliches Kontingent nicht.",
 		"extension-free-tts-badge": "Kontingentfrei",
-		"extension-free-tts-summary": "Für Twitch-Erweiterungen: Setze 100 Bits oder mehr, damit Twitch AI-TTS-Tokens abdeckt. Alles darunter nutzt dein monatliches Marketplace-TTS-Kontingent."
+		"extension-free-tts-summary": "Für Twitch-Erweiterungen: Setze den Preis auf {{threshold}} Bits oder mehr, damit Twitch die KI-TTS-Kosten übernimmt. Niedrigere Werte nutzen dein monatliches Kontingent."
 	},
 	"variables": {
 		"action": "Aktionsname",
