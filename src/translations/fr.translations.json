@@ -3803,7 +3803,9 @@
 		"no-credit-card-required": "Pas de carte de crédit nécessaire",
 		"trial-description": "Vous pouvez essayer toutes ces fonctionnalités gratuitement pendant 7 jours ",
 		"webhook": "Webhook",
-		"webhook-upgrade": "Passez à Premium pour commencer à utiliser les webhooks"
+		"webhook-upgrade": "Passez à Premium pour commencer à utiliser les webhooks",
+		"create-voice": "Création de voix verrouillée",
+		"create-voice-upgrade": "Créez une voix IA entièrement entraînée à partir d'échantillons authentiques, avec visuels personnalisés et détails de profil. Publiez et mettez en avant votre modèle vocal sur le marketplace - disponible avec Premium."
 	},
 	"comparison": {
 		"streamdeck": "Contrôle du pont de flux",

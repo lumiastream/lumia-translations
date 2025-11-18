@@ -3775,7 +3775,9 @@
 		"no-credit-card-required": "Kredi kartına gerek yok",
 		"trial-description": "Bu özelliklerin tamamını 7 gün boyunca ücretsiz deneyebilirsiniz ",
 		"webhook": "Web kancası",
-		"webhook-upgrade": "Web kancalarını kullanmaya başlamak için premium'a yükseltin"
+		"webhook-upgrade": "Web kancalarını kullanmaya başlamak için premium'a yükseltin",
+		"create-voice": "Ses oluşturma kilitli",
+		"create-voice-upgrade": "Gerçek örneklerden tamamen eğitilmiş bir yapay zekâ sesi oluşturun, özel görseller ve profil ayrıntılarıyla tamamlayın. Ses modelinizi pazarda yayınlayıp sergileyin - Premium ile kullanılabilir."
 	},
 	"comparison": {
 		"streamdeck": "Akış Destesi Kontrolü",

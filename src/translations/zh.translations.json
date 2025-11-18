@@ -3772,7 +3772,9 @@
 		"no-credit-card-required": "无需信用卡",
 		"trial-description": "您可以免费试用所有这些功能 7 天",
 		"webhook": "Webhook",
-		"webhook-upgrade": "升级到高级版以开始使用 Webhook"
+		"webhook-upgrade": "升级到高级版以开始使用 Webhook",
+		"create-voice": "创建语音已锁定",
+		"create-voice-upgrade": "从真实样本创建完全训练的 AI 语音，并配上自定义图片和个人资料信息。在市场发布和展示你的语音模型 - 需 Premium 才可使用。"
 	},
 	"comparison": {
 		"streamdeck": "Stream Deck 控制",
