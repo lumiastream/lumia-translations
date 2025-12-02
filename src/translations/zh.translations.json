@@ -3666,7 +3666,9 @@
 		"start-fuze": "启动 Fuze",
 		"stop-fuze": "停止 Fuze",
 		"from": "来自",
-		"as": "作为"
+		"as": "作为",
+		"quick-actions": "快速操作",
+		"select-currency": "选择货币"
 	},
 	"lumivox": {
 		"message-to-send": "消息模板",
