@@ -3697,7 +3697,9 @@
 		"start-fuze": "Starten Sie Fuze",
 		"stop-fuze": "Stoppen Sie Fuze",
 		"from": "Aus",
-		"as": "Als"
+		"as": "Als",
+		"quick-actions": "Schnellaktionen",
+		"select-currency": "Währung auswählen"
 	},
 	"lumivox": {
 		"message-to-send": "Nachrichtenvorlage",

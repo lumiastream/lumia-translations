@@ -3669,7 +3669,9 @@
 		"start-fuze": "Fuze'ı başlat",
 		"stop-fuze": "Fuze'ı Durdur",
 		"from": "İtibaren",
-		"as": "Gibi"
+		"as": "Gibi",
+		"quick-actions": "Hızlı İşlemler",
+		"select-currency": "Para Birimi Seç"
 	},
 	"lumivox": {
 		"message-to-send": "Mesaj şablonu",

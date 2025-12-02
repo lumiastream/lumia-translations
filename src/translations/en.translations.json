@@ -3837,7 +3837,9 @@
 		"start-fuze": "Start Fuze",
 		"stop-fuze": "Stop Fuze",
 		"from": "From",
-		"as": "As"
+		"as": "As",
+		"quick-actions": "Quick Actions",
+		"select-currency": "Select Currency"
 	},
 	"lumivox": {
 		"message-to-send": "Message template",

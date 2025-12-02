@@ -3664,7 +3664,9 @@
 		"start-fuze": "Start Fuze",
 		"stop-fuze": "Stop Fuze",
 		"from": "Van",
-		"as": "Als"
+		"as": "Als",
+		"quick-actions": "Snelle acties",
+		"select-currency": "Valuta selecteren"
 	},
 	"lumivox": {
 		"message-to-send": "Berichtsjabloon",

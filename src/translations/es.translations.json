@@ -3696,7 +3696,9 @@
 		"start-fuze": "Iniciar Fuze",
 		"stop-fuze": "detener la Fuze",
 		"from": "De",
-		"as": "Como"
+		"as": "Como",
+		"quick-actions": "Acciones rápidas",
+		"select-currency": "Seleccionar moneda"
 	},
 	"lumivox": {
 		"message-to-send": "Plantilla de mensaje",
