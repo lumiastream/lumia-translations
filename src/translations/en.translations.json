@@ -125,7 +125,8 @@
 		"here": "Here",
 		"or": "Or",
 		"muted": "Muted",
-		"unmuted": "Unmuted"
+		"unmuted": "Unmuted",
+		"true": "True"
 	},
 	"auth": {
 		"login": "Login",
@@ -367,7 +368,29 @@
 		"discord-auth-failed": "Authentication failed",
 		"discord-login": "A new window will pop up that asks you to login. Login and leave this window open in the background to use Discord with Lumia Stream. Make sure you're on your live page on this window so Lumia Stream can listen to events. If it tells you to login using the mobile app, try loggin in with the \"Use QR code\" option instead",
 		"select-channel": "Select Channel",
-		"closing-lumia": "Closing Lumia"
+		"closing-lumia": "Closing Lumia",
+		"broadlink-build-error": "Broadlink build error",
+		"cololight-build-error": "Cololight build error",
+		"corsair-build-error": "Corsair build error",
+		"elgato-build-error": "Elgato build error",
+		"hyperate-auth-failed": "Hyperate auth failed",
+		"integration-copy-url": "Integration copy url",
+		"keylight-build-error": "Keylight build error",
+		"logitech-build-error": "Logitech build error",
+		"magichome-build-error": "Magichome build error",
+		"midi-build-error": "Midi build error",
+		"razer-build-error": "Razer build error",
+		"steelseries-build-error": "Steelseries build error",
+		"streamdeck-download-failed": "Streamdeck download failed",
+		"tapo-build-error": "Tapo build error",
+		"touchportal-download-failed": "Touchportal download failed",
+		"touchportal-plugin-update": "Touchportal plugin update",
+		"touchportal-restart": "Touchportal restart",
+		"tplink-build-error": "Tplink build error",
+		"trovo-no-chat": "Trovo no chat",
+		"twinkly-build-error": "Twinkly build error",
+		"wiz-build-error": "Wiz build error",
+		"yeelight-build-error": "Yeelight build error"
 	},
 	"connection": {
 		"select-preference": "Select the preference you would like to use",
@@ -400,7 +423,8 @@
 		"having-issues-click-here": "Having issues? Click here",
 		"copy-auth-and-paste": "Copy auth link and paste it in your preferred browser url bar",
 		"enable-twitch-chatters-permission": "Enable Read Chatters for the Viewers widget in Twitch Connection. Head to Connections > Edit Twitch and select the Read Chatters for the Viewers widget",
-		"offline": "Offline — chat and alerts will be available once the stream is live"
+		"offline": "Offline — chat and alerts will be available once the stream is live",
+		"target-port": "Target port"
 	},
 	"lumia": {
 		"chatbot": "Chat Bot",
@@ -427,7 +451,8 @@
 		"premium-variations": "Variations are only allowed in the premium version",
 		"premium-no-alias": "Alias are only allowed in the premium version",
 		"brightness": "Brightness",
-		"always-on-top": "Always on top"
+		"always-on-top": "Always on top",
+		"scenes": "Scenes"
 	},
 	"sidebar": {
 		"expand": "Expand",
@@ -493,7 +518,22 @@
 		"popout-title": "Popout widget",
 		"loyaltypoints": "Loyalty points",
 		"poll": "Poll",
-		"plugins": "Plugins"
+		"plugins": "Plugins",
+		"filteredWords": "Filtered Words",
+		"games": "Games",
+		"general": "General",
+		"marketplace": "Marketplace",
+		"modtool": "Mod Tool",
+		"profiles": "Profiles",
+		"restrictions": "Restrictions",
+		"subscription": "Subscription",
+		"user": "User",
+		"excludedLights": "Excluded Lights",
+		"obs": "OBS",
+		"session": "Session",
+		"interactions": "Interactions",
+		"api": "API",
+		"advanced": "Advanced"
 	},
 	"home": {
 		"test-setup": "Test Setup",
@@ -528,7 +568,9 @@
 		"cooldown-is-empty": "Cooldown Is Empty",
 		"unsaved-changes": "You have changes that require a refresh",
 		"chat-not-activated": "Chat is Not Activated",
-		"mod-queue-is-empty": "Mod queue is empty"
+		"mod-queue-is-empty": "Mod queue is empty",
+		"actions": "Actions",
+		"remove-queue-item": "Remove queue item"
 	},
 	"controlcenter": {
 		"controlcenter": "Control Center",
@@ -752,7 +794,10 @@
 		"record-new-rf-code": "Record New RF Code",
 		"point-your-rf-remote": "Recording: Point your RF remote at the receiver and press and hold the key that you want to record. This could take up to 30 seconds. If hold does not work, try a combination of holding and pressing continuously",
 		"rf-code": "RF Code",
-		"broadlink-record-failed": "Broadlink record failed error: {{message}}"
+		"broadlink-record-failed": "Broadlink record failed error: {{message}}",
+		"appliance": "Appliance",
+		"brand": "Brand",
+		"model": "Model"
 	},
 	"default": {
 		"default-lights": "Default Light State",
@@ -953,7 +998,9 @@
 		"timestamps-description": "Enter Beats based on timestamps. This will skip the beat detector",
 		"use-all-lights": "Use all lights every beat",
 		"beat-duration": "How long a beat should stay on (ms)",
-		"turn-off-lights-after-beat": "Turn off lights after beat"
+		"turn-off-lights-after-beat": "Turn off lights after beat",
+		"edit-slots": "Edit slots",
+		"scene-living-type-": "Scene living type"
 	},
 	"commands": {
 		"scratch": "Start from scratch",
@@ -1714,7 +1761,17 @@
 		"marketplace-tts-extension-low-bits": "{{bits}} bits is below the {{threshold}}-bit minimum. Set {{threshold}}+ bits for Twitch to cover AI TTS; otherwise this will use your monthly TTS quota.",
 		"extension-free-tts-tooltip": "Twitch extension commands priced at {{threshold}} bits or higher have their AI TTS costs covered, so they don’t use your monthly quota.",
 		"extension-free-tts-badge": "Quota-Free",
-		"extension-free-tts-summary": "For Twitch extensions: set the command price to {{threshold}} bits or higher for Twitch to cover AI TTS. Anything lower uses your monthly Marketplace TTS quota."
+		"extension-free-tts-summary": "For Twitch extensions: set the command price to {{threshold}} bits or higher for Twitch to cover AI TTS. Anything lower uses your monthly Marketplace TTS quota.",
+		"always-use-tts-on-overlays": "Always use tts on overlays",
+		"api": "Api",
+		"conversion": "Conversion",
+		"format": "Format",
+		"kick-points-settings": "Kick points settings",
+		"printer-address": "Printer address",
+		"refresh-spotify-settings": "Refresh spotify settings",
+		"regex-match-premade-": "Regex match premade",
+		"soundboard": "Soundboard",
+		"use-system-tts-override": "Use system tts override"
 	},
 	"variables": {
 		"action": "Action name",
@@ -3176,7 +3233,9 @@
 		"session-type-MONTHLY": "Monthly",
 		"session-type-YEARLY": "Yearly",
 		"gift-your-friends-subscription": "Gift your friends a subscription",
-		"go-to-shop": "Go to shop"
+		"go-to-shop": "Go to shop",
+		"gradient-color": "Gradient color",
+		"obs-description": "Obs description"
 	},
 	"billing": {
 		"card": "Card",
@@ -3250,7 +3309,8 @@
 		"duplicate-name": "Cannot have duplicate names",
 		"non-unique-inputcontrol": "This input control must be unique. You already have an input control with these input values",
 		"non-unique-variable": "All variables must be unique and cannot be used anywhere else in the app. Please try to give your variables a unique name",
-		"missing-field": "Must enter all fields to save"
+		"missing-field": "Must enter all fields to save",
+		"save-failed": "Save failed"
 	},
 	"something-went-wrong": {
 		"title": "Oops! Something went wrong",
@@ -4067,7 +4127,10 @@
 		"confirmation-close": "Deleting upload is irreversible. Are you sure you want to delete?",
 		"error-deleting": "Deleting community upload error",
 		"updated": "Updated",
-		"post-new": "Post new"
+		"post-new": "Post new",
+		"add-comment-placeholder": "Add comment placeholder",
+		"by-posting-you-agree": "By posting you agree",
+		"comment-error": "Comment error"
 	},
 	"release-notes": {
 		"release": "Release notes",
@@ -4360,7 +4423,8 @@
 		"pick-label-icon": "Pick label or icon",
 		"save-settings": "Save settings",
 		"icons": "Icons",
-		"character-numbers": "Characters & Numbers"
+		"character-numbers": "Characters & Numbers",
+		"choose-icon": "Choose icon"
 	},
 	"artnet": {
 		"preset": "Preset",
@@ -4442,7 +4506,12 @@
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
 		"modQueue": "Mod queue",
-		"mod-queue-description": "Mod queue is used for commands that require approval from a moderator. You as the streamer and your mods can approve or deny these commands. Streamer and mods will bypass the queue if they are the origin of the command."
+		"mod-queue-description": "Mod queue is used for commands that require approval from a moderator. You as the streamer and your mods can approve or deny these commands. Streamer and mods will bypass the queue if they are the origin of the command.",
+		"log-settings": "Log settings",
+		"logs-important-only": "Logs important only",
+		"menu-add-widget": "Add new widget",
+		"menu-delete-widget": "Delete widget",
+		"open-log-folder": "Open log folder"
 	},
 	"event-list": {
 		"event-to-show": "Events to show",
@@ -4502,7 +4571,8 @@
 		"open-upload": "Open the upload you want to import",
 		"copy-id": "Copy the",
 		"paste-id": "Paste it below 👇",
-		"hfx-info": "Hfx info"
+		"hfx-info": "Hfx info",
+		"reached-kick-points-command-limit": "Reached kick points command limit"
 	},
 	"raffle": {
 		"add-user": "Add user",
@@ -4850,7 +4920,8 @@
 		"no-uploads-description": "Upload a plugin from the marketplace tab to see it here.",
 		"updated-relative": "Updated {{time}}",
 		"uploaded-relative": "Uploaded {{time}}",
-		"view-changelog": "View Changelog"
+		"view-changelog": "View Changelog",
+		"category-": "Category"
 	},
 	"tts": {
 		"tab-my-voices": "My Voices",
@@ -5016,6 +5087,21 @@
 		"review-search-empty": "No submissions match that search.",
 		"search-no-my-voices": "No matching uploads. Try a different search.",
 		"voice-processing-delete-block": "Please wait for processing to finish before deleting this voice.",
-		"voice-processing-wait": "This voice is still processing. Please wait until it is ready."
+		"voice-processing-wait": "This voice is still processing. Please wait until it is ready.",
+		"shouldReply": "Shouldreply"
+	},
+	"copy-the-remote-key": "Copy the remote key",
+	"crowdcontrol-auth-failed": "Crowdcontrol auth failed",
+	"integrations": {
+		"camerahub": {
+			"connected": "Connected"
+		},
+		"wavelink": {
+			"connected": "Connected"
+		}
+	},
+	"login": "Login",
+	"remember-prompts": {
+		"never-show-obs-import": "Never show obs import"
 	}
 }

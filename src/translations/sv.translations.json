@@ -123,7 +123,10 @@
 		"import": "Import",
 		"origin": "Origin",
 		"here": "Here",
-		"or": "Eller"
+		"or": "Eller",
+		"muted": "Muted",
+		"unmuted": "Unmuted",
+		"true": "True"
 	},
 	"auth": {
 		"login": "Logga in",
@@ -364,7 +367,30 @@
 		"discord-auth-failed": "Authentication failed",
 		"discord-login": "A new window will pop up that asks you to login. Login and leave this window open in the background to use Discord with Lumia Stream. Make sure you're on your live page on this window so Lumia Stream can listen to events. If it tells you to login using the mobile app, try loggin in with the \"Use QR code\" option instead",
 		"select-channel": "Select Channel",
-		"closing-lumia": "Closing Lumia"
+		"closing-lumia": "Closing Lumia",
+		"slobs-status": "Open Streamlabs Desktop, press the Settings Icon, Click Mobile on the Sidebar, Turn on Allow Third Party connections, Copy your API Token and enter it below",
+		"yeelight-build-error": "Yeelight build error",
+		"wiz-build-error": "Wiz build error",
+		"twinkly-build-error": "Twinkly build error",
+		"trovo-no-chat": "Trovo no chat",
+		"tplink-build-error": "Tplink build error",
+		"touchportal-restart": "Touchportal restart",
+		"touchportal-plugin-update": "Touchportal plugin update",
+		"touchportal-download-failed": "Touchportal download failed",
+		"tapo-build-error": "Tapo build error",
+		"streamdeck-download-failed": "Streamdeck download failed",
+		"steelseries-build-error": "Steelseries build error",
+		"razer-build-error": "Razer build error",
+		"midi-build-error": "Midi build error",
+		"magichome-build-error": "Magichome build error",
+		"logitech-build-error": "Logitech build error",
+		"keylight-build-error": "Keylight build error",
+		"integration-copy-url": "Integration copy url",
+		"hyperate-auth-failed": "Hyperate auth failed",
+		"elgato-build-error": "Elgato build error",
+		"corsair-build-error": "Corsair build error",
+		"cololight-build-error": "Cololight build error",
+		"broadlink-build-error": "Broadlink build error"
 	},
 	"connection": {
 		"select-preference": "Välj den inställning du vill använda",
@@ -397,7 +423,8 @@
 		"having-issues-click-here": "Har du problem? ",
 		"copy-auth-and-paste": "Kopiera autentiseringslänk och klistra in den i webbläsarens webbadressfält",
 		"enable-twitch-chatters-permission": "Aktivera Läs Chatters för Viewers-widgeten i Twitch Connection. ",
-		"offline": "Offline — chatt och aviseringar blir tillgängliga när streamen är live"
+		"offline": "Offline — chatt och aviseringar blir tillgängliga när streamen är live",
+		"target-port": "Target port"
 	},
 	"lumia": {
 		"chatbot": "Chat Bot",
@@ -424,7 +451,8 @@
 		"premium-no-alias": "Alias är endast tillåtna i premiumversionen",
 		"brightness": "Ljusstyrka",
 		"queue-is-paused": "Queue is paused",
-		"always-on-top": "Always on top"
+		"always-on-top": "Always on top",
+		"scenes": "Scenes"
 	},
 	"sidebar": {
 		"expand": "Expandera",
@@ -490,7 +518,22 @@
 		"popout-title": "Popup-widget",
 		"loyaltypoints": "Lojalitetspoäng",
 		"poll": "Omröstning",
-		"plugins": "Insticksprogram"
+		"plugins": "Insticksprogram",
+		"excludedLights": "Excluded Lights",
+		"obs": "OBS",
+		"session": "Session",
+		"interactions": "Interactions",
+		"api": "API",
+		"advanced": "Advanced",
+		"user": "User",
+		"subscription": "Subscription",
+		"restrictions": "Restrictions",
+		"profiles": "Profiles",
+		"modtool": "Mod Tool",
+		"marketplace": "Marketplace",
+		"general": "General",
+		"games": "Games",
+		"filteredWords": "Filtered Words"
 	},
 	"home": {
 		"test-setup": "Testuppsättning",
@@ -525,7 +568,9 @@
 		"cooldown-is-empty": "Cooldown är tom",
 		"unsaved-changes": "Du har ändringar som kräver en uppdatering",
 		"chat-not-activated": "Chatten är inte aktiverad",
-		"mod-queue-is-empty": "Modkö är tom"
+		"mod-queue-is-empty": "Modkö är tom",
+		"remove-queue-item": "Remove queue item",
+		"actions": "Actions"
 	},
 	"controlcenter": {
 		"controlcenter": "Kontrollcenter",
@@ -717,7 +762,11 @@
 		"20-words": "20 ord per minut",
 		"40-words": "40 ord per minut",
 		"80-words": "80 ord per minut",
-		"160-words": "160 ord per minut"
+		"160-words": "160 ord per minut",
+		"voicecommands": "Voice Commands",
+		"voicecommands-description": "Use your voice to trigger commands in Lumia",
+		"voicecommands-control": "Voice Commands Control",
+		"confidence": "Confidence"
 	},
 	"eventlist": {
 		"free-ticket": "Fribiljett",
@@ -745,7 +794,10 @@
 		"record-new-rf-code": "Spela in ny RF-kod",
 		"point-your-rf-remote": "Inspelning: Rikta din RF-fjärrkontroll mot mottagaren och tryck och håll ned knappen som du vill spela in. ",
 		"rf-code": "RF-kod",
-		"broadlink-record-failed": "Bredlänkspost misslyckades fel: {{message}}"
+		"broadlink-record-failed": "Bredlänkspost misslyckades fel: {{message}}",
+		"model": "Model",
+		"brand": "Brand",
+		"appliance": "Appliance"
 	},
 	"default": {
 		"default-lights": "Standardljusläge",
@@ -946,7 +998,9 @@
 		"timestamps-description": "Ange beats baserat på tidsstämplar. Detta hoppar över beatdetektorn",
 		"use-all-lights": "Använd alla lampor vid varje beat",
 		"beat-duration": "Hur länge ett beat ska vara på (ms)",
-		"turn-off-lights-after-beat": "Släck lamporna efter beatet"
+		"turn-off-lights-after-beat": "Släck lamporna efter beatet",
+		"scene-living-type-": "Scene living type",
+		"edit-slots": "Edit slots"
 	},
 	"commands": {
 		"set-to": "Satt till {{on_off}}",
@@ -1689,7 +1743,35 @@
 		"marketplace-tts-extension-low-bits": "{{bits}} bits är under minimum på {{threshold}} bits. Använd {{threshold}}+ bits för att låta Twitch täcka AI-TTS; annars används din kvot.",
 		"extension-free-tts-tooltip": "Twitch-tilläggskommandon på {{threshold}} bits eller mer täcker AI-TTS-kostnaderna och använder inte din månatliga kvot.",
 		"extension-free-tts-badge": "Kvotfri",
-		"extension-free-tts-summary": "För Twitch-tillägg: sätt priset till {{threshold}} bits eller mer för att Twitch ska täcka AI-TTS. Lägre värden använder din månatliga kvot."
+		"extension-free-tts-summary": "För Twitch-tillägg: sätt priset till {{threshold}} bits eller mer för att Twitch ska täcka AI-TTS. Lägre värden använder din månatliga kvot.",
+		"chatbot-show-in-chat-list": "Show Chat Bot messages in Dashboard, Overlays, and Lumia Link Chatboxes",
+		"kicks": "Kicks",
+		"wait-for-response": "Wait for response",
+		"key-input": "Keyboard Typer",
+		"winning-outcome": "Winning Outcome",
+		"codeId": "Code ID",
+		"overlays-custom-codeId-description": "The codeId will make sure only the overlay layers with the same codeId will receive this content. It will come through under Overlay.on('overlaycontent', (data) => { ... })",
+		"overlays-overlay-layer-optional": "Overlay Layer Selection is optional. Please do not select a layer if you plan on uploading this code to the marketplace. If you are unsure, leave it blank and use the codeId to determine when to update the Custom Overlay.",
+		"use-native-twitch-shoutout-instead-of-chatbot": "Use native Twitch /shoutout instead of chatbot",
+		"use-native-twitch-shoutout-instead-of-chatbot-description": "On Twitch you can use the built in /shoutout instead of chatbot",
+		"lumia-assistant-chat-gpt": "Lumia Stream assistant ChatGPT",
+		"use-default-message": "Use default message",
+		"screenshot-conversion-description": "Overlay must be connected within OBS or HUD and visible in order to capture a screenshot.",
+		"printer-type": "Print type (Image or Text)",
+		"printer-text": "Text to print",
+		"printer-text-description": "Enter one or more lines. Each line prints separately.",
+		"printer-image": "Image to print",
+		"printer-image-description": "Enter the path to the image to print or use the variable function {{overlay_screenshot=my overlay name,thermal}} to send a screenshot as well or {{obs_screenshot}} to send your screenshot from OBS",
+		"use-system-tts-override": "Use system tts override",
+		"soundboard": "Soundboard",
+		"regex-match-premade-": "Regex match premade",
+		"refresh-spotify-settings": "Refresh spotify settings",
+		"printer-address": "Printer address",
+		"kick-points-settings": "Kick points settings",
+		"format": "Format",
+		"conversion": "Conversion",
+		"api": "Api",
+		"always-use-tts-on-overlays": "Always use tts on overlays"
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",
@@ -2259,7 +2341,63 @@
 		"user-triggered-kick-points-command": "{{username}} utlöste kick-poängen {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte användarnivåvillkoren",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte kostnadsvillkoren",
-		"ai_prompt": "Skicka en prompt till AI med Chat GPT, DeepSeek och mer. Exempel: {{ai_prompt=Gör ett roligt citat}}. Eller låt användare skicka en prompt {{ai_prompt={{message}}}}"
+		"ai_prompt": "Skicka en prompt till AI med Chat GPT, DeepSeek och mer. Exempel: {{ai_prompt=Gör ett roligt citat}}. Eller låt användare skicka en prompt {{ai_prompt={{message}}}}",
+		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
+		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
+		"codeId": "Code ID (codeId)",
+		"currencySymbol": "The currency symbol used",
+		"stickerId": "The sticker id used",
+		"stickerName": "The sticker name used",
+		"fourthwall_last_order": "(Fourthwall) The last order that was made. Use Object dot notation to access the properties. e.g. {{fourthwall_last_order.username}}, {{fourthwall_last_order.amount}}, {{fourthwall_last_order.currency}}, {{fourthwall_last_order.message}}, {{fourthwall_last_order.items}}, {{fourthwall_last_order.items}}",
+		"fourthwall_last_tip": "(Fourthwall) The last tip that was made. Use Object dot notation to access the properties. e.g. {{fourthwall_last_tip.username}}, {{fourthwall_last_tip.amount}}, {{fourthwall_last_tip.currency}}, {{fourthwall_last_tip.message}}",
+		"fourthwall_last_gift_purchase": "(Fourthwall) The last gift that was purchased. Use Object dot notation to access the properties. e.g. {{fourthwall_last_gift_purchase.username}}, {{fourthwall_last_gift_purchase.amount}}, {{fourthwall_last_gift_purchase.currency}}",
+		"fourthwall_last_subscriber": "(Fourthwall) The last subscriber that was added. Use Object dot notation to access the properties. e.g. {{fourthwall_last_subscriber.username}}, {{fourthwall_last_subscriber.amount}}, {{fourthwall_last_subscriber.currency}}, {{fourthwall_last_subscriber.interval}}",
+		"fourthwall_current_giveaway": "(Fourthwall) The current giveaway. Use Object dot notation to access the properties. e.g. {{fourthwall_current_giveaway.name}}, {{fourthwall_current_giveaway.amount}}, {{fourthwall_current_giveaway.currency}}",
+		"fourthwall_giveaway_completed": "(Fourthwall) The giveaway that was completed. Use Object dot notation to access the properties. e.g. {{fourthwall_giveaway_completed.name}}, {{fourthwall_giveaway_completed.amount}}, {{fourthwall_giveaway_completed.currency}}, {{fourthwall_giveaway_completed.username}}, {{fourthwall_giveaway_completed.totalGifts}}, {{fourthwall_giveaway_completed.winnerNames}}, {{fourthwall_giveaway_completed.winners}}",
+		"kick_session_gifts_count": "(Kick) the total gifts received in this session",
+		"kick_total_subscriber_count": "(Kick) the total subscriber count of your channel",
+		"kick_total_gift_subscription_count": "(Kick) the total gift subscription count of your Kick channel",
+		"kick_session_gift_subscription_count": "(Kick) the total gift subscription received since Lumia Stream has turned on",
+		"kick_last_gift_subscription": "(Kick) the last user who sent a gift subscription",
+		"kick_session_gift_subscriptions": "(Kick) Session gift subscription list",
+		"kick_last_bit": "(Kick) the last user who sent kicks",
+		"kick_last_bit_amount": "(Kick) the amount of kicks for the last person to send kicks",
+		"kick_session_kicks": "(Kick) Session kicks list",
+		"kick_total_kicks_count": "(Kick) the total kicks count of your Twitch channel",
+		"kick_session_kicks_count": "(Kick) the total kicks received since Lumia Stream has turned on",
+		"kick_session_kicks_with_amount": "(Kick) Session kicks list with amount",
+		"kick_last_kicks": "(Kick) the last kicks that were sent",
+		"kick_last_kicks_amount": "(Kick) the amount of the last kicks that were sent",
+		"last_overlay_screenshot_path": "The last overlay screenshot path that was taken using either {{overlay_screenshot}} or the Overlay action Take Screenshot",
+		"now_playing_url": "(Now Playing) The Beatport or Spotify URL of the song",
+		"overlay_screenshot": "Take a screenshot of a specific overlay and store it on your computer. You can also select any overlay by selecting the overlay after the variable as well as color conversion type. e.g. {{overlay_screenshot=overlay 1}}. Or to select the conversion type: {{overlay_screenshot=overlay 1,thermal}}. Conversion types: original, thermal, grayscale, invert, binary. This variable will return the file path and can be used immediately",
+		"poll_winning_title": "Poll winning title",
+		"poll_winning_id": "Poll winning id",
+		"prediction_possible_outcomes": "Prediction possible outcomes",
+		"messageWithoutEmotes": "The message that the sender sent without the command/alias and without emots inside of the message. Mainly used for TTS.",
+		"recipients": "Users being gifted the gift subscription. Comma separated list of usernames",
+		"recipientsRaw": "Users being gifted the gift subscription. Raw array of usernames, avatar, and userId. mainly used for custom code and custom overlays. Can be accessed with dot notation e.g. {{recipientsRaw.0.avatar}} to get the first users avatar",
+		"meld_is_streaming": "(Meld) is streaming",
+		"meld_is_recording": "(Meld) is recording",
+		"meld_current_scene": "(Meld) current scene",
+		"meld_previous_scene": "(Meld) previous scene",
+		"meld_current_vertical_scene": "(Meld) current vertical scene",
+		"meld_previous_vertical_scene": "(Meld) previous vertical scene",
+		"twitch_session_gifts_count": "(Twitch) the total gifts received since Lumia Stream has turned on",
+		"twitch_session_gift_subscription_count": "(Twitch) the total gift subscription received since Lumia Stream has turned on",
+		"twitch_last_gift_subscription": "(Twitch) the last user who sent a gift subscription",
+		"twitch_session_gift_subscriptions": "(Twitch) Session gift subscriptions list",
+		"twitch_total_gift_subscription_count": "(Twitch) the total gift subscription count of your Twitch channel",
+		"youtube_current_viewer_count": "(Youtube) the current viewer count that is watching",
+		"youtube_total_viewer_count": "(Youtube) the total viewer count that has watched",
+		"youtube_stream_likes": "(Youtube) the total likes for the stream",
+		"youtube_stream_dislikes": "(Youtube) the total dislikes for the stream",
+		"youtube_stream_chat_count": "(Youtube) the total chat count for the stream",
+		"youtube_session_gift_members_count": "(Youtube) the total gift members received since Lumia Stream has turned on",
+		"youtube_last_gift_member": "(Youtube) the last user who sent a gift",
+		"youtube_session_gift_members": "(Youtube) Session gift members list",
+		"youtube_total_gift_members_count": "(Youtube) the total gift members count of your Youtube channel",
+		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc."
 	},
 	"voicemod": {
 		"delay": "Dröjsmål",
@@ -2372,7 +2510,15 @@
 		"viewerQueueLeave": "Viewer Queue Leave",
 		"viewerQueuePlayPause": "Viewer Queue Play Pause",
 		"viewerQueueEndQueue": "Viewer Queue End Queue",
-		"viewerQueuePickPlayer": "Viewer Queue Pick Player"
+		"viewerQueuePickPlayer": "Viewer Queue Pick Player",
+		"sendToPrinter": "Send To Printer",
+		"appendToVariable": "Append to variable",
+		"unappendFromVariable": "Unappend from variable",
+		"unique-values": "Unique values",
+		"printer-address": "Printer address",
+		"printer-payload": "Printer payload",
+		"encode-printer-payload": "Encode payload automatically",
+		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer."
 	},
 	"overlay-actions": {
 		"alertTrigger": "Alert Trigger",
@@ -2401,7 +2547,12 @@
 		"pollAddItem": "Omröstning Lägg till objekt",
 		"pollRemoveItem": "Omröstning Ta bort objekt",
 		"sendCustomOverlayContent": "Skicka anpassat överläggsinnehåll",
-		"delay": "Dröjsmål"
+		"delay": "Dröjsmål",
+		"hudOverlayChange": "Hud Overlay Change",
+		"hudToggle": "Hud Toggle",
+		"hudVolumeSet": "Hud Volume Set",
+		"hudOpacitySet": "Hud Opacity Set",
+		"takeScreenshot": "Take Screenshot of Overlay"
 	},
 	"twitch": {
 		"changeStreamTitle": "Ändra strömmens titel",
@@ -2440,7 +2591,9 @@
 		"clipFromTarget": "Klipp från mål i meddelande",
 		"clipFromStreamer": "Klipp från Streamer",
 		"random-clip": "Slumpmässigt klipp",
-		"is_featured": "Get only featured clips"
+		"is_featured": "Get only featured clips",
+		"addModerator": "Add Moderator",
+		"removeModerator": "Remove Moderator"
 	},
 	"audio": {
 		"setPlayState": "Spela upp/pausa media",
@@ -2691,7 +2844,39 @@
 		"powerupsPoints": "Powerups-poäng",
 		"points-equal": "Poängmängd lika med",
 		"points-greater-equal": "Poängmängd större än eller lika med",
-		"confirmation-delete": "Att ta bort variationer är oåterkalleligt. Är du säker på att du vill fortsätta?"
+		"confirmation-delete": "Att ta bort variationer är oåterkalleligt. Är du säker på att du vill fortsätta?",
+		"triggered-this-stream": "Triggered this stream",
+		"triggered": "Triggered",
+		"triggerOncePerStream": "Trigger Once Per Stream",
+		"viewers": "Viewers",
+		"user-likes": "User Likes",
+		"userLikes-info": "This alert will trigger when the user reaches a certain number of likes. This is a cumulative count of all likes the user has received per stream. It requires variations to be used as the milestones to reach.",
+		"totalLikes": "Total Likes",
+		"totalLikes-info": "This alert will trigger when the total number of likes reaches a certain number. This is a cumulative count of all likes received by all users in the stream. It requires variations to be used as the milestones to reach.",
+		"likes-info": "This alert will trigger when the user reaches a certain number of likes. This is a cumulative count of all likes the user has received per stream.",
+		"viewers-info": "This alert will trigger when the total number of viewers reaches a certain number. This is a cumulative count of all viewers that have watched the stream. It requires variations to be used as the milestones to reach and will not trigger again for the whole stream.",
+		"kicks": "Kicks",
+		"raidOut": "Raid Out",
+		"sessionFollowers-info": "This alert will trigger when the total number of followers reaches a certain number per session. This is a cumulative count of all followers that have followed the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSubs-info": "This alert will trigger when the total number of subscribers reaches a certain number per session. This is a cumulative count of all subscribers that have subscribed to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionMembers": "Session Members",
+		"sessionMembers-info": "This alert will trigger when the total number of members reaches a certain number per session. This is a cumulative count of all members that have joined the stream. It requires variations to be used as the milestones to reach.",
+		"giftMembers": "Gift Member",
+		"giftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionGiftMembers": "Session Gift Members",
+		"sessionGiftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionGiftSubscriptions-info": "This alert will trigger when the total number of gift subscriptions reaches a certain number per session. This is a cumulative count of all gift subscriptions that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionBits-info": "This alert will trigger when the total number of bits reaches a certain number per session. This is a cumulative count of all bits that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionKicks": "Session Kicks",
+		"sessionKicks-info": "This alert will trigger when the total number of kicks reaches a certain number per session. This is a cumulative count of all kicks that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSuperchats": "Session Superchats",
+		"sessionSuperchats-info": "This alert will trigger when the total number of superchats reaches a certain number per session. This is a cumulative count of all superchats that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSuperstickers": "Session Superstickers",
+		"sessionSuperstickers-info": "This alert will trigger when the total number of superstickers reaches a certain number per session. This is a cumulative count of all superstickers that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"switchVerticalScene": "Switch Vertical Scene",
+		"giveawayStarted": "Giveaway Started",
+		"giveawayEnded": "Giveaway Ended",
+		"thankyouSent": "Thank You Sent"
 	},
 	"discovery": {
 		"light-ip-has-changed": "En av dina {{type}} lampans IP-adress har ändrats. ",
@@ -3018,7 +3203,41 @@
 		"session-type-MONTHLY": "Monthly",
 		"session-type-YEARLY": "Yearly",
 		"gift-your-friends-subscription": "Ge dina vänner en prenumeration",
-		"go-to-shop": "Gå till butiken"
+		"go-to-shop": "Gå till butiken",
+		"display": "Display",
+		"show-avatars": "Show avatars",
+		"show-badges": "Show badges",
+		"show-timestamps": "Show timestamps",
+		"show-site-icons": "Show site icons",
+		"hide-alerts": "Hide alerts",
+		"hide-chat-commands": "Hide chat commands",
+		"font": "Font",
+		"font-size": "Font size (px)",
+		"space-between-messages": "Space between messages (px)",
+		"font-family": "Font family",
+		"colors": "Colors",
+		"background-color": "Background color",
+		"text-color": "Text color",
+		"username-color-override": "Username color override",
+		"background-opacity": "Background opacity",
+		"use-platform-colors": "Use platform colors",
+		"messages": "Messages",
+		"max-messages": "Max messages",
+		"message-timeout": "Message timeout (seconds)",
+		"never-timeout": "0 = never timeout",
+		"animate-messages": "Animate messages",
+		"smooth-scrolling": "Smooth scrolling",
+		"chat-as-bot": "Chat as bot",
+		"moderation": "Moderation",
+		"hide-deleted-messages": "Hide deleted messages",
+		"show-mod-actions": "Show moderation actions",
+		"banned-user-display": "Banned user display",
+		"hide-messages": "Hide messages",
+		"fade-messages": "Fade messages",
+		"show-messages": "Show messages",
+		"always-auto-refresh": "Always auto refresh when unsaved changes are detected",
+		"obs-description": "Obs description",
+		"gradient-color": "Gradient color"
 	},
 	"billing": {
 		"card": "Kort",
@@ -3092,7 +3311,8 @@
 		"duplicate-name": "Kan inte ha dubbletter av namn",
 		"non-unique-inputcontrol": "Denna ingångskontroll måste vara unik. ",
 		"non-unique-variable": "Alla variabler måste vara unika och kan inte användas någon annanstans i appen. ",
-		"missing-field": "Måste ange alla fält för att spara"
+		"missing-field": "Måste ange alla fält för att spara",
+		"save-failed": "Save failed"
 	},
 	"something-went-wrong": {
 		"title": "hoppsan! ",
@@ -3283,7 +3503,9 @@
 		"voters": "Röstare",
 		"trigger": "Utlösare (meddelande som skickas efter röstningskommandot)",
 		"poll-description": "Omröstningswidgeten låter dig skapa omröstningar med en titel, utlösare och en valfri bild. Tittarna kan rösta genom att skriva ett kommando (t.ex. !vote) följt av utlösaren (t.ex. !vote 1).",
-		"no-poll-found": "Ingen omröstning hittades, du kan skapa en genom att lägga till ett omröstningslager i overlayen"
+		"no-poll-found": "Ingen omröstning hittades, du kan skapa en genom att lägga till ett omröstningslager i overlayen",
+		"private-upload": "Private upload",
+		"newer-version-available": "Newer version available"
 	},
 	"update": {
 		"update-now": "Uppdatera nu",
@@ -3301,7 +3523,15 @@
 		"try-again": "Försök igen",
 		"update-error": "Uppdateringsfel!",
 		"update": "Uppdatering",
-		"update-internal": "Uppdatera internt"
+		"update-internal": "Uppdatera internt",
+		"update-failed": "Auto update failed",
+		"update-error-description": "An error occurred while updating Lumia Stream. Please try again later.",
+		"update-error-generic": "An error occurred while updating Lumia Stream. Please try again later.",
+		"manual-download-suggestion-version": "You can manually download version {{version}} from here",
+		"manual-download-suggestion": "You can manually download the latest version from here",
+		"direct-download-available": "Direct download link available",
+		"download-manually": "Direct download",
+		"download-from-site": "Download from site"
 	},
 	"chatbot": {
 		"chatbot-description": "Ge Lumia Stream möjligheten att förmedla vad som händer inuti Lumia i chatt med vår chattbot. ",
@@ -3325,7 +3555,8 @@
 		"allowed-variables": "Tillåtna variabler",
 		"allowed-variables-info": "Kopiera och klistra in dessa variabler till indata för att skapa ett allmänt meddelande",
 		"checkout-website": "Kolla in din Commands-webbplats",
-		"how-to-use": "Hur man använder"
+		"how-to-use": "Hur man använder",
+		"should-reply": "Should Reply to the one who called the command"
 	},
 	"tutorials": {
 		"widget-btn-title": "Hantera widgets",
@@ -3640,7 +3871,8 @@
 		"overlay": "Äldre överlägg",
 		"virtuallights": "Virtuella ljus",
 		"fast-warn": "{{brand}} is currently using Fast mode so Lumia won't be able to trigger Hue's native scenes. Use {{brand}} Regular mode to enable native scenes again",
-		"discord": "Discord"
+		"discord": "Discord",
+		"huepro": "Hue Pro"
 	},
 	"shortcuts": {
 		"shortcuts": "Genvägar",
@@ -3897,7 +4129,10 @@
 		"error-deleting": "Fel vid borttagning av communityuppladdning",
 		"updated": "Uppdaterad",
 		"includes-audio-modtool": "This community item contains audio, but since you are currently modding you cannot download with sound. Do you want to download it?",
-		"post-new": "Post new"
+		"post-new": "Post new",
+		"comment-error": "Comment error",
+		"by-posting-you-agree": "By posting you agree",
+		"add-comment-placeholder": "Add comment placeholder"
 	},
 	"release-notes": {
 		"release": "Release notes",
@@ -4158,7 +4393,8 @@
 		"message-couldnt-connect-chatbot": "Could not connect to {{site}} Chat Bot",
 		"multiple-instances": "You are using Lumia Stream in multiple places. While this should not be done it's still allowed, but it will turn off Lumia Services on the previous connections so that alerts and commands are not fired twice",
 		"message-discord-cant-reconnect": "Discord is not able to reconnect. Please reconnect to Discord by going to Connections > Platforms",
-		"message-discord-no-chat": "Discord was not able to connect to chat. PLease try again"
+		"message-discord-no-chat": "Discord was not able to connect to chat. PLease try again",
+		"message-voicecommand-triggered": "Voice command triggered {{command}}"
 	},
 	"userLogs": {
 		"api-request-failed": "API-begäran {{url}} misslyckades med statuskod: {{status}} och meddelande {{message}}"
@@ -4260,7 +4496,13 @@
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
 		"modQueue": "Modkö",
-		"mod-queue-description": "Modkön används för kommandon som kräver godkännande från en moderator. Du och dina moderatorer kan godkänna eller neka dessa kommandon. Du och dina moderatorer kommer att hoppa över kön om du är ursprung för kommandot."
+		"mod-queue-description": "Modkön används för kommandon som kräver godkännande från en moderator. Du och dina moderatorer kan godkänna eller neka dessa kommandon. Du och dina moderatorer kommer att hoppa över kön om du är ursprung för kommandot.",
+		"chatbox-settings": "Chatbox Settings",
+		"open-log-folder": "Open log folder",
+		"menu-delete-widget": "Ta bort widget",
+		"menu-add-widget": "Lägg till ny widget",
+		"logs-important-only": "Logs important only",
+		"log-settings": "Log settings"
 	},
 	"event-list": {
 		"event-to-show": "Händelser att visa",
@@ -4288,7 +4530,8 @@
 		"raffles": "Lotterier",
 		"others": "Andra",
 		"confirmation-delete-freeticket": "Att radera biljetter är oåterkalleligt. ",
-		"platforms-to-show": "Plattformar att visa"
+		"platforms-to-show": "Plattformar att visa",
+		"kicks": "Kicks"
 	},
 	"hfx": {
 		"auto-use": "Automatisk användning i 2 enkla steg",
@@ -4319,7 +4562,8 @@
 		"open-upload": "Öppna uppladdningen du vill importera",
 		"copy-id": "Kopiera",
 		"paste-id": "Klistra in den nedan 👇",
-		"hfx-info": "Hfx-information"
+		"hfx-info": "Hfx-information",
+		"reached-kick-points-command-limit": "Reached kick points command limit"
 	},
 	"raffle": {
 		"add-user": "Lägg till användare",
@@ -4376,7 +4620,8 @@
 		"ends-at": "Slutar kl.",
 		"raffle-run-for": "Utlottningen pågår i {{duration}}",
 		"ends-after": "Slutar efter",
-		"will-end-after": "Utlottningen slutar efter {{duration}}"
+		"will-end-after": "Utlottningen slutar efter {{duration}}",
+		"save-settings-confirmation": "Do you want to store these raffle settings for future use?"
 	},
 	"date": {
 		"year": "år",
@@ -4406,7 +4651,8 @@
 		"pick-label-icon": "Pick label or icon",
 		"save-settings": "Save settings",
 		"icons": "Icons",
-		"character-numbers": "Characters & Numbers"
+		"character-numbers": "Characters & Numbers",
+		"choose-icon": "Choose icon"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",
@@ -4676,7 +4922,8 @@
 		"no-uploads-description": "Ladda upp ett insticksprogram från Marketplace-fliken för att visa det här.",
 		"updated-relative": "Uppdaterad {{time}}",
 		"uploaded-relative": "Uppladdad {{time}}",
-		"view-changelog": "Visa ändringslogg"
+		"view-changelog": "Visa ändringslogg",
+		"category-": "Category"
 	},
 	"tts": {
 		"tab-my-voices": "Mina röster",
@@ -4842,6 +5089,21 @@
 		"review-search-empty": "Inga bidrag matchar denna sökning.",
 		"search-no-my-voices": "Inga matchande uppladdningar. Försök en annan sökning.",
 		"voice-processing-delete-block": "Vänta tills bearbetningen är klar innan du tar bort den här rösten.",
-		"voice-processing-wait": "Den här rösten bearbetas fortfarande. Vänta tills den är klar."
-	}
+		"voice-processing-wait": "Den här rösten bearbetas fortfarande. Vänta tills den är klar.",
+		"shouldReply": "Shouldreply"
+	},
+	"remember-prompts": {
+		"never-show-obs-import": "Never show obs import"
+	},
+	"login": "Login",
+	"integrations": {
+		"wavelink": {
+			"connected": "Connected"
+		},
+		"camerahub": {
+			"connected": "Connected"
+		}
+	},
+	"crowdcontrol-auth-failed": "Crowdcontrol auth failed",
+	"copy-the-remote-key": "Copy the remote key"
 }
