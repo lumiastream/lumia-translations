@@ -123,7 +123,10 @@
 		"import": "Import",
 		"origin": "Origin",
 		"here": "Here",
-		"or": "O"
+		"or": "O",
+		"muted": "Muted",
+		"unmuted": "Unmuted",
+		"true": "True"
 	},
 	"auth": {
 		"login": "Acceso",
@@ -364,7 +367,30 @@
 		"discord-auth-failed": "Authentication failed",
 		"discord-login": "A new window will pop up that asks you to login. Login and leave this window open in the background to use Discord with Lumia Stream. Make sure you're on your live page on this window so Lumia Stream can listen to events. If it tells you to login using the mobile app, try loggin in with the \"Use QR code\" option instead",
 		"select-channel": "Select Channel",
-		"closing-lumia": "Closing Lumia"
+		"closing-lumia": "Closing Lumia",
+		"slobs-status": "Open Streamlabs Desktop, press the Settings Icon, Click Mobile on the Sidebar, Turn on Allow Third Party connections, Copy your API Token and enter it below",
+		"yeelight-build-error": "Yeelight build error",
+		"wiz-build-error": "Wiz build error",
+		"twinkly-build-error": "Twinkly build error",
+		"trovo-no-chat": "Trovo no chat",
+		"tplink-build-error": "Tplink build error",
+		"touchportal-restart": "Touchportal restart",
+		"touchportal-plugin-update": "Touchportal plugin update",
+		"touchportal-download-failed": "Touchportal download failed",
+		"tapo-build-error": "Tapo build error",
+		"streamdeck-download-failed": "Streamdeck download failed",
+		"steelseries-build-error": "Steelseries build error",
+		"razer-build-error": "Razer build error",
+		"midi-build-error": "Midi build error",
+		"magichome-build-error": "Magichome build error",
+		"logitech-build-error": "Logitech build error",
+		"keylight-build-error": "Keylight build error",
+		"integration-copy-url": "Integration copy url",
+		"hyperate-auth-failed": "Hyperate auth failed",
+		"elgato-build-error": "Elgato build error",
+		"corsair-build-error": "Corsair build error",
+		"cololight-build-error": "Cololight build error",
+		"broadlink-build-error": "Broadlink build error"
 	},
 	"connection": {
 		"select-preference": "Seleccione la preferencia que le gustaría utilizar",
@@ -397,7 +423,8 @@
 		"having-issues-click-here": "¿Teniendo problemas? ",
 		"copy-auth-and-paste": "Copie el enlace de autenticación y péguelo en la barra de URL de su navegador preferido.",
 		"enable-twitch-chatters-permission": "Habilite Leer Chatters para el widget de espectadores en Twitch Connection. ",
-		"offline": "Desconectado — el chat y las alertas estarán disponibles cuando la transmisión esté en vivo"
+		"offline": "Desconectado — el chat y las alertas estarán disponibles cuando la transmisión esté en vivo",
+		"target-port": "Target port"
 	},
 	"lumia": {
 		"chatbot": "robot de chat",
@@ -424,7 +451,8 @@
 		"premium-no-alias": "Los alias sólo están permitidos en la versión premium.",
 		"brightness": "Brillo",
 		"queue-is-paused": "Queue is paused",
-		"always-on-top": "Always on top"
+		"always-on-top": "Always on top",
+		"scenes": "Scenes"
 	},
 	"sidebar": {
 		"expand": "Expandir",
@@ -490,7 +518,22 @@
 		"popout-title": "Widget emergente",
 		"loyaltypoints": "Puntos de fidelidad",
 		"poll": "Encuesta",
-		"plugins": "Complementos"
+		"plugins": "Complementos",
+		"excludedLights": "Excluded Lights",
+		"obs": "OBS",
+		"session": "Session",
+		"interactions": "Interactions",
+		"api": "API",
+		"advanced": "Advanced",
+		"user": "User",
+		"subscription": "Subscription",
+		"restrictions": "Restrictions",
+		"profiles": "Profiles",
+		"modtool": "Mod Tool",
+		"marketplace": "Marketplace",
+		"general": "General",
+		"games": "Games",
+		"filteredWords": "Filtered Words"
 	},
 	"home": {
 		"test-setup": "Configuración de prueba",
@@ -525,7 +568,9 @@
 		"cooldown-is-empty": "El tiempo de reutilización está vacío",
 		"unsaved-changes": "Tienes cambios que requieren una actualización.",
 		"chat-not-activated": "El chat no está activado",
-		"mod-queue-is-empty": "La cola de moderación está vacía"
+		"mod-queue-is-empty": "La cola de moderación está vacía",
+		"remove-queue-item": "Remove queue item",
+		"actions": "Actions"
 	},
 	"controlcenter": {
 		"controlcenter": "Centro de control",
@@ -717,7 +762,11 @@
 		"20-words": "20 palabras por minuto",
 		"40-words": "40 palabras por minuto",
 		"80-words": "80 palabras por minuto",
-		"160-words": "160 palabras por minuto"
+		"160-words": "160 palabras por minuto",
+		"voicecommands": "Voice Commands",
+		"voicecommands-description": "Use your voice to trigger commands in Lumia",
+		"voicecommands-control": "Voice Commands Control",
+		"confidence": "Confidence"
 	},
 	"eventlist": {
 		"free-ticket": "Boleto gratis",
@@ -745,7 +794,10 @@
 		"record-new-rf-code": "Grabar nuevo código RF",
 		"point-your-rf-remote": "Grabación: apunte su control remoto RF hacia el receptor y presione y mantenga presionada la tecla que desea grabar. ",
 		"rf-code": "Código RF",
-		"broadlink-record-failed": "Error de registro de Broadlink: {{message}}"
+		"broadlink-record-failed": "Error de registro de Broadlink: {{message}}",
+		"model": "Model",
+		"brand": "Brand",
+		"appliance": "Appliance"
 	},
 	"default": {
 		"default-lights": "Estado de luz predeterminado",
@@ -946,7 +998,9 @@
 		"timestamps-description": "Ingrese los ritmos basados en marcas de tiempo. Esto omitirá el detector de ritmos",
 		"use-all-lights": "Usar todas las luces en cada ritmo",
 		"beat-duration": "Duración de un ritmo (ms)",
-		"turn-off-lights-after-beat": "Apagar las luces después del ritmo"
+		"turn-off-lights-after-beat": "Apagar las luces después del ritmo",
+		"scene-living-type-": "Scene living type",
+		"edit-slots": "Edit slots"
 	},
 	"commands": {
 		"set-to": "Ajustado a {{on_off}}",
@@ -1689,7 +1743,35 @@
 		"marketplace-tts-extension-low-bits": "{{bits}} bits están por debajo del mínimo de {{threshold}} bits. Usa {{threshold}}+ bits para que Twitch cubra el AI TTS; de lo contrario, se usará tu cuota mensual.",
 		"extension-free-tts-tooltip": "Los comandos de la extensión de Twitch con {{threshold}} bits o más cubren los costos de AI TTS y no consumen tu cuota mensual.",
 		"extension-free-tts-badge": "Sin cuota",
-		"extension-free-tts-summary": "Para extensiones de Twitch: fija el precio en {{threshold}} bits o más para que Twitch cubra el AI TTS. Valores inferiores usarán tu cuota mensual."
+		"extension-free-tts-summary": "Para extensiones de Twitch: fija el precio en {{threshold}} bits o más para que Twitch cubra el AI TTS. Valores inferiores usarán tu cuota mensual.",
+		"chatbot-show-in-chat-list": "Show Chat Bot messages in Dashboard, Overlays, and Lumia Link Chatboxes",
+		"kicks": "Kicks",
+		"wait-for-response": "Wait for response",
+		"key-input": "Keyboard Typer",
+		"winning-outcome": "Winning Outcome",
+		"codeId": "Code ID",
+		"overlays-custom-codeId-description": "The codeId will make sure only the overlay layers with the same codeId will receive this content. It will come through under Overlay.on('overlaycontent', (data) => { ... })",
+		"overlays-overlay-layer-optional": "Overlay Layer Selection is optional. Please do not select a layer if you plan on uploading this code to the marketplace. If you are unsure, leave it blank and use the codeId to determine when to update the Custom Overlay.",
+		"use-native-twitch-shoutout-instead-of-chatbot": "Use native Twitch /shoutout instead of chatbot",
+		"use-native-twitch-shoutout-instead-of-chatbot-description": "On Twitch you can use the built in /shoutout instead of chatbot",
+		"lumia-assistant-chat-gpt": "Lumia Stream assistant ChatGPT",
+		"use-default-message": "Use default message",
+		"screenshot-conversion-description": "Overlay must be connected within OBS or HUD and visible in order to capture a screenshot.",
+		"printer-type": "Print type (Image or Text)",
+		"printer-text": "Text to print",
+		"printer-text-description": "Enter one or more lines. Each line prints separately.",
+		"printer-image": "Image to print",
+		"printer-image-description": "Enter the path to the image to print or use the variable function {{overlay_screenshot=my overlay name,thermal}} to send a screenshot as well or {{obs_screenshot}} to send your screenshot from OBS",
+		"use-system-tts-override": "Use system tts override",
+		"soundboard": "Soundboard",
+		"regex-match-premade-": "Regex match premade",
+		"refresh-spotify-settings": "Refresh spotify settings",
+		"printer-address": "Printer address",
+		"kick-points-settings": "Kick points settings",
+		"format": "Format",
+		"conversion": "Conversion",
+		"api": "Api",
+		"always-use-tts-on-overlays": "Always use tts on overlays"
 	},
 	"variables": {
 		"action": "Nombre de la acción",
@@ -2258,7 +2340,62 @@
 		"user-triggered-kick-points-command": "{{username}} activó el punto kick {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} activó los puntos kick {{command}}, pero no cumple las condiciones de nivel de usuario",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} activó los puntos kick {{command}}, pero no cumple las condiciones de costo",
-		"ai_prompt": "Envía un prompt a la IA usando Chat GPT, DeepSeek y más. Ejemplo: {{ai_prompt=Haz una cita divertida}}. O permite a los usuarios enviar un prompt {{ai_prompt={{message}}}}"
+		"ai_prompt": "Envía un prompt a la IA usando Chat GPT, DeepSeek y más. Ejemplo: {{ai_prompt=Haz una cita divertida}}. O permite a los usuarios enviar un prompt {{ai_prompt={{message}}}}",
+		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
+		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
+		"codeId": "Code ID (codeId)",
+		"currencySymbol": "The currency symbol used",
+		"stickerId": "The sticker id used",
+		"stickerName": "The sticker name used",
+		"fourthwall_last_order": "(Fourthwall) The last order that was made. Use Object dot notation to access the properties. e.g. {{fourthwall_last_order.username}}, {{fourthwall_last_order.amount}}, {{fourthwall_last_order.currency}}, {{fourthwall_last_order.message}}, {{fourthwall_last_order.items}}, {{fourthwall_last_order.items}}",
+		"fourthwall_last_tip": "(Fourthwall) The last tip that was made. Use Object dot notation to access the properties. e.g. {{fourthwall_last_tip.username}}, {{fourthwall_last_tip.amount}}, {{fourthwall_last_tip.currency}}, {{fourthwall_last_tip.message}}",
+		"fourthwall_last_gift_purchase": "(Fourthwall) The last gift that was purchased. Use Object dot notation to access the properties. e.g. {{fourthwall_last_gift_purchase.username}}, {{fourthwall_last_gift_purchase.amount}}, {{fourthwall_last_gift_purchase.currency}}",
+		"fourthwall_last_subscriber": "(Fourthwall) The last subscriber that was added. Use Object dot notation to access the properties. e.g. {{fourthwall_last_subscriber.username}}, {{fourthwall_last_subscriber.amount}}, {{fourthwall_last_subscriber.currency}}, {{fourthwall_last_subscriber.interval}}",
+		"fourthwall_current_giveaway": "(Fourthwall) The current giveaway. Use Object dot notation to access the properties. e.g. {{fourthwall_current_giveaway.name}}, {{fourthwall_current_giveaway.amount}}, {{fourthwall_current_giveaway.currency}}",
+		"fourthwall_giveaway_completed": "(Fourthwall) The giveaway that was completed. Use Object dot notation to access the properties. e.g. {{fourthwall_giveaway_completed.name}}, {{fourthwall_giveaway_completed.amount}}, {{fourthwall_giveaway_completed.currency}}, {{fourthwall_giveaway_completed.username}}, {{fourthwall_giveaway_completed.totalGifts}}, {{fourthwall_giveaway_completed.winnerNames}}, {{fourthwall_giveaway_completed.winners}}",
+		"kick_session_gifts_count": "(Kick) the total gifts received in this session",
+		"kick_total_subscriber_count": "(Kick) the total subscriber count of your channel",
+		"kick_total_gift_subscription_count": "(Kick) the total gift subscription count of your Kick channel",
+		"kick_session_gift_subscription_count": "(Kick) the total gift subscription received since Lumia Stream has turned on",
+		"kick_last_gift_subscription": "(Kick) the last user who sent a gift subscription",
+		"kick_session_gift_subscriptions": "(Kick) Session gift subscription list",
+		"kick_last_bit": "(Kick) the last user who sent kicks",
+		"kick_last_bit_amount": "(Kick) the amount of kicks for the last person to send kicks",
+		"kick_session_kicks": "(Kick) Session kicks list",
+		"kick_total_kicks_count": "(Kick) the total kicks count of your Twitch channel",
+		"kick_session_kicks_count": "(Kick) the total kicks received since Lumia Stream has turned on",
+		"kick_session_kicks_with_amount": "(Kick) Session kicks list with amount",
+		"kick_last_kicks": "(Kick) the last kicks that were sent",
+		"kick_last_kicks_amount": "(Kick) the amount of the last kicks that were sent",
+		"last_overlay_screenshot_path": "The last overlay screenshot path that was taken using either {{overlay_screenshot}} or the Overlay action Take Screenshot",
+		"overlay_screenshot": "Take a screenshot of a specific overlay and store it on your computer. You can also select any overlay by selecting the overlay after the variable as well as color conversion type. e.g. {{overlay_screenshot=overlay 1}}. Or to select the conversion type: {{overlay_screenshot=overlay 1,thermal}}. Conversion types: original, thermal, grayscale, invert, binary. This variable will return the file path and can be used immediately",
+		"poll_winning_title": "Poll winning title",
+		"poll_winning_id": "Poll winning id",
+		"prediction_possible_outcomes": "Prediction possible outcomes",
+		"messageWithoutEmotes": "The message that the sender sent without the command/alias and without emots inside of the message. Mainly used for TTS.",
+		"recipients": "Users being gifted the gift subscription. Comma separated list of usernames",
+		"recipientsRaw": "Users being gifted the gift subscription. Raw array of usernames, avatar, and userId. mainly used for custom code and custom overlays. Can be accessed with dot notation e.g. {{recipientsRaw.0.avatar}} to get the first users avatar",
+		"meld_is_streaming": "(Meld) is streaming",
+		"meld_is_recording": "(Meld) is recording",
+		"meld_current_scene": "(Meld) current scene",
+		"meld_previous_scene": "(Meld) previous scene",
+		"meld_current_vertical_scene": "(Meld) current vertical scene",
+		"meld_previous_vertical_scene": "(Meld) previous vertical scene",
+		"twitch_session_gifts_count": "(Twitch) the total gifts received since Lumia Stream has turned on",
+		"twitch_session_gift_subscription_count": "(Twitch) the total gift subscription received since Lumia Stream has turned on",
+		"twitch_last_gift_subscription": "(Twitch) the last user who sent a gift subscription",
+		"twitch_session_gift_subscriptions": "(Twitch) Session gift subscriptions list",
+		"twitch_total_gift_subscription_count": "(Twitch) the total gift subscription count of your Twitch channel",
+		"youtube_current_viewer_count": "(Youtube) the current viewer count that is watching",
+		"youtube_total_viewer_count": "(Youtube) the total viewer count that has watched",
+		"youtube_stream_likes": "(Youtube) the total likes for the stream",
+		"youtube_stream_dislikes": "(Youtube) the total dislikes for the stream",
+		"youtube_stream_chat_count": "(Youtube) the total chat count for the stream",
+		"youtube_session_gift_members_count": "(Youtube) the total gift members received since Lumia Stream has turned on",
+		"youtube_last_gift_member": "(Youtube) the last user who sent a gift",
+		"youtube_session_gift_members": "(Youtube) Session gift members list",
+		"youtube_total_gift_members_count": "(Youtube) the total gift members count of your Youtube channel",
+		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc."
 	},
 	"voicemod": {
 		"delay": "Demora",
@@ -2371,7 +2508,15 @@
 		"viewerQueueLeave": "Viewer Queue Leave",
 		"viewerQueuePlayPause": "Viewer Queue Play Pause",
 		"viewerQueueEndQueue": "Viewer Queue End Queue",
-		"viewerQueuePickPlayer": "Viewer Queue Pick Player"
+		"viewerQueuePickPlayer": "Viewer Queue Pick Player",
+		"sendToPrinter": "Send To Printer",
+		"appendToVariable": "Append to variable",
+		"unappendFromVariable": "Unappend from variable",
+		"unique-values": "Unique values",
+		"printer-address": "Printer address",
+		"printer-payload": "Printer payload",
+		"encode-printer-payload": "Encode payload automatically",
+		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer."
 	},
 	"overlay-actions": {
 		"alertTrigger": "Activador de alerta",
@@ -2400,7 +2545,12 @@
 		"pollAddItem": "Encuesta Agregar elemento",
 		"pollRemoveItem": "Encuesta Eliminar elemento",
 		"sendCustomOverlayContent": "Enviar contenido de superposición personalizado",
-		"delay": "Demora"
+		"delay": "Demora",
+		"hudOverlayChange": "Hud Overlay Change",
+		"hudToggle": "Hud Toggle",
+		"hudVolumeSet": "Hud Volume Set",
+		"hudOpacitySet": "Hud Opacity Set",
+		"takeScreenshot": "Take Screenshot of Overlay"
 	},
 	"twitch": {
 		"changeStreamTitle": "Cambiar título de transmisión",
@@ -2439,7 +2589,9 @@
 		"clipFromTarget": "Clip del objetivo en mensaje",
 		"clipFromStreamer": "Clip de Streamer",
 		"random-clip": "Clip aleatorio",
-		"is_featured": "Get only featured clips"
+		"is_featured": "Get only featured clips",
+		"addModerator": "Add Moderator",
+		"removeModerator": "Remove Moderator"
 	},
 	"audio": {
 		"setPlayState": "Reproducir/Pausar medios",
@@ -2690,7 +2842,39 @@
 		"powerupsPoints": "Puntos de potenciadores",
 		"points-equal": "Cantidad de puntos igual a",
 		"points-greater-equal": "Cantidad de puntos mayor o igual a",
-		"confirmation-delete": "Eliminar variaciones es irreversible. ¿Estás seguro de que deseas continuar?"
+		"confirmation-delete": "Eliminar variaciones es irreversible. ¿Estás seguro de que deseas continuar?",
+		"triggered-this-stream": "Triggered this stream",
+		"triggered": "Triggered",
+		"triggerOncePerStream": "Trigger Once Per Stream",
+		"viewers": "Viewers",
+		"user-likes": "User Likes",
+		"userLikes-info": "This alert will trigger when the user reaches a certain number of likes. This is a cumulative count of all likes the user has received per stream. It requires variations to be used as the milestones to reach.",
+		"totalLikes": "Total Likes",
+		"totalLikes-info": "This alert will trigger when the total number of likes reaches a certain number. This is a cumulative count of all likes received by all users in the stream. It requires variations to be used as the milestones to reach.",
+		"likes-info": "This alert will trigger when the user reaches a certain number of likes. This is a cumulative count of all likes the user has received per stream.",
+		"viewers-info": "This alert will trigger when the total number of viewers reaches a certain number. This is a cumulative count of all viewers that have watched the stream. It requires variations to be used as the milestones to reach and will not trigger again for the whole stream.",
+		"kicks": "Kicks",
+		"raidOut": "Raid Out",
+		"sessionFollowers-info": "This alert will trigger when the total number of followers reaches a certain number per session. This is a cumulative count of all followers that have followed the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSubs-info": "This alert will trigger when the total number of subscribers reaches a certain number per session. This is a cumulative count of all subscribers that have subscribed to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionMembers": "Session Members",
+		"sessionMembers-info": "This alert will trigger when the total number of members reaches a certain number per session. This is a cumulative count of all members that have joined the stream. It requires variations to be used as the milestones to reach.",
+		"giftMembers": "Gift Member",
+		"giftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionGiftMembers": "Session Gift Members",
+		"sessionGiftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionGiftSubscriptions-info": "This alert will trigger when the total number of gift subscriptions reaches a certain number per session. This is a cumulative count of all gift subscriptions that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionBits-info": "This alert will trigger when the total number of bits reaches a certain number per session. This is a cumulative count of all bits that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionKicks": "Session Kicks",
+		"sessionKicks-info": "This alert will trigger when the total number of kicks reaches a certain number per session. This is a cumulative count of all kicks that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSuperchats": "Session Superchats",
+		"sessionSuperchats-info": "This alert will trigger when the total number of superchats reaches a certain number per session. This is a cumulative count of all superchats that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSuperstickers": "Session Superstickers",
+		"sessionSuperstickers-info": "This alert will trigger when the total number of superstickers reaches a certain number per session. This is a cumulative count of all superstickers that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"switchVerticalScene": "Switch Vertical Scene",
+		"giveawayStarted": "Giveaway Started",
+		"giveawayEnded": "Giveaway Ended",
+		"thankyouSent": "Thank You Sent"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Uno de tus {{type}} La dirección IP de la luz ha cambiado. ",
@@ -3047,7 +3231,11 @@
 		"session-type-MONTHLY": "Monthly",
 		"session-type-YEARLY": "Yearly",
 		"gift-your-friends-subscription": "Regala a tus amigos una suscripción",
-		"go-to-shop": "Ir a la tienda"
+		"go-to-shop": "Ir a la tienda",
+		"space-between-messages": "Space between messages (px)",
+		"always-auto-refresh": "Always auto refresh when unsaved changes are detected",
+		"obs-description": "Obs description",
+		"gradient-color": "Gradient color"
 	},
 	"billing": {
 		"card": "Tarjeta",
@@ -3121,7 +3309,8 @@
 		"duplicate-name": "No se pueden tener nombres duplicados",
 		"non-unique-inputcontrol": "Este control de entrada debe ser único. ",
 		"non-unique-variable": "Todas las variables deben ser únicas y no pueden usarse en ningún otro lugar de la aplicación. ",
-		"missing-field": "Debe ingresar todos los campos para guardar"
+		"missing-field": "Debe ingresar todos los campos para guardar",
+		"save-failed": "Save failed"
 	},
 	"something-went-wrong": {
 		"title": "¡Ups! ",
@@ -3312,7 +3501,9 @@
 		"voters": "Votantes",
 		"trigger": "Disparador (mensaje enviado después del comando de voto)",
 		"poll-description": "El widget de encuestas te permite crear encuestas con un título, un disparador y una imagen opcional. Los espectadores pueden votar escribiendo un comando (ej. !vote) seguido del disparador (ej. !vote 1).",
-		"no-poll-found": "No se encontró ninguna encuesta, puedes crear una agregando una capa de encuesta en el overlay"
+		"no-poll-found": "No se encontró ninguna encuesta, puedes crear una agregando una capa de encuesta en el overlay",
+		"private-upload": "Private upload",
+		"newer-version-available": "Newer version available"
 	},
 	"update": {
 		"update-now": "Actualizar ahora",
@@ -3330,7 +3521,15 @@
 		"try-again": "Intentar otra vez",
 		"update-error": "¡Error de actualización!",
 		"update": "Actualizar",
-		"update-internal": "Actualización interna"
+		"update-internal": "Actualización interna",
+		"update-failed": "Auto update failed",
+		"update-error-description": "An error occurred while updating Lumia Stream. Please try again later.",
+		"update-error-generic": "An error occurred while updating Lumia Stream. Please try again later.",
+		"manual-download-suggestion-version": "You can manually download version {{version}} from here",
+		"manual-download-suggestion": "You can manually download the latest version from here",
+		"direct-download-available": "Direct download link available",
+		"download-manually": "Direct download",
+		"download-from-site": "Download from site"
 	},
 	"chatbot": {
 		"chatbot-description": "Dale a Lumia Stream la capacidad de transmitir lo que sucede dentro de Lumia en el chat con nuestro Chat Bot. ",
@@ -3354,7 +3553,8 @@
 		"allowed-variables": "Variables permitidas",
 		"allowed-variables-info": "Copie y pegue estas variables en la entrada para crear un mensaje genérico.",
 		"checkout-website": "Consulta tu sitio web de Comandos",
-		"how-to-use": "Cómo usar"
+		"how-to-use": "Cómo usar",
+		"should-reply": "Should Reply to the one who called the command"
 	},
 	"tutorials": {
 		"widget-btn-title": "Administrar widgets",
@@ -3669,7 +3869,8 @@
 		"overlay": "Superposición heredada",
 		"virtuallights": "Luces virtuales",
 		"fast-warn": "{{brand}} is currently using Fast mode so Lumia won't be able to trigger Hue's native scenes. Use {{brand}} Regular mode to enable native scenes again",
-		"discord": "Discord"
+		"discord": "Discord",
+		"huepro": "Hue Pro"
 	},
 	"shortcuts": {
 		"shortcuts": "Atajos",
@@ -3926,7 +4127,10 @@
 		"error-deleting": "Error al eliminar la carga de la comunidad",
 		"updated": "Actualizado",
 		"includes-audio-modtool": "This community item contains audio, but since you are currently modding you cannot download with sound. Do you want to download it?",
-		"post-new": "Post new"
+		"post-new": "Post new",
+		"comment-error": "Comment error",
+		"by-posting-you-agree": "By posting you agree",
+		"add-comment-placeholder": "Add comment placeholder"
 	},
 	"release-notes": {
 		"release": "Notas de lanzamiento",
@@ -4187,7 +4391,8 @@
 		"message-couldnt-connect-chatbot": "Could not connect to {{site}} Chat Bot",
 		"multiple-instances": "You are using Lumia Stream in multiple places. While this should not be done it's still allowed, but it will turn off Lumia Services on the previous connections so that alerts and commands are not fired twice",
 		"message-discord-cant-reconnect": "Discord is not able to reconnect. Please reconnect to Discord by going to Connections > Platforms",
-		"message-discord-no-chat": "Discord was not able to connect to chat. PLease try again"
+		"message-discord-no-chat": "Discord was not able to connect to chat. PLease try again",
+		"message-voicecommand-triggered": "Voice command triggered {{command}}"
 	},
 	"userLogs": {
 		"api-request-failed": "Solicitud de API {{url}} falló con el código de estado: {{status}} y mensaje {{message}}"
@@ -4290,7 +4495,12 @@
 		"remove-from-dashboard": "Remove from dashboard",
 		"add-to-dashboard": "Add to dashboard",
 		"modQueue": "Cola de moderación",
-		"mod-queue-description": "La cola de moderación se utiliza para comandos que requieren aprobación de un moderador. Tú y tus moderadores pueden aprobar o rechazar estos comandos. Tú y tus moderadores saltarán la cola si son el origen del comando."
+		"mod-queue-description": "La cola de moderación se utiliza para comandos que requieren aprobación de un moderador. Tú y tus moderadores pueden aprobar o rechazar estos comandos. Tú y tus moderadores saltarán la cola si son el origen del comando.",
+		"open-log-folder": "Open log folder",
+		"menu-delete-widget": "Eliminar widget",
+		"menu-add-widget": "Añadir nuevo widget",
+		"logs-important-only": "Logs important only",
+		"log-settings": "Log settings"
 	},
 	"event-list": {
 		"event-to-show": "Eventos para mostrar",
@@ -4318,7 +4528,8 @@
 		"raffles": "Rifas",
 		"others": "Otros",
 		"confirmation-delete-freeticket": "Eliminar tickets es irreversible. ",
-		"platforms-to-show": "Plataformas para mostrar"
+		"platforms-to-show": "Plataformas para mostrar",
+		"kicks": "Kicks"
 	},
 	"hfx": {
 		"auto-use": "Uso automático en 2 sencillos pasos",
@@ -4349,7 +4560,8 @@
 		"open-upload": "Abre la carga que deseas importar",
 		"copy-id": "Copia el",
 		"paste-id": "Pégalo abajo 👇",
-		"hfx-info": "Información Hfx"
+		"hfx-info": "Información Hfx",
+		"reached-kick-points-command-limit": "Reached kick points command limit"
 	},
 	"raffle": {
 		"add-user": "Agregar usuario",
@@ -4437,7 +4649,8 @@
 		"pick-label-icon": "Pick label or icon",
 		"save-settings": "Save settings",
 		"icons": "Icons",
-		"character-numbers": "Characters & Numbers"
+		"character-numbers": "Characters & Numbers",
+		"choose-icon": "Choose icon"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",
@@ -4707,7 +4920,8 @@
 		"no-uploads-description": "Sube un complemento desde la pestaña del mercado para verlo aquí.",
 		"updated-relative": "Actualizado {{time}}",
 		"uploaded-relative": "Subido {{time}}",
-		"view-changelog": "Ver registro de cambios"
+		"view-changelog": "Ver registro de cambios",
+		"category-": "Category"
 	},
 	"tts": {
 		"tab-my-voices": "Mis voces",
@@ -4873,6 +5087,21 @@
 		"review-search-empty": "Ninguna entrega coincide con esa búsqueda.",
 		"search-no-my-voices": "No hay cargas coincidentes. Prueba con otra búsqueda.",
 		"voice-processing-delete-block": "Por favor espera a que termine el procesamiento antes de eliminar esta voz.",
-		"voice-processing-wait": "Esta voz aún se está procesando. Por favor espera hasta que esté lista."
-	}
+		"voice-processing-wait": "Esta voz aún se está procesando. Por favor espera hasta que esté lista.",
+		"shouldReply": "Shouldreply"
+	},
+	"remember-prompts": {
+		"never-show-obs-import": "Never show obs import"
+	},
+	"login": "Login",
+	"integrations": {
+		"wavelink": {
+			"connected": "Connected"
+		},
+		"camerahub": {
+			"connected": "Connected"
+		}
+	},
+	"crowdcontrol-auth-failed": "Crowdcontrol auth failed",
+	"copy-the-remote-key": "Copy the remote key"
 }

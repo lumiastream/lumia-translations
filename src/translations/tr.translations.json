@@ -123,7 +123,10 @@
 		"import": "İçe aktarmak",
 		"origin": "Menşei",
 		"here": "Burada",
-		"or": "Veya"
+		"or": "Veya",
+		"muted": "Muted",
+		"unmuted": "Unmuted",
+		"true": "True"
 	},
 	"auth": {
 		"login": "Giriş yapmak",
@@ -364,7 +367,30 @@
 		"discord-auth-failed": "Kimlik doğrulama başarısız oldu",
 		"discord-login": "Oturum açmanızı isteyen yeni bir pencere açılacaktır. ",
 		"select-channel": "Kanal Seç",
-		"closing-lumia": "Lumia'yı kapatma"
+		"closing-lumia": "Lumia'yı kapatma",
+		"slobs-status": "Open Streamlabs Desktop, press the Settings Icon, Click Mobile on the Sidebar, Turn on Allow Third Party connections, Copy your API Token and enter it below",
+		"yeelight-build-error": "Yeelight build error",
+		"wiz-build-error": "Wiz build error",
+		"twinkly-build-error": "Twinkly build error",
+		"trovo-no-chat": "Trovo no chat",
+		"tplink-build-error": "Tplink build error",
+		"touchportal-restart": "Touchportal restart",
+		"touchportal-plugin-update": "Touchportal plugin update",
+		"touchportal-download-failed": "Touchportal download failed",
+		"tapo-build-error": "Tapo build error",
+		"streamdeck-download-failed": "Streamdeck download failed",
+		"steelseries-build-error": "Steelseries build error",
+		"razer-build-error": "Razer build error",
+		"midi-build-error": "Midi build error",
+		"magichome-build-error": "Magichome build error",
+		"logitech-build-error": "Logitech build error",
+		"keylight-build-error": "Keylight build error",
+		"integration-copy-url": "Integration copy url",
+		"hyperate-auth-failed": "Hyperate auth failed",
+		"elgato-build-error": "Elgato build error",
+		"corsair-build-error": "Corsair build error",
+		"cololight-build-error": "Cololight build error",
+		"broadlink-build-error": "Broadlink build error"
 	},
 	"connection": {
 		"select-preference": "Kullanmak istediğiniz tercihi seçin",
@@ -397,7 +423,8 @@
 		"having-issues-click-here": "Sorun mu yaşıyorsunuz? ",
 		"copy-auth-and-paste": "Kimlik doğrulama bağlantısını kopyalayın ve tercih ettiğiniz tarayıcı URL çubuğuna yapıştırın",
 		"enable-twitch-chatters-permission": "Twitch Bağlantısında İzleyiciler widget'ı için Sohbetleri Oku'yu etkinleştirin. ",
-		"offline": "Çevrimdışı — sohbet ve uyarılar, yayın başladığında kullanılabilir olacak"
+		"offline": "Çevrimdışı — sohbet ve uyarılar, yayın başladığında kullanılabilir olacak",
+		"target-port": "Target port"
 	},
 	"lumia": {
 		"chatbot": "Sohbet Botu",
@@ -424,7 +451,8 @@
 		"premium-variations": "Varyasyonlara yalnızca premium sürümde izin verilir",
 		"premium-no-alias": "Takma adlara yalnızca premium sürümde izin verilir",
 		"brightness": "Parlaklık",
-		"always-on-top": "Her zaman zirvede"
+		"always-on-top": "Her zaman zirvede",
+		"scenes": "Scenes"
 	},
 	"sidebar": {
 		"expand": "Genişlet",
@@ -490,7 +518,22 @@
 		"popout-title": "Ayrılabilir Widget",
 		"loyaltypoints": "Sadakat Puanları",
 		"poll": "Anket",
-		"plugins": "Eklentiler"
+		"plugins": "Eklentiler",
+		"excludedLights": "Excluded Lights",
+		"obs": "OBS",
+		"session": "Session",
+		"interactions": "Interactions",
+		"api": "API",
+		"advanced": "Advanced",
+		"user": "User",
+		"subscription": "Subscription",
+		"restrictions": "Restrictions",
+		"profiles": "Profiles",
+		"modtool": "Mod Tool",
+		"marketplace": "Marketplace",
+		"general": "General",
+		"games": "Games",
+		"filteredWords": "Filtered Words"
 	},
 	"home": {
 		"test-setup": "Test Kurulumu",
@@ -525,7 +568,9 @@
 		"cooldown-is-empty": "Bekleme Süresi Boş",
 		"unsaved-changes": "Yenileme gerektiren değişiklikleriniz var",
 		"chat-not-activated": "Sohbet Etkin Değil",
-		"mod-queue-is-empty": "Mod kuyruğu boş"
+		"mod-queue-is-empty": "Mod kuyruğu boş",
+		"remove-queue-item": "Remove queue item",
+		"actions": "Actions"
 	},
 	"controlcenter": {
 		"controlcenter": "Kontrol Merkezi",
@@ -717,7 +762,11 @@
 		"20-words": "Dakikada 20 kelime",
 		"40-words": "Dakikada 40 kelime",
 		"80-words": "Dakikada 80 kelime",
-		"160-words": "Dakikada 160 kelime"
+		"160-words": "Dakikada 160 kelime",
+		"voicecommands": "Voice Commands",
+		"voicecommands-description": "Use your voice to trigger commands in Lumia",
+		"voicecommands-control": "Voice Commands Control",
+		"confidence": "Confidence"
 	},
 	"eventlist": {
 		"free-ticket": "Ücretsiz bilet",
@@ -745,7 +794,10 @@
 		"record-new-rf-code": "Yeni RF Kodunu Kaydet",
 		"point-your-rf-remote": "Kayıt: RF uzaktan kumandanızı alıcıya doğrultun ve kaydetmek istediğiniz tuşu basılı tutun. ",
 		"rf-code": "RF Kodu",
-		"broadlink-record-failed": "Geniş bağlantı kaydı başarısız hatası: {{message}}"
+		"broadlink-record-failed": "Geniş bağlantı kaydı başarısız hatası: {{message}}",
+		"model": "Model",
+		"brand": "Brand",
+		"appliance": "Appliance"
 	},
 	"default": {
 		"default-lights": "Varsayılan Işık Durumu",
@@ -946,7 +998,9 @@
 		"timestamps-description": "Zaman damgalarına göre ritimler girin. Bu, ritim algılayıcıyı atlayacaktır",
 		"use-all-lights": "Her ritimde tüm ışıkları kullan",
 		"beat-duration": "Bir ritmin ne kadar süreceği (ms)",
-		"turn-off-lights-after-beat": "Ritimden sonra ışıkları kapat"
+		"turn-off-lights-after-beat": "Ritimden sonra ışıkları kapat",
+		"scene-living-type-": "Scene living type",
+		"edit-slots": "Edit slots"
 	},
 	"commands": {
 		"scratch": "Sıfırdan başla",
@@ -1689,7 +1743,35 @@
 		"marketplace-tts-extension-low-bits": "{{bits}} bit, {{threshold}} bit minimumunun altındadır. Twitch’in AI TTS’i karşılaması için {{threshold}}+ bit ayarlayın; aksi halde kotanızdan düşer.",
 		"extension-free-tts-tooltip": "{{threshold}} bit ve üzeri Twitch eklenti komutları AI TTS maliyetlerini karşılar ve kotanızdan harcanmaz.",
 		"extension-free-tts-badge": "Kotasız",
-		"extension-free-tts-summary": "Twitch eklentileri için: {{threshold}} bit veya üzeri fiyat belirleyin ki Twitch AI TTS’i karşılasın. Daha düşük değerler aylık kotanızı kullanır."
+		"extension-free-tts-summary": "Twitch eklentileri için: {{threshold}} bit veya üzeri fiyat belirleyin ki Twitch AI TTS’i karşılasın. Daha düşük değerler aylık kotanızı kullanır.",
+		"chatbot-show-in-chat-list": "Show Chat Bot messages in Dashboard, Overlays, and Lumia Link Chatboxes",
+		"kicks": "Kicks",
+		"wait-for-response": "Wait for response",
+		"key-input": "Keyboard Typer",
+		"winning-outcome": "Winning Outcome",
+		"codeId": "Code ID",
+		"overlays-custom-codeId-description": "The codeId will make sure only the overlay layers with the same codeId will receive this content. It will come through under Overlay.on('overlaycontent', (data) => { ... })",
+		"overlays-overlay-layer-optional": "Overlay Layer Selection is optional. Please do not select a layer if you plan on uploading this code to the marketplace. If you are unsure, leave it blank and use the codeId to determine when to update the Custom Overlay.",
+		"use-native-twitch-shoutout-instead-of-chatbot": "Use native Twitch /shoutout instead of chatbot",
+		"use-native-twitch-shoutout-instead-of-chatbot-description": "On Twitch you can use the built in /shoutout instead of chatbot",
+		"lumia-assistant-chat-gpt": "Lumia Stream assistant ChatGPT",
+		"use-default-message": "Use default message",
+		"screenshot-conversion-description": "Overlay must be connected within OBS or HUD and visible in order to capture a screenshot.",
+		"printer-type": "Print type (Image or Text)",
+		"printer-text": "Text to print",
+		"printer-text-description": "Enter one or more lines. Each line prints separately.",
+		"printer-image": "Image to print",
+		"printer-image-description": "Enter the path to the image to print or use the variable function {{overlay_screenshot=my overlay name,thermal}} to send a screenshot as well or {{obs_screenshot}} to send your screenshot from OBS",
+		"use-system-tts-override": "Use system tts override",
+		"soundboard": "Soundboard",
+		"regex-match-premade-": "Regex match premade",
+		"refresh-spotify-settings": "Refresh spotify settings",
+		"printer-address": "Printer address",
+		"kick-points-settings": "Kick points settings",
+		"format": "Format",
+		"conversion": "Conversion",
+		"api": "Api",
+		"always-use-tts-on-overlays": "Always use tts on overlays"
 	},
 	"variables": {
 		"action": "İşlem adı",
@@ -2261,7 +2343,61 @@
 		"user-triggered-kick-points-command": "{{username}} {{command}} kick puanını tetikledi",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} {{command}} kick puanlarını tetikledi ancak kullanıcı seviye koşullarını karşılamıyor",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} {{command}} kick puanlarını tetikledi ancak maliyet koşullarını karşılamıyor",
-		"ai_prompt": "Chat GPT, DeepSeek ve daha fazlasını kullanarak yapay zekaya bir komut gönderin. Örnek: {{ai_prompt=Komik bir alıntı yap}}. Veya kullanıcıların komut göndermesine izin verin {{ai_prompt={{message}}}}"
+		"ai_prompt": "Chat GPT, DeepSeek ve daha fazlasını kullanarak yapay zekaya bir komut gönderin. Örnek: {{ai_prompt=Komik bir alıntı yap}}. Veya kullanıcıların komut göndermesine izin verin {{ai_prompt={{message}}}}",
+		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
+		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
+		"codeId": "Code ID (codeId)",
+		"currencySymbol": "The currency symbol used",
+		"stickerId": "The sticker id used",
+		"stickerName": "The sticker name used",
+		"fourthwall_last_order": "(Fourthwall) The last order that was made. Use Object dot notation to access the properties. e.g. {{fourthwall_last_order.username}}, {{fourthwall_last_order.amount}}, {{fourthwall_last_order.currency}}, {{fourthwall_last_order.message}}, {{fourthwall_last_order.items}}, {{fourthwall_last_order.items}}",
+		"fourthwall_last_tip": "(Fourthwall) The last tip that was made. Use Object dot notation to access the properties. e.g. {{fourthwall_last_tip.username}}, {{fourthwall_last_tip.amount}}, {{fourthwall_last_tip.currency}}, {{fourthwall_last_tip.message}}",
+		"fourthwall_last_gift_purchase": "(Fourthwall) The last gift that was purchased. Use Object dot notation to access the properties. e.g. {{fourthwall_last_gift_purchase.username}}, {{fourthwall_last_gift_purchase.amount}}, {{fourthwall_last_gift_purchase.currency}}",
+		"fourthwall_last_subscriber": "(Fourthwall) The last subscriber that was added. Use Object dot notation to access the properties. e.g. {{fourthwall_last_subscriber.username}}, {{fourthwall_last_subscriber.amount}}, {{fourthwall_last_subscriber.currency}}, {{fourthwall_last_subscriber.interval}}",
+		"fourthwall_current_giveaway": "(Fourthwall) The current giveaway. Use Object dot notation to access the properties. e.g. {{fourthwall_current_giveaway.name}}, {{fourthwall_current_giveaway.amount}}, {{fourthwall_current_giveaway.currency}}",
+		"fourthwall_giveaway_completed": "(Fourthwall) The giveaway that was completed. Use Object dot notation to access the properties. e.g. {{fourthwall_giveaway_completed.name}}, {{fourthwall_giveaway_completed.amount}}, {{fourthwall_giveaway_completed.currency}}, {{fourthwall_giveaway_completed.username}}, {{fourthwall_giveaway_completed.totalGifts}}, {{fourthwall_giveaway_completed.winnerNames}}, {{fourthwall_giveaway_completed.winners}}",
+		"kick_session_gifts_count": "(Kick) the total gifts received in this session",
+		"kick_total_subscriber_count": "(Kick) the total subscriber count of your channel",
+		"kick_total_gift_subscription_count": "(Kick) the total gift subscription count of your Kick channel",
+		"kick_session_gift_subscription_count": "(Kick) the total gift subscription received since Lumia Stream has turned on",
+		"kick_last_gift_subscription": "(Kick) the last user who sent a gift subscription",
+		"kick_session_gift_subscriptions": "(Kick) Session gift subscription list",
+		"kick_last_bit": "(Kick) the last user who sent kicks",
+		"kick_last_bit_amount": "(Kick) the amount of kicks for the last person to send kicks",
+		"kick_session_kicks": "(Kick) Session kicks list",
+		"kick_total_kicks_count": "(Kick) the total kicks count of your Twitch channel",
+		"kick_session_kicks_count": "(Kick) the total kicks received since Lumia Stream has turned on",
+		"kick_session_kicks_with_amount": "(Kick) Session kicks list with amount",
+		"kick_last_kicks": "(Kick) the last kicks that were sent",
+		"kick_last_kicks_amount": "(Kick) the amount of the last kicks that were sent",
+		"last_overlay_screenshot_path": "The last overlay screenshot path that was taken using either {{overlay_screenshot}} or the Overlay action Take Screenshot",
+		"overlay_screenshot": "Take a screenshot of a specific overlay and store it on your computer. You can also select any overlay by selecting the overlay after the variable as well as color conversion type. e.g. {{overlay_screenshot=overlay 1}}. Or to select the conversion type: {{overlay_screenshot=overlay 1,thermal}}. Conversion types: original, thermal, grayscale, invert, binary. This variable will return the file path and can be used immediately",
+		"poll_winning_title": "Poll winning title",
+		"poll_winning_id": "Poll winning id",
+		"messageWithoutEmotes": "The message that the sender sent without the command/alias and without emots inside of the message. Mainly used for TTS.",
+		"recipients": "Users being gifted the gift subscription. Comma separated list of usernames",
+		"recipientsRaw": "Users being gifted the gift subscription. Raw array of usernames, avatar, and userId. mainly used for custom code and custom overlays. Can be accessed with dot notation e.g. {{recipientsRaw.0.avatar}} to get the first users avatar",
+		"meld_is_streaming": "(Meld) is streaming",
+		"meld_is_recording": "(Meld) is recording",
+		"meld_current_scene": "(Meld) current scene",
+		"meld_previous_scene": "(Meld) previous scene",
+		"meld_current_vertical_scene": "(Meld) current vertical scene",
+		"meld_previous_vertical_scene": "(Meld) previous vertical scene",
+		"twitch_session_gifts_count": "(Twitch) the total gifts received since Lumia Stream has turned on",
+		"twitch_session_gift_subscription_count": "(Twitch) the total gift subscription received since Lumia Stream has turned on",
+		"twitch_last_gift_subscription": "(Twitch) the last user who sent a gift subscription",
+		"twitch_session_gift_subscriptions": "(Twitch) Session gift subscriptions list",
+		"twitch_total_gift_subscription_count": "(Twitch) the total gift subscription count of your Twitch channel",
+		"youtube_current_viewer_count": "(Youtube) the current viewer count that is watching",
+		"youtube_total_viewer_count": "(Youtube) the total viewer count that has watched",
+		"youtube_stream_likes": "(Youtube) the total likes for the stream",
+		"youtube_stream_dislikes": "(Youtube) the total dislikes for the stream",
+		"youtube_stream_chat_count": "(Youtube) the total chat count for the stream",
+		"youtube_session_gift_members_count": "(Youtube) the total gift members received since Lumia Stream has turned on",
+		"youtube_last_gift_member": "(Youtube) the last user who sent a gift",
+		"youtube_session_gift_members": "(Youtube) Session gift members list",
+		"youtube_total_gift_members_count": "(Youtube) the total gift members count of your Youtube channel",
+		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc."
 	},
 	"voicemod": {
 		"delay": "Gecikme",
@@ -2374,7 +2510,15 @@
 		"viewerQueueLeave": "İzleyici Sırasını Bırak",
 		"viewerQueuePlayPause": "İzleyici Sırası Oynatmayı Duraklat",
 		"viewerQueueEndQueue": "İzleyici Sırası Bitiş Sırası",
-		"viewerQueuePickPlayer": "İzleyici Sıra Seçimi Oyuncusu"
+		"viewerQueuePickPlayer": "İzleyici Sıra Seçimi Oyuncusu",
+		"sendToPrinter": "Send To Printer",
+		"appendToVariable": "Append to variable",
+		"unappendFromVariable": "Unappend from variable",
+		"unique-values": "Unique values",
+		"printer-address": "Printer address",
+		"printer-payload": "Printer payload",
+		"encode-printer-payload": "Encode payload automatically",
+		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer."
 	},
 	"overlay-actions": {
 		"alertTrigger": "Uyarı Tetikleyici",
@@ -2403,7 +2547,12 @@
 		"pollAddItem": "Anket Öğe Ekle",
 		"pollRemoveItem": "Anket Öğeyi Kaldır",
 		"sendCustomOverlayContent": "Özel bindirme içeriği gönder",
-		"delay": "Gecikme"
+		"delay": "Gecikme",
+		"hudOverlayChange": "Hud Overlay Change",
+		"hudToggle": "Hud Toggle",
+		"hudVolumeSet": "Hud Volume Set",
+		"hudOpacitySet": "Hud Opacity Set",
+		"takeScreenshot": "Take Screenshot of Overlay"
 	},
 	"twitch": {
 		"changeStreamTitle": "Yayın Başlığını Değiştir",
@@ -2442,7 +2591,9 @@
 		"clipFromTarget": "Mesajdaki Hedeften Klip",
 		"clipFromStreamer": "Yayıncıdan Klip",
 		"random-clip": "Rastgele Klip",
-		"is_featured": "Yalnızca öne çıkan klipleri alın"
+		"is_featured": "Yalnızca öne çıkan klipleri alın",
+		"addModerator": "Add Moderator",
+		"removeModerator": "Remove Moderator"
 	},
 	"audio": {
 		"setPlayState": "Medyayı oynat/duraklat",
@@ -2693,7 +2844,39 @@
 		"powerupsPoints": "Güçlendirme Puanları",
 		"points-equal": "Puan miktarı eşit",
 		"points-greater-equal": "Puan miktarı büyük veya eşit",
-		"confirmation-delete": "Varyasyonları silmek geri alınamaz. Devam etmek istediğinizden emin misiniz?"
+		"confirmation-delete": "Varyasyonları silmek geri alınamaz. Devam etmek istediğinizden emin misiniz?",
+		"triggered-this-stream": "Triggered this stream",
+		"triggered": "Triggered",
+		"triggerOncePerStream": "Trigger Once Per Stream",
+		"viewers": "Viewers",
+		"user-likes": "User Likes",
+		"userLikes-info": "This alert will trigger when the user reaches a certain number of likes. This is a cumulative count of all likes the user has received per stream. It requires variations to be used as the milestones to reach.",
+		"totalLikes": "Total Likes",
+		"totalLikes-info": "This alert will trigger when the total number of likes reaches a certain number. This is a cumulative count of all likes received by all users in the stream. It requires variations to be used as the milestones to reach.",
+		"likes-info": "This alert will trigger when the user reaches a certain number of likes. This is a cumulative count of all likes the user has received per stream.",
+		"viewers-info": "This alert will trigger when the total number of viewers reaches a certain number. This is a cumulative count of all viewers that have watched the stream. It requires variations to be used as the milestones to reach and will not trigger again for the whole stream.",
+		"kicks": "Kicks",
+		"raidOut": "Raid Out",
+		"sessionFollowers-info": "This alert will trigger when the total number of followers reaches a certain number per session. This is a cumulative count of all followers that have followed the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSubs-info": "This alert will trigger when the total number of subscribers reaches a certain number per session. This is a cumulative count of all subscribers that have subscribed to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionMembers": "Session Members",
+		"sessionMembers-info": "This alert will trigger when the total number of members reaches a certain number per session. This is a cumulative count of all members that have joined the stream. It requires variations to be used as the milestones to reach.",
+		"giftMembers": "Gift Member",
+		"giftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionGiftMembers": "Session Gift Members",
+		"sessionGiftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionGiftSubscriptions-info": "This alert will trigger when the total number of gift subscriptions reaches a certain number per session. This is a cumulative count of all gift subscriptions that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionBits-info": "This alert will trigger when the total number of bits reaches a certain number per session. This is a cumulative count of all bits that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionKicks": "Session Kicks",
+		"sessionKicks-info": "This alert will trigger when the total number of kicks reaches a certain number per session. This is a cumulative count of all kicks that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSuperchats": "Session Superchats",
+		"sessionSuperchats-info": "This alert will trigger when the total number of superchats reaches a certain number per session. This is a cumulative count of all superchats that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"sessionSuperstickers": "Session Superstickers",
+		"sessionSuperstickers-info": "This alert will trigger when the total number of superstickers reaches a certain number per session. This is a cumulative count of all superstickers that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"switchVerticalScene": "Switch Vertical Scene",
+		"giveawayStarted": "Giveaway Started",
+		"giveawayEnded": "Giveaway Ended",
+		"thankyouSent": "Thank You Sent"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Senin bir tanesi {{type}} Light'ın IP adresi değişti. ",
@@ -3020,7 +3203,41 @@
 		"session-type-MONTHLY": "Aylık",
 		"session-type-YEARLY": "Yıllık",
 		"gift-your-friends-subscription": "Arkadaşlarına bir abonelik hediye et",
-		"go-to-shop": "Mağazaya git"
+		"go-to-shop": "Mağazaya git",
+		"display": "Display",
+		"show-avatars": "Show avatars",
+		"show-badges": "Show badges",
+		"show-timestamps": "Show timestamps",
+		"show-site-icons": "Show site icons",
+		"hide-alerts": "Hide alerts",
+		"hide-chat-commands": "Hide chat commands",
+		"font": "Font",
+		"font-size": "Font size (px)",
+		"space-between-messages": "Space between messages (px)",
+		"font-family": "Font family",
+		"colors": "Colors",
+		"background-color": "Background color",
+		"text-color": "Text color",
+		"username-color-override": "Username color override",
+		"background-opacity": "Background opacity",
+		"use-platform-colors": "Use platform colors",
+		"messages": "Messages",
+		"max-messages": "Max messages",
+		"message-timeout": "Message timeout (seconds)",
+		"never-timeout": "0 = never timeout",
+		"animate-messages": "Animate messages",
+		"smooth-scrolling": "Smooth scrolling",
+		"chat-as-bot": "Chat as bot",
+		"moderation": "Moderation",
+		"hide-deleted-messages": "Hide deleted messages",
+		"show-mod-actions": "Show moderation actions",
+		"banned-user-display": "Banned user display",
+		"hide-messages": "Hide messages",
+		"fade-messages": "Fade messages",
+		"show-messages": "Show messages",
+		"always-auto-refresh": "Always auto refresh when unsaved changes are detected",
+		"obs-description": "Obs description",
+		"gradient-color": "Gradient color"
 	},
 	"billing": {
 		"card": "Kart",
@@ -3094,7 +3311,8 @@
 		"duplicate-name": "Yinelenen adlar olamaz",
 		"non-unique-inputcontrol": "Bu giriş kontrolü benzersiz olmalıdır. ",
 		"non-unique-variable": "Tüm değişkenler benzersiz olmalıdır ve uygulamanın başka hiçbir yerinde kullanılamaz. ",
-		"missing-field": "Kaydetmek için tüm alanları girmelisiniz"
+		"missing-field": "Kaydetmek için tüm alanları girmelisiniz",
+		"save-failed": "Save failed"
 	},
 	"something-went-wrong": {
 		"title": "Hata! ",
@@ -3285,7 +3503,9 @@
 		"voters": "Oy verenler",
 		"trigger": "Tetikleyici (oy komutundan sonra gönderilen mesaj)",
 		"poll-description": "Anket widget’ı, başlık, tetikleyici ve isteğe bağlı görsel içeren anketler oluşturmanıza olanak tanır. İzleyiciler, bir komut (örn. !vote) ve ardından tetikleyici (örn. !vote 1) yazarak oy verebilir.",
-		"no-poll-found": "Hiç anket bulunamadı, bir anket overlay katmanı ekleyerek oluşturabilirsiniz"
+		"no-poll-found": "Hiç anket bulunamadı, bir anket overlay katmanı ekleyerek oluşturabilirsiniz",
+		"private-upload": "Private upload",
+		"newer-version-available": "Newer version available"
 	},
 	"update": {
 		"update-now": "Şimdi Güncelle",
@@ -3303,7 +3523,15 @@
 		"try-again": "Tekrar deneyin",
 		"update-error": "Güncelleme hatası!",
 		"update": "Güncelleme",
-		"update-internal": "Dahili güncelleme"
+		"update-internal": "Dahili güncelleme",
+		"update-failed": "Auto update failed",
+		"update-error-description": "An error occurred while updating Lumia Stream. Please try again later.",
+		"update-error-generic": "An error occurred while updating Lumia Stream. Please try again later.",
+		"manual-download-suggestion-version": "You can manually download version {{version}} from here",
+		"manual-download-suggestion": "You can manually download the latest version from here",
+		"direct-download-available": "Direct download link available",
+		"download-manually": "Direct download",
+		"download-from-site": "Download from site"
 	},
 	"chatbot": {
 		"chatbot-description": "Lumia Stream'e, Chat Bot'umuzla sohbet sırasında Lumia'nın içinde olup bitenleri aktarma olanağı verin. ",
@@ -3327,7 +3555,8 @@
 		"allowed-variables": "İzin verilen değişkenler",
 		"allowed-variables-info": "Genel bir mesaj oluşturmak için bu değişkenleri kopyalayıp girişe yapıştırın",
 		"checkout-website": "Komutlar web sitenize göz atın",
-		"how-to-use": "Nasıl kullanılır"
+		"how-to-use": "Nasıl kullanılır",
+		"should-reply": "Should Reply to the one who called the command"
 	},
 	"tutorials": {
 		"widget-btn-title": "Widget'ları Yönet",
@@ -3642,7 +3871,8 @@
 		"kick": "Tekme atmak",
 		"overlay": "Eski Yer Paylaşımı",
 		"virtuallights": "Sanal Işıklar",
-		"discord": "Anlaşmazlık"
+		"discord": "Anlaşmazlık",
+		"huepro": "Hue Pro"
 	},
 	"shortcuts": {
 		"shortcuts": "Kısayollar",
@@ -3899,7 +4129,10 @@
 		"confirmation-close": "Yüklemenin silinmesi geri alınamaz. ",
 		"error-deleting": "Topluluk yükleme hatası siliniyor",
 		"updated": "Güncellendi",
-		"post-new": "Yeni yayınla"
+		"post-new": "Yeni yayınla",
+		"comment-error": "Comment error",
+		"by-posting-you-agree": "By posting you agree",
+		"add-comment-placeholder": "Add comment placeholder"
 	},
 	"release-notes": {
 		"release": "Sürüm notları",
@@ -4160,7 +4393,8 @@
 		"message-emulate-alert": "Uyarı taklit ediliyor {{alert}}",
 		"multiple-instances": "Lumia Stream'i birden fazla yerde kullanıyorsunuz. ",
 		"message-discord-cant-reconnect": "Discord yeniden bağlanamıyor. ",
-		"message-discord-no-chat": "Discord sohbete bağlanamadı. "
+		"message-discord-no-chat": "Discord sohbete bağlanamadı. ",
+		"message-voicecommand-triggered": "Voice command triggered {{command}}"
 	},
 	"userLogs": {
 		"api-request-failed": "API isteği {{url}} durum koduyla başarısız oldu: {{status}} ve mesaj {{message}}"
@@ -4191,7 +4425,8 @@
 		"pick-label-icon": "Etiket veya simge seçin",
 		"save-settings": "Ayarları kaydet",
 		"icons": "Simgeler",
-		"character-numbers": "Karakterler ve Sayılar"
+		"character-numbers": "Karakterler ve Sayılar",
+		"choose-icon": "Choose icon"
 	},
 	"artnet": {
 		"preset": "Ön ayar",
@@ -4272,7 +4507,13 @@
 		"remove-from-dashboard": "Kontrol panelinden kaldır",
 		"add-to-dashboard": "Kontrol paneline ekle",
 		"modQueue": "Mod kuyruğu",
-		"mod-queue-description": "Mod kuyruğu, bir moderatör onayı gerektiren komutlar için kullanılır. Sen ve moderatörleriniz bu komutları onaylayabilir veya reddedebilirsiniz. Sen ve moderatörleriniz komutun kaynağıysanız kuyruğu atlayabilirsiniz."
+		"mod-queue-description": "Mod kuyruğu, bir moderatör onayı gerektiren komutlar için kullanılır. Sen ve moderatörleriniz bu komutları onaylayabilir veya reddedebilirsiniz. Sen ve moderatörleriniz komutun kaynağıysanız kuyruğu atlayabilirsiniz.",
+		"chatbox-settings": "Chatbox Settings",
+		"open-log-folder": "Open log folder",
+		"menu-delete-widget": "Widget’i sil",
+		"menu-add-widget": "Yeni widget ekle",
+		"logs-important-only": "Logs important only",
+		"log-settings": "Log settings"
 	},
 	"event-list": {
 		"event-to-show": "Gösterilecek etkinlikler",
@@ -4300,7 +4541,8 @@
 		"raffles": "Çekilişler",
 		"others": "Diğerleri",
 		"confirmation-delete-freeticket": "Biletlerin silinmesi geri alınamaz. ",
-		"platforms-to-show": "Gösterilecek platformlar"
+		"platforms-to-show": "Gösterilecek platformlar",
+		"kicks": "Kicks"
 	},
 	"hfx": {
 		"auto-use": "2 basit adımda otomatik kullanım",
@@ -4331,7 +4573,8 @@
 		"open-upload": "İçe aktarmak istediğiniz yüklemeyi açın",
 		"copy-id": "Kopyala",
 		"paste-id": "Aşağıya yapıştırın 👇",
-		"hfx-info": "Hfx bilgisi"
+		"hfx-info": "Hfx bilgisi",
+		"reached-kick-points-command-limit": "Reached kick points command limit"
 	},
 	"raffle": {
 		"add-user": "Kullanıcı ekle",
@@ -4679,7 +4922,8 @@
 		"no-uploads-description": "Burada görmek için marketplace sekmesinden bir eklenti yükleyin.",
 		"updated-relative": "Güncellendi {{time}}",
 		"uploaded-relative": "Yüklendi {{time}}",
-		"view-changelog": "Değişiklik günlüğünü görüntüle"
+		"view-changelog": "Değişiklik günlüğünü görüntüle",
+		"category-": "Category"
 	},
 	"tts": {
 		"tab-my-voices": "Seslerim",
@@ -4845,6 +5089,21 @@
 		"review-search-empty": "Bu aramayla eşleşen gönderi yok.",
 		"search-no-my-voices": "Eşleşen yükleme yok. Farklı bir arama deneyin.",
 		"voice-processing-delete-block": "Bu sesi silmeden önce işlemin tamamlanmasını bekleyin.",
-		"voice-processing-wait": "Bu ses hala işleniyor. Hazır olana kadar bekleyin."
-	}
+		"voice-processing-wait": "Bu ses hala işleniyor. Hazır olana kadar bekleyin.",
+		"shouldReply": "Shouldreply"
+	},
+	"remember-prompts": {
+		"never-show-obs-import": "Never show obs import"
+	},
+	"login": "Login",
+	"integrations": {
+		"wavelink": {
+			"connected": "Connected"
+		},
+		"camerahub": {
+			"connected": "Connected"
+		}
+	},
+	"crowdcontrol-auth-failed": "Crowdcontrol auth failed",
+	"copy-the-remote-key": "Copy the remote key"
 }
