@@ -768,10 +768,17 @@
 		"40-words": "每分钟 40 个词",
 		"80-words": "每分钟 80 个词",
 		"160-words": "每分钟 160 个词",
-		"voicecommands": "Voice Commands",
-		"voicecommands-description": "Use your voice to trigger commands in Lumia",
-		"voicecommands-control": "Voice Commands Control",
-		"confidence": "Confidence"
+		"voicecommands": "语音命令",
+		"voicecommands-description": "使用您的语音在 Lumia 中触发命令",
+		"voicecommands-control": "语音命令控制",
+		"confidence": "置信度",
+		"confidence-description": "调整语音命令识别的置信度阈值。值越高，需要更精确的匹配。",
+		"voicecommands-state": "启用语音命令",
+		"voicecommands-state-description": "启用或禁用语音命令识别",
+		"audio-device": "音频设备",
+		"audio-device-description": "选择用于语音命令的音频输入设备",
+		"voicecommands-full-sentence": "在完整句子中匹配",
+		"voicecommands-full-sentence-desc": "当命令出现在短语中的任何位置时触发"
 	},
 	"eventlist": {
 		"free-ticket": "免费票",

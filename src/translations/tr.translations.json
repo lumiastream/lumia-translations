@@ -768,10 +768,17 @@
 		"40-words": "Dakikada 40 kelime",
 		"80-words": "Dakikada 80 kelime",
 		"160-words": "Dakikada 160 kelime",
-		"voicecommands": "Voice Commands",
-		"voicecommands-description": "Use your voice to trigger commands in Lumia",
-		"voicecommands-control": "Voice Commands Control",
-		"confidence": "Confidence"
+		"voicecommands": "Sesli Komutlar",
+		"voicecommands-description": "Lumia'da komutları tetiklemek için sesinizi kullanın",
+		"voicecommands-control": "Sesli Komutlar Kontrolü",
+		"confidence": "Güven",
+		"confidence-description": "Ses komutu tanıma için güven eşiğini ayarlayın. Daha yüksek değerler daha hassas eşleşmeler gerektirir.",
+		"voicecommands-state": "Sesli Komutları Etkinleştir",
+		"voicecommands-state-description": "Ses komutu tanımayı etkinleştir veya devre dışı bırak",
+		"audio-device": "Ses Cihazı",
+		"audio-device-description": "Ses komutları için kullanılacak ses giriş cihazını seçin",
+		"voicecommands-full-sentence": "Tam cümleler içinde eşleştir",
+		"voicecommands-full-sentence-desc": "Komut ifadenin herhangi bir yerinde göründüğünde tetikle"
 	},
 	"eventlist": {
 		"free-ticket": "Ücretsiz bilet",

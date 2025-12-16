@@ -768,10 +768,17 @@
 		"40-words": "40 palavras por minuto",
 		"80-words": "80 palavras por minuto",
 		"160-words": "160 palavras por minuto",
-		"voicecommands": "Voice Commands",
-		"voicecommands-description": "Use your voice to trigger commands in Lumia",
-		"voicecommands-control": "Voice Commands Control",
-		"confidence": "Confidence"
+		"voicecommands": "Comandos de voz",
+		"voicecommands-description": "Use sua voz para acionar comandos no Lumia",
+		"voicecommands-control": "Controle de comandos de voz",
+		"confidence": "Confiança",
+		"confidence-description": "Ajuste o limite de confiança para reconhecimento de comandos de voz. Valores mais altos exigem correspondências mais precisas.",
+		"voicecommands-state": "Habilitar comandos de voz",
+		"voicecommands-state-description": "Habilitar ou desabilitar o reconhecimento de comandos de voz",
+		"audio-device": "Dispositivo de áudio",
+		"audio-device-description": "Selecione o dispositivo de entrada de áudio para usar com comandos de voz",
+		"voicecommands-full-sentence": "Corresponder dentro de frases completas",
+		"voicecommands-full-sentence-desc": "Acionar quando o comando aparecer em qualquer lugar da frase"
 	},
 	"eventlist": {
 		"free-ticket": "Bilhete Grátis",
