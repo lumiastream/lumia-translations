@@ -768,10 +768,17 @@
 		"40-words": "40 ord per minut",
 		"80-words": "80 ord per minut",
 		"160-words": "160 ord per minut",
-		"voicecommands": "Voice Commands",
-		"voicecommands-description": "Use your voice to trigger commands in Lumia",
-		"voicecommands-control": "Voice Commands Control",
-		"confidence": "Confidence"
+		"voicecommands": "Röstkommandon",
+		"voicecommands-description": "Använd din röst för att aktivera kommandon i Lumia",
+		"voicecommands-control": "Röstkommandon-kontroll",
+		"confidence": "Förtroende",
+		"confidence-description": "Justera konfidensgränsen för röstkommandoigenkänning. Högre värden kräver mer exakta matchningar.",
+		"voicecommands-state": "Aktivera röstkommandon",
+		"voicecommands-state-description": "Aktivera eller inaktivera röstkommandoigenkänning",
+		"audio-device": "Ljudenhet",
+		"audio-device-description": "Välj ljudinmatningsenheten som ska användas för röstkommandon",
+		"voicecommands-full-sentence": "Matcha i fullständiga meningar",
+		"voicecommands-full-sentence-desc": "Utlös när kommandot visas var som helst i frasen"
 	},
 	"eventlist": {
 		"free-ticket": "Fribiljett",

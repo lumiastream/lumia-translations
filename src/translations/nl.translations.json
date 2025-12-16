@@ -768,10 +768,17 @@
 		"40-words": "40 woorden per minuut",
 		"80-words": "80 woorden per minuut",
 		"160-words": "160 woorden per minuut",
-		"voicecommands": "Voice Commands",
-		"voicecommands-description": "Use your voice to trigger commands in Lumia",
-		"voicecommands-control": "Voice Commands Control",
-		"confidence": "Confidence"
+		"voicecommands": "Spraakcommando's",
+		"voicecommands-description": "Gebruik uw stem om commando's in Lumia te activeren",
+		"voicecommands-control": "Spraakcommando's beheer",
+		"confidence": "Vertrouwen",
+		"confidence-description": "Pas de betrouwbaarheidsdrempel aan voor spraakherkenning. Hogere waarden vereisen nauwkeurigere overeenkomsten.",
+		"voicecommands-state": "Spraakcommando's inschakelen",
+		"voicecommands-state-description": "Spraakherkenning in- of uitschakelen",
+		"audio-device": "Audioapparaat",
+		"audio-device-description": "Selecteer het audio-invoerapparaat voor spraakcommando's",
+		"voicecommands-full-sentence": "Zoeken in volledige zinnen",
+		"voicecommands-full-sentence-desc": "Activeren wanneer het commando ergens in de zin voorkomt"
 	},
 	"eventlist": {
 		"free-ticket": "Gratis ticket",
