@@ -4696,7 +4696,8 @@
 		"clear-all": "清除所有",
 		"queue-is-limited": "队列限制为 {{limit}} 位观众",
 		"who-can-join": "谁可以加入队列",
-		"who-can-join-description": "您可以更改加入队列命令设置"
+		"who-can-join-description": "您可以更改加入队列命令设置",
+		"you-can-add-message": "您可以添加消息，例如 {{command}} 您的消息在这里"
 	},
 	"modtool": {
 		"you-are-mod-user": "您现在是 Mod 用户",

@@ -4698,7 +4698,8 @@
 		"clear-all": "Tümünü Temizle",
 		"queue-is-limited": "Sıra sınırlıdır {{limit}} izleyici",
 		"who-can-join": "Sıraya kimler katılabilir?",
-		"who-can-join-description": "Sıraya katılma komut ayarlarını değiştirebilirsiniz"
+		"who-can-join-description": "Sıraya katılma komut ayarlarını değiştirebilirsiniz",
+		"you-can-add-message": "Bir mesaj ekleyebilirsiniz, örneğin {{command}} mesajınız buraya"
 	},
 	"modtool": {
 		"you-are-mod-user": "Artık modlama yapıyorsunuz",

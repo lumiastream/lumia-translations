@@ -4715,7 +4715,8 @@
 		"clear-all": "Alles löschen",
 		"queue-is-limited": "Die Warteschlange ist auf {{limit}} Zuschauer begrenzt",
 		"who-can-join": "Wer kann der Warteschlange beitreten?",
-		"who-can-join-description": "Passen Sie die Einstellungen für den Beitrittsbefehl an"
+		"who-can-join-description": "Passen Sie die Einstellungen für den Beitrittsbefehl an",
+		"you-can-add-message": "Sie können eine Nachricht hinzufügen, z.B. {{command}} Ihre Nachricht hier"
 	},
 	"modtool": {
 		"you-are-mod-user": "Du bist jetzt Moderator",

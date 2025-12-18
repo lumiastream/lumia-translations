@@ -4696,7 +4696,8 @@
 		"clear-all": "Limpar tudo",
 		"queue-is-limited": "Fila é limitada a {{limit}} espectador",
 		"who-can-join": "Quem pode se juntar à fila",
-		"who-can-join-description": "Você pode alterar as configurações de comando de junta na fila"
+		"who-can-join-description": "Você pode alterar as configurações de comando de junta na fila",
+		"you-can-add-message": "Você pode adicionar uma mensagem, por exemplo {{command}} sua mensagem aqui"
 	},
 	"modtool": {
 		"you-are-mod-user": "Você agora está modding",

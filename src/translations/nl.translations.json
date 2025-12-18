@@ -4716,7 +4716,8 @@
 		"clear-all": "Clear All",
 		"queue-is-limited": "Queue is limited to {{limit}} viewer",
 		"who-can-join": "Who can join the queue",
-		"who-can-join-description": "You can change the join queue command settings"
+		"who-can-join-description": "You can change the join queue command settings",
+		"you-can-add-message": "Je kunt een bericht toevoegen, bijvoorbeeld {{command}} je bericht hier"
 	},
 	"modtool": {
 		"you-are-mod-user": "You are now modding",
