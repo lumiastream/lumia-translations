@@ -3526,6 +3526,7 @@
 		"trigger": "Utlösare (meddelande som skickas efter röstningskommandot)",
 		"poll-description": "Omröstningswidgeten låter dig skapa omröstningar med en titel, utlösare och en valfri bild. Tittarna kan rösta genom att skriva ett kommando (t.ex. !vote) följt av utlösaren (t.ex. !vote 1).",
 		"no-poll-found": "Ingen omröstning hittades, du kan skapa en genom att lägga till ett omröstningslager i overlayen",
+		"fill-screen": "Anpassa overlay till skärmen (automatisk skalning upp/ner)",
 		"private-upload": "Private upload",
 		"newer-version-available": "Newer version available"
 	},

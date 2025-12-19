@@ -3523,6 +3523,7 @@
 		"trigger": "Auslöser (Nachricht, die nach dem Abstimmungsbefehl gesendet wird)",
 		"poll-description": "Mit dem Umfrage-Widget können Sie Umfragen mit einem Titel, Auslöser und optionalem Bild erstellen. Zuschauer können abstimmen, indem sie einen Befehl eingeben (z. B. !vote) gefolgt vom Auslöser (z. B. !vote 1).",
 		"no-poll-found": "Keine Umfrage gefunden, Sie können eine erstellen, indem Sie eine Umfrage-Overlay-Ebene hinzufügen",
+		"fill-screen": "Overlay an Bildschirm anpassen (automatisch vergrößern/verkleinern)",
 		"private-upload": "Private upload",
 		"newer-version-available": "Newer version available"
 	},

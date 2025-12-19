@@ -3524,6 +3524,7 @@
 		"trigger": "Trigger (bericht dat wordt verzonden na het stemcommando)",
 		"poll-description": "Met de poll-widget kun je peilingen maken met een titel, trigger en optionele afbeelding. Kijkers kunnen stemmen door een commando te typen (bijv. !vote) gevolgd door de trigger (bijv. !vote 1).",
 		"no-poll-found": "Geen peiling gevonden, je kunt er een maken door een poll-overlaylaag toe te voegen",
+		"fill-screen": "Overlay aan scherm aanpassen (automatisch schalen)",
 		"private-upload": "Private upload",
 		"newer-version-available": "Newer version available"
 	},

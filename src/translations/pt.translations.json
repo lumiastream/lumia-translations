@@ -3524,6 +3524,7 @@
 		"trigger": "Gatilho (mensagem enviada após o comando de voto)",
 		"poll-description": "O widget de enquete permite criar enquetes com título, gatilho e imagem opcional. Os espectadores podem votar digitando um comando (ex.: !vote) seguido do gatilho (ex.: !vote 1).",
 		"no-poll-found": "Nenhuma enquete encontrada, você pode criar uma adicionando uma camada de enquete no overlay",
+		"fill-screen": "Ajustar overlay à tela (redimensionamento automático)",
 		"private-upload": "Private upload",
 		"newer-version-available": "Newer version available"
 	},

@@ -3523,7 +3523,8 @@
 		"voters": "Votants",
 		"trigger": "Déclencheur (message envoyé après la commande de vote)",
 		"poll-description": "Le widget de sondage vous permet de créer des sondages avec un titre, un déclencheur et une image facultative. Les spectateurs peuvent voter en tapant une commande (par ex. !vote) suivie du déclencheur (par ex. !vote 1).",
-		"no-poll-found": "Aucun sondage trouvé, vous pouvez en créer un en ajoutant une couche de sondage dans l’overlay",
+		"no-poll-found": "Aucun sondage trouvé, vous pouvez en créer un en ajoutant une couche de sondage dans l'overlay",
+		"fill-screen": "Ajuster l'overlay à l'écran (redimensionnement automatique)",
 		"private-upload": "Private upload",
 		"newer-version-available": "Newer version available"
 	},
