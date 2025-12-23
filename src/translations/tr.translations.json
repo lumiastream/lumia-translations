@@ -4414,7 +4414,7 @@
 		"message-twitch-generic-permission-missing": "Seğirme {{permission}} izin eksik.  {{permission}} izin verin ve tekrar bağlanın",
 		"message-kick-generic-permission-missing": "Kick {{permission}} izni eksik. Bağlantılar > Kick'i Düzenle kısmına gidin, {{permission}} iznini seçin ve tekrar bağlanın",
 		"message-emulate-alert": "Uyarı taklit ediliyor {{alert}}",
-		"multiple-instances": "Lumia Stream'i birden fazla yerde kullanıyorsunuz. ",
+		"multiple-instances": "Lumia Stream zaten başka bir yerde çalışıyor. Aynı anda yalnızca bir örnek açık olabilir. Devam etmek için lütfen diğer oturumu kapatın.",
 		"message-discord-cant-reconnect": "Discord yeniden bağlanamıyor. ",
 		"message-discord-no-chat": "Discord sohbete bağlanamadı. ",
 		"message-voicecommand-triggered": "Voice command triggered {{command}}"

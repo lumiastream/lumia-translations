@@ -4412,7 +4412,7 @@
 		"message-has-been-deleted": "قام المشرف بحذف رسالة من {{username}}. كانت الرسالة: {{message}}",
 		"message-fail-auth-chatbot": "تعذر بدء {{site}} Chat Bot: فشل في التوثيق",
 		"message-couldnt-connect-chatbot": "تعذر الاتصال بـ {{site}} Chat Bot",
-		"multiple-instances": "أنت تستخدم Lumia Stream في عدة أماكن. على الرغم من أنه لا يُنصح بذلك، إلا أنه مسموح به، ولكنه سيغلق خدمات Lumia على الاتصالات السابقة حتى لا يتم تفعيل التنبيهات والأوامر مرتين",
+		"multiple-instances": "Lumia Stream يعمل بالفعل في مكان آخر. لا يمكن فتح إلا مثيل واحد في كل مرة. يرجى إغلاق الجلسة الأخرى للمتابعة.",
 		"message-discord-cant-reconnect": "تعذر على Discord إعادة الاتصال. يرجى إعادة الاتصال بـ Discord بالذهاب إلى الاتصالات > المنصات",
 		"message-discord-no-chat": "تعذر على Discord الاتصال بالدردشة. يرجى المحاولة مرة أخرى",
 		"message-voicecommand-triggered": "Voice command triggered {{command}}"

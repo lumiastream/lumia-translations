@@ -4413,7 +4413,7 @@
 		"message-twitch-generic-permission-missing": "Twitch {{permission}} permission is missing. Head to Connections > Edit Twitch and select the {{permission}} permission and connect again",
 		"message-kick-generic-permission-missing": "Kick {{permission}} permission is missing. Head to Connections > Edit Kick and select the {{permission}} permission and connect again",
 		"message-emulate-alert": "Emulating alert {{alert}}",
-		"multiple-instances": "You are using Lumia Stream in multiple places. While this should not be done it's still allowed, but it will turn off Lumia Services on the previous connections so that alerts and commands are not fired twice",
+		"multiple-instances": "Lumia Stream is already running elsewhere. Only one instance can be open at a time. Please close the other session to continue.",
 		"message-discord-cant-reconnect": "Discord is not able to reconnect. Please reconnect to Discord by going to Connections > Platforms",
 		"message-discord-no-chat": "Discord was not able to connect to chat. PLease try again"
 	},

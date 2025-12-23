@@ -4411,7 +4411,7 @@
 		"message-has-been-deleted": "Mod hat eine Nachricht von {{username}} gelöscht. Die Nachricht lautete: {{message}}",
 		"message-fail-auth-chatbot": "Konnte den {{site}}-Chatbot nicht starten: Authentifizierung fehlgeschlagen",
 		"message-couldnt-connect-chatbot": "Konnte keine Verbindung zum {{site}}-Chatbot herstellen",
-		"multiple-instances": "Du nutzt Lumia Stream an mehreren Orten gleichzeitig. Obwohl das nicht empfohlen wird, ist es erlaubt. Allerdings werden die Lumia-Dienste bei vorherigen Verbindungen deaktiviert, damit Benachrichtigungen und Befehle nicht doppelt ausgelöst werden.",
+		"multiple-instances": "Lumia Stream läuft bereits woanders. Es kann nur eine Instanz gleichzeitig geöffnet sein. Bitte schließe die andere Sitzung, um fortzufahren.",
 		"message-discord-cant-reconnect": "Discord konnte sich nicht erneut verbinden. Bitte stelle die Verbindung zu Discord wieder her, indem du zu Verbindungen > Plattformen gehst.",
 		"message-discord-no-chat": "Discord konnte keine Verbindung zum Chat herstellen. Bitte versuche es erneut.",
 		"message-voicecommand-triggered": "Voice command triggered {{command}}"

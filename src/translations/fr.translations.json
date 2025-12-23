@@ -4412,7 +4412,7 @@
 		"message-has-been-deleted": "Mod deleted message from {{username}}. The message was: {{message}}",
 		"message-fail-auth-chatbot": "Couldn't start {{site}} Chat Bot: Auth Failed",
 		"message-couldnt-connect-chatbot": "Could not connect to {{site}} Chat Bot",
-		"multiple-instances": "You are using Lumia Stream in multiple places. While this should not be done it's still allowed, but it will turn off Lumia Services on the previous connections so that alerts and commands are not fired twice",
+		"multiple-instances": "Lumia Stream est déjà en cours d’exécution ailleurs. Une seule instance peut être ouverte à la fois. Veuillez fermer l’autre session pour continuer.",
 		"message-discord-cant-reconnect": "Discord is not able to reconnect. Please reconnect to Discord by going to Connections > Platforms",
 		"message-discord-no-chat": "Discord was not able to connect to chat. PLease try again",
 		"message-voicecommand-triggered": "Voice command triggered {{command}}"

@@ -4412,7 +4412,7 @@
 		"message-twitch-generic-permission-missing": "Contração muscular {{permission}} Falta permissão.  {{permission}} permissão e conectar novamente",
 		"message-kick-generic-permission-missing": "A permissão {{permission}} do Kick está ausente. Vá para Conexões > Editar Kick, selecione a permissão {{permission}} e conecte-se novamente",
 		"message-emulate-alert": "Alerta emulador {{alert}}",
-		"multiple-instances": "Você está usando o fluxo Lumia em vários lugares. ",
+		"multiple-instances": "O Lumia Stream já está em execução em outro lugar. Apenas uma instância pode ficar aberta por vez. Feche a outra sessão para continuar.",
 		"message-discord-cant-reconnect": "Discord não é capaz de se reconectar. ",
 		"message-discord-no-chat": "Discord não foi capaz de se conectar para conversar. ",
 		"message-voicecommand-triggered": "Voice command triggered {{command}}"

@@ -4412,7 +4412,7 @@
 		"message-twitch-generic-permission-missing": "缺少 Twitch {{permission}} 权限。请前往“连接”>“编辑 Twitch”并选择 {{permission}} 权限并重新连接",
 		"message-kick-generic-permission-missing": "缺少 Kick 的 {{permission}} 权限。请前往连接 > 编辑 Kick，选择 {{permission}} 权限并重新连接",
 		"message-emulate-alert": "正在模拟警报 {{alert}}",
-		"multiple-instances": "您正在多个位置使用 Lumia Stream。虽然不建议这样做，但仍然允许，但它将关闭先前连接上的 Lumia 服务，以便警报和命令不会触发两次",
+		"multiple-instances": "Lumia Stream 已在其他位置运行。一次只能打开一个实例。请关闭另一处的会话后继续。",
 		"message-discord-cant-reconnect": "Discord 无法重新连接。请通过转到“连接”>“平台”重新连接到 Discord",
 		"message-discord-no-chat": "Discord 无法连接到聊天。请重试",
 		"message-voicecommand-triggered": "Voice command triggered {{command}}"
