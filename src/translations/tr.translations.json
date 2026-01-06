@@ -3535,7 +3535,9 @@
 		"no-poll-found": "Hiç anket bulunamadı, bir anket overlay katmanı ekleyerek oluşturabilirsiniz",
 		"fill-screen": "Overlay'i ekrana sığdır (otomatik ölçeklendirme)",
 		"private-upload": "Private upload",
-		"newer-version-available": "Newer version available"
+		"newer-version-available": "Newer version available",
+		"no-overlays-found": "Yer paylaşımı bulunamadı",
+		"no-overlays-found-description": "Mevcut filtreleriniz veya arama kriterlerinizle eşleşen yer paylaşımı yok. Filtrelerinizi veya arama terimlerinizi ayarlamayı deneyin."
 	},
 	"update": {
 		"update-now": "Şimdi Güncelle",
