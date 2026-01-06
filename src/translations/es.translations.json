@@ -538,7 +538,8 @@
 		"marketplace": "Marketplace",
 		"general": "General",
 		"games": "Games",
-		"filteredWords": "Filtered Words"
+		"filteredWords": "Filtered Words",
+		"viewer_profiles": "Perfiles de espectadores"
 	},
 	"home": {
 		"test-setup": "Configuración de prueba",

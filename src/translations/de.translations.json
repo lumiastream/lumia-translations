@@ -537,7 +537,8 @@
 		"marketplace": "Marketplace",
 		"general": "General",
 		"games": "Games",
-		"filteredWords": "Filtered Words"
+		"filteredWords": "Filtered Words",
+		"viewer_profiles": "Zuschauerprofile"
 	},
 	"home": {
 		"test-setup": "Versuchsaufbau",

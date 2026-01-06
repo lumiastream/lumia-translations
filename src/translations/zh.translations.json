@@ -538,7 +538,8 @@
 		"marketplace": "Marketplace",
 		"general": "General",
 		"games": "Games",
-		"filteredWords": "Filtered Words"
+		"filteredWords": "Filtered Words",
+		"viewer_profiles": "观众资料"
 	},
 	"home": {
 		"test-setup": "测试设置",

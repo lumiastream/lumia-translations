@@ -538,7 +538,8 @@
 		"session": "Session",
 		"interactions": "Interactions",
 		"api": "API",
-		"advanced": "Advanced"
+		"advanced": "Advanced",
+		"viewer_profiles": "Viewer Profiles"
 	},
 	"home": {
 		"test-setup": "Test Setup",
