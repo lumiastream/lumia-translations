@@ -3533,7 +3533,9 @@
 		"no-poll-found": "Geen peiling gevonden, je kunt er een maken door een poll-overlaylaag toe te voegen",
 		"fill-screen": "Overlay aan scherm aanpassen (automatisch schalen)",
 		"private-upload": "Private upload",
-		"newer-version-available": "Newer version available"
+		"newer-version-available": "Newer version available",
+		"no-overlays-found": "Geen overlays gevonden",
+		"no-overlays-found-description": "Er zijn geen overlays die overeenkomen met uw huidige filters of zoekcriteria. Probeer uw filters of zoektermen aan te passen."
 	},
 	"update": {
 		"update-now": "Update nu",

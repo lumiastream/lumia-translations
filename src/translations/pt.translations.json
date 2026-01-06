@@ -3533,7 +3533,9 @@
 		"no-poll-found": "Nenhuma enquete encontrada, você pode criar uma adicionando uma camada de enquete no overlay",
 		"fill-screen": "Ajustar overlay à tela (redimensionamento automático)",
 		"private-upload": "Private upload",
-		"newer-version-available": "Newer version available"
+		"newer-version-available": "Newer version available",
+		"no-overlays-found": "Nenhuma sobreposição encontrada",
+		"no-overlays-found-description": "Não há sobreposições que correspondam aos seus filtros ou critérios de pesquisa atuais. Tente ajustar seus filtros ou termos de pesquisa."
 	},
 	"update": {
 		"update-now": "Atualizar agora",

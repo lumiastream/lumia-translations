@@ -3533,7 +3533,9 @@
 		"trigger": "Trigger (Message sent after the vote command)",
 		"poll-description": "The Poll widget lets you create polls with items that include a title, trigger, and an optional image. Viewers can vote by typing a command (e.g., !vote) followed by the trigger (e.g., !vote 1).",
 		"no-poll-found": "No poll found, you can create one by adding a poll overlay layer",
-		"fill-screen": "Fit overlay to screen (auto scale down / up)"
+		"fill-screen": "Fit overlay to screen (auto scale down / up)",
+		"no-overlays-found": "No Overlays Found",
+		"no-overlays-found-description": "There are no overlays matching your current filters or search criteria. Try adjusting your filters or search terms."
 	},
 	"update": {
 		"update-now": "Update Now",
