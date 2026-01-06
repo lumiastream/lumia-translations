@@ -777,7 +777,11 @@
 		"audio-device": "Audio-Gerät",
 		"audio-device-description": "Wählen Sie das Audioeingabegerät für Sprachbefehle aus",
 		"voicecommands-full-sentence": "In vollständigen Sätzen suchen",
-		"voicecommands-full-sentence-desc": "Auslösen, wenn der Befehl irgendwo im Satz erscheint"
+		"voicecommands-full-sentence-desc": "Auslösen, wenn der Befehl irgendwo im Satz erscheint",
+		"voicecommands-debug": "Sprach-Debug",
+		"voicecommands-debug-desc": "Erkannte Sätze protokollieren, solange diese Seite geöffnet ist",
+		"voicecommands-debug-log": "Sprach-Debug-Protokoll",
+		"voicecommands-debug-empty": "Noch keine Debug-Einträge."
 	},
 	"eventlist": {
 		"free-ticket": "Freikarten",
@@ -2468,6 +2472,7 @@
 		"chatbot": "Chat-Bot-Nachricht",
 		"tts": "Text zu Sprache",
 		"setStreamMode": "Stellen Sie den Stream-Modus ein",
+		"setVoicecommands": "Sprachbefehle setzen",
 		"toggleStreamMode": "StreamMode umschalten",
 		"setFuze": "Fuze einstellen",
 		"fuzeAudioSensitivity": "Audioempfindlichkeit von Fuze",

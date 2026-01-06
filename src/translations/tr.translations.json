@@ -778,7 +778,11 @@
 		"audio-device": "Ses Cihazı",
 		"audio-device-description": "Ses komutları için kullanılacak ses giriş cihazını seçin",
 		"voicecommands-full-sentence": "Tam cümleler içinde eşleştir",
-		"voicecommands-full-sentence-desc": "Komut ifadenin herhangi bir yerinde göründüğünde tetikle"
+		"voicecommands-full-sentence-desc": "Komut ifadenin herhangi bir yerinde göründüğünde tetikle",
+		"voicecommands-debug": "Ses Hata Ayıklama",
+		"voicecommands-debug-desc": "Bu sayfa açıkken tanınan cümleleri günlüğe kaydet",
+		"voicecommands-debug-log": "Ses hata ayıklama günlüğü",
+		"voicecommands-debug-empty": "Henüz hata ayıklama kaydı yok."
 	},
 	"eventlist": {
 		"free-ticket": "Ücretsiz bilet",
@@ -2471,6 +2475,7 @@
 		"chatbot": "Sohbet Botu Mesajı",
 		"tts": "Metinden Konuşmaya",
 		"setStreamMode": "Akış Modunu Ayarla",
+		"setVoicecommands": "Ses komutlarını ayarla",
 		"toggleStreamMode": "StreamMode'u değiştir",
 		"setFuze": "Tapa Ayarla",
 		"fuzeAudioSensitivity": "Fuze Ses Hassasiyeti",

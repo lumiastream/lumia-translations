@@ -778,7 +778,11 @@
 		"audio-device": "Périphérique audio",
 		"audio-device-description": "Sélectionnez le périphérique d'entrée audio à utiliser pour les commandes vocales",
 		"voicecommands-full-sentence": "Rechercher dans des phrases complètes",
-		"voicecommands-full-sentence-desc": "Déclencher lorsque la commande apparaît n'importe où dans la phrase"
+		"voicecommands-full-sentence-desc": "Déclencher lorsque la commande apparaît n'importe où dans la phrase",
+		"voicecommands-debug": "Débogage vocal",
+		"voicecommands-debug-desc": "Enregistrer les phrases reconnues tant que cette page est ouverte",
+		"voicecommands-debug-log": "Journal de débogage vocal",
+		"voicecommands-debug-empty": "Aucune entrée de débogage pour l'instant."
 	},
 	"eventlist": {
 		"free-ticket": "Billet gratuit",
@@ -2469,6 +2473,7 @@
 		"chatbot": "Message du chatbot",
 		"tts": "Texte pour parler",
 		"setStreamMode": "Définir le mode de diffusion",
+		"setVoicecommands": "Définir les commandes vocales",
 		"toggleStreamMode": "Basculer le mode flux",
 		"setFuze": "Définir la fusée",
 		"fuzeAudioSensitivity": "Sensibilité audio de Fuze",
