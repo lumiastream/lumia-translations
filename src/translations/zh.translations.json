@@ -778,7 +778,11 @@
 		"audio-device": "音频设备",
 		"audio-device-description": "选择用于语音命令的音频输入设备",
 		"voicecommands-full-sentence": "在完整句子中匹配",
-		"voicecommands-full-sentence-desc": "当命令出现在短语中的任何位置时触发"
+		"voicecommands-full-sentence-desc": "当命令出现在短语中的任何位置时触发",
+		"voicecommands-debug": "语音调试",
+		"voicecommands-debug-desc": "在此页面打开时记录识别到的句子",
+		"voicecommands-debug-log": "语音调试日志",
+		"voicecommands-debug-empty": "暂无调试记录。"
 	},
 	"eventlist": {
 		"free-ticket": "免费票",
@@ -2469,6 +2473,7 @@
 		"chatbot": "聊天机器人消息",
 		"tts": "文本转语音",
 		"setStreamMode": "设置直播模式",
+		"setVoicecommands": "设置语音命令",
 		"toggleStreamMode": "切换直播模式",
 		"setFuze": "设置 Fuze",
 		"fuzeAudioSensitivity": "Fuze 音频灵敏度",

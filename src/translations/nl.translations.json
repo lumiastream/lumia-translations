@@ -778,7 +778,11 @@
 		"audio-device": "Audioapparaat",
 		"audio-device-description": "Selecteer het audio-invoerapparaat voor spraakcommando's",
 		"voicecommands-full-sentence": "Zoeken in volledige zinnen",
-		"voicecommands-full-sentence-desc": "Activeren wanneer het commando ergens in de zin voorkomt"
+		"voicecommands-full-sentence-desc": "Activeren wanneer het commando ergens in de zin voorkomt",
+		"voicecommands-debug": "Spraakdebug",
+		"voicecommands-debug-desc": "Log herkende zinnen zolang deze pagina geopend is",
+		"voicecommands-debug-log": "Spraakdebuglog",
+		"voicecommands-debug-empty": "Nog geen debugvermeldingen."
 	},
 	"eventlist": {
 		"free-ticket": "Gratis ticket",
@@ -2469,6 +2473,7 @@
 		"chatbot": "Chatbot-bericht",
 		"tts": "Tekst naar spraak",
 		"setStreamMode": "Streammodus instellen",
+		"setVoicecommands": "Spraakopdrachten instellen",
 		"toggleStreamMode": "Schakel Streammodus in",
 		"setFuze": "Fuze instellen",
 		"fuzeAudioSensitivity": "Fuze-audiogevoeligheid",

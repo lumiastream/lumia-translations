@@ -778,7 +778,11 @@
 		"audio-device": "Dispositivo de audio",
 		"audio-device-description": "Seleccione el dispositivo de entrada de audio para usar con comandos de voz",
 		"voicecommands-full-sentence": "Coincidir dentro de oraciones completas",
-		"voicecommands-full-sentence-desc": "Activar cuando el comando aparece en cualquier parte de la frase"
+		"voicecommands-full-sentence-desc": "Activar cuando el comando aparece en cualquier parte de la frase",
+		"voicecommands-debug": "Depuración de voz",
+		"voicecommands-debug-desc": "Registra las frases reconocidas mientras esta página esté abierta",
+		"voicecommands-debug-log": "Registro de depuración de voz",
+		"voicecommands-debug-empty": "Aún no hay entradas de depuración."
 	},
 	"eventlist": {
 		"free-ticket": "Boleto gratis",
@@ -2469,6 +2473,7 @@
 		"chatbot": "Mensaje del robot de chat",
 		"tts": "Texto a voz",
 		"setStreamMode": "Establecer Stream Mode",
+		"setVoicecommands": "Configurar comandos de voz",
 		"toggleStreamMode": "Alternar Stream Mode",
 		"setFuze": "Establecer Fuze",
 		"fuzeAudioSensitivity": "Sensibilidad de audio de Fuze",

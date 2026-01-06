@@ -778,7 +778,11 @@
 		"audio-device": "Ljudenhet",
 		"audio-device-description": "Välj ljudinmatningsenheten som ska användas för röstkommandon",
 		"voicecommands-full-sentence": "Matcha i fullständiga meningar",
-		"voicecommands-full-sentence-desc": "Utlös när kommandot visas var som helst i frasen"
+		"voicecommands-full-sentence-desc": "Utlös när kommandot visas var som helst i frasen",
+		"voicecommands-debug": "Röstfelsökning",
+		"voicecommands-debug-desc": "Logga igenkända meningar medan den här sidan är öppen",
+		"voicecommands-debug-log": "Röstfelsökningslogg",
+		"voicecommands-debug-empty": "Inga felsökningsposter ännu."
 	},
 	"eventlist": {
 		"free-ticket": "Fribiljett",
@@ -2471,6 +2475,7 @@
 		"chatbot": "Chat Bot meddelande",
 		"tts": "Text till tal",
 		"setStreamMode": "Ställ in Stream Mode",
+		"setVoicecommands": "Ställ in röstkommandon",
 		"toggleStreamMode": "Växla StreamMode",
 		"setFuze": "Ställ in Fuze",
 		"fuzeAudioSensitivity": "Fuze Audio Sensitivity",

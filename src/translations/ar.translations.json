@@ -778,7 +778,11 @@
 		"audio-device": "جهاز الصوت",
 		"audio-device-description": "حدد جهاز إدخال الصوت لاستخدامه للأوامر الصوتية",
 		"voicecommands-full-sentence": "تطابق داخل الجمل الكاملة",
-		"voicecommands-full-sentence-desc": "التشغيل عندما يظهر الأمر في أي مكان في العبارة"
+		"voicecommands-full-sentence-desc": "التشغيل عندما يظهر الأمر في أي مكان في العبارة",
+		"voicecommands-debug": "تصحيح أخطاء الصوت",
+		"voicecommands-debug-desc": "تسجيل الجمل المعترف بها أثناء بقاء هذه الصفحة مفتوحة",
+		"voicecommands-debug-log": "سجل تصحيح أخطاء الصوت",
+		"voicecommands-debug-empty": "لا توجد إدخالات تصحيح بعد."
 	},
 	"eventlist": {
 		"free-ticket": "بطاقة مجانية",
@@ -2469,6 +2473,7 @@
 		"chatbot": "رسالة الدردشة بوت",
 		"tts": "النص إلى الكلام",
 		"setStreamMode": "ضبط وضع الدفق",
+		"setVoicecommands": "ضبط أوامر الصوت",
 		"toggleStreamMode": "تبديل وضع الدفق",
 		"setFuze": "تعيين فيوز",
 		"fuzeAudioSensitivity": "حساسية الصوت الصمامات",
