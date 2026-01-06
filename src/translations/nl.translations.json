@@ -2363,6 +2363,7 @@
 		"user-triggered-kick-points-command-but-not-level": "{{username}} heeft kick-punten {{command}} geactiveerd, maar voldoet niet aan de gebruikersniveauvoorwaarden",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} heeft kick-punten {{command}} geactiveerd, maar voldoet niet aan de kostenvoorwaarden",
 		"ai_prompt": "Stuur een prompt naar AI met Chat GPT, DeepSeek en meer. Voorbeeld: {{ai_prompt=Maak een grappig citaat}}. Of laat gebruikers een prompt sturen {{ai_prompt={{message}}}}",
+		"voice_command_full_sentence": "De volledige zin die is opgepikt toen een spraakcommando werd geactiveerd",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
 		"codeId": "Code ID (codeId)",

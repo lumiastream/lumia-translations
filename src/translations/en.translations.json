@@ -2419,7 +2419,8 @@
 		"user-triggered-kick-points-command": "{{username}} triggered kick point {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} triggered kick points {{command}}, but does not satisfy the user level conditions",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} triggered kick points {{command}}, but does not satisfy the cost conditions",
-		"ai_prompt": "Send a prompt to ai using Chat GPT, DeepSeek and more. Example: {{ai_prompt=Make a funny quote}}. Or allow users to send in a prompt {{ai_prompt={{message}}}}"
+		"ai_prompt": "Send a prompt to ai using Chat GPT, DeepSeek and more. Example: {{ai_prompt=Make a funny quote}}. Or allow users to send in a prompt {{ai_prompt={{message}}}}",
+		"voice_command_full_sentence": "The full sentence that was picked up when a voice command has been triggered"
 	},
 	"voicemod": {
 		"delay": "Delay",

@@ -2365,6 +2365,7 @@
 		"user-triggered-kick-points-command-but-not-level": "{{username}} hat die Kick-Punkte {{command}} ausgelöst, erfüllt jedoch nicht die Benutzerlevel-Bedingungen",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} hat die Kick-Punkte {{command}} ausgelöst, erfüllt jedoch nicht die Kostenbedingungen",
 		"ai_prompt": "Sende eine Eingabeaufforderung an die KI mit Chat GPT, DeepSeek und mehr. Beispiel: {{ai_prompt=Mach ein lustiges Zitat}}. Oder erlaube Nutzern, eine Eingabeaufforderung zu senden {{ai_prompt={{message}}}}",
+		"voice_command_full_sentence": "Der vollständige Satz, der erfasst wurde, als ein Sprachbefehl ausgelöst wurde",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
 		"codeId": "Code ID (codeId)",

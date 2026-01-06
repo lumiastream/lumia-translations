@@ -2366,6 +2366,7 @@
 		"user-triggered-kick-points-command-but-not-level": "{{username}} a déclenché les points kick {{command}}, mais ne satisfait pas aux conditions de niveau d'utilisateur",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} a déclenché les points kick {{command}}, mais ne satisfait pas aux conditions de coût",
 		"ai_prompt": "Envoyez une invite à l'IA en utilisant Chat GPT, DeepSeek et plus. Exemple : {{ai_prompt=Fais une citation drôle}}. Ou permettez aux utilisateurs d’envoyer une invite {{ai_prompt={{message}}}}",
+		"voice_command_full_sentence": "La phrase complète captée lorsqu'une commande vocale a été déclenchée",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
 		"codeId": "Code ID (codeId)",

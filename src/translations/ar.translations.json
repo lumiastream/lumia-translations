@@ -2366,6 +2366,7 @@
 		"user-triggered-kick-points-command-but-not-level": "{{username}} فعّل نقاط الكيك {{command}}، ولكن لا يستوفي شروط مستوى المستخدم",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} فعّل نقاط الكيك {{command}}، ولكن لا يستوفي شروط التكلفة",
 		"ai_prompt": "أرسل مطالبة إلى الذكاء الاصطناعي باستخدام Chat GPT و DeepSeek والمزيد. مثال: {{ai_prompt=اكتب اقتباسًا مضحكًا}}. أو اسمح للمستخدمين بإرسال مطالبة {{ai_prompt={{message}}}}",
+		"voice_command_full_sentence": "الجملة الكاملة التي تم التقاطها عند تفعيل أمر صوتي",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
 		"codeId": "Code ID (codeId)",
