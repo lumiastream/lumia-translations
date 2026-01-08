@@ -3540,7 +3540,9 @@
 		"no-poll-found": "Aucun sondage trouvé, vous pouvez en créer un en ajoutant une couche de sondage dans l'overlay",
 		"fill-screen": "Ajuster l'overlay à l'écran (redimensionnement automatique)",
 		"private-upload": "Private upload",
-		"newer-version-available": "Newer version available"
+		"newer-version-available": "Newer version available",
+		"no-overlays-found": "Aucune superposition trouvée",
+		"no-overlays-found-description": "Il n'y a pas de superpositions correspondant à vos filtres ou critères de recherche actuels. Essayez d'ajuster vos filtres ou termes de recherche."
 	},
 	"update": {
 		"update-now": "Mettez à jour maintenant",

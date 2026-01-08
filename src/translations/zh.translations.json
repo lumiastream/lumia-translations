@@ -3540,7 +3540,9 @@
 		"no-poll-found": "未找到投票，您可以通过添加一个投票覆盖层来创建",
 		"fill-screen": "将覆盖层适配到屏幕（自动放大/缩小）",
 		"private-upload": "Private upload",
-		"newer-version-available": "Newer version available"
+		"newer-version-available": "Newer version available",
+		"no-overlays-found": "未找到叠加层",
+		"no-overlays-found-description": "没有与您当前的过滤器或搜索条件匹配的叠加层。请尝试调整您的过滤器或搜索词。"
 	},
 	"update": {
 		"update-now": "立即更新",

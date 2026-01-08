@@ -3542,7 +3542,9 @@
 		"no-poll-found": "Ingen omröstning hittades, du kan skapa en genom att lägga till ett omröstningslager i overlayen",
 		"fill-screen": "Anpassa overlay till skärmen (automatisk skalning upp/ner)",
 		"private-upload": "Private upload",
-		"newer-version-available": "Newer version available"
+		"newer-version-available": "Newer version available",
+		"no-overlays-found": "Inga överlägg hittades",
+		"no-overlays-found-description": "Det finns inga överlägg som matchar dina nuvarande filter eller sökkriterier. Försök att justera dina filter eller söktermer."
 	},
 	"update": {
 		"update-now": "Uppdatera nu",

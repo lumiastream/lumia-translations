@@ -3540,7 +3540,9 @@
 		"no-poll-found": "لم يتم العثور على استطلاع، يمكنك إنشاء واحد عن طريق إضافة طبقة استطلاع إلى الـ Overlay",
 		"fill-screen": "ملء الشاشة بالـ Overlay (تكبير/تصغير تلقائي)",
 		"private-upload": "Private upload",
-		"newer-version-available": "Newer version available"
+		"newer-version-available": "Newer version available",
+		"no-overlays-found": "لم يتم العثور على تراكبات",
+		"no-overlays-found-description": "لا توجد تراكبات تطابق المرشحات أو معايير البحث الحالية. حاول تعديل المرشحات أو مصطلحات البحث."
 	},
 	"update": {
 		"update-now": "تحديث الان",
