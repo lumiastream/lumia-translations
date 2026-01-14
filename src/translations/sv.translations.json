@@ -1520,6 +1520,7 @@
 		"approved": "Godkänd",
 		"denied": "Nekad",
 		"pending": "I väntan på",
+		"all-statuses": "Alla Statusar",
 		"creator": "Skapare",
 		"downloads": "Nedladdningar",
 		"status": "Status",

@@ -1520,6 +1520,7 @@
 		"approved": "Approuvé",
 		"denied": "Refusé",
 		"pending": "En attente",
+		"all-statuses": "Tous les Statuts",
 		"creator": "Créateur",
 		"downloads": "Téléchargements",
 		"status": "Statut",

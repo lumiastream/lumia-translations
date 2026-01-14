@@ -1538,6 +1538,7 @@
 		"approved": "Approved",
 		"denied": "Denied",
 		"pending": "Pending",
+		"all-statuses": "All Statuses",
 		"creator": "Creator",
 		"downloads": "Downloads",
 		"status": "Status",

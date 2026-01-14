@@ -1534,6 +1534,7 @@
 		"approved": "Aprovado",
 		"denied": "Negado",
 		"pending": "Pendente",
+		"all-statuses": "Todos os Status",
 		"creator": "Criador",
 		"downloads": "Downloads",
 		"status": "Status",
