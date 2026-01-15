@@ -1540,6 +1540,7 @@
 		"approved": "Onaylı",
 		"denied": "Reddedildi",
 		"pending": "Askıda olması",
+		"all-statuses": "Tüm Durumlar",
 		"creator": "Yaratıcı",
 		"downloads": "İndirilenler",
 		"status": "Durum",

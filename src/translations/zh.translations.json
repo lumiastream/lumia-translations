@@ -1540,6 +1540,7 @@
 		"approved": "已批准",
 		"denied": "已拒绝",
 		"pending": "待处理",
+		"all-statuses": "所有状态",
 		"creator": "创建者",
 		"downloads": "下载量",
 		"status": "状态",

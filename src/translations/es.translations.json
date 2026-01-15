@@ -1526,6 +1526,7 @@
 		"approved": "Aprobado",
 		"denied": "Denegado",
 		"pending": "Pendiente",
+		"all-statuses": "Todos los Estados",
 		"creator": "Creador",
 		"downloads": "Descargas",
 		"status": "Estado",
