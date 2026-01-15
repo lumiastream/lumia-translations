@@ -4878,7 +4878,13 @@
 		"no-command-totals": "Nog geen opdrachttotalen.",
 		"alert-totals": "Meldingstotalen",
 		"no-alert-totals": "Nog geen meldingstotalen.",
-		"select-viewer": "Selecteer een kijker om details te zien."
+		"select-viewer": "Selecteer een kijker om details te zien.",
+		"statistics": "Statistieken",
+		"unique-commands": "Unieke opdrachten",
+		"top-command": "Top opdracht",
+		"unique-alerts": "Unieke meldingen",
+		"top-alert": "Top melding",
+		"none": "Geen"
 	},
 	"modqueue": {
 		"search-placeholder": "Zoek op gebruikersnaam of commando ...",

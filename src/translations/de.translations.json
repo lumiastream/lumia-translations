@@ -4877,7 +4877,13 @@
 		"no-command-totals": "Noch keine Befehlssummen.",
 		"alert-totals": "Benachrichtigungssummen",
 		"no-alert-totals": "Noch keine Benachrichtigungssummen.",
-		"select-viewer": "Wähle einen Zuschauer aus, um Details zu sehen."
+		"select-viewer": "Wähle einen Zuschauer aus, um Details zu sehen.",
+		"statistics": "Statistiken",
+		"unique-commands": "Einzigartige Befehle",
+		"top-command": "Top-Befehl",
+		"unique-alerts": "Einzigartige Benachrichtigungen",
+		"top-alert": "Top-Benachrichtigung",
+		"none": "Keine"
 	},
 	"modqueue": {
 		"search-placeholder": "Suche nach Benutzername oder Befehl ...",

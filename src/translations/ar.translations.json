@@ -4878,7 +4878,13 @@
 		"no-command-totals": "لا توجد إجماليات أوامر بعد.",
 		"alert-totals": "إجمالي التنبيهات",
 		"no-alert-totals": "لا توجد إجماليات تنبيهات بعد.",
-		"select-viewer": "اختر مشاهدًا لرؤية التفاصيل."
+		"select-viewer": "اختر مشاهدًا لرؤية التفاصيل.",
+		"statistics": "الإحصائيات",
+		"unique-commands": "أوامر فريدة",
+		"top-command": "أفضل أمر",
+		"unique-alerts": "تنبيهات فريدة",
+		"top-alert": "أفضل تنبيه",
+		"none": "لا شيء"
 	},
 	"modqueue": {
 		"search-placeholder": "ابحث بواسطة اسم المستخدم أو الأمر ...",

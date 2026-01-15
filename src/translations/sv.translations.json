@@ -4880,7 +4880,13 @@
 		"no-command-totals": "Inga kommando totaler ännu.",
 		"alert-totals": "Varningstotaler",
 		"no-alert-totals": "Inga varningstotaler ännu.",
-		"select-viewer": "Välj en tittare för att se detaljer."
+		"select-viewer": "Välj en tittare för att se detaljer.",
+		"statistics": "Statistik",
+		"unique-commands": "Unika kommandon",
+		"top-command": "Toppkommando",
+		"unique-alerts": "Unika varningar",
+		"top-alert": "Toppvarning",
+		"none": "Ingen"
 	},
 	"modqueue": {
 		"search-placeholder": "Sök efter användarnamn eller kommando ...",

@@ -4880,7 +4880,13 @@
 		"no-command-totals": "Henüz komut toplamı yok.",
 		"alert-totals": "Uyarı toplamları",
 		"no-alert-totals": "Henüz uyarı toplamı yok.",
-		"select-viewer": "Detayları görmek için bir izleyici seçin."
+		"select-viewer": "Detayları görmek için bir izleyici seçin.",
+		"statistics": "İstatistikler",
+		"unique-commands": "Benzersiz komutlar",
+		"top-command": "En çok kullanılan komut",
+		"unique-alerts": "Benzersiz uyarılar",
+		"top-alert": "En çok kullanılan uyarı",
+		"none": "Yok"
 	},
 	"modqueue": {
 		"search-placeholder": "Kullanıcı adı veya komuta göre ara ...",

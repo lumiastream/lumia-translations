@@ -4878,7 +4878,13 @@
 		"no-command-totals": "No command totals yet.",
 		"alert-totals": "Alert totals",
 		"no-alert-totals": "No alert totals yet.",
-		"select-viewer": "Select a viewer to see details."
+		"select-viewer": "Select a viewer to see details.",
+		"statistics": "Statistics",
+		"unique-commands": "Unique commands",
+		"top-command": "Top command",
+		"unique-alerts": "Unique alerts",
+		"top-alert": "Top alert",
+		"none": "None"
 	},
 	"modqueue": {
 		"search-placeholder": "Search by username or command ...",

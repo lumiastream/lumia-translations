@@ -4878,7 +4878,13 @@
 		"no-command-totals": "Aucun total de commandes pour le moment.",
 		"alert-totals": "Totaux des alertes",
 		"no-alert-totals": "Aucun total d'alertes pour le moment.",
-		"select-viewer": "Sélectionnez un spectateur pour voir les détails."
+		"select-viewer": "Sélectionnez un spectateur pour voir les détails.",
+		"statistics": "Statistiques",
+		"unique-commands": "Commandes uniques",
+		"top-command": "Commande principale",
+		"unique-alerts": "Alertes uniques",
+		"top-alert": "Alerte principale",
+		"none": "Aucun"
 	},
 	"modqueue": {
 		"search-placeholder": "Rechercher par nom d'utilisateur ou commande ...",

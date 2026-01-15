@@ -4878,7 +4878,13 @@
 		"no-command-totals": "还没有命令总计。",
 		"alert-totals": "提醒总计",
 		"no-alert-totals": "还没有提醒总计。",
-		"select-viewer": "选择一个观众以查看详细信息。"
+		"select-viewer": "选择一个观众以查看详细信息。",
+		"statistics": "统计",
+		"unique-commands": "独特命令",
+		"top-command": "热门命令",
+		"unique-alerts": "独特提醒",
+		"top-alert": "热门提醒",
+		"none": "无"
 	},
 	"modqueue": {
 		"search-placeholder": "按用户名或指令搜索 ...",
