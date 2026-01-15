@@ -4788,6 +4788,7 @@
 	},
 	"loyalty": {
 		"status": "忠诚度积分 {{status}}",
+		"only-collect-while-live": "仅在直播期间收集忠诚度积分和观众个人资料数据",
 		"currency-name": "货币名称",
 		"settings": "设置",
 		"users": "用户",
@@ -4841,6 +4842,9 @@
 		"points-set-description": "所有 {{count}} 位选定的用户的积分都将设置为 {{targetPoints}} {{currencyName}}，例如，如果用户有 {{originalPoints}} {{currencyName}}，它将变为 {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "所有 {{count}} 位选定的用户都将有 {{operator}}{{targetPoints}} 积分添加到他们现有的积分中，例如，如果用户有 {{originalPoints}} {{currencyName}}，它将变为 {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "重置所有忠诚度用户"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "按用户名或指令搜索 ...",

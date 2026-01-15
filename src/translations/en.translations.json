@@ -4788,6 +4788,7 @@
 	},
 	"loyalty": {
 		"status": "Loyalty points {{status}}",
+		"only-collect-while-live": "Only collect loyalty points and viewer profiles data while streaming",
 		"currency-name": "Currency name",
 		"settings": "Settings",
 		"users": "Users",
@@ -4841,6 +4842,9 @@
 		"points-set-description": "All {{count}} selected users will have their points set to {{targetPoints}} {{currencyName}} e.g if the user has {{originalPoints}} {{currencyName}} it will become {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "All {{count}} selected users will have {{operator}}{{targetPoints}} points added to their existing points e.g if the user has {{originalPoints}} {{currencyName}} it will become {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "Reset All Loyalty Users"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "Search by username or command ...",

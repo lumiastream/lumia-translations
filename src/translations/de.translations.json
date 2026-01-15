@@ -4787,6 +4787,7 @@
 	},
 	"loyalty": {
 		"status": "Treuepunkte {{status}}",
+		"only-collect-while-live": "Treuepunkte und Zuschauerdaten nur während des Livestreams erfassen",
 		"currency-name": "Währungsname",
 		"settings": "Einstellungen",
 		"users": "Nutzer",
@@ -4840,6 +4841,9 @@
 		"points-set-description": "Allen ausgewählten Benutzern {{count}} werden ihre Punkte auf {{targetPoints}} {{currencyName}} gesetzt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{targetPoints}} {{currencyName}} haben",
 		"points-sum-description": "Allen ausgewählten Benutzern {{count}} werden {{operator}}{{targetPoints}} Punkte zu ihren vorhandenen Punkten hinzugefügt, z. B. wenn der Benutzer {{originalPoints}} {{currencyName}} hat, wird er {{resultPoints}} {{currencyName}} haben",
 		"reset-all-loyalty-users": "Alle Treuebenutzer zurücksetzen"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "Suche nach Benutzername oder Befehl ...",

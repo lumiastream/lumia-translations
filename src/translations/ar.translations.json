@@ -4788,6 +4788,7 @@
 	},
 	"loyalty": {
 		"status": "نقاط الولاء {{status}}",
+		"only-collect-while-live": "جمع نقاط الولاء وبيانات ملفات المشاهدين فقط أثناء البث المباشر",
 		"currency-name": "اسم العملة",
 		"settings": "الإعدادات",
 		"users": "المستخدمون",
@@ -4841,6 +4842,9 @@
 		"points-set-description": "سيتم تعيين نقاط جميع المستخدمين المحددين {{count}} إلى {{targetPoints}} {{currencyName}}، على سبيل المثال إذا كان لدى المستخدم {{originalPoints}} {{currencyName}} فسيصبح {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "سيتم إضافة {{operator}}{{targetPoints}} نقاط لجميع المستخدمين المحددين {{count}} إلى نقاطهم الحالية، على سبيل المثال إذا كان لدى المستخدم {{originalPoints}} {{currencyName}} فسيصبح {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "إعادة تعيين جميع مستخدمي الولاء"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "ابحث بواسطة اسم المستخدم أو الأمر ...",
