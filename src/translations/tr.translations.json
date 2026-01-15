@@ -4790,6 +4790,7 @@
 	},
 	"loyalty": {
 		"status": "Sadakat puanları {{status}}",
+		"only-collect-while-live": "Sadakat puanlarını ve izleyici profil verilerini yalnızca canlı yayın sırasında topla",
 		"currency-name": "Para birimi adı",
 		"settings": "Ayarlar",
 		"users": "Kullanıcılar",
@@ -4843,6 +4844,9 @@
 		"points-set-description": "Seçilen {{count}} kullanıcının puanları {{targetPoints}} {{currencyName}} olarak ayarlanacak, örneğin kullanıcı {{originalPoints}} {{currencyName}} puana sahipse, bu {{targetPoints}} {{currencyName}} olacaktır",
 		"points-sum-description": "Seçilen {{count}} kullanıcının mevcut puanlarına {{operator}}{{targetPoints}} puan eklenecek, örneğin kullanıcı {{originalPoints}} {{currencyName}} puana sahipse, bu {{resultPoints}} {{currencyName}} olacaktır",
 		"reset-all-loyalty-users": "Tüm sadakat kullanıcılarını sıfırla"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "Kullanıcı adı veya komuta göre ara ...",

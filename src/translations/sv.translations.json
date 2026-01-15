@@ -4790,6 +4790,7 @@
 	},
 	"loyalty": {
 		"status": "Loyalty points {{status}}",
+		"only-collect-while-live": "Samla endast lojalitetspoäng och tittarprofilsdata under livesändning",
 		"currency-name": "Currency name",
 		"settings": "Settings",
 		"users": "Users",
@@ -4843,6 +4844,9 @@
 		"points-set-description": "Alla {{count}} valda användare kommer att få sina poäng inställda på {{targetPoints}} {{currencyName}}, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "Alla {{count}} valda användare kommer att få {{operator}}{{targetPoints}} poäng tillagda till sina befintliga poäng, till exempel om användaren har {{originalPoints}} {{currencyName}}, kommer det att bli {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "Återställ alla lojalitetsanvändare"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "Sök efter användarnamn eller kommando ...",

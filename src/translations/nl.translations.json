@@ -4788,6 +4788,7 @@
 	},
 	"loyalty": {
 		"status": "Loyalty points {{status}}",
+		"only-collect-while-live": "Verzamel loyaliteitspunten en kijkersprofielgegevens alleen tijdens het livestreamen",
 		"currency-name": "Currency name",
 		"settings": "Settings",
 		"users": "Users",
@@ -4841,6 +4842,9 @@
 		"points-set-description": "Alle {{count}} geselecteerde gebruikers krijgen hun punten ingesteld op {{targetPoints}} {{currencyName}}, bijvoorbeeld als de gebruiker {{originalPoints}} {{currencyName}} heeft, wordt dit {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "Alle {{count}} geselecteerde gebruikers krijgen {{operator}}{{targetPoints}} punten toegevoegd aan hun bestaande punten, bijvoorbeeld als de gebruiker {{originalPoints}} {{currencyName}} heeft, wordt dit {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "Alle loyaliteitsgebruikers resetten"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "Zoek op gebruikersnaam of commando ...",

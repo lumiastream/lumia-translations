@@ -4788,6 +4788,7 @@
 	},
 	"loyalty": {
 		"status": "Loyalty points {{status}}",
+		"only-collect-while-live": "Collecter les points de fidélité et les données des profils des spectateurs uniquement pendant le streaming en direct",
 		"currency-name": "Currency name",
 		"settings": "Settings",
 		"users": "Users",
@@ -4841,6 +4842,9 @@
 		"points-set-description": "Tous les {{count}} utilisateurs sélectionnés auront leurs points définis à {{targetPoints}} {{currencyName}}, par exemple si l'utilisateur a {{originalPoints}} {{currencyName}}, il deviendra {{targetPoints}} {{currencyName}}",
 		"points-sum-description": "Tous les {{count}} utilisateurs sélectionnés auront {{operator}}{{targetPoints}} points ajoutés à leurs points existants, par exemple si l'utilisateur a {{originalPoints}} {{currencyName}}, il deviendra {{resultPoints}} {{currencyName}}",
 		"reset-all-loyalty-users": "Réinitialiser tous les utilisateurs fidélité"
+	},
+	"viewerprofiles": {
+		"only-collect-while-live": "Only collect viewer profile data while streaming"
 	},
 	"modqueue": {
 		"search-placeholder": "Rechercher par nom d'utilisateur ou commande ...",
