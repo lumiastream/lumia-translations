@@ -2399,7 +2399,7 @@
 		"user-triggered-kick-points-command": "{{username}} {{command}} kick puanını tetikledi",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} {{command}} kick puanlarını tetikledi ancak kullanıcı seviye koşullarını karşılamıyor",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} {{command}} kick puanlarını tetikledi ancak maliyet koşullarını karşılamıyor",
-		"ai_prompt": "Chat GPT, DeepSeek ve daha fazlasını kullanarak yapay zekaya bir komut gönderin. Örnek: {{ai_prompt=Komik bir alıntı yap}}. Veya kullanıcıların komut göndermesine izin verin {{ai_prompt={{message}}}}",
+		"ai_prompt": "ChatGPT, DeepSeek ve daha fazlası gibi AI modellerine basit bir sözdizimi kullanarak komutlar gönderin. Örnek: {{ai_prompt=Komik bir alıntı yap}}. Ayrıca kullanıcı girişini {{ai_prompt={{message}}}} ile kullanabilir veya konuşma bağlamını {{ai_prompt={{message}}|thread_name}} ile koruyabilirsiniz. Konuşmayı devam ettirebilmek için bir thread adı kullanın ",
 		"voice_command_full_sentence": "Bir sesli komut tetiklendiğinde yakalanan tam cümle",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",

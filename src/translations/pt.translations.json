@@ -2397,7 +2397,7 @@
 		"user-triggered-kick-points-command": "{{username}} acionou o ponto kick {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} acionou os pontos kick {{command}}, mas não atende às condições de nível de usuário",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} acionou os pontos kick {{command}}, mas não atende às condições de custo",
-		"ai_prompt": "Envie um prompt para a IA usando Chat GPT, DeepSeek e mais. Exemplo: {{ai_prompt=Faça uma citação engraçada}}. Ou permita que os usuários enviem um prompt {{ai_prompt={{message}}}}",
+		"ai_prompt": "Envie prompts para modelos de IA como ChatGPT, DeepSeek e mais usando uma sintaxe simples. Exemplo: {{ai_prompt=Faça uma citação engraçada}}. Você também pode usar a entrada do usuário com {{ai_prompt={{message}}}} ou manter o contexto da conversa com {{ai_prompt={{message}}|thread_name}}. Use um nome de thread para poder continuar a conversa ",
 		"voice_command_full_sentence": "A frase completa que foi captada quando um comando de voz foi acionado",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
