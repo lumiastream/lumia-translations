@@ -2396,7 +2396,7 @@
 		"user-triggered-kick-points-command": "{{username}} hat den Kick-Punkt {{command}} ausgelöst",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} hat die Kick-Punkte {{command}} ausgelöst, erfüllt jedoch nicht die Benutzerlevel-Bedingungen",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} hat die Kick-Punkte {{command}} ausgelöst, erfüllt jedoch nicht die Kostenbedingungen",
-		"ai_prompt": "Sende Eingabeaufforderungen an KI-Modelle wie ChatGPT, DeepSeek und mehr mit einer einfachen Syntax. Beispiel: {{ai_prompt=Mache ein lustiges Zitat}}. Du kannst auch Benutzereingaben mit {{ai_prompt={{message}}}} verwenden oder Gesprächskontext mit {{ai_prompt={{message}}|thread_name}} behalten. Verwende einen Thread-Namen, um die Unterhaltung fortsetzen zu können ",
+		"ai_prompt": "Sende Eingabeaufforderungen an KI-Modelle wie ChatGPT, DeepSeek und mehr mit einer einfachen Syntax. Beispiel: {{ai_prompt=Mache ein lustiges Zitat}}. Du kannst auch Benutzereingaben mit {{ai_prompt={{message}}}} verwenden oder Gesprächskontext mit {{ai_prompt={{message}}|thread_name|gpt-5-mini}} behalten. Verwende einen Thread-Namen, um die Unterhaltung fortsetzen zu können, und den letzten Parameter, um das gpt-5-mini-Modell zu verwenden.",
 		"voice_command_full_sentence": "Der vollständige Satz, der erfasst wurde, als ein Sprachbefehl ausgelöst wurde",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",

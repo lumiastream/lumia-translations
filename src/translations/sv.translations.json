@@ -2397,7 +2397,7 @@
 		"user-triggered-kick-points-command": "{{username}} utlöste kick-poängen {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte användarnivåvillkoren",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} utlöste kick-poängen {{command}}, men uppfyller inte kostnadsvillkoren",
-		"ai_prompt": "Skicka prompts till AI-modeller som ChatGPT, DeepSeek och mer med en enkel syntax. Exempel: {{ai_prompt=Gör ett roligt citat}}. Du kan också använda användarinmatning med {{ai_prompt={{message}}}} eller behålla konversationskontext med {{ai_prompt={{message}}|thread_name}}. Använd ett trådnamn för att kunna fortsätta konversationen ",
+		"ai_prompt": "Skicka prompts till AI-modeller som ChatGPT, DeepSeek och mer med en enkel syntax. Exempel: {{ai_prompt=Gör ett roligt citat}}. Du kan också använda användarinmatning med {{ai_prompt={{message}}}} eller behålla konversationskontext med {{ai_prompt={{message}}|thread_name|gpt-5-mini}}. Använd ett trådnamn för att kunna fortsätta konversationen, och den sista parametern för att använda gpt-5-mini-modellen.",
 		"voice_command_full_sentence": "Den fullständiga meningen som fångades upp när ett röstkommando utlöstes",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
