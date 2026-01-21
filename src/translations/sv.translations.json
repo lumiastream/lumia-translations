@@ -4286,7 +4286,7 @@
 		"message-but-not-live": "Hittade videon {{title}} men är inte live",
 		"message-using-fb-video": "Använda Facebook-video: {{title}}",
 		"message-couldnt-get-live": "Det gick inte att hämta livevideor {{error}}",
-		"message-new-reaction": "Ny reaktion {{reaction.key}} på din video",
+		"message-new-reaction": "Ny reaktion {{reactionKey}} på din video",
 		"message-gained-follower": "Fick en ny följare: {{newFollower}}",
 		"message-has-category-changed": "Kategori har ändrats till {{category}}",
 		"message-shared-channel": "{{username}} Delade din kanal",

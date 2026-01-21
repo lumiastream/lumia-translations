@@ -4284,7 +4284,7 @@
 		"message-but-not-live": "Gevonden filmpje {{title}} maar is niet live",
 		"message-using-fb-video": "Facebook-video gebruiken: {{title}}",
 		"message-couldnt-get-live": "Kon geen live video's krijgen {{error}}",
-		"message-new-reaction": "Nieuwe reactie {{reaction.key}} op je filmpje",
+		"message-new-reaction": "Nieuwe reactie {{reactionKey}} op je filmpje",
 		"message-gained-follower": "Er is een nieuwe volger bijgekomen: {{newFollower}}",
 		"message-has-category-changed": "Categorie is gewijzigd in {{category}}",
 		"message-shared-channel": "{{username}} Heeft je kanaal gedeeld",

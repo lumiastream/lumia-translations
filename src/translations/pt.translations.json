@@ -4284,7 +4284,7 @@
 		"message-but-not-live": "Vídeo encontrado {{title}} mas não está ao vivo",
 		"message-using-fb-video": "Usando o vídeo do Facebook: {{title}}",
 		"message-couldnt-get-live": "Não foi possível obter vídeos ao vivo {{error}}",
-		"message-new-reaction": "Nova reação {{reaction.key}} no seu vídeo",
+		"message-new-reaction": "Nova reação {{reactionKey}} no seu vídeo",
 		"message-gained-follower": "Ganhou um novo seguidor: {{newFollower}}",
 		"message-has-category-changed": "A categoria mudou para {{category}}",
 		"message-shared-channel": "{{username}} Compartilhou seu canal",

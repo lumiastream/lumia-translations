@@ -4284,7 +4284,7 @@
 		"message-but-not-live": "وجدت الفيديو {{title}} ولكنها ليست حية",
 		"message-using-fb-video": "باستخدام فيديو الفيسبوك: {{title}}",
 		"message-couldnt-get-live": "تعذر الحصول على مقاطع فيديو مباشرة {{error}}",
-		"message-new-reaction": "رد فعل جديد {{reaction.key}} على الفيديو الخاص بك",
+		"message-new-reaction": "رد فعل جديد {{reactionKey}} على الفيديو الخاص بك",
 		"message-gained-follower": "حصلت على متابع جديد: {{newFollower}}",
 		"message-has-category-changed": "لقد تغيرت الفئة إلى {{category}}",
 		"message-shared-channel": "{{username}} شاركت قناتك",
