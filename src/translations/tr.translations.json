@@ -4286,7 +4286,7 @@
 		"message-but-not-live": "Bulunan video {{title}} ama canlı değil",
 		"message-using-fb-video": "Facebook videosunu kullanma: {{title}}",
 		"message-couldnt-get-live": "Canlı videolar alınamadı {{error}}",
-		"message-new-reaction": "Yeni tepki {{reaction.key}} senin videonda",
+		"message-new-reaction": "Yeni tepki {{reactionKey}} senin videonda",
 		"message-gained-follower": "Yeni bir takipçi kazandı: {{newFollower}}",
 		"message-has-category-changed": "Kategori şu şekilde değiştirildi: {{category}}",
 		"message-shared-channel": "{{username}} Kanalınızı paylaştınız",

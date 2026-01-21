@@ -4284,7 +4284,7 @@
 		"message-but-not-live": "找到视频 {{title}} 但未在直播",
 		"message-using-fb-video": "正在使用 Facebook 视频：{{title}}",
 		"message-couldnt-get-live": "无法获取直播视频 {{error}}",
-		"message-new-reaction": "您的视频上出现新的反应 {{reaction.key}}",
+		"message-new-reaction": "您的视频上出现新的反应 {{reactionKey}}",
 		"message-gained-follower": "获得新关注者：{{newFollower}}",
 		"message-has-category-changed": "类别已更改为 {{category}}",
 		"message-shared-channel": "{{username}} 分享了您的频道",
