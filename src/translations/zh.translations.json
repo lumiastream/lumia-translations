@@ -2688,6 +2688,10 @@
 	"alerts": {
 		"alert": "警报",
 		"base-alert": "基本警报",
+		"base-alert-description": "基本警报是当没有变体匹配条件时播放的默认警报。变体允许您为特定条件创建自定义响应，但警报作为后备方案。当警报触发时，Lumia首先检查是否有任何变体匹配。如果没有变体匹配，将播放基本警报。",
+		"base-alert-disabled": "此警报已禁用。基本警报和所有变体都已禁用，当此警报关闭时不会触发。",
+		"cannot-use-with-base-alert": "此警报不能与基本警报一起使用。仅变体。",
+		"edit-base-alert": "编辑基本警报：",
 		"state-description": "激活后，此警报和变体将被监听",
 		"add-variation": "添加变体",
 		"order": "顺序",

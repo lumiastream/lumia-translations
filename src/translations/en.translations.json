@@ -2688,6 +2688,10 @@
 	"alerts": {
 		"alert": "Alert",
 		"base-alert": "Base Alert",
+		"base-alert-description": "The base alert is the default alert that plays when no variations match the conditions. Variations allow you to create custom responses for specific conditions, but the alert serves as the fallback. When an alert triggers, Lumia first checks if any variations match. If no variation matches, the base alert will play.",
+		"base-alert-disabled": "This alert is disabled. Both the base alert and all variations are disabled and will not trigger when this alert is off.",
+		"cannot-use-with-base-alert": "This alert cannot be used with the base alert. Variations only.",
+		"edit-base-alert": "Edit Base Alert:",
 		"state-description": "When activated this alert and variations will be listened to",
 		"add-variation": "Add Variation",
 		"order": "Order",

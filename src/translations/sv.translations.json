@@ -2690,6 +2690,10 @@
 	"alerts": {
 		"alert": "Varna",
 		"base-alert": "Basalarm",
+		"base-alert-description": "Basalarmen är standardvarningen som spelas när inga variationer matchar villkoren. Variationer gör att du kan skapa anpassade svar för specifika villkor, men varningen fungerar som en reserv. När en varning utlöses kontrollerar Lumia först om några variationer matchar. Om ingen variation matchar kommer basalarmen att spelas.",
+		"base-alert-disabled": "Denna varning är inaktiverad. Både basalarmen och alla variationer är inaktiverade och kommer inte att utlösas när denna varning är avstängd.",
+		"cannot-use-with-base-alert": "Denna varning kan inte användas med basalarmen. Endast variationer.",
+		"edit-base-alert": "Redigera Basalarm:",
 		"state-description": "När den är aktiverad kommer denna varning och varianter att lyssnas på",
 		"add-variation": "Lägg till variation",
 		"order": "Beställa",

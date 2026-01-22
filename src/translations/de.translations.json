@@ -2687,6 +2687,10 @@
 	"alerts": {
 		"alert": "Alert",
 		"base-alert": "Basisalarm",
+		"base-alert-description": "Der Basisalarm ist der Standardalarm, der abgespielt wird, wenn keine Variationen den Bedingungen entsprechen. Variationen ermöglichen es Ihnen, benutzerdefinierte Antworten für bestimmte Bedingungen zu erstellen, aber der Alarm dient als Fallback. Wenn ein Alarm ausgelöst wird, prüft Lumia zuerst, ob Variationen übereinstimmen. Wenn keine Variation übereinstimmt, wird der Basisalarm abgespielt.",
+		"base-alert-disabled": "Dieser Alarm ist deaktiviert. Sowohl der Basisalarm als auch alle Variationen sind deaktiviert und werden nicht ausgelöst, wenn dieser Alarm ausgeschaltet ist.",
+		"cannot-use-with-base-alert": "Dieser Alarm kann nicht mit dem Basisalarm verwendet werden. Nur Variationen.",
+		"edit-base-alert": "Basisalarm bearbeiten:",
 		"state-description": "Wenn diese Warnung und Variationen aktiviert sind, werden sie abgehört",
 		"add-variation": "Variation hinzufügen",
 		"order": "Befehl",

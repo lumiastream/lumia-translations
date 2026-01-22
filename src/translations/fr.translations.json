@@ -2688,6 +2688,10 @@
 	"alerts": {
 		"alert": "Alerte",
 		"base-alert": "Alerte de base",
+		"base-alert-description": "L'alerte de base est l'alerte par défaut qui se joue lorsqu'aucune variation ne correspond aux conditions. Les variations vous permettent de créer des réponses personnalisées pour des conditions spécifiques, mais l'alerte sert de solution de secours. Lorsqu'une alerte se déclenche, Lumia vérifie d'abord si des variations correspondent. Si aucune variation ne correspond, l'alerte de base sera jouée.",
+		"base-alert-disabled": "Cette alerte est désactivée. L'alerte de base et toutes les variations sont désactivées et ne se déclencheront pas lorsque cette alerte est désactivée.",
+		"cannot-use-with-base-alert": "Cette alerte ne peut pas être utilisée avec l'alerte de base. Variations uniquement.",
+		"edit-base-alert": "Modifier l'alerte de base :",
 		"state-description": "Lorsqu'elle est activée, cette alerte et ses variations seront écoutées",
 		"add-variation": "Ajouter une variante",
 		"order": "Commande",

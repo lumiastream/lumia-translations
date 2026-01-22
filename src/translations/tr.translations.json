@@ -2690,6 +2690,10 @@
 	"alerts": {
 		"alert": "Uyarı",
 		"base-alert": "Üs Uyarısı",
+		"base-alert-description": "Temel uyarı, hiçbir varyasyon koşullarla eşleşmediğinde çalan varsayılan uyarıdır. Varyasyonlar, belirli koşullar için özel yanıtlar oluşturmanıza olanak tanır, ancak uyarı yedek olarak hizmet eder. Bir uyarı tetiklendiğinde, Lumia önce herhangi bir varyasyonun eşleşip eşleşmediğini kontrol eder. Hiçbir varyasyon eşleşmezse, temel uyarı çalacaktır.",
+		"base-alert-disabled": "Bu uyarı devre dışı. Hem temel uyarı hem de tüm varyasyonlar devre dışı ve bu uyarı kapalıyken tetiklenmeyecektir.",
+		"cannot-use-with-base-alert": "Bu uyarı temel uyarı ile kullanılamaz. Sadece varyasyonlar.",
+		"edit-base-alert": "Temel Uyarıyı Düzenle:",
 		"state-description": "Etkinleştirildiğinde bu uyarı ve varyasyonları dinlenecektir",
 		"add-variation": "Varyasyon Ekle",
 		"order": "Emir",
