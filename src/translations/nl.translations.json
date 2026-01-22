@@ -2688,6 +2688,10 @@
 	"alerts": {
 		"alert": "Waarschuw",
 		"base-alert": "Basiswaarschuwing",
+		"base-alert-description": "De basiswaarschuwing is de standaardwaarschuwing die wordt afgespeeld wanneer geen variaties overeenkomen met de voorwaarden. Variaties stellen u in staat aangepaste reacties te maken voor specifieke voorwaarden, maar de waarschuwing dient als back-up. Wanneer een waarschuwing wordt geactiveerd, controleert Lumia eerst of er variaties overeenkomen. Als er geen variatie overeenkomt, wordt de basiswaarschuwing afgespeeld.",
+		"base-alert-disabled": "Deze waarschuwing is uitgeschakeld. Zowel de basiswaarschuwing als alle variaties zijn uitgeschakeld en worden niet geactiveerd wanneer deze waarschuwing uit staat.",
+		"cannot-use-with-base-alert": "Deze waarschuwing kan niet worden gebruikt met de basiswaarschuwing. Alleen variaties.",
+		"edit-base-alert": "Basiswaarschuwing bewerken:",
 		"state-description": "Indien geactiveerd, wordt naar deze waarschuwing en variaties geluisterd",
 		"add-variation": "Variatie toevoegen",
 		"order": "Volgorde",

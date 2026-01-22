@@ -2688,6 +2688,10 @@
 	"alerts": {
 		"alert": "Alerta",
 		"base-alert": "Alerta básica",
+		"base-alert-description": "La alerta básica es la alerta predeterminada que se reproduce cuando ninguna variación coincide con las condiciones. Las variaciones te permiten crear respuestas personalizadas para condiciones específicas, pero la alerta sirve como respaldo. Cuando se activa una alerta, Lumia primero verifica si alguna variación coincide. Si ninguna variación coincide, se reproducirá la alerta básica.",
+		"base-alert-disabled": "Esta alerta está desactivada. Tanto la alerta básica como todas las variaciones están desactivadas y no se activarán cuando esta alerta esté desactivada.",
+		"cannot-use-with-base-alert": "Esta alerta no se puede usar con la alerta básica. Solo variaciones.",
+		"edit-base-alert": "Editar Alerta Básica:",
 		"state-description": "Cuando se active esta alerta y se escucharán variaciones.",
 		"add-variation": "Agregar variación",
 		"order": "Orden",
