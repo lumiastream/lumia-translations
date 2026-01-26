@@ -130,7 +130,8 @@
 		"or": "أو",
 		"muted": "صامت",
 		"unmuted": "غير صامت",
-		"true": "صحيح"
+		"true": "صحيح",
+		"pay": "دفع"
 	},
 	"auth": {
 		"login": "تسجيل الدخول",
@@ -5202,7 +5203,23 @@
 		"search-no-my-voices": "لا توجد تحميلات مطابقة. جرب بحثًا آخر.",
 		"voice-processing-delete-block": "يرجى الانتظار حتى تنتهي المعالجة قبل حذف هذا الصوت.",
 		"voice-processing-wait": "لا يزال يتم معالجة هذا الصوت. يرجى الانتظار حتى يصبح جاهزًا.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "يجب الرد",
+		"topup-load-error": "تعذر تحميل الإضافات.",
+		"topup-balance": "رصيد الإضافة",
+		"topup-never-expires": "لا تنتهي صلاحيته أبدًا",
+		"topup-button": "إضافة",
+		"topup-cta-title": "هل تحتاج إلى المزيد من الأحرف؟",
+		"topup-cta-subtitle": "تُستخدم الإضافات بعد حصتك الشهرية ولا تنتهي صلاحيتها أبدًا.",
+		"topup-packages-title": "الحزم المتاحة",
+		"topup-history-title": "سجل الإضافات",
+		"topup-history-empty": "لا توجد إضافات حتى الآن.",
+		"topup-title": "إضافة TTS",
+		"topup-pay": "ادفع ${{amount}}",
+		"topup-token-error": "تعذر تحميل خيارات الدفع.",
+		"topup-success": "تمت إضافة الإضافة إلى رصيدك.",
+		"topup-failed": "فشلت عملية الدفع.",
+		"topup-package": "حزمة الإضافة",
+		"topup-characters": "{{formatted}} حرف"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

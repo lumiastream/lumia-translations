@@ -130,7 +130,8 @@
 		"or": "Or",
 		"muted": "Muted",
 		"unmuted": "Unmuted",
-		"true": "True"
+		"true": "True",
+		"pay": "Pay"
 	},
 	"auth": {
 		"login": "Login",
@@ -5202,7 +5203,23 @@
 		"search-no-my-voices": "No matching uploads. Try a different search.",
 		"voice-processing-delete-block": "Please wait for processing to finish before deleting this voice.",
 		"voice-processing-wait": "This voice is still processing. Please wait until it is ready.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "Should reply",
+		"topup-load-error": "Unable to load top-ups.",
+		"topup-balance": "Top-up balance",
+		"topup-never-expires": "Never expires",
+		"topup-button": "Top Up",
+		"topup-cta-title": "Need more characters?",
+		"topup-cta-subtitle": "Top-ups are used after your monthly quota and never expire.",
+		"topup-packages-title": "Available Packages",
+		"topup-history-title": "Top-up History",
+		"topup-history-empty": "No top-ups yet.",
+		"topup-title": "TTS top-up",
+		"topup-pay": "Pay ${{amount}}",
+		"topup-token-error": "Unable to load payment options.",
+		"topup-success": "Top-up added to your balance.",
+		"topup-failed": "Payment failed.",
+		"topup-package": "Top-up package",
+		"topup-characters": "{{formatted}} characters"
 	},
 	"copy-the-remote-key": "Copy the remote key",
 	"crowdcontrol-auth-failed": "Crowdcontrol auth failed",

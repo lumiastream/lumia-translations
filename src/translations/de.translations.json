@@ -129,7 +129,8 @@
 		"or": "Oder",
 		"muted": "Muted",
 		"unmuted": "Unmuted",
-		"true": "True"
+		"true": "True",
+		"pay": "Bezahlen"
 	},
 	"auth": {
 		"login": "Anmeldung",
@@ -5201,7 +5202,23 @@
 		"search-no-my-voices": "Keine passenden Uploads. Versuche es mit einer anderen Suche.",
 		"voice-processing-delete-block": "Bitte warte, bis die Verarbeitung abgeschlossen ist, bevor du diese Stimme löschst.",
 		"voice-processing-wait": "Diese Stimme wird noch verarbeitet. Bitte warte, bis sie bereit ist.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "Sollte antworten",
+		"topup-load-error": "Aufladungen konnten nicht geladen werden.",
+		"topup-balance": "Aufladeguthaben",
+		"topup-never-expires": "Läuft nie ab",
+		"topup-button": "Aufladen",
+		"topup-cta-title": "Brauchen Sie mehr Zeichen?",
+		"topup-cta-subtitle": "Aufladungen werden nach Ihrem monatlichen Kontingent verwendet und laufen nie ab.",
+		"topup-packages-title": "Verfügbare Pakete",
+		"topup-history-title": "Aufladeverlauf",
+		"topup-history-empty": "Noch keine Aufladungen.",
+		"topup-title": "TTS-Aufladung",
+		"topup-pay": "${{amount}} bezahlen",
+		"topup-token-error": "Zahlungsoptionen konnten nicht geladen werden.",
+		"topup-success": "Aufladung zu Ihrem Guthaben hinzugefügt.",
+		"topup-failed": "Zahlung fehlgeschlagen.",
+		"topup-package": "Aufladepaket",
+		"topup-characters": "{{formatted}} Zeichen"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

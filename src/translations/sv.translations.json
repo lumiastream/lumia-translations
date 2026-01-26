@@ -130,7 +130,8 @@
 		"or": "Eller",
 		"muted": "Muted",
 		"unmuted": "Unmuted",
-		"true": "True"
+		"true": "True",
+		"pay": "Betala"
 	},
 	"auth": {
 		"login": "Logga in",
@@ -5204,7 +5205,23 @@
 		"search-no-my-voices": "Inga matchande uppladdningar. Försök en annan sökning.",
 		"voice-processing-delete-block": "Vänta tills bearbetningen är klar innan du tar bort den här rösten.",
 		"voice-processing-wait": "Den här rösten bearbetas fortfarande. Vänta tills den är klar.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "Borde svara",
+		"topup-load-error": "Kunde inte ladda påfyllningar.",
+		"topup-balance": "Påfyllningssaldo",
+		"topup-never-expires": "Upphör aldrig",
+		"topup-button": "Fyll på",
+		"topup-cta-title": "Behöver du fler tecken?",
+		"topup-cta-subtitle": "Påfyllningar används efter din månadskvot och upphör aldrig.",
+		"topup-packages-title": "Tillgängliga Paket",
+		"topup-history-title": "Påfyllningshistorik",
+		"topup-history-empty": "Inga påfyllningar ännu.",
+		"topup-title": "TTS-påfyllning",
+		"topup-pay": "Betala ${{amount}}",
+		"topup-token-error": "Kunde inte ladda betalningsalternativ.",
+		"topup-success": "Påfyllning tillagd till ditt saldo.",
+		"topup-failed": "Betalningen misslyckades.",
+		"topup-package": "Påfyllningspaket",
+		"topup-characters": "{{formatted}} tecken"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

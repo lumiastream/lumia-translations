@@ -130,7 +130,8 @@
 		"or": "Veya",
 		"muted": "Muted",
 		"unmuted": "Unmuted",
-		"true": "True"
+		"true": "True",
+		"pay": "Öde"
 	},
 	"auth": {
 		"login": "Giriş yapmak",
@@ -5204,7 +5205,23 @@
 		"search-no-my-voices": "Eşleşen yükleme yok. Farklı bir arama deneyin.",
 		"voice-processing-delete-block": "Bu sesi silmeden önce işlemin tamamlanmasını bekleyin.",
 		"voice-processing-wait": "Bu ses hala işleniyor. Hazır olana kadar bekleyin.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "Yanıtlamalı",
+		"topup-load-error": "Yüklemeler yüklenemedi.",
+		"topup-balance": "Yükleme bakiyesi",
+		"topup-never-expires": "Asla sona ermez",
+		"topup-button": "Yükle",
+		"topup-cta-title": "Daha fazla karaktere ihtiyacınız var mı?",
+		"topup-cta-subtitle": "Yüklemeler aylık kotanızdan sonra kullanılır ve asla sona ermez.",
+		"topup-packages-title": "Mevcut Paketler",
+		"topup-history-title": "Yükleme Geçmişi",
+		"topup-history-empty": "Henüz yükleme yok.",
+		"topup-title": "TTS yükleme",
+		"topup-pay": "${{amount}} Öde",
+		"topup-token-error": "Ödeme seçenekleri yüklenemedi.",
+		"topup-success": "Yükleme bakiyenize eklendi.",
+		"topup-failed": "Ödeme başarısız oldu.",
+		"topup-package": "Yükleme paketi",
+		"topup-characters": "{{formatted}} karakter"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

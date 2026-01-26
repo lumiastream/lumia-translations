@@ -130,7 +130,8 @@
 		"or": "Ou",
 		"muted": "Muted",
 		"unmuted": "Unmuted",
-		"true": "True"
+		"true": "True",
+		"pay": "Pagar"
 	},
 	"auth": {
 		"login": "Entrar",
@@ -5202,7 +5203,23 @@
 		"search-no-my-voices": "Nenhum envio correspondente. Tente uma busca diferente.",
 		"voice-processing-delete-block": "Aguarde o término do processamento antes de excluir esta voz.",
 		"voice-processing-wait": "Esta voz ainda está sendo processada. Aguarde até que esteja pronta.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "Deveria responder",
+		"topup-load-error": "Não foi possível carregar as recargas.",
+		"topup-balance": "Saldo de recarga",
+		"topup-never-expires": "Nunca expira",
+		"topup-button": "Recarregar",
+		"topup-cta-title": "Precisa de mais caracteres?",
+		"topup-cta-subtitle": "As recargas são usadas após sua cota mensal e nunca expiram.",
+		"topup-packages-title": "Pacotes Disponíveis",
+		"topup-history-title": "Histórico de Recargas",
+		"topup-history-empty": "Ainda não há recargas.",
+		"topup-title": "Recarga TTS",
+		"topup-pay": "Pagar ${{amount}}",
+		"topup-token-error": "Não foi possível carregar as opções de pagamento.",
+		"topup-success": "Recarga adicionada ao seu saldo.",
+		"topup-failed": "Pagamento falhou.",
+		"topup-package": "Pacote de recarga",
+		"topup-characters": "{{formatted}} caracteres"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

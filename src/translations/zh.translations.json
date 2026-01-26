@@ -130,7 +130,8 @@
 		"or": "或",
 		"muted": "静音",
 		"unmuted": "取消静音",
-		"true": "真"
+		"true": "真",
+		"pay": "支付"
 	},
 	"auth": {
 		"login": "登录",
@@ -5202,7 +5203,23 @@
 		"search-no-my-voices": "无匹配上传。请尝试其他搜索。",
 		"voice-processing-delete-block": "在删除此语音之前，请等待处理完成。",
 		"voice-processing-wait": "此语音仍在处理中，请等待其准备就绪。",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "应该回复",
+		"topup-load-error": "无法加载充值。",
+		"topup-balance": "充值余额",
+		"topup-never-expires": "永不过期",
+		"topup-button": "充值",
+		"topup-cta-title": "需要更多字符？",
+		"topup-cta-subtitle": "充值将在您的月度配额用完后使用，且永不过期。",
+		"topup-packages-title": "可用套餐",
+		"topup-history-title": "充值历史",
+		"topup-history-empty": "暂无充值记录。",
+		"topup-title": "TTS充值",
+		"topup-pay": "支付 ${{amount}}",
+		"topup-token-error": "无法加载支付选项。",
+		"topup-success": "充值已添加到您的余额。",
+		"topup-failed": "支付失败。",
+		"topup-package": "充值套餐",
+		"topup-characters": "{{formatted}} 字符"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"
