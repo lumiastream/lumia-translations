@@ -130,7 +130,8 @@
 		"or": "Ou",
 		"muted": "Muted",
 		"unmuted": "Unmuted",
-		"true": "True"
+		"true": "True",
+		"pay": "Payer"
 	},
 	"auth": {
 		"login": "Se connecter",
@@ -5202,7 +5203,23 @@
 		"search-no-my-voices": "Aucun téléversement correspondant. Essayez une autre recherche.",
 		"voice-processing-delete-block": "Veuillez attendre la fin du traitement avant de supprimer cette voix.",
 		"voice-processing-wait": "Cette voix est toujours en cours de traitement. Veuillez patienter jusqu'à ce qu'elle soit prête.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "Devrait répondre",
+		"topup-load-error": "Impossible de charger les recharges.",
+		"topup-balance": "Solde de recharge",
+		"topup-never-expires": "N'expire jamais",
+		"topup-button": "Recharger",
+		"topup-cta-title": "Besoin de plus de caractères ?",
+		"topup-cta-subtitle": "Les recharges sont utilisées après votre quota mensuel et n'expirent jamais.",
+		"topup-packages-title": "Forfaits Disponibles",
+		"topup-history-title": "Historique des Recharges",
+		"topup-history-empty": "Aucune recharge pour le moment.",
+		"topup-title": "Recharge TTS",
+		"topup-pay": "Payer ${{amount}}",
+		"topup-token-error": "Impossible de charger les options de paiement.",
+		"topup-success": "Recharge ajoutée à votre solde.",
+		"topup-failed": "Le paiement a échoué.",
+		"topup-package": "Forfait de recharge",
+		"topup-characters": "{{formatted}} caractères"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

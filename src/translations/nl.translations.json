@@ -130,7 +130,8 @@
 		"or": "Of",
 		"muted": "Muted",
 		"unmuted": "Unmuted",
-		"true": "True"
+		"true": "True",
+		"pay": "Betalen"
 	},
 	"auth": {
 		"login": "Log in",
@@ -5202,7 +5203,23 @@
 		"search-no-my-voices": "Geen overeenkomende uploads. Probeer een andere zoekopdracht.",
 		"voice-processing-delete-block": "Wacht tot de verwerking is voltooid voordat je deze stem verwijdert.",
 		"voice-processing-wait": "Deze stem wordt nog verwerkt. Wacht tot deze klaar is.",
-		"shouldReply": "Shouldreply"
+		"shouldReply": "Zou moeten antwoorden",
+		"topup-load-error": "Kan opwaarderingen niet laden.",
+		"topup-balance": "Opwaardeersaldo",
+		"topup-never-expires": "Verloopt nooit",
+		"topup-button": "Opwaarderen",
+		"topup-cta-title": "Meer tekens nodig?",
+		"topup-cta-subtitle": "Opwaarderingen worden gebruikt na uw maandelijkse quotum en verlopen nooit.",
+		"topup-packages-title": "Beschikbare Pakketten",
+		"topup-history-title": "Opwaardeergeschiedenis",
+		"topup-history-empty": "Nog geen opwaarderingen.",
+		"topup-title": "TTS-opwaardering",
+		"topup-pay": "Betaal ${{amount}}",
+		"topup-token-error": "Kan betaalopties niet laden.",
+		"topup-success": "Opwaardering toegevoegd aan uw saldo.",
+		"topup-failed": "Betaling mislukt.",
+		"topup-package": "Opwaardeerpakket",
+		"topup-characters": "{{formatted}} tekens"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"
