@@ -5038,6 +5038,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "Belangrijke informatie",
+		"topup-info-characters": "Je ontvangt {{formatted}} tekens direct na aankoop op je account.",
+		"topup-info-no-expiry": "Tekens verlopen nooit en blijven onbeperkt op je account staan.",
+		"topup-info-non-refundable": "Alle aankopen van tekens zijn definitief en niet terugbetaalbaar.",
+		"audio-duration-too-long": "Het audiobestand moet korter zijn dan {{maxMinutes}} minuten. Je bestand is {{actualMinutes}} minuten.",
+		"audio-duration-check-failed": "Controle van audioduur mislukt. Probeer een ander bestand.",
 		"tab-my-voices": "Mijn stemmen",
 		"tab-admin": "Beheer",
 		"fetch-my-error": "Kan je stemmen nu niet laden.",

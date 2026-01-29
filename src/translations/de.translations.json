@@ -5037,6 +5037,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "Wichtige Informationen",
+		"topup-info-characters": "Du erhältst {{formatted}} Zeichen unmittelbar nach dem Kauf auf dein Konto gutgeschrieben.",
+		"topup-info-no-expiry": "Zeichen verfallen nie und bleiben dauerhaft auf deinem Konto.",
+		"topup-info-non-refundable": "Alle Zeichenkäufe sind endgültig und nicht erstattungsfähig.",
+		"audio-duration-too-long": "Die Audiodatei darf maximal {{maxMinutes}} Minuten lang sein. Deine Datei ist {{actualMinutes}} Minuten lang.",
+		"audio-duration-check-failed": "Die Audiodauer konnte nicht geprüft werden. Bitte versuche eine andere Datei.",
 		"tab-my-voices": "Meine Stimmen",
 		"tab-admin": "Admin",
 		"fetch-my-error": "Deine Stimmen können derzeit nicht geladen werden.",

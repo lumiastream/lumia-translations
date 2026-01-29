@@ -5038,6 +5038,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "Información importante",
+		"topup-info-characters": "Recibirás {{formatted}} caracteres añadidos a tu cuenta inmediatamente después de la compra.",
+		"topup-info-no-expiry": "Los caracteres no caducan y permanecen en tu cuenta indefinidamente.",
+		"topup-info-non-refundable": "Todas las compras de caracteres son definitivas y no reembolsables.",
+		"audio-duration-too-long": "El archivo de audio debe durar menos de {{maxMinutes}} minutos. Tu archivo dura {{actualMinutes}} minutos.",
+		"audio-duration-check-failed": "No se pudo comprobar la duración del audio. Prueba con otro archivo.",
 		"tab-my-voices": "Mis voces",
 		"tab-admin": "Administración",
 		"fetch-my-error": "No se pueden cargar tus voces en este momento.",

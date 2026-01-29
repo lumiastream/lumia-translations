@@ -5038,6 +5038,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "معلومات مهمة",
+		"topup-info-characters": "ستُضاف {{formatted}} حرفًا إلى حسابك فور إتمام الشراء.",
+		"topup-info-no-expiry": "الحروف لا تنتهي صلاحيتها وتبقى في حسابك إلى أجل غير مسمى.",
+		"topup-info-non-refundable": "جميع مشتريات الحروف نهائية ولا تُسترجع.",
+		"audio-duration-too-long": "يجب أن تكون مدة الملف الصوتي أقل من {{maxMinutes}} دقيقة. مدة ملفك {{actualMinutes}} دقيقة.",
+		"audio-duration-check-failed": "فشل التحقق من مدة الصوت. يرجى تجربة ملف آخر.",
 		"tab-my-voices": "أصواتي",
 		"tab-admin": "الإدارة",
 		"fetch-my-error": "تعذّر تحميل أصواتك الآن.",

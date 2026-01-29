@@ -5038,6 +5038,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "重要信息",
+		"topup-info-characters": "购买完成后，{{formatted}} 个字符将立即添加到你的账户。",
+		"topup-info-no-expiry": "字符永不过期，将永久保留在你的账户中。",
+		"topup-info-non-refundable": "所有字符购买均为最终交易，不可退款。",
+		"audio-duration-too-long": "音频文件时长必须少于 {{maxMinutes}} 分钟。你的文件时长为 {{actualMinutes}} 分钟。",
+		"audio-duration-check-failed": "无法检查音频时长，请尝试其他文件。",
 		"tab-my-voices": "我的语音",
 		"tab-admin": "管理",
 		"fetch-my-error": "当前无法加载你的语音。",
