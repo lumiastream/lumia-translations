@@ -5040,6 +5040,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "Viktig information",
+		"topup-info-characters": "Du får {{formatted}} tecken tillagda ditt konto direkt efter köpet.",
+		"topup-info-no-expiry": "Tecken löper aldrig ut och förblir på ditt konto obegränsat.",
+		"topup-info-non-refundable": "Alla teckenköp är slutgiltiga och kan inte återbetalas.",
+		"audio-duration-too-long": "Ljudfilen måste vara kortare än {{maxMinutes}} minuter. Din fil är {{actualMinutes}} minuter.",
+		"audio-duration-check-failed": "Kunde inte kontrollera ljudlängden. Försök med en annan fil.",
 		"tab-my-voices": "Mina röster",
 		"tab-admin": "Admin",
 		"fetch-my-error": "Det går inte att läsa in dina röster just nu.",

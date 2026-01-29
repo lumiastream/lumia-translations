@@ -5038,6 +5038,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "Important Information",
+		"topup-info-characters": "You will receive {{formatted}} characters added to your account immediately after purchase.",
+		"topup-info-no-expiry": "Characters never expire and remain in your account indefinitely.",
+		"topup-info-non-refundable": "All character purchases are final and non-refundable.",
+		"audio-duration-too-long": "Audio file must be less than {{maxMinutes}} minutes long. Your file is {{actualMinutes}} minutes.",
+		"audio-duration-check-failed": "Failed to check audio duration. Please try a different file.",
 		"tab-my-voices": "My Voices",
 		"tab-admin": "Admin",
 		"fetch-my-error": "Unable to load your voices right now.",

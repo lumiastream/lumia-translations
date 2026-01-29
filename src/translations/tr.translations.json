@@ -5040,6 +5040,12 @@
 		"category-": "Category"
 	},
 	"tts": {
+		"topup-important-info": "Önemli bilgi",
+		"topup-info-characters": "Satın alma işleminden hemen sonra hesabınıza {{formatted}} karakter eklenecektir.",
+		"topup-info-no-expiry": "Karakterler hiçbir zaman sona ermez ve hesabınızda süresiz olarak kalır.",
+		"topup-info-non-refundable": "Tüm karakter satın alımları kesindir ve iade edilmez.",
+		"audio-duration-too-long": "Ses dosyası {{maxMinutes}} dakikadan kısa olmalıdır. Dosyanız {{actualMinutes}} dakika.",
+		"audio-duration-check-failed": "Ses süresi kontrol edilemedi. Lütfen farklı bir dosya deneyin.",
 		"tab-my-voices": "Seslerim",
 		"tab-admin": "Yönetim",
 		"fetch-my-error": "Şu anda seslerin yüklenemiyor.",
