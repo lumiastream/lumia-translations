@@ -5224,7 +5224,8 @@
 		"topup-success": "Aufladung zu Ihrem Guthaben hinzugefügt.",
 		"topup-failed": "Zahlung fehlgeschlagen.",
 		"topup-package": "Aufladepaket",
-		"topup-characters": "{{formatted}} Zeichen"
+		"topup-characters": "{{formatted}} Zeichen",
+		"select-command-label": "Wählen Sie aus, zu welchem Befehlstyp Sie diese TTS-Stimme hinzufügen möchten"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

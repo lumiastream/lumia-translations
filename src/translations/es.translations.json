@@ -5225,7 +5225,8 @@
 		"topup-success": "Recarga agregada a tu saldo.",
 		"topup-failed": "El pago falló.",
 		"topup-package": "Paquete de recarga",
-		"topup-characters": "{{formatted}} caracteres"
+		"topup-characters": "{{formatted}} caracteres",
+		"select-command-label": "Seleccione a qué tipo de comando desea agregar esta voz de tts"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

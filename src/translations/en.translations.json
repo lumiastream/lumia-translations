@@ -5225,7 +5225,8 @@
 		"topup-success": "Top-up added to your balance.",
 		"topup-failed": "Payment failed.",
 		"topup-package": "Top-up package",
-		"topup-characters": "{{formatted}} characters"
+		"topup-characters": "{{formatted}} characters",
+		"select-command-label": "Select to which command type you want to add this tts voice"
 	},
 	"copy-the-remote-key": "Copy the remote key",
 	"crowdcontrol-auth-failed": "Crowdcontrol auth failed",
