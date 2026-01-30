@@ -5227,7 +5227,8 @@
 		"topup-success": "Påfyllning tillagd till ditt saldo.",
 		"topup-failed": "Betalningen misslyckades.",
 		"topup-package": "Påfyllningspaket",
-		"topup-characters": "{{formatted}} tecken"
+		"topup-characters": "{{formatted}} tecken",
+		"select-command-label": "Välj vilken kommandotyp du vill lägga till denna tts-röst"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"

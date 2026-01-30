@@ -5227,7 +5227,8 @@
 		"topup-success": "Yükleme bakiyenize eklendi.",
 		"topup-failed": "Ödeme başarısız oldu.",
 		"topup-package": "Yükleme paketi",
-		"topup-characters": "{{formatted}} karakter"
+		"topup-characters": "{{formatted}} karakter",
+		"select-command-label": "Bu tts sesini hangi komut türüne eklemek istediğinizi seçin"
 	},
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"
