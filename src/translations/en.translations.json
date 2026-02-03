@@ -552,7 +552,8 @@
 		"interactions": "Interactions",
 		"api": "API",
 		"advanced": "Advanced",
-		"viewer_profiles": "Viewer Profiles"
+		"viewer_profiles": "Viewer Profiles",
+		"lightConfiguration": "Light Configuration"
 	},
 	"home": {
 		"test-setup": "Test Setup",
@@ -1080,6 +1081,9 @@
 		"chatbot-settings": "Chat Bot Settings",
 		"cooldown-settings": "Cooldown Settings",
 		"wait-for-tts-to-complete": "Wait for TTS to finish before completing command",
+		"wait-for-tts-before-next-action": "Wait for TTS to finish before moving on the next action",
+		"wait-for-audio-before-next-action": "Wait for audio to complete before continuing to the next action.",
+		"wait-for-actions-to-complete": "Wait for all actions to complete before allowing the command to be over (duration still counts while actions run).",
 		"add-command": "Add Command",
 		"add-extension-command": "Add Extension Command",
 		"te-order-flow": "Order your commands based on how you want them to show on your extension",
@@ -3301,7 +3305,12 @@
 		"gift-your-friends-subscription": "Gift your friends a subscription",
 		"go-to-shop": "Go to shop",
 		"gradient-color": "Gradient color",
-		"obs-description": "Obs description"
+		"obs-description": "Obs description",
+		"light-configuration": "Light Configuration",
+		"light-configuration-description": "Manage your lights, set aliases, test individual lights, and copy or replace lights across configurations.",
+		"light-configuration-info": "Use this tool to set custom aliases for your lights, test individual lights, and copy, replace, or remove lights across all your commands, alerts, scenes, animations, and other configurations.",
+		"open-light-configuration": "Open Light Configuration",
+		"open-device-configuration": "Open Device Configuration"
 	},
 	"billing": {
 		"card": "Card",
@@ -4849,6 +4858,11 @@
 		"reset-all-loyalty-users": "Reset All Loyalty Users"
 	},
 	"viewerprofiles": {
+		"description": "Track viewer activity, commands, alerts, and achievements.",
+		"turn-on": "Turn On Viewer Profiles",
+		"enabled-description": "Enable or disable viewer profile collection.",
+		"unlocked-by": "Unlocked by {{count}} users",
+		"enabled": "Enable viewer profiles",
 		"only-collect-while-live": "Only collect viewer profile data while streaming",
 		"avatar-alt": "Viewer",
 		"error-failed-to-load": "Failed to load viewer profiles.",
@@ -4925,6 +4939,7 @@
 		"uninstall-confirm-message": "Are you sure you want to uninstall \"{{name}}\"? This action cannot be undone.",
 		"uninstall-confirm": "Yes, Uninstall",
 		"marketplace": "Marketplace",
+		"marketplace-title": "Plugin Marketplace",
 		"install": "Install",
 		"installed": "Installed",
 		"uninstall": "Uninstall",
@@ -5248,5 +5263,8 @@
 	"login": "Login",
 	"remember-prompts": {
 		"never-show-obs-import": "Never show obs import"
+	},
+	"lights": {
+		"replacement-modal-title": "Copy or Replace Individual Lights"
 	}
 }
