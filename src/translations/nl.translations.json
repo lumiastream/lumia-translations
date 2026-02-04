@@ -2897,6 +2897,7 @@
     "viewerqueueEnded": "Viewer Queue Ended",
     "viewerAchievement": "Kijkersprestatie",
     "variableChanged": "Variabele gewijzigd",
+    "variableChanged-empty-value": "Laat de voorwaardewaarde leeg om bij elke wijziging te triggeren.",
     "tier-equal": "Tier equal to",
     "effect-name-equal-crowdcontrol": "Effect name exactly as shown in Crowd Control",
     "slots-combo-equal": "Slots combo equal to",

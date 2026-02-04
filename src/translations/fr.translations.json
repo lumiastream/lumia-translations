@@ -2897,6 +2897,7 @@
     "viewerqueueEnded": "Viewer Queue Ended",
     "viewerAchievement": "Succès du spectateur",
     "variableChanged": "Variable modifiée",
+    "variableChanged-empty-value": "Laissez la valeur de condition vide pour déclencher à chaque changement.",
     "tier-equal": "Tier equal to",
     "effect-name-equal-crowdcontrol": "Effect name exactly as shown in Crowd Control",
     "slots-combo-equal": "Slots combo equal to",

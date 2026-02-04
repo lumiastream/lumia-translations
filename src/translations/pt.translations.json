@@ -2748,6 +2748,7 @@
     "viewerqueueEnded": "Fila de Espectadores Terminada",
     "viewerAchievement": "Conquista do espectador",
     "variableChanged": "Variável alterada",
+    "variableChanged-empty-value": "Deixe o valor da condição vazio para acionar em qualquer mudança.",
     "predictionStarted": "Previsão Iniciada",
     "predictionProgressed": "Previsão Progrediu",
     "predictionLocked": "Previsão Bloqueada",

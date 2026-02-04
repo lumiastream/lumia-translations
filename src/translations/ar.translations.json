@@ -2897,6 +2897,7 @@
     "viewerqueueEnded": "تم إنهاء قائمة انتظار المشاهدين",
     "viewerAchievement": "إنجاز المشاهد",
     "variableChanged": "تم تغيير المتغير",
+    "variableChanged-empty-value": "اترك قيمة الشرط فارغة ليتم التشغيل عند أي تغيير.",
     "tier-equal": "المستوى يساوي",
     "effect-name-equal-crowdcontrol": "اسم التأثير كما هو موضح في Crowd Control",
     "slots-combo-equal": "تركيبة السلوتس تساوي",

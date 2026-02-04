@@ -2896,6 +2896,7 @@
     "viewerqueueEnded": "Zuschauer-Warteschlange beendet",
     "viewerAchievement": "Zuschauer-Errungenschaft",
     "variableChanged": "Variable geändert",
+    "variableChanged-empty-value": "Lassen Sie den Bedingungswert leer, um bei jeder Änderung auszulösen.",
     "tier-equal": "Stufe gleich",
     "effect-name-equal-crowdcontrol": "Effektname genau wie in Crowd Control angegeben",
     "slots-combo-equal": "Slots-Kombination gleich",

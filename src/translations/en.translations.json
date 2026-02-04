@@ -2751,6 +2751,7 @@
 		"viewerqueueEnded": "Viewer Queue Ended",
 		"viewerAchievement": "Viewer Achievement",
 		"variableChanged": "Variable Changed",
+		"variableChanged-empty-value": "Leave Condition Value empty to trigger on any change.",
 		"predictionStarted": "Prediction Started",
 		"predictionProgressed": "Prediction Progressed",
 		"predictionLocked": "Prediction Locked",

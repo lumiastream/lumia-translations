@@ -2750,6 +2750,7 @@
     "viewerqueueEnded": "İzleyici Sırası Sona Erdi",
     "viewerAchievement": "İzleyici Başarısı",
     "variableChanged": "Değişken değişti",
+    "variableChanged-empty-value": "Koşul değeri boş bırakılırsa her değişimde tetiklenir.",
     "predictionStarted": "Tahmin Başlatıldı",
     "predictionProgressed": "Tahmin İlerletildi",
     "predictionLocked": "Tahmin Kilitli",
