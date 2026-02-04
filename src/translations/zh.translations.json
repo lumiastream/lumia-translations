@@ -2747,6 +2747,7 @@
     "viewerqueueStarted": "观众队列已开始",
     "viewerqueueEnded": "观众队列已结束",
     "viewerAchievement": "观众成就",
+    "variableChanged": "变量已更改",
     "predictionStarted": "预测已开始",
     "predictionProgressed": "预测进展",
     "predictionLocked": "预测已锁定",

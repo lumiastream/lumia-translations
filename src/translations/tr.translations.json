@@ -2749,6 +2749,7 @@
     "viewerqueueStarted": "İzleyici Sırası Başlatıldı",
     "viewerqueueEnded": "İzleyici Sırası Sona Erdi",
     "viewerAchievement": "İzleyici Başarısı",
+    "variableChanged": "Değişken değişti",
     "predictionStarted": "Tahmin Başlatıldı",
     "predictionProgressed": "Tahmin İlerletildi",
     "predictionLocked": "Tahmin Kilitli",

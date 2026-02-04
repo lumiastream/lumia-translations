@@ -2896,6 +2896,7 @@
     "viewerqueueStarted": "Viewer Queue Started",
     "viewerqueueEnded": "Viewer Queue Ended",
     "viewerAchievement": "Logro del espectador",
+    "variableChanged": "Variable cambiada",
     "tier-equal": "Tier equal to",
     "effect-name-equal-crowdcontrol": "Effect name exactly as shown in Crowd Control",
     "slots-combo-equal": "Slots combo equal to",

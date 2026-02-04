@@ -2750,6 +2750,7 @@
 		"viewerqueueStarted": "Viewer Queue Started",
 		"viewerqueueEnded": "Viewer Queue Ended",
 		"viewerAchievement": "Viewer Achievement",
+		"variableChanged": "Variable Changed",
 		"predictionStarted": "Prediction Started",
 		"predictionProgressed": "Prediction Progressed",
 		"predictionLocked": "Prediction Locked",

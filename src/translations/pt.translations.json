@@ -2747,6 +2747,7 @@
     "viewerqueueStarted": "Fila de Espectadores Iniciada",
     "viewerqueueEnded": "Fila de Espectadores Terminada",
     "viewerAchievement": "Conquista do espectador",
+    "variableChanged": "Variável alterada",
     "predictionStarted": "Previsão Iniciada",
     "predictionProgressed": "Previsão Progrediu",
     "predictionLocked": "Previsão Bloqueada",
