@@ -820,7 +820,10 @@
 		"voicecommands-model-download-success": "Model downloaded: {{name}}",
 		"voicecommands-model-url-placeholder": "https://.../vosk-model-xx.zip",
 		"voicecommands-model-name-placeholder": "e.g. Vosk English US 0.22",
-		"voicecommands-model-id-placeholder": "vosk-model-en-us-0.22"
+		"voicecommands-model-id-placeholder": "vosk-model-en-us-0.22",
+		"voicecommands-model-builtin-download-start": "Downloading built-in voice model in the background...",
+		"voicecommands-model-builtin-download-complete": "Built-in voice model downloaded.",
+		"voicecommands-model-builtin-download-error": "Failed to download the built-in voice model."
 	},
 	"eventlist": {
 		"free-ticket": "Free ticket",
