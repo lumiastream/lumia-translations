@@ -823,7 +823,11 @@
 		"voicecommands-debug-empty": "Inga felsökningsposter ännu.",
 		"voicecommands-model-builtin-download-start": "Laddar ner inbyggd röstmodell i bakgrunden...",
 		"voicecommands-model-builtin-download-complete": "Inbyggt röstmodell nedladdat.",
-		"voicecommands-model-builtin-download-error": "Kunde inte ladda ner det inbyggda röstmodellen."
+		"voicecommands-model-builtin-download-error": "Kunde inte ladda ner det inbyggda röstmodellen.",
+		"voicecommands-grammar-words": "Igenkänningsord",
+		"voicecommands-grammar-words-placeholder": "t.ex. red, green, turn on",
+		"voicecommands-grammar-words-desc": "Lägg till extra ord eller fraser för igenkänning (komma-separerade). Det förbättrar noggrannheten men utlöser inga kommandon om inget kommando finns.",
+		"voicecommands-grammar-words-disabled": "Igenkänningsord gäller bara i kommando-läge. Inaktivera Live Caption och ”Matcha inuti hela meningar” för att använda listan."
 	},
 	"eventlist": {
 		"free-ticket": "Fribiljett",
@@ -2371,6 +2375,8 @@
 		"file": "Sökväg till den övervakade filen",
 		"first_count": "Räkna hur många gånger den första chatterens användarnamn startar en chatt",
 		"get_var_from_msg": "Hämtar värdet av en variabel från ett meddelande. Använd ett likhetstecken i meddelandet för att tilldela en variabel och ett komma för att separera flera variabler. Exempel: !command name=lumi, age=6. Variabeln blir: {{get_var_from_msg=name}} och {{get_var_from_msg=age}}",
+		"get_param": "Hämtar värdet av en parameter från ett meddelande med nyckel=värde-par som separeras med mellanslag. Ex.: !command param1=doing good param2=yessir. Variabeln blir: {{get_param=param1}} och {{get_param=param2}}",
+		"get_from_message": "Hämtar ett ord eller segment från meddelandet efter position. Ex.: {{get_from_message=2}} (standardavgränsare är mellanslag) eller {{get_from_message=2|,}} för egen avgränsare.",
 		"get_user_loyalty_points": "Hämta lojalitetspoängen för en användare. Exempel: {{get_user_loyalty_points={{message}}}}, eller användarnamn och plattform {{get_user_loyalty_points={{username}},{{platform}}}}. Använd det sedan så här: !command username eller !command username,platform. Resultatet blir poängsaldot utan valuta.",
 		"translate": "Översätt ett meddelande med Google Translate. Exempel: {{translate={{message}}}} eller {{translate={{message}}|es}}",
 		"duel_result": "Duellresultatet visar ett vinst-, förlust- eller ogiltigt inmatningsmeddelande baserat på spelets status",

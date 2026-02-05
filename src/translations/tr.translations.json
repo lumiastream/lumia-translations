@@ -823,7 +823,11 @@
 		"voicecommands-debug-empty": "Henüz hata ayıklama kaydı yok.",
 		"voicecommands-model-builtin-download-start": "Dahili ses modeli arka planda indiriliyor...",
 		"voicecommands-model-builtin-download-complete": "Dahili ses modeli indirildi.",
-		"voicecommands-model-builtin-download-error": "Dahili ses modeli indirilemedi."
+		"voicecommands-model-builtin-download-error": "Dahili ses modeli indirilemedi.",
+		"voicecommands-grammar-words": "Algılama kelimeleri",
+		"voicecommands-grammar-words-placeholder": "ör. red, green, turn on",
+		"voicecommands-grammar-words-desc": "Algılama için ek kelime veya ifadeler ekleyin (virgülle ayrılmış). Bu doğruluğu artırır ancak bir komut yoksa komut tetiklemez.",
+		"voicecommands-grammar-words-disabled": "Algılama kelimeleri yalnızca komut-odaklı modda geçerlidir. Bu listeyi kullanmak için Canlı Altyazı ve “Tam cümle içinde eşleştir” seçeneklerini kapatın."
 	},
 	"eventlist": {
 		"free-ticket": "Ücretsiz bilet",
@@ -1952,6 +1956,8 @@
 		"get_latest_file_from_folder": "Bir klasördeki en son dosyayı alır.  {{get_latest_file_from_folder=C:/Users/Desktop}}.",
 		"get_queue_count": "Kuyruktaki mevcut öğe sayısı.  {{get_queue_count}}",
 		"get_var_from_msg": "Bir mesajdaki değişkenin değerini alır.  {{get_var_from_msg=name}} Ve {{get_var_from_msg=age}}",
+		"get_param": "Boşlukla ayrılmış anahtar=değer çiftleriyle bir mesajdan parametre değerini alır. Örn.: !command param1=doing good param2=yessir. Değişken: {{get_param=param1}} ve {{get_param=param2}}",
+		"get_from_message": "Mesajdan konuma göre bir kelime veya bölüm alır. Örn.: {{get_from_message=2}} (varsayılan ayraç boşluk) veya özel ayraç için {{get_from_message=2|,}}",
 		"get_user_loyalty_points": "Bir kullanıcının sadakat puanı değerini alın. Örnek: {{get_user_loyalty_points={{message}}}} veya kullanıcı adı ve platform {{get_user_loyalty_points={{username}},{{platform}}}}. Daha sonra şu şekilde kullanın: !command username veya !command username,platform. Sonuç para birimi olmadan puan bakiyesi olacaktır.",
 		"translate": "Bir mesajı Google Translate ile çevirir. Örnek: {{translate={{message}}}} veya {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "Bir klasörden rastgele bir dosya alır.  {{get_random_file_from_folder=C:/Users/Desktop}}.",

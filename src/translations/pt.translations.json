@@ -823,7 +823,11 @@
 		"voicecommands-debug-empty": "Ainda não há entradas de depuração.",
 		"voicecommands-model-builtin-download-start": "Baixando o modelo de voz integrado em segundo plano...",
 		"voicecommands-model-builtin-download-complete": "Modelo de voz integrado baixado.",
-		"voicecommands-model-builtin-download-error": "Falha ao baixar o modelo de voz integrado."
+		"voicecommands-model-builtin-download-error": "Falha ao baixar o modelo de voz integrado.",
+		"voicecommands-grammar-words": "Palavras de reconhecimento",
+		"voicecommands-grammar-words-placeholder": "ex.: red, green, turn on",
+		"voicecommands-grammar-words-desc": "Adicione palavras ou frases extras para reconhecimento (separadas por vírgula). Isso melhora a precisão, mas não aciona comandos a menos que exista um comando.",
+		"voicecommands-grammar-words-disabled": "As Palavras de reconhecimento só se aplicam no modo somente comandos. Desative Legendas ao vivo e “Corresponder dentro de frases completas” para usar esta lista."
 	},
 	"eventlist": {
 		"free-ticket": "Bilhete Grátis",
@@ -1952,6 +1956,8 @@
 		"get_latest_file_from_folder": "Obtém o arquivo mais recente de uma pasta. Por exemplo, {{get_latest_file_from_folder=C:/Users/Desktop}}.",
 		"get_queue_count": "A contagem atual de itens na fila. Por exemplo, {{get_queue_count}}",
 		"get_var_from_msg": "Obtém o valor de uma variável de uma mensagem. Use um sinal de igual dentro da mensagem para atribuir uma variável e uma vírgula para separar múltiplas variáveis. Por exemplo: !comando nome=lumi, idade=6. A variável será: {{get_var_from_msg=nome}} e {{get_var_from_msg=idade}}",
+		"get_param": "Obtém o valor de um parâmetro de uma mensagem usando pares chave=valor separados por espaço. Ex.: !command param1=doing good param2=yessir. A variável será: {{get_param=param1}} e {{get_param=param2}}",
+		"get_from_message": "Obtém uma palavra ou segmento da mensagem pela posição. Ex.: {{get_from_message=2}} (delimitador padrão espaço) ou {{get_from_message=2|,}} para usar um delimitador personalizado.",
 		"get_user_loyalty_points": "Obtenha o valor dos pontos de fidelidade de um usuário. Exemplo: {{get_user_loyalty_points={{message}}}}, ou nome de usuário e plataforma {{get_user_loyalty_points={{username}},{{platform}}}}. Em seguida, use assim: !command username ou !command username,platform. O resultado será o saldo de pontos sem moeda.",
 		"translate": "Traduz uma mensagem usando Google Translate. Por exemplo: {{translate={{message}}}} ou {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "Obtém um arquivo aleatório de uma pasta. Por exemplo, {{get_random_file_from_folder=C:/Users/Desktop}}.",

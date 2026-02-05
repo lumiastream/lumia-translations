@@ -823,7 +823,11 @@
 		"voicecommands-model-id-placeholder": "vosk-model-en-us-0.22",
 		"voicecommands-model-builtin-download-start": "Downloading built-in voice model in the background...",
 		"voicecommands-model-builtin-download-complete": "Built-in voice model downloaded.",
-		"voicecommands-model-builtin-download-error": "Failed to download the built-in voice model."
+		"voicecommands-model-builtin-download-error": "Failed to download the built-in voice model.",
+		"voicecommands-grammar-words": "Recognition Words",
+		"voicecommands-grammar-words-placeholder": "e.g. red, green, turn on",
+		"voicecommands-grammar-words-desc": "Add extra words or phrases for recognition (comma-separated). These improve accuracy but do not trigger commands unless a command exists.",
+		"voicecommands-grammar-words-disabled": "Recognition Words only apply in command-only mode. Disable Live Captions and “Match inside full sentences” to use this list."
 	},
 	"eventlist": {
 		"free-ticket": "Free ticket",
@@ -1964,6 +1968,8 @@
 		"get_latest_file_from_folder": "Gets the latest file from a folder. e.g. {{get_latest_file_from_folder=C:/Users/Desktop}}.",
 		"get_queue_count": "The current count of items in queue. e.g. {{get_queue_count}}",
 		"get_var_from_msg": "Gets the value of a variable from a message. Use an equal sign within the message to assign a variable and a comma to separate multiple variables. e.g. !command name=lumi, age=6. var will be: {{get_var_from_msg=name}} and {{get_var_from_msg=age}}",
+		"get_param": "Gets the value of a parameter from a message using space-separated key=value pairs. e.g. !command param1=doing good param2=yessir. var will be: {{get_param=param1}} and {{get_param=param2}}",
+		"get_from_message": "Gets a word or segment from a message by position. e.g. {{get_from_message=2}} (defaults to space delimiter) or {{get_from_message=2|,}} to use a custom delimiter.",
 		"get_user_loyalty_points": "Get the loyalty points value of a user. e.g. variable will be: {{get_user_loyalty_points={{message}}}}, or viewer's username and platform {{get_user_loyalty_points={{username}},{{platform}}}}. Then use it like this: !command username or !command username,platform. Result will be the point ballance without currency",
 		"translate": "Translate a message using Google Translate. e.g. {{translate={{message}}}} or {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "Gets a random file from a folder. e.g. {{get_random_file_from_folder=C:/Users/Desktop}}.",

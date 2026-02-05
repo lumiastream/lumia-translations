@@ -823,7 +823,11 @@
 		"voicecommands-debug-empty": "Aún no hay entradas de depuración.",
 		"voicecommands-model-builtin-download-start": "Descargando el modelo de voz integrado en segundo plano...",
 		"voicecommands-model-builtin-download-complete": "Modelo de voz integrado descargado.",
-		"voicecommands-model-builtin-download-error": "No se pudo descargar el modelo de voz integrado."
+		"voicecommands-model-builtin-download-error": "No se pudo descargar el modelo de voz integrado.",
+		"voicecommands-grammar-words": "Palabras de reconocimiento",
+		"voicecommands-grammar-words-placeholder": "p. ej. red, green, turn on",
+		"voicecommands-grammar-words-desc": "Agrega palabras o frases adicionales para el reconocimiento (separadas por comas). Mejoran la precisión, pero no activan comandos a menos que exista un comando.",
+		"voicecommands-grammar-words-disabled": "Las palabras de reconocimiento solo se aplican en el modo de solo comandos. Desactiva los subtítulos en vivo y “Coincidir dentro de oraciones completas” para usar esta lista."
 	},
 	"eventlist": {
 		"free-ticket": "Boleto gratis",
@@ -2370,6 +2374,8 @@
 		"file": "Ruta del archivo observado",
 		"first_count": "Cuenta cuántas veces el nombre de usuario del primer hablante inicia un chat",
 		"get_var_from_msg": "Obtiene el valor de una variable de un mensaje. Usa un signo igual dentro del mensaje para asignar una variable y una coma para separar múltiples variables. Por ejemplo, !command name=lumi, age=6. La variable será: {{get_var_from_msg=name}} y {{get_var_from_msg=age}}",
+		"get_param": "Obtiene el valor de un parámetro de un mensaje usando pares clave=valor separados por espacios. Ej.: !command param1=doing good param2=yessir. La variable será: {{get_param=param1}} y {{get_param=param2}}",
+		"get_from_message": "Obtiene una palabra o segmento del mensaje por posición. Ej.: {{get_from_message=2}} (delimitador por defecto espacio) o {{get_from_message=2|,}} para usar un delimitador personalizado.",
 		"get_user_loyalty_points": "Obtén el valor de los puntos de fidelidad de un usuario. Ejemplo: {{get_user_loyalty_points={{message}}}}, o nombre de usuario y plataforma {{get_user_loyalty_points={{username}},{{platform}}}}. Luego úsalo así: !command username o !command username,platform. El resultado será el saldo de puntos sin moneda.",
 		"translate": "Traduce un mensaje usando Google Translate. Por ejemplo: {{translate={{message}}}} o {{translate={{message}}|es}}",
 		"duel_result": "El resultado del duelo mostrará un mensaje de victoria, derrota o entrada inválida según el estado del juego",

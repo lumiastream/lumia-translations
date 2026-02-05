@@ -823,7 +823,11 @@
 		"voicecommands-debug-empty": "暂无调试记录。",
 		"voicecommands-model-builtin-download-start": "内置语音模型正在后台下载...",
 		"voicecommands-model-builtin-download-complete": "内置语音模型已下载。",
-		"voicecommands-model-builtin-download-error": "内置语音模型下载失败。"
+		"voicecommands-model-builtin-download-error": "内置语音模型下载失败。",
+		"voicecommands-grammar-words": "识别词汇",
+		"voicecommands-grammar-words-placeholder": "例如：red, green, turn on",
+		"voicecommands-grammar-words-desc": "添加额外的识别词或短语（用逗号分隔）。这会提高识别准确度，但不会触发命令，除非存在对应命令。",
+		"voicecommands-grammar-words-disabled": "识别词汇仅在“仅命令”模式下生效。请关闭实时字幕和“在完整句子中匹配”以使用此列表。"
 	},
 	"eventlist": {
 		"free-ticket": "免费票",
@@ -1952,6 +1956,8 @@
 		"get_latest_file_from_folder": "从文件夹中获取最新文件。例如：{{get_latest_file_from_folder=C:/Users/Desktop}}。",
 		"get_queue_count": "队列中当前项目的数量。例如：{{get_queue_count}}",
 		"get_var_from_msg": "从消息中获取变量的值。在消息中使用等号分配变量，用逗号分隔多个变量。例如：!command name=lumi, age=6. 变量将是：{{get_var_from_msg=name}} 和 {{get_var_from_msg=age}}",
+		"get_param": "从消息中获取参数值，使用空格分隔的 key=value 对。例如：!command param1=doing good param2=yessir。变量为：{{get_param=param1}} 和 {{get_param=param2}}",
+		"get_from_message": "按位置从消息中获取单词或片段。例如：{{get_from_message=2}}（默认分隔符为空格）或使用自定义分隔符 {{get_from_message=2|,}}",
 		"get_user_loyalty_points": "获取用户的忠诚度积分值。例如：{{get_user_loyalty_points={{message}}}}，或用户名和平台 {{get_user_loyalty_points={{username}},{{platform}}}}。然后这样使用：!command username 或 !command username,platform。结果将是没有货币的积分余额。",
 		"translate": "使用 Google Translate 翻译消息。例如：{{translate={{message}}}} 或 {{translate={{message}}|es}}",
 		"get_random_file_from_folder": "从文件夹中获取一个随机文件。例如：{{get_random_file_from_folder=C:/Users/Desktop}}。",

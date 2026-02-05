@@ -822,7 +822,11 @@
 		"voicecommands-debug-empty": "Noch keine Debug-Einträge.",
 		"voicecommands-model-builtin-download-start": "Integriertes Sprachmodell wird im Hintergrund heruntergeladen...",
 		"voicecommands-model-builtin-download-complete": "Integriertes Sprachmodell heruntergeladen.",
-		"voicecommands-model-builtin-download-error": "Das integrierte Sprachmodell konnte nicht heruntergeladen werden."
+		"voicecommands-model-builtin-download-error": "Das integrierte Sprachmodell konnte nicht heruntergeladen werden.",
+		"voicecommands-grammar-words": "Erkennungswörter",
+		"voicecommands-grammar-words-placeholder": "z. B. red, green, turn on",
+		"voicecommands-grammar-words-desc": "Füge zusätzliche Wörter oder Phrasen zur Erkennung hinzu (durch Kommas getrennt). Diese verbessern die Genauigkeit, lösen aber keine Befehle aus, wenn kein Befehl existiert.",
+		"voicecommands-grammar-words-disabled": "Erkennungswörter gelten nur im Nur-Befehle-Modus. Deaktiviere Live-Untertitel und „In ganzen Sätzen abgleichen“, um diese Liste zu nutzen."
 	},
 	"eventlist": {
 		"free-ticket": "Freikarten",
@@ -2369,6 +2373,8 @@
 		"file": "Pfad der beobachteten Datei",
 		"first_count": "Zähle, wie oft der Benutzername des ersten Chatters einen Chat beginnt",
 		"get_var_from_msg": "Ruft den Wert einer Variablen aus einer Nachricht ab. Verwende ein Gleichheitszeichen innerhalb der Nachricht, um eine Variable zuzuweisen, und ein Komma, um mehrere Variablen zu trennen. Beispiel: !command name=lumi, age=6. Die Variable wird sein: {{get_var_from_msg=name}} und {{get_var_from_msg=age}}",
+		"get_param": "Ruft den Wert eines Parameters aus einer Nachricht mit durch Leerzeichen getrennten Schlüssel=Wert-Paaren ab. Beispiel: !command param1=doing good param2=yessir. Die Variable wird sein: {{get_param=param1}} und {{get_param=param2}}",
+		"get_from_message": "Ruft ein Wort oder Segment aus der Nachricht nach Position ab. Beispiel: {{get_from_message=2}} (Standard-Trennzeichen: Leerzeichen) oder {{get_from_message=2|,}} für ein benutzerdefiniertes Trennzeichen.",
 		"get_user_loyalty_points": "Rufen Sie den Treuepunktwert eines Benutzers ab. Beispiel: {{get_user_loyalty_points={{message}}}} oder Benutzername und Plattform {{get_user_loyalty_points={{username}},{{platform}}}}. Verwenden Sie es dann so: !command username oder !command username,platform. Das Ergebnis ist der Punktestand ohne Währung.",
 		"translate": "Übersetzt eine Nachricht mit Google Translate. Beispiel: {{translate={{message}}}} oder {{translate={{message}}|es}}",
 		"duel_result": "Das Duell-Ergebnis zeigt eine Gewinn-, Verlust- oder Ungültige-Eingabe-Nachricht basierend auf dem Spielstatus an",

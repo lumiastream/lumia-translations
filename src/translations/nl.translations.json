@@ -823,7 +823,11 @@
 		"voicecommands-debug-empty": "Nog geen debugvermeldingen.",
 		"voicecommands-model-builtin-download-start": "Ingebouwd spraakmodel wordt op de achtergrond gedownload...",
 		"voicecommands-model-builtin-download-complete": "Ingebouwd spraakmodel gedownload.",
-		"voicecommands-model-builtin-download-error": "Kan het ingebouwde spraakmodel niet downloaden."
+		"voicecommands-model-builtin-download-error": "Kan het ingebouwde spraakmodel niet downloaden.",
+		"voicecommands-grammar-words": "Herkenningswoorden",
+		"voicecommands-grammar-words-placeholder": "bijv. red, green, turn on",
+		"voicecommands-grammar-words-desc": "Voeg extra woorden of zinnen toe voor herkenning (komma-gescheiden). Dit verbetert de nauwkeurigheid maar activeert geen opdrachten tenzij er een opdracht bestaat.",
+		"voicecommands-grammar-words-disabled": "Herkenningswoorden gelden alleen in de alleen-opdrachtenmodus. Schakel Live Captions en “Match inside full sentences” uit om deze lijst te gebruiken."
 	},
 	"eventlist": {
 		"free-ticket": "Gratis ticket",
@@ -2368,6 +2372,8 @@
 		"file": "Pad van het bewaakte bestand",
 		"first_count": "Tel hoe vaak de gebruikersnaam van de eerste chatter een chat start",
 		"get_var_from_msg": "Haalt de waarde van een variabele uit een bericht. Gebruik een gelijkteken in het bericht om een variabele toe te wijzen en een komma om meerdere variabelen te scheiden. Bijv. !command name=lumi, age=6. De variabele wordt: {{get_var_from_msg=name}} en {{get_var_from_msg=age}}",
+		"get_param": "Haalt de waarde van een parameter uit een bericht met spatie-gescheiden sleutel=waarde-paren. Bijv. !command param1=doing good param2=yessir. De variabele wordt: {{get_param=param1}} en {{get_param=param2}}",
+		"get_from_message": "Haalt een woord of segment uit het bericht op basis van positie. Bijv. {{get_from_message=2}} (standaard scheidingsteken spatie) of {{get_from_message=2|,}} voor een aangepast scheidingsteken.",
 		"get_user_loyalty_points": "Haal de loyaliteitspuntenwaarde van een gebruiker op. Bijvoorbeeld: {{get_user_loyalty_points={{message}}}}, of gebruikersnaam en platform {{get_user_loyalty_points={{username}},{{platform}}}}. Gebruik het daarna zo: !command username of !command username,platform. Het resultaat is het puntenaantal zonder valuta.",
 		"translate": "Vertaal een bericht met Google Translate. Bijv. {{translate={{message}}}} of {{translate={{message}}|es}}",
 		"duel_result": "Het resultaat van het duel geeft een win-, verlies- of ongeldige invoerbericht weer, afhankelijk van de spelstatus",

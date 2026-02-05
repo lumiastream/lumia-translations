@@ -823,7 +823,11 @@
 		"voicecommands-debug-empty": "لا توجد إدخالات تصحيح بعد.",
 		"voicecommands-model-builtin-download-start": "جارٍ تنزيل نموذج الصوت المضمّن في الخلفية...",
 		"voicecommands-model-builtin-download-complete": "تم تنزيل نموذج الصوت المضمّن.",
-		"voicecommands-model-builtin-download-error": "فشل تنزيل نموذج الصوت المضمّن."
+		"voicecommands-model-builtin-download-error": "فشل تنزيل نموذج الصوت المضمّن.",
+		"voicecommands-grammar-words": "كلمات التعرّف",
+		"voicecommands-grammar-words-placeholder": "مثال: red, green, turn on",
+		"voicecommands-grammar-words-desc": "أضف كلمات أو عبارات إضافية للتعرّف (مفصولة بفواصل). تُحسّن الدقة لكنها لا تُشغّل الأوامر إلا إذا كان هناك أمر مطابق.",
+		"voicecommands-grammar-words-disabled": "تنطبق كلمات التعرّف فقط في وضع الأوامر فقط. عطّل التسميات التوضيحية المباشرة وخيار «التطابق داخل الجمل الكاملة» لاستخدام هذه القائمة."
 	},
 	"eventlist": {
 		"free-ticket": "بطاقة مجانية",
@@ -2371,6 +2375,8 @@
 		"file": "مسار الملف الذي يتم مراقبته",
 		"first_count": "عد عدد المرات التي يبدأ فيها اسم أول متحدث في الدردشة",
 		"get_var_from_msg": "يستخرج قيمة متغير من الرسالة. استخدم علامة التساوي داخل الرسالة لتعيين متغير وفاصلة لفصل المتغيرات المتعددة. مثال: !command name=lumi, age=6. سيكون المتغير: {{get_var_from_msg=name}} و {{get_var_from_msg=age}}",
+		"get_param": "يحصل على قيمة معلمة من الرسالة باستخدام أزواج key=value مفصولة بمسافات. مثال: !command param1=doing good param2=yessir. سيكون المتغير: {{get_param=param1}} و {{get_param=param2}}",
+		"get_from_message": "يحصل على كلمة أو مقطع من الرسالة حسب الموضع. مثال: {{get_from_message=2}} (الفاصل الافتراضي مسافة) أو {{get_from_message=2|,}} لاستخدام فاصل مخصص.",
 		"get_user_loyalty_points": "احصل على قيمة نقاط الولاء لمستخدم. على سبيل المثال: {{get_user_loyalty_points={{message}}}}، أو اسم المستخدم والمنصة {{get_user_loyalty_points={{username}},{{platform}}}}. ثم استخدمه هكذا: !command username أو !command username,platform. النتيجة ستكون رصيد النقاط بدون عملة.",
 		"translate": "ترجم رسالة باستخدام Google Translate. مثال: {{translate={{message}}}} أو {{translate={{message}}|es}}",
 		"duel_result": "نتيجة التحدي ستعرض رسالة الفوز، الخسارة، أو الإدخال غير الصالح بناءً على حالة اللعبة",
