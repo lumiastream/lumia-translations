@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "Wordt gebruikt als lokale mapnaam. Laat leeg om automatisch uit de URL te vullen.",
 		"voicecommands-model-list": "Modellenlijst openen",
 		"voicecommands-model-download-title": "Vosk-model downloaden",
-		"voicecommands-model-help-title": "Hoe je een modellink krijgt",
+		"voicecommands-model-help-title": "Stappen voor handmatig downloaden",
 		"voicecommands-model-help-step-1": "1. Open de Vosk-modellenlijst in je browser.",
 		"voicecommands-model-help-step-2": "2. Kies een model (taal + grootte) en klik met de rechtermuisknop op de naam.",
 		"voicecommands-model-help-step-3": "3. Kopieer de .zip-downloadlink van die pagina.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "Herkenningswoorden",
 		"voicecommands-grammar-words-placeholder": "bijv. red, green, turn on",
 		"voicecommands-grammar-words-desc": "Voeg extra woorden of zinnen toe voor herkenning (komma-gescheiden). Dit verbetert de nauwkeurigheid maar activeert geen opdrachten tenzij er een opdracht bestaat.",
-		"voicecommands-grammar-words-disabled": "Herkenningswoorden gelden alleen in de alleen-opdrachtenmodus. Schakel Live Captions en “Match inside full sentences” uit om deze lijst te gebruiken."
+		"voicecommands-grammar-words-disabled": "Herkenningswoorden gelden alleen in de alleen-opdrachtenmodus. Schakel Live Captions en “Match inside full sentences” uit om deze lijst te gebruiken.",
+		"voicecommands-model-catalog-title": "Kies een model",
+		"voicecommands-model-catalog-loading": "Modellenlijst laden...",
+		"voicecommands-model-catalog-error": "Kan de modellenlijst niet laden. Je kunt hieronder nog steeds een directe downloadlink gebruiken.",
+		"voicecommands-model-language": "Taal",
+		"voicecommands-model-select": "Model",
+		"voicecommands-model-direct-link": "Of plak hieronder een directe downloadlink.",
+		"voicecommands-model-manual-toggle": "Of een model handmatig downloaden"
 	},
 	"eventlist": {
 		"free-ticket": "Gratis ticket",

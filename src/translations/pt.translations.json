@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "Usado como nome da pasta local. Deixe em branco para preencher automaticamente a partir da URL.",
 		"voicecommands-model-list": "Abrir lista de modelos",
 		"voicecommands-model-download-title": "Baixar modelo Vosk",
-		"voicecommands-model-help-title": "Como obter um link de modelo",
+		"voicecommands-model-help-title": "Passos de download manual",
 		"voicecommands-model-help-step-1": "1. Abra a lista de modelos Vosk no seu navegador.",
 		"voicecommands-model-help-step-2": "2. Escolha um modelo (idioma + tamanho) e clique com o botão direito no nome.",
 		"voicecommands-model-help-step-3": "3. Copie o link de download .zip dessa página.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "Palavras de reconhecimento",
 		"voicecommands-grammar-words-placeholder": "ex.: red, green, turn on",
 		"voicecommands-grammar-words-desc": "Adicione palavras ou frases extras para reconhecimento (separadas por vírgula). Isso melhora a precisão, mas não aciona comandos a menos que exista um comando.",
-		"voicecommands-grammar-words-disabled": "As Palavras de reconhecimento só se aplicam no modo somente comandos. Desative Legendas ao vivo e “Corresponder dentro de frases completas” para usar esta lista."
+		"voicecommands-grammar-words-disabled": "As Palavras de reconhecimento só se aplicam no modo somente comandos. Desative Legendas ao vivo e “Corresponder dentro de frases completas” para usar esta lista.",
+		"voicecommands-model-catalog-title": "Escolha um modelo",
+		"voicecommands-model-catalog-loading": "Carregando lista de modelos...",
+		"voicecommands-model-catalog-error": "Não foi possível carregar a lista de modelos. Ainda assim você pode usar um link de download direto abaixo.",
+		"voicecommands-model-language": "Idioma",
+		"voicecommands-model-select": "Modelo",
+		"voicecommands-model-direct-link": "Ou cole um link de download direto abaixo.",
+		"voicecommands-model-manual-toggle": "Ou baixar um modelo manualmente"
 	},
 	"eventlist": {
 		"free-ticket": "Bilhete Grátis",

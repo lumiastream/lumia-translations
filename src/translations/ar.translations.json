@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "يُستخدم كاسم للمجلد المحلي. اتركه فارغًا لملئه تلقائيًا من الرابط.",
 		"voicecommands-model-list": "فتح قائمة النماذج",
 		"voicecommands-model-download-title": "تنزيل نموذج Vosk",
-		"voicecommands-model-help-title": "كيفية الحصول على رابط نموذج",
+		"voicecommands-model-help-title": "خطوات التنزيل اليدوي",
 		"voicecommands-model-help-step-1": "1. افتح قائمة نماذج Vosk في المتصفح.",
 		"voicecommands-model-help-step-2": "2. اختر نموذجًا (اللغة + الحجم) وانقر بزر الماوس الأيمن على اسمه.",
 		"voicecommands-model-help-step-3": "3. انسخ رابط تنزيل .zip من تلك الصفحة.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "كلمات التعرّف",
 		"voicecommands-grammar-words-placeholder": "مثال: red, green, turn on",
 		"voicecommands-grammar-words-desc": "أضف كلمات أو عبارات إضافية للتعرّف (مفصولة بفواصل). تُحسّن الدقة لكنها لا تُشغّل الأوامر إلا إذا كان هناك أمر مطابق.",
-		"voicecommands-grammar-words-disabled": "تنطبق كلمات التعرّف فقط في وضع الأوامر فقط. عطّل التسميات التوضيحية المباشرة وخيار «التطابق داخل الجمل الكاملة» لاستخدام هذه القائمة."
+		"voicecommands-grammar-words-disabled": "تنطبق كلمات التعرّف فقط في وضع الأوامر فقط. عطّل التسميات التوضيحية المباشرة وخيار «التطابق داخل الجمل الكاملة» لاستخدام هذه القائمة.",
+		"voicecommands-model-catalog-title": "اختر نموذجًا",
+		"voicecommands-model-catalog-loading": "جارٍ تحميل قائمة النماذج...",
+		"voicecommands-model-catalog-error": "تعذر تحميل قائمة النماذج. لا يزال بإمكانك استخدام رابط تنزيل مباشر بالأسفل.",
+		"voicecommands-model-language": "اللغة",
+		"voicecommands-model-select": "النموذج",
+		"voicecommands-model-direct-link": "أو الصق رابط تنزيل مباشر بالأسفل.",
+		"voicecommands-model-manual-toggle": "أو تنزيل نموذج يدويًا"
 	},
 	"eventlist": {
 		"free-ticket": "بطاقة مجانية",

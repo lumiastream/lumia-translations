@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "Se usa como nombre de carpeta local. Déjalo en blanco para completarlo automáticamente desde la URL.",
 		"voicecommands-model-list": "Abrir lista de modelos",
 		"voicecommands-model-download-title": "Descargar modelo de Vosk",
-		"voicecommands-model-help-title": "Cómo obtener un enlace de modelo",
+		"voicecommands-model-help-title": "Pasos de descarga manual",
 		"voicecommands-model-help-step-1": "1. Abre la lista de modelos de Vosk en el navegador.",
 		"voicecommands-model-help-step-2": "2. Elige un modelo (idioma + tamaño) y haz clic con el botón derecho en su nombre.",
 		"voicecommands-model-help-step-3": "3. Copia el enlace de descarga .zip de esa página.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "Palabras de reconocimiento",
 		"voicecommands-grammar-words-placeholder": "p. ej. red, green, turn on",
 		"voicecommands-grammar-words-desc": "Agrega palabras o frases adicionales para el reconocimiento (separadas por comas). Mejoran la precisión, pero no activan comandos a menos que exista un comando.",
-		"voicecommands-grammar-words-disabled": "Las palabras de reconocimiento solo se aplican en el modo de solo comandos. Desactiva los subtítulos en vivo y “Coincidir dentro de oraciones completas” para usar esta lista."
+		"voicecommands-grammar-words-disabled": "Las palabras de reconocimiento solo se aplican en el modo de solo comandos. Desactiva los subtítulos en vivo y “Coincidir dentro de oraciones completas” para usar esta lista.",
+		"voicecommands-model-catalog-title": "Elige un modelo",
+		"voicecommands-model-catalog-loading": "Cargando lista de modelos...",
+		"voicecommands-model-catalog-error": "No se pudo cargar la lista de modelos. Aun así puedes usar un enlace de descarga directo abajo.",
+		"voicecommands-model-language": "Idioma",
+		"voicecommands-model-select": "Modelo",
+		"voicecommands-model-direct-link": "O pega un enlace de descarga directo debajo.",
+		"voicecommands-model-manual-toggle": "O descargar un modelo manualmente"
 	},
 	"eventlist": {
 		"free-ticket": "Boleto gratis",

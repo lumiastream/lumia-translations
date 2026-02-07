@@ -793,7 +793,7 @@
 		"voicecommands-model-id-desc": "Wird als lokaler Ordnername verwendet. Leer lassen, um ihn automatisch aus der URL zu übernehmen.",
 		"voicecommands-model-list": "Modellliste öffnen",
 		"voicecommands-model-download-title": "Vosk-Modell herunterladen",
-		"voicecommands-model-help-title": "So erhältst du einen Modell-Link",
+		"voicecommands-model-help-title": "Manuelle Download-Schritte",
 		"voicecommands-model-help-step-1": "1. Öffne die Vosk-Modellliste in deinem Browser.",
 		"voicecommands-model-help-step-2": "2. Wähle ein Modell (Sprache + Größe) und klicke mit der rechten Maustaste auf den Namen.",
 		"voicecommands-model-help-step-3": "3. Kopiere den .zip-Download-Link von dieser Seite.",
@@ -826,7 +826,14 @@
 		"voicecommands-grammar-words": "Erkennungswörter",
 		"voicecommands-grammar-words-placeholder": "z. B. red, green, turn on",
 		"voicecommands-grammar-words-desc": "Füge zusätzliche Wörter oder Phrasen zur Erkennung hinzu (durch Kommas getrennt). Diese verbessern die Genauigkeit, lösen aber keine Befehle aus, wenn kein Befehl existiert.",
-		"voicecommands-grammar-words-disabled": "Erkennungswörter gelten nur im Nur-Befehle-Modus. Deaktiviere Live-Untertitel und „In ganzen Sätzen abgleichen“, um diese Liste zu nutzen."
+		"voicecommands-grammar-words-disabled": "Erkennungswörter gelten nur im Nur-Befehle-Modus. Deaktiviere Live-Untertitel und „In ganzen Sätzen abgleichen“, um diese Liste zu nutzen.",
+		"voicecommands-model-catalog-title": "Modell auswählen",
+		"voicecommands-model-catalog-loading": "Modellliste wird geladen...",
+		"voicecommands-model-catalog-error": "Modellliste konnte nicht geladen werden. Du kannst unten trotzdem einen direkten Download-Link verwenden.",
+		"voicecommands-model-language": "Sprache",
+		"voicecommands-model-select": "Modell",
+		"voicecommands-model-direct-link": "Oder unten einen direkten Download-Link einfügen.",
+		"voicecommands-model-manual-toggle": "Oder ein Modell manuell herunterladen"
 	},
 	"eventlist": {
 		"free-ticket": "Freikarten",

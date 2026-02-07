@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "用作本地文件夹名称。留空可从 URL 自动填充。",
 		"voicecommands-model-list": "打开模型列表",
 		"voicecommands-model-download-title": "下载 Vosk 模型",
-		"voicecommands-model-help-title": "如何获取模型链接",
+		"voicecommands-model-help-title": "手动下载步骤",
 		"voicecommands-model-help-step-1": "1. 在浏览器中打开 Vosk 模型列表。",
 		"voicecommands-model-help-step-2": "2. 选择一个模型（语言 + 大小），右键单击其名称。",
 		"voicecommands-model-help-step-3": "3. 从该页面复制 .zip 下载链接。",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "识别词汇",
 		"voicecommands-grammar-words-placeholder": "例如：red, green, turn on",
 		"voicecommands-grammar-words-desc": "添加额外的识别词或短语（用逗号分隔）。这会提高识别准确度，但不会触发命令，除非存在对应命令。",
-		"voicecommands-grammar-words-disabled": "识别词汇仅在“仅命令”模式下生效。请关闭实时字幕和“在完整句子中匹配”以使用此列表。"
+		"voicecommands-grammar-words-disabled": "识别词汇仅在“仅命令”模式下生效。请关闭实时字幕和“在完整句子中匹配”以使用此列表。",
+		"voicecommands-model-catalog-title": "选择模型",
+		"voicecommands-model-catalog-loading": "正在加载模型列表...",
+		"voicecommands-model-catalog-error": "无法加载模型列表。你仍然可以在下面使用直接下载链接。",
+		"voicecommands-model-language": "语言",
+		"voicecommands-model-select": "模型",
+		"voicecommands-model-direct-link": "或在下面粘贴直接下载链接。",
+		"voicecommands-model-manual-toggle": "或手动下载模型"
 	},
 	"eventlist": {
 		"free-ticket": "免费票",

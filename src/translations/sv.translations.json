@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "Används som lokalt mappnamn. Lämna tomt för att fylla i automatiskt från URL:en.",
 		"voicecommands-model-list": "Öppna modellistan",
 		"voicecommands-model-download-title": "Ladda ner Vosk-modell",
-		"voicecommands-model-help-title": "Så får du en modellänk",
+		"voicecommands-model-help-title": "Steg för manuell nedladdning",
 		"voicecommands-model-help-step-1": "1. Öppna Vosk-modellistan i din webbläsare.",
 		"voicecommands-model-help-step-2": "2. Välj en modell (språk + storlek) och högerklicka på namnet.",
 		"voicecommands-model-help-step-3": "3. Kopiera .zip-nedladdningslänken från sidan.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "Igenkänningsord",
 		"voicecommands-grammar-words-placeholder": "t.ex. red, green, turn on",
 		"voicecommands-grammar-words-desc": "Lägg till extra ord eller fraser för igenkänning (komma-separerade). Det förbättrar noggrannheten men utlöser inga kommandon om inget kommando finns.",
-		"voicecommands-grammar-words-disabled": "Igenkänningsord gäller bara i kommando-läge. Inaktivera Live Caption och ”Matcha inuti hela meningar” för att använda listan."
+		"voicecommands-grammar-words-disabled": "Igenkänningsord gäller bara i kommando-läge. Inaktivera Live Caption och ”Matcha inuti hela meningar” för att använda listan.",
+		"voicecommands-model-catalog-title": "Välj en modell",
+		"voicecommands-model-catalog-loading": "Laddar modellista...",
+		"voicecommands-model-catalog-error": "Kunde inte ladda modellistan. Du kan fortfarande använda en direkt nedladdningslänk nedan.",
+		"voicecommands-model-language": "Språk",
+		"voicecommands-model-select": "Modell",
+		"voicecommands-model-direct-link": "Eller klistra in en direkt nedladdningslänk nedan.",
+		"voicecommands-model-manual-toggle": "Eller ladda ner en modell manuellt"
 	},
 	"eventlist": {
 		"free-ticket": "Fribiljett",

@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "Utilisé comme nom de dossier local. Laissez vide pour le remplir automatiquement à partir de l’URL.",
 		"voicecommands-model-list": "Ouvrir la liste des modèles",
 		"voicecommands-model-download-title": "Télécharger un modèle Vosk",
-		"voicecommands-model-help-title": "Comment obtenir un lien de modèle",
+		"voicecommands-model-help-title": "Étapes de téléchargement manuel",
 		"voicecommands-model-help-step-1": "1. Ouvrez la liste des modèles Vosk dans votre navigateur.",
 		"voicecommands-model-help-step-2": "2. Choisissez un modèle (langue + taille) et faites un clic droit sur son nom.",
 		"voicecommands-model-help-step-3": "3. Copiez le lien de téléchargement .zip depuis cette page.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "Mots de reconnaissance",
 		"voicecommands-grammar-words-placeholder": "ex. red, green, turn on",
 		"voicecommands-grammar-words-desc": "Ajoutez des mots ou expressions supplémentaires pour la reconnaissance (séparés par des virgules). Cela améliore la précision mais ne déclenche pas de commandes s’il n’y a pas de commande.",
-		"voicecommands-grammar-words-disabled": "Les mots de reconnaissance ne s’appliquent qu’en mode commandes uniquement. Désactivez les sous-titres en direct et « Correspondre dans des phrases complètes » pour utiliser cette liste."
+		"voicecommands-grammar-words-disabled": "Les mots de reconnaissance ne s’appliquent qu’en mode commandes uniquement. Désactivez les sous-titres en direct et « Correspondre dans des phrases complètes » pour utiliser cette liste.",
+		"voicecommands-model-catalog-title": "Choisir un modèle",
+		"voicecommands-model-catalog-loading": "Chargement de la liste des modèles...",
+		"voicecommands-model-catalog-error": "Impossible de charger la liste des modèles. Vous pouvez quand même utiliser un lien de téléchargement direct ci-dessous.",
+		"voicecommands-model-language": "Langue",
+		"voicecommands-model-select": "Modèle",
+		"voicecommands-model-direct-link": "Ou collez un lien de téléchargement direct ci-dessous.",
+		"voicecommands-model-manual-toggle": "Ou télécharger un modèle manuellement"
 	},
 	"eventlist": {
 		"free-ticket": "Billet gratuit",

@@ -794,7 +794,7 @@
 		"voicecommands-model-id-desc": "Yerel klasör adı olarak kullanılır. URL'den otomatik doldurmak için boş bırakın.",
 		"voicecommands-model-list": "Model listesini aç",
 		"voicecommands-model-download-title": "Vosk modelini indir",
-		"voicecommands-model-help-title": "Model bağlantısı nasıl alınır",
+		"voicecommands-model-help-title": "Manuel indirme adımları",
 		"voicecommands-model-help-step-1": "1. Tarayıcınızda Vosk model listesini açın.",
 		"voicecommands-model-help-step-2": "2. Bir model seçin (dil + boyut) ve adına sağ tıklayın.",
 		"voicecommands-model-help-step-3": "3. O sayfadaki .zip indirme bağlantısını kopyalayın.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "Algılama kelimeleri",
 		"voicecommands-grammar-words-placeholder": "ör. red, green, turn on",
 		"voicecommands-grammar-words-desc": "Algılama için ek kelime veya ifadeler ekleyin (virgülle ayrılmış). Bu doğruluğu artırır ancak bir komut yoksa komut tetiklemez.",
-		"voicecommands-grammar-words-disabled": "Algılama kelimeleri yalnızca komut-odaklı modda geçerlidir. Bu listeyi kullanmak için Canlı Altyazı ve “Tam cümle içinde eşleştir” seçeneklerini kapatın."
+		"voicecommands-grammar-words-disabled": "Algılama kelimeleri yalnızca komut-odaklı modda geçerlidir. Bu listeyi kullanmak için Canlı Altyazı ve “Tam cümle içinde eşleştir” seçeneklerini kapatın.",
+		"voicecommands-model-catalog-title": "Bir model seçin",
+		"voicecommands-model-catalog-loading": "Model listesi yükleniyor...",
+		"voicecommands-model-catalog-error": "Model listesi yüklenemedi. Yine de aşağıdan doğrudan indirme bağlantısı kullanabilirsiniz.",
+		"voicecommands-model-language": "Dil",
+		"voicecommands-model-select": "Model",
+		"voicecommands-model-direct-link": "Ya da aşağıya doğrudan indirme bağlantısı yapıştırın.",
+		"voicecommands-model-manual-toggle": "Ya da bir modeli manuel indir"
 	},
 	"eventlist": {
 		"free-ticket": "Ücretsiz bilet",

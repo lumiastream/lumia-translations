@@ -809,7 +809,7 @@
 		"voicecommands-model-id-desc": "Used as the local folder name. Leave blank to auto-fill from the URL.",
 		"voicecommands-model-list": "Open Model List",
 		"voicecommands-model-download-title": "Download Vosk Model",
-		"voicecommands-model-help-title": "How to get a model link",
+		"voicecommands-model-help-title": "Manual download steps",
 		"voicecommands-model-help-step-1": "1. Open the Vosk model list in your browser.",
 		"voicecommands-model-help-step-2": "2. Choose a model (language + size) and right click its name.",
 		"voicecommands-model-help-step-3": "3. Copy the .zip download link from that page.",
@@ -827,7 +827,14 @@
 		"voicecommands-grammar-words": "Recognition Words",
 		"voicecommands-grammar-words-placeholder": "e.g. red, green, turn on",
 		"voicecommands-grammar-words-desc": "Add extra words or phrases for recognition (comma-separated). These improve accuracy but do not trigger commands unless a command exists.",
-		"voicecommands-grammar-words-disabled": "Recognition Words only apply in command-only mode. Disable Live Captions and “Match inside full sentences” to use this list."
+		"voicecommands-grammar-words-disabled": "Recognition Words only apply in command-only mode. Disable Live Captions and “Match inside full sentences” to use this list.",
+		"voicecommands-model-catalog-title": "Choose a model",
+		"voicecommands-model-catalog-loading": "Loading model list...",
+		"voicecommands-model-catalog-error": "Unable to load the model list. You can still use a direct download link below.",
+		"voicecommands-model-language": "Language",
+		"voicecommands-model-select": "Model",
+		"voicecommands-model-direct-link": "Or paste a direct download link below.",
+		"voicecommands-model-manual-toggle": "Or manually download a model"
 	},
 	"eventlist": {
 		"free-ticket": "Free ticket",
