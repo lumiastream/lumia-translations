@@ -2959,7 +2959,8 @@
 		"switchVerticalScene": "Switch Vertical Scene",
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
-		"thankyouSent": "Thank You Sent"
+		"thankyouSent": "Thank You Sent",
+		"bitsCombo": "Bits Combo"
 	},
 	"discovery": {
 		"light-ip-has-changed": "En av dina {{type}} lampans IP-adress har ändrats. ",
