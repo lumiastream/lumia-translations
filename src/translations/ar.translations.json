@@ -2959,7 +2959,8 @@
 		"switchVerticalScene": "Switch Vertical Scene",
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
-		"thankyouSent": "Thank You Sent"
+		"thankyouSent": "Thank You Sent",
+		"bitsCombo": "Bits Combo"
 	},
 	"discovery": {
 		"light-ip-has-changed": "واحدة من الخاص بك {{type}} لقد تغير عنوان IP الخاص بالضوء. ",
