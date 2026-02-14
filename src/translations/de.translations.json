@@ -812,6 +812,9 @@
 		"audio-device-description": "Wählen Sie das Audioeingabegerät für Sprachbefehle aus",
 		"voicecommands-full-sentence": "In vollständigen Sätzen suchen",
 		"voicecommands-full-sentence-desc": "Auslösen, wenn der Befehl irgendwo im Satz erscheint",
+		"voicecommands-trigger-immediately": "Sofort auslösen",
+		"voicecommands-trigger-immediately-desc": "Löst aus, sobald eine Befehlsphrase erkannt wird, ohne auf das Ende der Sprache zu warten. Das ist weniger genau, und kurze einwortige Befehle warten weiterhin auf die endgültige Erkennung.",
+
 		"voicecommands-debug": "Sprach-Debug",
 		"voicecommands-debug-desc": "Erkannte Sätze protokollieren, solange diese Seite geöffnet ist",
 		"voicecommands-debug-log": "Sprach-Debug-Protokoll",

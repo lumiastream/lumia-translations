@@ -813,6 +813,9 @@
 		"audio-device-description": "Seleccione el dispositivo de entrada de audio para usar con comandos de voz",
 		"voicecommands-full-sentence": "Coincidir dentro de oraciones completas",
 		"voicecommands-full-sentence-desc": "Activar cuando el comando aparece en cualquier parte de la frase",
+		"voicecommands-trigger-immediately": "Activar de inmediato",
+		"voicecommands-trigger-immediately-desc": "Activa en cuanto se detecta una frase de comando, sin esperar a que termine de hablar. Es menos preciso y los comandos cortos de una sola palabra siguen esperando al reconocimiento final.",
+
 		"voicecommands-debug": "Depuración de voz",
 		"voicecommands-debug-desc": "Registra las frases reconocidas mientras esta página esté abierta",
 		"voicecommands-debug-log": "Registro de depuración de voz",

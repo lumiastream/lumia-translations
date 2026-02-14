@@ -813,6 +813,9 @@
 		"audio-device-description": "Välj ljudinmatningsenheten som ska användas för röstkommandon",
 		"voicecommands-full-sentence": "Matcha i fullständiga meningar",
 		"voicecommands-full-sentence-desc": "Utlös när kommandot visas var som helst i frasen",
+		"voicecommands-trigger-immediately": "Utlös omedelbart",
+		"voicecommands-trigger-immediately-desc": "Utlöser så snart en kommandofras upptäcks, utan att vänta på att talet ska ta slut. Detta är mindre exakt och korta enordskommandon väntar fortfarande på slutlig igenkänning.",
+
 		"voicecommands-debug": "Röstfelsökning",
 		"voicecommands-debug-desc": "Logga igenkända meningar medan den här sidan är öppen",
 		"voicecommands-debug-log": "Röstfelsökningslogg",

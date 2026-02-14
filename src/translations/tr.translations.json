@@ -813,6 +813,9 @@
 		"audio-device-description": "Ses komutları için kullanılacak ses giriş cihazını seçin",
 		"voicecommands-full-sentence": "Tam cümleler içinde eşleştir",
 		"voicecommands-full-sentence-desc": "Komut ifadenin herhangi bir yerinde göründüğünde tetikle",
+		"voicecommands-trigger-immediately": "Hemen tetikle",
+		"voicecommands-trigger-immediately-desc": "Bir komut ifadesi algılanır algılanmaz, konuşmanın bitmesini beklemeden tetikler. Bu daha az doğrudur ve kısa, tek kelimelik komutlar yine de nihai tanımayı bekler.",
+
 		"voicecommands-debug": "Ses Hata Ayıklama",
 		"voicecommands-debug-desc": "Bu sayfa açıkken tanınan cümleleri günlüğe kaydet",
 		"voicecommands-debug-log": "Ses hata ayıklama günlüğü",

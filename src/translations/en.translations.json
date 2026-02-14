@@ -701,6 +701,9 @@
 		"audio-device-description": "Select the audio input device to use for voice commands",
 		"voicecommands-full-sentence": "Match inside full sentences",
 		"voicecommands-full-sentence-desc": "Trigger when the command appears anywhere in the phrase",
+		"voicecommands-trigger-immediately": "Trigger immediately",
+		"voicecommands-trigger-immediately-desc": "Trigger as soon as a command phrase is detected, without waiting for speech to finish. This is less accurate and short single-word commands still wait for final recognition.",
+
 		"keys": "Keys",
 		"device": "Device",
 		"hotkeys-description": "Bind Keyboard Hot keys to commands",

@@ -813,6 +813,9 @@
 		"audio-device-description": "حدد جهاز إدخال الصوت لاستخدامه للأوامر الصوتية",
 		"voicecommands-full-sentence": "تطابق داخل الجمل الكاملة",
 		"voicecommands-full-sentence-desc": "التشغيل عندما يظهر الأمر في أي مكان في العبارة",
+		"voicecommands-trigger-immediately": "التشغيل فورًا",
+		"voicecommands-trigger-immediately-desc": "يتم التشغيل بمجرد اكتشاف عبارة أمر، دون انتظار انتهاء الكلام. هذه الطريقة أقل دقة، وما زالت الأوامر القصيرة المكوّنة من كلمة واحدة تنتظر التعرف النهائي.",
+
 		"voicecommands-debug": "تصحيح أخطاء الصوت",
 		"voicecommands-debug-desc": "تسجيل الجمل المعترف بها أثناء بقاء هذه الصفحة مفتوحة",
 		"voicecommands-debug-log": "سجل تصحيح أخطاء الصوت",

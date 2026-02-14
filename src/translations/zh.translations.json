@@ -813,6 +813,9 @@
 		"audio-device-description": "选择用于语音命令的音频输入设备",
 		"voicecommands-full-sentence": "在完整句子中匹配",
 		"voicecommands-full-sentence-desc": "当命令出现在短语中的任何位置时触发",
+		"voicecommands-trigger-immediately": "立即触发",
+		"voicecommands-trigger-immediately-desc": "在检测到命令短语后立即触发，无需等待说话结束。此方式准确性较低，较短的单词命令仍会等待最终识别。",
+
 		"voicecommands-debug": "语音调试",
 		"voicecommands-debug-desc": "在此页面打开时记录识别到的句子",
 		"voicecommands-debug-log": "语音调试日志",
