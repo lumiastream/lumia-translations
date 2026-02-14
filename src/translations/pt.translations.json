@@ -813,6 +813,9 @@
 		"audio-device-description": "Selecione o dispositivo de entrada de áudio para usar com comandos de voz",
 		"voicecommands-full-sentence": "Corresponder dentro de frases completas",
 		"voicecommands-full-sentence-desc": "Acionar quando o comando aparecer em qualquer lugar da frase",
+		"voicecommands-trigger-immediately": "Disparar imediatamente",
+		"voicecommands-trigger-immediately-desc": "Dispara assim que uma frase de comando é detectada, sem esperar a fala terminar. Isso é menos preciso e comandos curtos de uma única palavra ainda aguardam o reconhecimento final.",
+
 		"voicecommands-debug": "Depuração de voz",
 		"voicecommands-debug-desc": "Registrar frases reconhecidas enquanto esta página estiver aberta",
 		"voicecommands-debug-log": "Log de depuração de voz",
