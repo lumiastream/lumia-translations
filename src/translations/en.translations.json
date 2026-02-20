@@ -1071,7 +1071,18 @@
 		"beat-duration": "How long a beat should stay on (ms)",
 		"turn-off-lights-after-beat": "Turn off lights after beat",
 		"edit-slots": "Edit slots",
-		"scene-living-type-": "Scene living type"
+		"scene-living-type-": "Scene living type",
+		"animation-assistant": "Animation Assistant",
+		"animation-assistant-description": "Use the assistant modal to import JSON, choose AI provider/model, and generate animations from prompts.",
+		"ai-assistant-tab": "AI Assistant",
+		"manual-json-tab": "Manual JSON",
+		"manual-json-description": "Import an animation JSON file or copy a starter JSON template for manual editing.",
+		"animation-json-imported": "Animation JSON imported.",
+		"animation-json-template-copied": "Animation JSON template copied to clipboard.",
+		"animation-json-template-copy-failed": "Could not copy JSON template: {{error}}",
+		"animation-json-file-filter": "Animation JSON",
+		"import-file": "Import File",
+		"copy-template": "Copy Template"
 	},
 	"commands": {
 		"scratch": "Start from scratch",

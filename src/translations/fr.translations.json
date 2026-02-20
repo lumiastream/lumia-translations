@@ -1070,7 +1070,18 @@
 		"beat-duration": "Durée d'un battement (ms)",
 		"turn-off-lights-after-beat": "Éteindre les lumières après le battement",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "Assistant d'animation",
+		"animation-assistant-description": "Utilisez la fenêtre de l'assistant pour importer du JSON, choisir le fournisseur/modèle IA et générer des animations à partir de prompts.",
+		"ai-assistant-tab": "Assistant IA",
+		"manual-json-tab": "JSON manuel",
+		"manual-json-description": "Importez un fichier JSON d'animation ou copiez un modèle JSON de départ pour une édition manuelle.",
+		"animation-json-imported": "JSON d'animation importé.",
+		"animation-json-template-copied": "Modèle JSON d'animation copié dans le presse-papiers.",
+		"animation-json-template-copy-failed": "Impossible de copier le modèle JSON : {{error}}",
+		"animation-json-file-filter": "JSON d'animation",
+		"import-file": "Importer un fichier",
+		"copy-template": "Copier le modèle"
 	},
 	"commands": {
 		"set-to": "Mis à {{on_off}}",

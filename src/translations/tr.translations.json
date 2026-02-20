@@ -1070,7 +1070,18 @@
 		"beat-duration": "Bir ritmin ne kadar süreceği (ms)",
 		"turn-off-lights-after-beat": "Ritimden sonra ışıkları kapat",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "Animasyon Asistanı",
+		"animation-assistant-description": "JSON içe aktarmak, AI sağlayıcı/model seçmek ve istemlerden animasyon oluşturmak için asistan penceresini kullanın.",
+		"ai-assistant-tab": "Yapay Zeka Asistanı",
+		"manual-json-tab": "Manuel JSON",
+		"manual-json-description": "Manuel düzenleme için bir animasyon JSON dosyası içe aktarın veya başlangıç JSON şablonunu kopyalayın.",
+		"animation-json-imported": "Animasyon JSON'u içe aktarıldı.",
+		"animation-json-template-copied": "Animasyon JSON şablonu panoya kopyalandı.",
+		"animation-json-template-copy-failed": "JSON şablonu kopyalanamadı: {{error}}",
+		"animation-json-file-filter": "Animasyon JSON",
+		"import-file": "Dosya İçe Aktar",
+		"copy-template": "Şablonu Kopyala"
 	},
 	"commands": {
 		"scratch": "Sıfırdan başla",

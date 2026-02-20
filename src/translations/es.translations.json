@@ -1070,7 +1070,18 @@
 		"beat-duration": "Duración de un ritmo (ms)",
 		"turn-off-lights-after-beat": "Apagar las luces después del ritmo",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "Asistente de animación",
+		"animation-assistant-description": "Usa el modal del asistente para importar JSON, elegir el proveedor/modelo de IA y generar animaciones a partir de prompts.",
+		"ai-assistant-tab": "Asistente de IA",
+		"manual-json-tab": "JSON manual",
+		"manual-json-description": "Importa un archivo JSON de animación o copia una plantilla JSON inicial para editarla manualmente.",
+		"animation-json-imported": "JSON de animación importado.",
+		"animation-json-template-copied": "Plantilla JSON de animación copiada al portapapeles.",
+		"animation-json-template-copy-failed": "No se pudo copiar la plantilla JSON: {{error}}",
+		"animation-json-file-filter": "JSON de animación",
+		"import-file": "Importar archivo",
+		"copy-template": "Copiar plantilla"
 	},
 	"commands": {
 		"set-to": "Ajustado a {{on_off}}",

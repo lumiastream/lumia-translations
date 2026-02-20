@@ -1070,7 +1070,18 @@
 		"beat-duration": "节拍应持续多长时间（毫秒）",
 		"turn-off-lights-after-beat": "节拍后关闭灯光",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "动画助手",
+		"animation-assistant-description": "使用助手弹窗导入 JSON、选择 AI 提供商/模型，并根据提示生成动画。",
+		"ai-assistant-tab": "AI 助手",
+		"manual-json-tab": "手动 JSON",
+		"manual-json-description": "导入动画 JSON 文件，或复制一个起始 JSON 模板进行手动编辑。",
+		"animation-json-imported": "动画 JSON 已导入。",
+		"animation-json-template-copied": "动画 JSON 模板已复制到剪贴板。",
+		"animation-json-template-copy-failed": "无法复制 JSON 模板：{{error}}",
+		"animation-json-file-filter": "动画 JSON",
+		"import-file": "导入文件",
+		"copy-template": "复制模板"
 	},
 	"commands": {
 		"scratch": "从头开始",

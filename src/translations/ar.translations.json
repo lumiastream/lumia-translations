@@ -1070,7 +1070,18 @@
 		"beat-duration": "مدة بقاء النبضة (مللي ثانية)",
 		"turn-off-lights-after-beat": "إطفاء الأضواء بعد النبضة",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "مساعد الرسوم المتحركة",
+		"animation-assistant-description": "استخدم نافذة المساعد لاستيراد JSON، واختيار مزود/نموذج الذكاء الاصطناعي، وإنشاء رسوم متحركة من المطالبات.",
+		"ai-assistant-tab": "مساعد الذكاء الاصطناعي",
+		"manual-json-tab": "JSON يدوي",
+		"manual-json-description": "استورد ملف JSON للرسوم المتحركة أو انسخ قالب JSON ابتدائيًا للتحرير اليدوي.",
+		"animation-json-imported": "تم استيراد JSON للرسوم المتحركة.",
+		"animation-json-template-copied": "تم نسخ قالب JSON للرسوم المتحركة إلى الحافظة.",
+		"animation-json-template-copy-failed": "تعذر نسخ قالب JSON: {{error}}",
+		"animation-json-file-filter": "JSON للرسوم المتحركة",
+		"import-file": "استيراد ملف",
+		"copy-template": "نسخ القالب"
 	},
 	"commands": {
 		"set-to": "ضبط ل {{on_off}}",

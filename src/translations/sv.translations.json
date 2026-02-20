@@ -1070,7 +1070,18 @@
 		"beat-duration": "Hur länge ett beat ska vara på (ms)",
 		"turn-off-lights-after-beat": "Släck lamporna efter beatet",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "Animationsassistent",
+		"animation-assistant-description": "Använd assistentmodalen för att importera JSON, välja AI-leverantör/modell och skapa animationer från prompts.",
+		"ai-assistant-tab": "AI-assistent",
+		"manual-json-tab": "Manuell JSON",
+		"manual-json-description": "Importera en animations-JSON-fil eller kopiera en JSON-mall för manuell redigering.",
+		"animation-json-imported": "Animations-JSON importerad.",
+		"animation-json-template-copied": "Animations-JSON-mall kopierad till urklipp.",
+		"animation-json-template-copy-failed": "Kunde inte kopiera JSON-mallen: {{error}}",
+		"animation-json-file-filter": "Animations-JSON",
+		"import-file": "Importera fil",
+		"copy-template": "Kopiera mall"
 	},
 	"commands": {
 		"set-to": "Satt till {{on_off}}",

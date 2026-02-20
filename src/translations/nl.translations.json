@@ -1070,7 +1070,18 @@
 		"beat-duration": "Hoe lang een beat moet blijven (ms)",
 		"turn-off-lights-after-beat": "Lichten uitschakelen na de beat",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "Animatieassistent",
+		"animation-assistant-description": "Gebruik het assistentvenster om JSON te importeren, een AI-provider/model te kiezen en animaties uit prompts te genereren.",
+		"ai-assistant-tab": "AI-assistent",
+		"manual-json-tab": "Handmatige JSON",
+		"manual-json-description": "Importeer een animatie-JSON-bestand of kopieer een JSON-startsjabloon om handmatig te bewerken.",
+		"animation-json-imported": "Animatie-JSON geïmporteerd.",
+		"animation-json-template-copied": "Animatie-JSON-sjabloon naar klembord gekopieerd.",
+		"animation-json-template-copy-failed": "Kon JSON-sjabloon niet kopiëren: {{error}}",
+		"animation-json-file-filter": "Animatie-JSON",
+		"import-file": "Bestand importeren",
+		"copy-template": "Sjabloon kopiëren"
 	},
 	"commands": {
 		"set-to": "Instellen op {{on_off}}",

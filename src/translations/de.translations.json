@@ -1069,7 +1069,18 @@
 		"beat-duration": "Dauer eines Beats (ms)",
 		"turn-off-lights-after-beat": "Lichter nach dem Beat ausschalten",
 		"scene-living-type-": "Scene living type",
-		"edit-slots": "Edit slots"
+		"edit-slots": "Edit slots",
+		"animation-assistant": "Animationsassistent",
+		"animation-assistant-description": "Verwende den Assistenten-Dialog, um JSON zu importieren, AI-Anbieter/Modell auszuwählen und Animationen aus Prompts zu erzeugen.",
+		"ai-assistant-tab": "KI-Assistent",
+		"manual-json-tab": "Manuelles JSON",
+		"manual-json-description": "Importiere eine Animations-JSON-Datei oder kopiere eine JSON-Startvorlage zur manuellen Bearbeitung.",
+		"animation-json-imported": "Animations-JSON importiert.",
+		"animation-json-template-copied": "Animations-JSON-Vorlage in die Zwischenablage kopiert.",
+		"animation-json-template-copy-failed": "JSON-Vorlage konnte nicht kopiert werden: {{error}}",
+		"animation-json-file-filter": "Animations-JSON",
+		"import-file": "Datei importieren",
+		"copy-template": "Vorlage kopieren"
 	},
 	"commands": {
 		"set-to": "Einstellen {{on_off}}",
