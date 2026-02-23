@@ -608,6 +608,7 @@
 		"automations-description": "Establezca una hora para activar cualquiera de sus comandos, use valores criptográficos para cambiar las luces, envíe un mensaje de chatbot cada x minutos y mucho más.",
 		"add-automation": "Agregar automatización",
 		"automation-state-disabled": "Las automatizaciones están deshabilitadas",
+		"only-collect-while-live": "Ejecutar la automatización solo durante la transmisión en vivo",
 		"automations-are-off": "Las automatizaciones están apagadas",
 		"simplified-schedule": "Horario simplificado",
 		"schedule-an-activity": "Agendar una actividad",

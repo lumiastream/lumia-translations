@@ -608,6 +608,7 @@
 		"automations-description": "Ställ in en tid för att utlösa något av dina kommandon, använd kryptovärden för att ändra dina lampor, skicka ett chattbotmeddelande var x minut och mycket mer",
 		"add-automation": "Lägg till automation",
 		"automation-state-disabled": "Automatiseringar är inaktiverade",
+		"only-collect-while-live": "Kör endast automatisering under livesändning",
 		"automations-are-off": "Automatiseringarna är avstängda",
 		"simplified-schedule": "Förenklat schema",
 		"schedule-an-activity": "Schemalägg en aktivitet",

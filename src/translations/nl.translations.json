@@ -608,6 +608,7 @@
 		"automations-description": "Stel een tijd in waarop uw opdrachten worden geactiveerd, gebruik Crypto-waarden om uw lichten te veranderen, stuur elke x minuten een chatbotbericht en nog veel meer",
 		"add-automation": "Automatisering toevoegen",
 		"automation-state-disabled": "Automatiseringen zijn uitgeschakeld",
+		"only-collect-while-live": "Automatisering alleen uitvoeren tijdens het streamen",
 		"automations-are-off": "Automatiseringen staan uit",
 		"simplified-schedule": "Vereenvoudigd schema",
 		"schedule-an-activity": "Plan een activiteit",

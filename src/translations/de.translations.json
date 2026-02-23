@@ -607,6 +607,7 @@
 		"automations-description": "Legen Sie eine Zeit fest, zu der jeder Ihrer Befehle ausgelöst wird, verwenden Sie Kryptowerte, um Ihre Lichter zu ändern, senden Sie alle x Minuten eine Chat-Bot-Nachricht und vieles mehr",
 		"add-automation": "Automatisierung hinzufügen",
 		"automation-state-disabled": "Automatisierungen sind deaktiviert",
+		"only-collect-while-live": "Automatisierung nur während des Streamings ausführen",
 		"automations-are-off": "Automatisierungen sind deaktiviert",
 		"simplified-schedule": "Vereinfachter Zeitplan",
 		"schedule-an-activity": "Planen Sie eine Aktivität",

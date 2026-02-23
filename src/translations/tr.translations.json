@@ -608,6 +608,7 @@
 		"automations-description": "Komutlarınızdan herhangi birini tetiklemek için bir zaman belirleyin, ışıklarınızı değiştirmek için Kripto değerlerini kullanın, her x dakikada bir sohbet botu mesajı gönderin ve çok daha fazlası",
 		"add-automation": "Otomasyon Ekle",
 		"automation-state-disabled": "Otomasyonlar devre dışı",
+		"only-collect-while-live": "Otomasyonu yalnızca yayın sırasında çalıştır",
 		"automations-are-off": "Otomasyonlar kapalı",
 		"simplified-schedule": "Basitleştirilmiş Program",
 		"schedule-an-activity": "Bir aktivite planlama",

@@ -608,6 +608,7 @@
 		"automations-description": "设置时间来触发您的任何命令，使用加密货币值来改变您的灯光，每隔 X 分钟发送一条聊天机器人消息，等等",
 		"add-automation": "添加自动化",
 		"automation-state-disabled": "自动化已禁用",
+		"only-collect-while-live": "仅在直播期间运行自动化",
 		"automations-are-off": "自动化已关闭",
 		"simplified-schedule": "简化时间表",
 		"schedule-an-activity": "安排活动",

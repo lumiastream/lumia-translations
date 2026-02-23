@@ -608,6 +608,7 @@
 		"automations-description": "Defina um horário para acionar qualquer um de seus comandos, use valores de criptomoedas para mudar suas luzes, envie uma mensagem de bot de bate-papo a cada X minutos e muito mais",
 		"add-automation": "Adicionar Automação",
 		"automation-state-disabled": "Automações desativadas",
+		"only-collect-while-live": "Executar a automação apenas durante a transmissão ao vivo",
 		"automations-are-off": "Automações estão desligadas",
 		"simplified-schedule": "Agendamento Simplificado",
 		"schedule-an-activity": "Agendar uma atividade",

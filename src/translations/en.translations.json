@@ -609,6 +609,7 @@
 		"automations-description": "Set a time to trigger any of your commands, use Crypto values to change your lights, send a chat bot message every x minutes, and so much more",
 		"add-automation": "Add Automation",
 		"automation-state-disabled": "Automations are disabled",
+		"only-collect-while-live": "Only run automation while streaming",
 		"automations-are-off": "Automations are off",
 		"simplified-schedule": "Simplified Schedule",
 		"schedule-an-activity": "Schedule an activity",

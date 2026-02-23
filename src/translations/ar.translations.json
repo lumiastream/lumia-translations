@@ -608,6 +608,7 @@
 		"automations-description": "قم بتعيين وقت لتشغيل أي من أوامرك، واستخدم قيم التشفير لتغيير الأضواء، وإرسال رسالة روبوت الدردشة كل x دقيقة، وغير ذلك الكثير",
 		"add-automation": "إضافة الأتمتة",
 		"automation-state-disabled": "تم تعطيل الأتمتة",
+		"only-collect-while-live": "تشغيل الأتمتة فقط أثناء البث المباشر",
 		"automations-are-off": "الأتمتة معطلة",
 		"simplified-schedule": "جدول مبسط",
 		"schedule-an-activity": "جدولة النشاط",
