@@ -1932,7 +1932,9 @@
 		"tile-hfx-description": "Erstellen Sie geschichtete visuelle Effekte mit Timing-Steuerung.",
 		"tile-code-description": "Nutzen Sie eigenen Code fur erweiterte Logik und Aktionen.",
 		"tile-action-source-description": "Fugen Sie Aktionen aus {{source}} fur diesen Befehl hinzu.",
-		"tile-generic-description": "Konfigurieren Sie {{name}}-Einstellungen fur diesen Befehl."
+		"tile-generic-description": "Konfigurieren Sie {{name}}-Einstellungen fur diesen Befehl.",
+		"global-state-kick-points-description": "Bei Inaktivität werden alle Kick-Punkte deaktiviert",
+		"global-state-kick-points-disabled": "Alle deine Kick-Punkte sind jetzt deaktiviert"
 	},
 	"variables": {
 		"action": "Aktionsname",

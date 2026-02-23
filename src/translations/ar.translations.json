@@ -1933,7 +1933,9 @@
 		"tile-hfx-description": "انشئ تاثيرات بصرية متعددة الطبقات مع تحكم بالتوقيت.",
 		"tile-code-description": "استخدم كودا مخصصا للمنطق والاجراءات المتقدمة.",
 		"tile-action-source-description": "اضف اجراءات من {{source}} لهذا الامر.",
-		"tile-generic-description": "قم بتكوين اعدادات {{name}} لهذا الامر."
+		"tile-generic-description": "قم بتكوين اعدادات {{name}} لهذا الامر.",
+		"global-state-kick-points-description": "عند عدم النشاط، سيتم تعطيل جميع نقاط Kick",
+		"global-state-kick-points-disabled": "تم تعطيل جميع نقاط Kick الخاصة بك الآن"
 	},
 	"variables": {
 		"action": "اسم الفعل",

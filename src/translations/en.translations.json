@@ -1934,7 +1934,9 @@
 		"tile-hfx-description": "Build layered visual effects with timing control.",
 		"tile-code-description": "Use custom code for advanced logic and actions.",
 		"tile-action-source-description": "Add actions from {{source}} for this command.",
-		"tile-generic-description": "Configure {{name}} settings for this command."
+		"tile-generic-description": "Configure {{name}} settings for this command.",
+		"global-state-kick-points-description": "When inactive, all kick points will be disabled",
+		"global-state-kick-points-disabled": "All of your kick points are disabled now"
 	},
 	"variables": {
 		"action": "Action name",

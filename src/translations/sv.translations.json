@@ -1933,7 +1933,9 @@
 		"tile-hfx-description": "Bygg lagerbaserade visuella effekter med tidsstyrning.",
 		"tile-code-description": "Anvand anpassad kod for avancerad logik och atgarder.",
 		"tile-action-source-description": "Lagg till atgarder fran {{source}} for detta kommando.",
-		"tile-generic-description": "Konfigurera {{name}}-installningar for detta kommando."
+		"tile-generic-description": "Konfigurera {{name}}-installningar for detta kommando.",
+		"global-state-kick-points-description": "När inaktiv kommer alla Kick-poäng att inaktiveras",
+		"global-state-kick-points-disabled": "Alla dina Kick-poäng är nu inaktiverade"
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",

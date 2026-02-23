@@ -1933,7 +1933,9 @@
 		"tile-hfx-description": "Creez des effets visuels en couches avec controle du timing.",
 		"tile-code-description": "Utilisez du code personnalise pour une logique et des actions avancees.",
 		"tile-action-source-description": "Ajoutez des actions depuis {{source}} pour cette commande.",
-		"tile-generic-description": "Configurez les parametres {{name}} pour cette commande."
+		"tile-generic-description": "Configurez les parametres {{name}} pour cette commande.",
+		"global-state-kick-points-description": "Lorsqu'ils sont inactifs, tous les points Kick seront désactivés",
+		"global-state-kick-points-disabled": "Tous vos points Kick sont désormais désactivés"
 	},
 	"variables": {
 		"action": "Nom de l'action",

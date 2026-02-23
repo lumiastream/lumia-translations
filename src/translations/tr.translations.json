@@ -1933,7 +1933,9 @@
 		"tile-hfx-description": "Zamanlama kontrollu katmanli gorsel efektler olusturun.",
 		"tile-code-description": "Gelismis mantik ve eylemler icin ozel kod kullanin.",
 		"tile-action-source-description": "Bu komut icin {{source}} kaynagindan eylem ekleyin.",
-		"tile-generic-description": "Bu komut icin {{name}} ayarlarini yapilandirin."
+		"tile-generic-description": "Bu komut icin {{name}} ayarlarini yapilandirin.",
+		"global-state-kick-points-description": "Etkin olmadığında tüm Kick puanları devre dışı bırakılır",
+		"global-state-kick-points-disabled": "Tüm Kick puanlarınız artık devre dışı"
 	},
 	"variables": {
 		"action": "İşlem adı",

@@ -1933,7 +1933,9 @@
 		"tile-hfx-description": "构建带有时序控制的分层视觉效果。",
 		"tile-code-description": "使用自定义代码实现高级逻辑和操作。",
 		"tile-action-source-description": "为此命令添加来自 {{source}} 的操作。",
-		"tile-generic-description": "为此命令配置 {{name}} 设置。"
+		"tile-generic-description": "为此命令配置 {{name}} 设置。",
+		"global-state-kick-points-description": "不活跃时，所有 Kick 积分将被禁用",
+		"global-state-kick-points-disabled": "你的所有 Kick 积分现在都已禁用"
 	},
 	"variables": {
 		"action": "动作名称",

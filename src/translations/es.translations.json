@@ -1933,7 +1933,9 @@
 		"tile-hfx-description": "Crea efectos visuales por capas con control de tiempo.",
 		"tile-code-description": "Usa codigo personalizado para logica y acciones avanzadas.",
 		"tile-action-source-description": "Agrega acciones de {{source}} para este comando.",
-		"tile-generic-description": "Configura ajustes de {{name}} para este comando."
+		"tile-generic-description": "Configura ajustes de {{name}} para este comando.",
+		"global-state-kick-points-description": "Cuando esté inactivo, todos los puntos de Kick se desactivarán.",
+		"global-state-kick-points-disabled": "Todos tus puntos de Kick están desactivados ahora."
 	},
 	"variables": {
 		"action": "Nombre de la acción",

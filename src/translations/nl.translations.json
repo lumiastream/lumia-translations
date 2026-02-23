@@ -1933,7 +1933,9 @@
 		"tile-hfx-description": "Bouw gelaagde visuele effecten met timingcontrole.",
 		"tile-code-description": "Gebruik aangepaste code voor geavanceerde logica en acties.",
 		"tile-action-source-description": "Voeg acties van {{source}} toe voor deze opdracht.",
-		"tile-generic-description": "Configureer {{name}}-instellingen voor deze opdracht."
+		"tile-generic-description": "Configureer {{name}}-instellingen voor deze opdracht.",
+		"global-state-kick-points-description": "Wanneer inactief, worden alle Kick-punten uitgeschakeld",
+		"global-state-kick-points-disabled": "Al je Kick-punten zijn nu uitgeschakeld"
 	},
 	"variables": {
 		"action": "Naam van actie",
