@@ -550,7 +550,8 @@
 		"games": "Games",
 		"filteredWords": "Filtered Words",
 		"viewer_profiles": "Zuschauerprofile",
-		"lightConfiguration": "Lichtkonfiguration"
+		"lightConfiguration": "Lichtkonfiguration",
+		"assets-manager": "Asset Manager"
 	},
 	"home": {
 		"test-setup": "Versuchsaufbau",
@@ -3669,7 +3670,22 @@
 		"private-upload": "Private upload",
 		"newer-version-available": "Newer version available",
 		"no-overlays-found": "Keine Overlays gefunden",
-		"no-overlays-found-description": "Es gibt keine Overlays, die Ihren aktuellen Filtern oder Suchkriterien entsprechen. Versuchen Sie, Ihre Filter oder Suchbegriffe anzupassen."
+		"no-overlays-found-description": "Es gibt keine Overlays, die Ihren aktuellen Filtern oder Suchkriterien entsprechen. Versuchen Sie, Ihre Filter oder Suchbegriffe anzupassen.",
+		"assets-manager-description": "Manage overlay image, video, and audio assets.",
+		"storage-used": "Storage Used",
+		"asset-search-placeholder": "Search assets...",
+		"assets-load-failed": "Unable to load assets right now.",
+		"asset-upload-failed": "Failed to upload {{name}}.",
+		"asset-upload-success": "Uploaded {{count}} asset(s).",
+		"asset-upload-invalid-type": "Unsupported file type for {{name}}.",
+		"asset-upload-too-large": "{{name}} is too large.",
+		"delete-asset-title": "Delete asset?",
+		"delete-asset-description": "This removes the asset from your overlays library.",
+		"asset-delete-success": "Asset deleted.",
+		"asset-delete-failed": "Failed to delete asset.",
+		"assets-empty": "No assets found.",
+		"asset-drop-active": "Drop files to upload",
+		"asset-drop-inactive": "Drag and drop image, video, or audio files here"
 	},
 	"update": {
 		"update-now": "Jetzt aktualisieren",
