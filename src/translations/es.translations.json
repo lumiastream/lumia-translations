@@ -2542,7 +2542,8 @@
 		"youtube_last_gift_member": "(Youtube) the last user who sent a gift",
 		"youtube_session_gift_members": "(Youtube) Session gift members list",
 		"youtube_total_gift_members_count": "(Youtube) the total gift members count of your Youtube channel",
-		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc."
+		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc.",
+		"kick_last_host": "(Kick) el último usuario que te hizo host"
 	},
 	"voicemod": {
 		"delay": "Demora",
@@ -3213,6 +3214,8 @@
 		"show-timestamps": "Mostrar marcas de tiempo",
 		"show-site-icons": "Mostrar iconos del sitio",
 		"hide-alerts": "Ocultar alertas",
+		"hyper-clickable-links": "Enlaces con clic directo",
+		"preview-gifs-videos-in-chat": "Vista previa de GIFs/videos en el chat",
 		"hide-chat-commands": "Ocultar comandos del chat",
 		"font": "Fuente",
 		"font-size": "Tamaño de fuente",

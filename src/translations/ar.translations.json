@@ -2544,7 +2544,8 @@
 		"youtube_last_gift_member": "(Youtube) the last user who sent a gift",
 		"youtube_session_gift_members": "(Youtube) Session gift members list",
 		"youtube_total_gift_members_count": "(Youtube) the total gift members count of your Youtube channel",
-		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc."
+		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc.",
+		"kick_last_host": "(Kick) آخر مستخدم قام بعمل استضافة لك"
 	},
 	"voicemod": {
 		"delay": "تأخير",
@@ -3368,6 +3369,8 @@
 		"show-timestamps": "إظهار الطوابع الزمنية",
 		"show-site-icons": "إظهار أيقونات الموقع",
 		"hide-alerts": "إخفاء التنبيهات",
+		"hyper-clickable-links": "روابط قابلة للنقر بسهولة",
+		"preview-gifs-videos-in-chat": "معاينة صور GIF ومقاطع الفيديو في الدردشة",
 		"hide-chat-commands": "إخفاء أوامر الدردشة",
 		"font": "الخط",
 		"font-size": "حجم الخط (بكسل)",
