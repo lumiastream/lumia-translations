@@ -2543,7 +2543,10 @@
 		"youtube_session_gift_members": "(Youtube) Session gift members list",
 		"youtube_total_gift_members_count": "(Youtube) the total gift members count of your Youtube channel",
 		"items": "The items of the alert comma separated, such as shirt, keyblade, chaos emerald, etc.",
-		"kick_last_host": "(Kick) der letzte Nutzer, der dich gehostet hat"
+		"kick_last_host": "(Kick) der letzte Nutzer, der dich gehostet hat",
+		"customvariables": "Benutzerdefinierte Variablen",
+		"normalvariables": "Normale Variablen",
+		"functionvariables": "Funktionsvariablen"
 	},
 	"voicemod": {
 		"delay": "Verzögerung",
