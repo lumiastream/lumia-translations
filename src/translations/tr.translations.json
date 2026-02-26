@@ -1661,6 +1661,7 @@
 		"delete-confirmation-message": "Bu eylem geri alınamaz, Klasörü silmek istediğinizden emin misiniz?",
 		"delete-all-commands": "Bu klasördeki tüm komutları sil",
 		"bulk-edit": "Toplu düzenleme",
+		"bulk-delete": "Toplu silme",
 		"close-bulk-edit": "Toplu düzenlemeyi kapat",
 		"folders": "Klasörler",
 		"change-command-order": "Komut Sırasını Değiştir",

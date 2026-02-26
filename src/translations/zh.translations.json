@@ -1661,6 +1661,7 @@
 		"delete-confirmation-message": "此操作不可逆，您确定要删除该文件夹吗？",
 		"delete-all-commands": "删除此文件夹内的所有命令",
 		"bulk-edit": "批量编辑",
+		"bulk-delete": "批量删除",
 		"close-bulk-edit": "关闭批量编辑",
 		"folders": "文件夹",
 		"change-command-order": "更改命令顺序",

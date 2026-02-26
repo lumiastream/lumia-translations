@@ -1647,6 +1647,7 @@
 		"delete-confirmation-message": "لا يمكن التراجع عن هذا الإجراء، هل أنت متأكد من أنك تريد حذف المجلد؟",
 		"delete-all-commands": "احذف جميع الأوامر الموجودة داخل هذا المجلد",
 		"bulk-edit": "تحرير بالجملة",
+		"bulk-delete": "حذف بالجملة",
 		"close-bulk-edit": "إغلاق التحرير المجمع",
 		"folders": "المجلدات",
 		"change-command-order": "تغيير ترتيب الأوامر",

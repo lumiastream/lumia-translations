@@ -1647,6 +1647,7 @@
 		"delete-confirmation-message": "Cette action n'est pas réversible, êtes-vous sûr de vouloir supprimer le dossier ?",
 		"delete-all-commands": "Supprimez toutes les commandes de ce dossier",
 		"bulk-edit": "Modification groupée",
+		"bulk-delete": "Suppression groupée",
 		"close-bulk-edit": "Fermer la modification groupée",
 		"folders": "Dossiers",
 		"change-command-order": "Modifier l'ordre des commandes",

@@ -1647,6 +1647,7 @@
 		"delete-confirmation-message": "Deze actie is niet ongedaan te maken. Weet u zeker dat u de map wilt verwijderen?",
 		"delete-all-commands": "Verwijder alle opdrachten in deze map",
 		"bulk-edit": "Bulkbewerking",
+		"bulk-delete": "Bulk verwijderen",
 		"close-bulk-edit": "Bulkbewerking sluiten",
 		"folders": "Mappen",
 		"change-command-order": "Wijzig de volgorde van opdrachten",

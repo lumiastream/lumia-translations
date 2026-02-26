@@ -1647,6 +1647,7 @@
 		"delete-confirmation-message": "Esta acción no es reversible, ¿está seguro de que desea eliminar la carpeta?",
 		"delete-all-commands": "Eliminar todos los comandos dentro de esta carpeta",
 		"bulk-edit": "Edición masiva",
+		"bulk-delete": "Eliminación masiva",
 		"close-bulk-edit": "Cerrar edición masiva",
 		"folders": "Carpetas",
 		"change-command-order": "Cambiar el orden de los comandos",

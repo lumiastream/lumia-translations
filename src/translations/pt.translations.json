@@ -1661,6 +1661,7 @@
 		"delete-confirmation-message": "Esta ação é irreversível, tem certeza de que deseja excluir a Pasta?",
 		"delete-all-commands": "Excluir todos os comandos dentro desta pasta",
 		"bulk-edit": "Edição em massa",
+		"bulk-delete": "Exclusão em massa",
 		"close-bulk-edit": "Fechar edição em massa",
 		"folders": "Pastas",
 		"change-command-order": "Alterar Ordem dos Comandos",

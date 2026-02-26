@@ -1647,6 +1647,7 @@
 		"delete-confirmation-message": "Den här åtgärden är inte reversibel, är du säker på att du vill ta bort mappen?",
 		"delete-all-commands": "Ta bort alla kommandon i den här mappen",
 		"bulk-edit": "Massredigering",
+		"bulk-delete": "Massradering",
 		"close-bulk-edit": "Stäng massredigering",
 		"folders": "Mappar",
 		"change-command-order": "Ändra kommandoordning",

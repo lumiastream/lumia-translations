@@ -1646,6 +1646,7 @@
 		"delete-confirmation-message": "Diese Aktion kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie den Ordner löschen möchten?",
 		"delete-all-commands": "Löschen Sie alle Befehle in diesem Ordner",
 		"bulk-edit": "Bulk-Bearbeitung",
+		"bulk-delete": "Massenlöschung",
 		"close-bulk-edit": "Massenbearbeitung schließen",
 		"folders": "Ordner",
 		"change-command-order": "Befehlsreihenfolge ändern",

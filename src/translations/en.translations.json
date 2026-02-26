@@ -1667,6 +1667,7 @@
 		"delete-confirmation-message": "This action is not reversible, are you sure you want to delete the Folder?",
 		"delete-all-commands": "Delete all commands inside this folder",
 		"bulk-edit": "Bulk edit",
+		"bulk-delete": "Bulk delete",
 		"close-bulk-edit": "Close bulk edit",
 		"folders": "Folders",
 		"change-command-order": "Change Commands Order",
