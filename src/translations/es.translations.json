@@ -3102,7 +3102,8 @@
 		"broadlink-setup-locked-error": "No se pudo conectar a Broadlink, es posible que el dispositivo esté bloqueado. ",
 		"broadlink-setup-error": "No se pudo conectar a Broadlink: {{message}}",
 		"no-reconnect": "{{integration}} is not able to reconnect. Please reconnect to {{integration}} by going to Connections > Edit {{integration}}",
-		"no-discord-channel": "No Discord Channel was found, connect to Discord again under the Connection Settings"
+		"no-discord-channel": "No Discord Channel was found, connect to Discord again under the Connection Settings",
+		"youtube-missing-permissions": "La autenticación de YouTube falló porque no se otorgaron todos los permisos. Inténtalo de nuevo y habilita todos los permisos de YouTube."
 	},
 	"fuze": {
 		"audio-video": "Audio Video",

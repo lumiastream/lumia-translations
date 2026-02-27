@@ -3104,7 +3104,8 @@
 		"broadlink-setup-locked-error": "تعذر الاتصال بـ Broadlink، ربما يكون الجهاز مقفلاً. ",
 		"broadlink-setup-error": "تعذر الاتصال بـ Broadlink: {{message}}",
 		"no-reconnect": "{{integration}} is not able to reconnect. Please reconnect to {{integration}} by going to Connections > Edit {{integration}}",
-		"no-discord-channel": "No Discord Channel was found, connect to Discord again under the Connection Settings"
+		"no-discord-channel": "No Discord Channel was found, connect to Discord again under the Connection Settings",
+		"youtube-missing-permissions": "فشل تسجيل الدخول إلى YouTube لأنه لم يتم منح جميع الأذونات. يُرجى المحاولة مرة أخرى وتمكين جميع أذونات YouTube."
 	},
 	"fuze": {
 		"audio-video": "الصوت/الفيديو",

@@ -3105,7 +3105,8 @@
 		"tiltify-no-campaign-error": "A campaign could not be found on your Tiltify account, please make sure that you have finished setting up your campaign on the Tiltify website",
 		"broadlink-setup-locked-error": "Could not connect to Broadlink, device may be locked. To unlock open the broadlink mobile app, select your broadlink device and then press the top right settings ellipses. Then press property and Make sure Lock Device is off and then turn Lumia off and then on to connect",
 		"broadlink-setup-error": "Could not connect to Broadlink: {{message}}",
-		"no-discord-channel": "No Discord Channel was found, connect to Discord again under the Connection Settings"
+		"no-discord-channel": "No Discord Channel was found, connect to Discord again under the Connection Settings",
+		"youtube-missing-permissions": "YouTube authentication failed because not all permissions were granted. Please try again and enable all YouTube permissions."
 	},
 	"fuze": {
 		"audio-video": "Audio/Video",

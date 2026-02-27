@@ -3102,7 +3102,8 @@
 		"tiltify-no-campaign-error": "未在您的 Tiltify 帐户中找到活动，请确保您已在 Tiltify 网站上完成活动设置",
 		"broadlink-setup-locked-error": "无法连接到 Broadlink，设备可能已锁定。要解锁，请打开 Broadlink 移动应用程序，选择您的 Broadlink 设备，然后按右上角的设置省略号。然后按“属性”并确保“锁定设备”已关闭，然后关闭 Lumia 并重新打开以连接",
 		"broadlink-setup-error": "无法连接到 Broadlink：{{message}}",
-		"no-discord-channel": "未找到 Discord 频道，请在连接设置下重新连接到 Discord"
+		"no-discord-channel": "未找到 Discord 频道，请在连接设置下重新连接到 Discord",
+		"youtube-missing-permissions": "YouTube 身份验证失败，因为并未授予所有权限。请重试并启用所有 YouTube 权限。"
 	},
 	"fuze": {
 		"audio-video": "音频/视频",

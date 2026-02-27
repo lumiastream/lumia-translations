@@ -3104,7 +3104,8 @@
 		"tiltify-no-campaign-error": "Tiltify hesabınızda bir kampanya bulunamadı; lütfen Tiltify web sitesinde kampanyanızı oluşturmayı tamamladığınızdan emin olun.",
 		"broadlink-setup-locked-error": "Broadlink'e bağlanılamadı, cihaz kilitli olabilir. ",
 		"broadlink-setup-error": "Broadlink'e bağlanılamadı: {{message}}",
-		"no-discord-channel": "Discord Kanalı bulunamadı, Bağlantı Ayarları altında Discord'a tekrar bağlanın"
+		"no-discord-channel": "Discord Kanalı bulunamadı, Bağlantı Ayarları altında Discord'a tekrar bağlanın",
+		"youtube-missing-permissions": "Tüm izinler verilmediği için YouTube kimlik doğrulaması başarısız oldu. Lütfen tekrar deneyin ve tüm YouTube izinlerini etkinleştirin."
 	},
 	"fuze": {
 		"audio-video": "Ses/Video",
