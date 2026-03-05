@@ -1179,6 +1179,7 @@
 		"is-off": "Commando of map voor {{command}} is niet ingeschakeld en wordt dus niet geactiveerd",
 		"background-color-twitch-point": "Achtergrondkleur van Twitch Point",
 		"max-redemptions-per-stream": "Het maximale aantal keren dat iemand per stream kan inwisselen (laat op 0 staan voor onbeperkt)",
+		"max-clips-to-fetch": "Maximaal aantal clips om op te halen (laat op 0 voor standaard, haalt eerste 100 clips op)",
 		"max-user-redemptions-per-stream": "Het maximale aantal keren dat een gebruiker per stream kan inwisselen (laat op 0 staan voor onbeperkt)",
 		"points-global-cooldown-seconds": "Punten-globale afkoelperiode waarbij niemand de opdracht kan gebruiken totdat de afkoelperiode voorbij is (seconden) - laat op 0 voor geen globale afkoelperiode",
 		"points-global-cooldown-description": "Het is aanbevolen om globale afkoelperiodes per Twitch Points Commando in te stellen in plaats van Lumia's afkoelperiodes, zodat het wordt weergegeven dat het punt in een afkoelperiode is binnen hun UI. Gebruik alleen Lumia's afkoelperiodes als u afkoelperiodes per individuele gebruiker wilt instellen die Twitch niet ondersteunt.",

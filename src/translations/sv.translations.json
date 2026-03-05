@@ -1179,6 +1179,7 @@
 		"is-off": "Kommando eller mapp för {{command}} är inte aktiverat så det kommer inte att utlösas",
 		"background-color-twitch-point": "Bakgrundsfärg av Twitch Point",
 		"max-redemptions-per-stream": "Det maximala antalet gånger någon kan lösa in per stream (lämna vid 0 för obegränsat)",
+		"max-clips-to-fetch": "Max antal klipp att hämta (lämna vid 0 för standard, hämtar första 100 klipp)",
 		"max-user-redemptions-per-stream": "Det maximala antalet gånger en användare kan lösa in per stream (lämna vid 0 för obegränsat)",
 		"points-global-cooldown-seconds": "Punkt-global nedkylningstid där ingen kan använda kommandot tills nedkylningstiden är över (sekunder) - lämna vid 0 för ingen global nedkylning",
 		"points-global-cooldown-description": "Det är rekommenderat att ställa in globala nedkylningar per Twitch Points Command i stället för att använda Lumia's nedkylningar så att det visas att punkten är i en nedkylning inom deras UI. Använd endast Lumia's nedkylningar om du vill ställa in nedkylningar per individ som Twitch inte stöder.",

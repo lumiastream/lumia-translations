@@ -1188,6 +1188,7 @@
 		"is-off": "Komut veya Klasör {{command}} etkinleştirilmediğinden tetiklenmeyecektir",
 		"background-color-twitch-point": "Twitch Noktasının Arka Plan Rengi",
 		"max-redemptions-per-stream": "Herkesin akış başına kullanabileceği maksimum sayı (Sınırsız için 0'da bırakın)",
+		"max-clips-to-fetch": "Alınacak maksimum klip sayısı (varsayılan için 0'da bırakın, ilk 100 klip getirilir)",
 		"max-user-redemptions-per-stream": "Bir kullanıcının akış başına kullanabileceği maksimum sayı (Sınırsız için 0'da bırakın)",
 		"points-global-cooldown-seconds": "Puanlar Genel Soğuma Süresi, herhangi bir kullanıcının komutu kullanamadığı süre (Saniye) - 0'da bırakın, genel soğuma süresi yok",
 		"points-global-cooldown-description": "Puanlar Genel Soğuma Süresi, herhangi bir kullanıcının komutu kullanamadığı süre (Saniye) - 0'da bırakın, genel soğuma süresi yok",
