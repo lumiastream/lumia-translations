@@ -3348,7 +3348,7 @@
 		"last-session-date": "Data da última sessão",
 		"session-reset-type": "Tipo de redefinição da sessão",
 		"session-check-based-on-last-session": "Verifique com base na última sessão em vez de na data. ",
-		"session-type-MANUAL_CHAGES": "Somente redefinição manual",
+		"session-type-MANUAL_CHANGES": "Somente redefinição manual",
 		"session-type-STREAM_END": "Quando o fluxo termina",
 		"session-type-HOURLY": "A cada hora",
 		"session-type-DAILY": "Diário",

@@ -3348,7 +3348,7 @@
 		"last-session-date": "上次会话日期",
 		"session-reset-type": "会话重置类型",
 		"session-check-based-on-last-session": "基于上次会话而不是日期检查。勾选后，会话将基于上次会话而不是实际日期进行检查。因此，每周将是自上次会话以来的 7 天，而不是本周的第一天",
-		"session-type-MANUAL_CHAGES": "仅手动重置",
+		"session-type-MANUAL_CHANGES": "仅手动重置",
 		"session-type-STREAM_END": "直播结束时",
 		"session-type-HOURLY": "每小时",
 		"session-type-DAILY": "每天",

@@ -3381,7 +3381,7 @@
 		"last-session-date": "Datum der letzten Sitzung",
 		"session-reset-type": "Art des Sitzungs-Resets",
 		"session-check-based-on-last-session": "Überprüfung basierend auf der letzten Sitzung statt auf dem Datum. Wenn aktiviert, wird die Sitzung basierend auf der letzten Sitzung geprüft, anstatt auf dem tatsächlichen Datum. Wöchentlich wäre also 7 Tage seit der letzten Sitzung anstatt der erste Tag der Woche.",
-		"session-type-MANUAL_CHAGES": "Nur manueller Reset",
+		"session-type-MANUAL_CHANGES": "Nur manueller Reset",
 		"session-type-STREAM_END": "Am Ende des Streams",
 		"session-type-HOURLY": "Stündlich",
 		"session-type-DAILY": "Täglich",

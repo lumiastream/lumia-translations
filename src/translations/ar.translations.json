@@ -3350,7 +3350,7 @@
 		"last-session-date": "تاريخ الجلسة الأخيرة",
 		"session-reset-type": "نوع إعادة تعيين الجلسة",
 		"session-check-based-on-last-session": "التحقق بناءً على الجلسة الأخيرة بدلاً من التاريخ. عند التحقق، ستتم عملية التحقق بناءً على الجلسة الأخيرة بدلاً من تاريخ اليوم الفعلي. لذلك ستكون الأسبوعية 7 أيام منذ الجلسة الأخيرة بدلاً من اليوم الأول من الأسبوع",
-		"session-type-MANUAL_CHAGES": "إعادة تعيين يدوية فقط",
+		"session-type-MANUAL_CHANGES": "إعادة تعيين يدوية فقط",
 		"session-type-STREAM_END": "عند انتهاء البث",
 		"session-type-HOURLY": "كل ساعة",
 		"session-type-DAILY": "يوميًا",

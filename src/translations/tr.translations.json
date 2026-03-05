@@ -3350,7 +3350,7 @@
 		"last-session-date": "Son Oturum Tarihi",
 		"session-reset-type": "Oturum sıfırlama türü",
 		"session-check-based-on-last-session": "Tarih yerine son oturuma göre kontrol edin. ",
-		"session-type-MANUAL_CHAGES": "Yalnızca Manuel Sıfırlama",
+		"session-type-MANUAL_CHANGES": "Yalnızca Manuel Sıfırlama",
 		"session-type-STREAM_END": "Yayın Bittiğinde",
 		"session-type-HOURLY": "Saatlik",
 		"session-type-DAILY": "Günlük",

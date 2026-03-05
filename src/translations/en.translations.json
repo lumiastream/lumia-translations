@@ -3387,7 +3387,7 @@
 		"last-session-date": "Last Session Date",
 		"session-reset-type": "Session reset type",
 		"session-check-based-on-last-session": "Check based on last session instead of on Date. When checked the session will be checked based on the last session instead of on the actual date. So weekly would be 7 days since the last session instead of on the first day of the week",
-		"session-type-MANUAL_CHAGES": "Manual Reset Only",
+		"session-type-MANUAL_CHANGES": "Manual Reset Only",
 		"session-type-STREAM_END": "When Stream Ends",
 		"session-type-HOURLY": "Hourly",
 		"session-type-DAILY": "Daily",
