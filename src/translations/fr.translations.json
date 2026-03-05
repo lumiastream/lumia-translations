@@ -1179,6 +1179,7 @@
 		"is-off": "Commande ou dossier pour {{command}} n'est pas activé donc il ne se déclenchera pas",
 		"background-color-twitch-point": "Couleur d'arrière-plan du point Twitch",
 		"max-redemptions-per-stream": "Le nombre maximum de fois que n'importe qui peut échanger par flux (laisser à 0 pour un nombre illimité)",
+		"max-clips-to-fetch": "Nombre maximum de clips à récupérer (laisser à 0 pour la valeur par défaut, récupère les 100 premiers clips)",
 		"max-user-redemptions-per-stream": "Le nombre maximum de fois qu'un utilisateur peut échanger par flux (laisser à 0 pour un accès illimité)",
 		"points-global-cooldown-seconds": "Temps de recharge global où personne ne peut utiliser la commande jusqu'à ce que le temps de recharge soit terminé (secondes) - laisser à 0 pour aucun temps de recharge global",
 		"points-global-cooldown-description": "Il est recommandé de définir des temps de recharge globaux par commande de points Twitch au lieu d'utiliser les temps de recharge de Lumia afin que le point soit en temps de recharge dans leur interface. Utilisez uniquement les temps de recharge de Lumia si vous souhaitez définir des temps de recharge par utilisateur individuel qui Twitch ne prend pas en charge.",
