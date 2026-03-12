@@ -2947,6 +2947,7 @@
 		"variation-LESS_NUMBER": "Minder dan",
 		"variation-EQUAL_STRING": "Gelijk aan waarde",
 		"variation-EQUAL_NUMBER": "Gelijk aan nummer",
+		"variation-EQUAL_VARIABLE": "Gelijk aan variabele",
 		"variation-EQUAL_SELECTION": "Gelijk aan selectie",
 		"variation-EQUAL_CURRENCY_NUMBER": "Valuta gelijk aan",
 		"variation-GREATER_CURRENCY_NUMBER": "Valuta groter dan of gelijk aan",

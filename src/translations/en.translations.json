@@ -2983,6 +2983,7 @@
 		"variation-LESS_NUMBER": "Less than",
 		"variation-EQUAL_STRING": "Equal to value",
 		"variation-EQUAL_NUMBER": "Equal to number",
+		"variation-EQUAL_VARIABLE": "Equal to variable",
 		"variation-EQUAL_SELECTION": "Equal to selection",
 		"variation-EQUAL_CURRENCY_NUMBER": "Currency Equal to",
 		"variation-GREATER_CURRENCY_NUMBER": "Currency Greater Than or Equal to",

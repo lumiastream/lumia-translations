@@ -2949,6 +2949,7 @@
 		"variation-LESS_NUMBER": "Mindre än",
 		"variation-EQUAL_STRING": "Lika värde",
 		"variation-EQUAL_NUMBER": "Lika med nummer",
+		"variation-EQUAL_VARIABLE": "Lika med variabel",
 		"variation-EQUAL_SELECTION": "Lika med urval",
 		"variation-EQUAL_CURRENCY_NUMBER": "Valuta Lika med",
 		"variation-GREATER_CURRENCY_NUMBER": "Valuta större än eller lika med",

@@ -2939,6 +2939,7 @@
 		"variation-LESS_NUMBER": "أقل من",
 		"variation-EQUAL_STRING": "يساوي القيمة",
 		"variation-EQUAL_NUMBER": "يساوي العدد",
+		"variation-EQUAL_VARIABLE": "يساوي المتغير",
 		"variation-EQUAL_SELECTION": "يساوي الاختيار",
 		"variation-EQUAL_CURRENCY_NUMBER": "العملة تساوي",
 		"variation-GREATER_CURRENCY_NUMBER": "العملة أكبر من أو تساوي",

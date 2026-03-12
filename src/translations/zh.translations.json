@@ -2953,6 +2953,7 @@
 		"variation-LESS_NUMBER": "小于",
 		"variation-EQUAL_STRING": "等于值",
 		"variation-EQUAL_NUMBER": "等于数字",
+		"variation-EQUAL_VARIABLE": "等于变量",
 		"variation-EQUAL_SELECTION": "等于选择",
 		"variation-EQUAL_CURRENCY_NUMBER": "货币等于",
 		"variation-GREATER_CURRENCY_NUMBER": "货币大于或等于",

@@ -2946,6 +2946,7 @@
 		"variation-LESS_NUMBER": "Weniger als",
 		"variation-EQUAL_STRING": "Gleichwertig",
 		"variation-EQUAL_NUMBER": "Gleich Zahl",
+		"variation-EQUAL_VARIABLE": "Gleich der Variable",
 		"variation-EQUAL_SELECTION": "Gleich Auswahl",
 		"variation-EQUAL_CURRENCY_NUMBER": "Währung gleich",
 		"variation-GREATER_CURRENCY_NUMBER": "Währung größer oder gleich",

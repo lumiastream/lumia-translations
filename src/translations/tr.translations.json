@@ -2955,6 +2955,7 @@
 		"variation-LESS_NUMBER": "Daha az",
 		"variation-EQUAL_STRING": "Değere eşit",
 		"variation-EQUAL_NUMBER": "Sayıya eşit",
+		"variation-EQUAL_VARIABLE": "Değişkene eşit",
 		"variation-EQUAL_SELECTION": "Seçime eşit",
 		"variation-EQUAL_CURRENCY_NUMBER": "Para Birimi Eşittir",
 		"variation-GREATER_CURRENCY_NUMBER": "Büyük veya Eşit Para Birimi",
