@@ -2567,7 +2567,9 @@
 		"kick_last_host": "(Kick) sana host atan son kullanıcı",
 		"customvariables": "Özel değişkenler",
 		"normalvariables": "Normal değişkenler",
-		"functionvariables": "Fonksiyon değişkenleri"
+		"functionvariables": "Fonksiyon değişkenleri",
+		"min": "Girişlerdeki en küçük sayısal değeri döndürür, örn. {{min={{v1}},{{v2}},100}}",
+		"max": "Girişlerdeki en büyük sayısal değeri döndürür, örn. {{max={{v1}},{{v2}},100}}"
 	},
 	"voicemod": {
 		"delay": "Gecikme",

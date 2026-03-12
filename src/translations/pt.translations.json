@@ -1721,7 +1721,7 @@
 		"back-to": "Voltar para {{page}}",
 		"complete-save": "Completar e salvar",
 		"by-default-light-description": "Por padrão, todas as luzes serão acionadas",
-		"regex-match": "Correspondência de expressão regular",
+		"regex-match": "Correspondência regex",
 		"regex-match-description": "Regex, ou expressões regulares, são sequências especiais usadas para encontrar ou corresponder padrões em texto (neste caso, em uma mensagem de chat)",
 		"regex-match-example-learn-more": "Saiba mais sobre regex",
 		"regex-matches": "Correspondências",
@@ -1917,7 +1917,6 @@
 		"helping-create-generic": "Ações de {{type}}",
 		"name-alert-condition": "Nome e condição",
 		"name-create-command": "Nome e descrição",
-		"regex-match": "Correspondência regex",
 		"duration-step-generic": "Duração",
 		"advanced-options": "Opções avançadas de {{type}}",
 		"flow-system-description": "Configure as opções internas de {{type}} antes de definir o comportamento.",
@@ -2566,7 +2565,9 @@
 		"kick_last_host": "(Kick) o último usuário que te hospedou",
 		"customvariables": "Variáveis personalizadas",
 		"normalvariables": "Variáveis normais",
-		"functionvariables": "Variáveis de função"
+		"functionvariables": "Variáveis de função",
+		"min": "Retorna o menor valor numérico das entradas, por ex. {{min={{v1}},{{v2}},100}}",
+		"max": "Retorna o maior valor numérico das entradas, por ex. {{max={{v1}},{{v2}},100}}"
 	},
 	"voicemod": {
 		"delay": "Atraso",

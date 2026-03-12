@@ -2565,7 +2565,9 @@
 		"kick_last_host": "(Kick) le dernier utilisateur qui vous a hébergé",
 		"customvariables": "Variables personnalisées",
 		"normalvariables": "Variables normales",
-		"functionvariables": "Variables de fonction"
+		"functionvariables": "Variables de fonction",
+		"min": "Renvoie la plus petite valeur numérique des entrées, p. ex. {{min={{v1}},{{v2}},100}}",
+		"max": "Renvoie la plus grande valeur numérique des entrées, p. ex. {{max={{v1}},{{v2}},100}}"
 	},
 	"voicemod": {
 		"delay": "Retard",

@@ -2565,7 +2565,9 @@
 		"kick_last_host": "(Kick) de laatste gebruiker die jou heeft gehost",
 		"customvariables": "Aangepaste variabelen",
 		"normalvariables": "Normale variabelen",
-		"functionvariables": "Functievariabelen"
+		"functionvariables": "Functievariabelen",
+		"min": "Geeft de kleinste numerieke waarde uit de invoer terug, bijv. {{min={{v1}},{{v2}},100}}",
+		"max": "Geeft de grootste numerieke waarde uit de invoer terug, bijv. {{max={{v1}},{{v2}},100}}"
 	},
 	"voicemod": {
 		"delay": "Vertraging",

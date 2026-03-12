@@ -2565,7 +2565,9 @@
 		"kick_last_host": "(Kick) 最后一位为你发起主持的用户",
 		"customvariables": "自定义变量",
 		"normalvariables": "普通变量",
-		"functionvariables": "函数变量"
+		"functionvariables": "函数变量",
+		"min": "返回输入中的最小数值，例如 {{min={{v1}},{{v2}},100}}",
+		"max": "返回输入中的最大数值，例如 {{max={{v1}},{{v2}},100}}"
 	},
 	"voicemod": {
 		"delay": "延迟",

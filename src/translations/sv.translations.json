@@ -2567,7 +2567,9 @@
 		"kick_last_host": "(Kick) den senaste användaren som hostade dig",
 		"customvariables": "Anpassade variabler",
 		"normalvariables": "Normala variabler",
-		"functionvariables": "Funktionsvariabler"
+		"functionvariables": "Funktionsvariabler",
+		"min": "Returnerar det minsta numeriska värdet från indata, t.ex. {{min={{v1}},{{v2}},100}}",
+		"max": "Returnerar det största numeriska värdet från indata, t.ex. {{max={{v1}},{{v2}},100}}"
 	},
 	"voicemod": {
 		"delay": "Dröjsmål",
