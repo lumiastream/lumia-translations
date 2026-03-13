@@ -3200,7 +3200,7 @@
 		"replace-word-with": "替换词为",
 		"reset": "全部重置",
 		"start-on-boot": "开机启动 Lumia Stream",
-		"start-hidden": "在系统托盘中启动 Lumia Stream",
+		"start-hidden": "启动 Lumia Stream 时隐藏窗口",
 		"hide-to-tray": "隐藏 Lumia Stream 而不是关闭",
 		"show-in-taskbar": "在任务栏中显示 Lumia Stream",
 		"show-in-menubar": "在菜单栏中显示 Lumia Stream",

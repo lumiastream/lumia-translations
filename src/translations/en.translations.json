@@ -3203,7 +3203,7 @@
 		"replace-word-with": "Replace word with",
 		"reset": "Reset all",
 		"start-on-boot": "Start Lumia Stream on boot",
-		"start-hidden": "Start Lumia Stream in the system tray",
+		"start-hidden": "Start Lumia Stream with window hidden",
 		"hide-to-tray": "Hide Lumia Stream instead of closing",
 		"show-in-taskbar": "Show Lumia Stream in the taskbar",
 		"show-in-menubar": "Show Lumia Stream in the menubar",
