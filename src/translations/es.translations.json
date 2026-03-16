@@ -2534,7 +2534,7 @@
 		"kick_last_bit": "(Kick) the last user who sent kicks",
 		"kick_last_bit_amount": "(Kick) the amount of kicks for the last person to send kicks",
 		"kick_session_kicks": "(Kick) Session kicks list",
-		"kick_total_kicks_count": "(Kick) the total kicks count of your Twitch channel",
+		"kick_total_kicks_count": "(Kick) the total kicks count of your Kick channel",
 		"kick_session_kicks_count": "(Kick) the total kicks received since Lumia Stream has turned on",
 		"kick_session_kicks_with_amount": "(Kick) Session kicks list with amount",
 		"kick_last_kicks": "(Kick) the last kicks that were sent",
