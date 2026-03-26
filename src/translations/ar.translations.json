@@ -5001,6 +5001,8 @@
 		"top-command": "أفضل أمر",
 		"unique-alerts": "تنبيهات فريدة",
 		"top-alert": "أفضل تنبيه",
+		"storage-location-userdata-warning": "يتم تخزين بيانات ملفات المشاهدين محليًا على هذا الجهاز. قم بعمل نسخة احتياطية منها قبل إلغاء تثبيت Lumia Stream.",
+		"storage-location-path": "المسار الحالي",
 		"none": "لا شيء"
 	},
 	"modqueue": {

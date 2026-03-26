@@ -5011,6 +5011,8 @@
 		"top-command": "En çok kullanılan komut",
 		"unique-alerts": "Benzersiz uyarılar",
 		"top-alert": "En çok kullanılan uyarı",
+		"storage-location-userdata-warning": "Viewer Profiles verileri bu bilgisayarda yerel olarak saklanır. Lumia Stream'i kaldırmadan önce yedekleyin.",
+		"storage-location-path": "Geçerli yol",
 		"none": "Yok"
 	},
 	"modqueue": {

@@ -5011,6 +5011,8 @@
 		"top-command": "Toppkommando",
 		"unique-alerts": "Unika varningar",
 		"top-alert": "Toppvarning",
+		"storage-location-userdata-warning": "Viewer Profiles-data lagras lokalt på den här datorn. Säkerhetskopiera den innan du avinstallerar Lumia Stream.",
+		"storage-location-path": "Aktuell sökväg",
 		"none": "Ingen"
 	},
 	"modqueue": {

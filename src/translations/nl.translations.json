@@ -5009,6 +5009,8 @@
 		"top-command": "Top opdracht",
 		"unique-alerts": "Unieke meldingen",
 		"top-alert": "Top melding",
+		"storage-location-userdata-warning": "Viewer Profiles-gegevens worden lokaal op deze computer opgeslagen. Maak er een back-up van voordat je Lumia Stream verwijdert.",
+		"storage-location-path": "Huidig pad",
 		"none": "Geen"
 	},
 	"modqueue": {

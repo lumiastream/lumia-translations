@@ -5012,6 +5012,8 @@
 		"top-command": "Top command",
 		"unique-alerts": "Unique alerts",
 		"top-alert": "Top alert",
+		"storage-location-userdata-warning": "Viewer Profiles data is stored locally on this computer. Back it up before uninstalling Lumia Stream.",
+		"storage-location-path": "Current path",
 		"none": "None"
 	},
 	"modqueue": {

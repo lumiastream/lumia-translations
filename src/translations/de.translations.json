@@ -5008,6 +5008,8 @@
 		"top-command": "Top-Befehl",
 		"unique-alerts": "Einzigartige Benachrichtigungen",
 		"top-alert": "Top-Benachrichtigung",
+		"storage-location-userdata-warning": "Die Daten der Viewer-Profile werden lokal auf diesem Computer gespeichert. Sichern Sie sie, bevor Sie Lumia Stream deinstallieren.",
+		"storage-location-path": "Aktueller Pfad",
 		"none": "Keine"
 	},
 	"modqueue": {

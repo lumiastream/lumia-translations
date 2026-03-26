@@ -5009,6 +5009,8 @@
 		"top-command": "Comando principal",
 		"unique-alerts": "Alertas únicos",
 		"top-alert": "Alerta principal",
+		"storage-location-userdata-warning": "Os dados dos perfis de espectadores ficam armazenados localmente neste computador. Faça backup antes de desinstalar o Lumia Stream.",
+		"storage-location-path": "Caminho atual",
 		"none": "Nenhum"
 	},
 	"modqueue": {

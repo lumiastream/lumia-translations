@@ -5009,6 +5009,8 @@
 		"top-command": "热门命令",
 		"unique-alerts": "独特提醒",
 		"top-alert": "热门提醒",
+		"storage-location-userdata-warning": "Viewer Profiles 数据存储在这台电脑的本地。卸载 Lumia Stream 前请先备份。",
+		"storage-location-path": "当前路径",
 		"none": "无"
 	},
 	"modqueue": {
