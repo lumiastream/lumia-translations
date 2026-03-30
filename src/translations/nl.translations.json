@@ -2855,6 +2855,9 @@
 		"raffleStart": "Start loterij",
 		"raffleStop": "Loterij stop",
 		"raffleWinner": "Winnaar loterij",
+		"tournamentStart": "Toernooi start",
+		"tournamentEnd": "Toernooi einde",
+		"tournamentWinner": "Toernooiwinnaar",
 		"rouletteWinner": "Roulettewinnaar",
 		"firstChatter": "Eerste praatje",
 		"entrance": "Ingang",
@@ -4807,6 +4810,7 @@
 		"ends-at": "Eindigt om",
 		"raffle-run-for": "De loterij duurt {{duration}}",
 		"save-settings-confirmation": "Wil je deze loterij-instellingen opslaan voor toekomstig gebruik?",
+		"no-saved-presets-action": "Je hebt nog geen recent opgeslagen loterijen. Sla een loterij op wanneer je deze beëindigt om die hier opnieuw te gebruiken.",
 		"ends-after": "Eindigt na",
 		"will-end-after": "De loting eindigt na {{duration}}"
 	},
@@ -4847,6 +4851,7 @@
 		"empty-library-title": "Nog geen opgeslagen toernooien",
 		"empty-library-search": "Geen opgeslagen toernooien komen overeen met je zoekopdracht.",
 		"empty-library-description": "Maak een toernooi om te beginnen. Wanneer je het beëindigt, kan Lumia de configuratie opslaan als herbruikbare preset.",
+		"no-saved-presets-action": "Je hebt nog geen opgeslagen toernooivoorinstellingen. Beëindig een toernooi met opslaan ingeschakeld om het hier opnieuw te gebruiken.",
 		"info-tab": "Info",
 		"participants-tab": "Deelnemers",
 		"allow-chat-signups": "Chatinschrijvingen toestaan",
@@ -4890,7 +4895,8 @@
 		"live-control-bracket-description": "Rapporteer hier wedstrijduitslagen. Lumia bepaalt winnaars en zet ze door naar latere rondes.",
 		"no-team-standings": "Nog geen teamstanden. Voeg deelnemers toe, wijs teams toe en synchroniseer de standen om te beginnen.",
 		"players": "Spelers",
-		"edit-team-standing": "Teamstand bewerken"
+		"edit-team-standing": "Teamstand bewerken",
+		"alerts": "Toernooiwaarschuwingen"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

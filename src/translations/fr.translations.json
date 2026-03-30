@@ -2855,6 +2855,9 @@
 		"raffleStart": "Début du tirage au sort",
 		"raffleStop": "Arrêt de tombola",
 		"raffleWinner": "Gagnant du tirage au sort",
+		"tournamentStart": "Début du tournoi",
+		"tournamentEnd": "Fin du tournoi",
+		"tournamentWinner": "Gagnant du tournoi",
 		"rouletteWinner": "Gagnant de la roulette",
 		"firstChatter": "Premier bavardage",
 		"entrance": "Entrée",
@@ -4807,6 +4810,7 @@
 		"ends-at": "Se termine à",
 		"raffle-run-for": "Le tirage durera {{duration}}",
 		"save-settings-confirmation": "Voulez-vous enregistrer ces paramètres de tirage pour une utilisation future ?",
+		"no-saved-presets-action": "Vous n'avez aucun tirage récemment enregistré. Enregistrez un tirage lors de sa fin pour le réutiliser ici.",
 		"ends-after": "Se termine après",
 		"will-end-after": "Le tirage se terminera après {{duration}}"
 	},
@@ -4847,6 +4851,7 @@
 		"empty-library-title": "Aucun tournoi enregistré pour le moment",
 		"empty-library-search": "Aucun tournoi enregistré ne correspond à votre recherche.",
 		"empty-library-description": "Créez un tournoi pour commencer. Lorsque vous le terminez, Lumia peut enregistrer la configuration comme préréglage réutilisable.",
+		"no-saved-presets-action": "Vous n'avez pas encore de préréglages de tournoi enregistrés. Terminez un tournoi avec l'enregistrement activé pour le réutiliser ici.",
 		"info-tab": "Infos",
 		"participants-tab": "Participants",
 		"allow-chat-signups": "Autoriser les inscriptions via le chat",
@@ -4890,7 +4895,8 @@
 		"live-control-bracket-description": "Saisissez ici les scores des matchs. Lumia détermine les vainqueurs et les propage aux tours suivants.",
 		"no-team-standings": "Aucun classement d’équipe pour le moment. Ajoutez des participants, attribuez des équipes et synchronisez le classement pour commencer.",
 		"players": "Joueurs",
-		"edit-team-standing": "Modifier le classement de l’équipe"
+		"edit-team-standing": "Modifier le classement de l’équipe",
+		"alerts": "Alertes du tournoi"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

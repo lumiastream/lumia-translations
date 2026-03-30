@@ -2854,6 +2854,9 @@
 		"raffleStart": "Verlosungsstart",
 		"raffleStop": "Verlosungsstopp",
 		"raffleWinner": "Gewinner der Verlosung",
+		"tournamentStart": "Turnierstart",
+		"tournamentEnd": "Turnierende",
+		"tournamentWinner": "Turniersieger",
 		"rouletteWinner": "Roulette-Gewinner",
 		"firstChatter": "Erster Chatter",
 		"entrance": "Entrance",
@@ -4806,6 +4809,7 @@
 		"ends-at": "Endet um",
 		"raffle-run-for": "Das Gewinnspiel läuft für {{duration}}",
 		"save-settings-confirmation": "Möchten Sie diese Gewinnspiel-Einstellungen für die zukünftige Verwendung speichern?",
+		"no-saved-presets-action": "Du hast noch keine zuletzt gespeicherten Verlosungen. Speichere eine Verlosung beim Beenden, um sie hier wiederzuverwenden.",
 		"ends-after": "Endet nach",
 		"will-end-after": "Die Verlosung endet nach {{duration}}"
 	},
@@ -4846,6 +4850,7 @@
 		"empty-library-title": "Noch keine gespeicherten Turniere",
 		"empty-library-search": "Keine gespeicherten Turniere entsprechen deiner Suche.",
 		"empty-library-description": "Erstelle zuerst ein Turnier. Beim Beenden kann Lumia das Setup als wiederverwendbare Vorlage speichern.",
+		"no-saved-presets-action": "Du hast noch keine gespeicherten Turnier-Voreinstellungen. Beende ein Turnier mit aktiviertem Speichern, um es hier wiederzuverwenden.",
 		"info-tab": "Info",
 		"participants-tab": "Teilnehmer",
 		"allow-chat-signups": "Chat-Anmeldungen erlauben",
@@ -4889,7 +4894,8 @@
 		"live-control-bracket-description": "Melde hier Spielergebnisse. Lumia ermittelt Sieger und übernimmt sie in spätere Runden.",
 		"no-team-standings": "Noch keine Teamstände. Füge Teilnehmer hinzu, weise Teams zu und synchronisiere die Stände, um zu beginnen.",
 		"players": "Spieler",
-		"edit-team-standing": "Teamstand bearbeiten"
+		"edit-team-standing": "Teamstand bearbeiten",
+		"alerts": "Turnier-Benachrichtigungen"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Es wurde noch keine Zuschauer-Warteschlange gestartet",

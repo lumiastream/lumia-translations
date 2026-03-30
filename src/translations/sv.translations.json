@@ -2857,6 +2857,9 @@
 		"raffleStart": "Tombolastart",
 		"raffleStop": "Tombola Stopp",
 		"raffleWinner": "Vinnare av lotteriet",
+		"tournamentStart": "Turneringsstart",
+		"tournamentEnd": "Turneringsslut",
+		"tournamentWinner": "Turneringsvinnare",
 		"rouletteWinner": "Roulettevinnare",
 		"firstChatter": "Första chatt",
 		"entrance": "Ingång",
@@ -4810,7 +4813,8 @@
 		"raffle-run-for": "Utlottningen pågår i {{duration}}",
 		"ends-after": "Slutar efter",
 		"will-end-after": "Utlottningen slutar efter {{duration}}",
-		"save-settings-confirmation": "Do you want to store these raffle settings for future use?"
+		"save-settings-confirmation": "Do you want to store these raffle settings for future use?",
+		"no-saved-presets-action": "Du har inga nyligen sparade utlottningar. Spara en utlottning när du avslutar den för att återanvända den här."
 	},
 	"date": {
 		"year": "år",
@@ -4849,6 +4853,7 @@
 		"empty-library-title": "Inga sparade turneringar ännu",
 		"empty-library-search": "Inga sparade turneringar matchar din sökning.",
 		"empty-library-description": "Skapa en turnering för att komma igång. När du avslutar den kan Lumia spara upplägget som en återanvändbar förinställning.",
+		"no-saved-presets-action": "Du har inga sparade turneringsförinställningar ännu. Avsluta en turnering med spara aktiverat för att återanvända den här.",
 		"info-tab": "Info",
 		"participants-tab": "Deltagare",
 		"allow-chat-signups": "Tillåt chattanmälningar",
@@ -4892,7 +4897,8 @@
 		"live-control-bracket-description": "Rapportera matchresultat här. Lumia avgör vinnare och för dem vidare till senare rundor.",
 		"no-team-standings": "Inga lagställningar ännu. Lägg till deltagare, tilldela lag och synka ställningarna för att börja.",
 		"players": "Spelare",
-		"edit-team-standing": "Redigera lagställning"
+		"edit-team-standing": "Redigera lagställning",
+		"alerts": "Turneringsaviseringar"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

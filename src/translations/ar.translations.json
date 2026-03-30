@@ -2848,6 +2848,9 @@
 		"raffleStop": "توقف السحب",
 		"rouletteWinner": "الفائز في الروليت",
 		"raffleWinner": "الفائز بالسحب",
+		"tournamentStart": "بداية البطولة",
+		"tournamentEnd": "نهاية البطولة",
+		"tournamentWinner": "الفائز بالبطولة",
 		"firstChatter": "الدردشة الأولى",
 		"entrance": "مدخل",
 		"hypetrainStarted": "بدأ قطار الضجيج",
@@ -4799,6 +4802,7 @@
 		"ends-at": "ينتهي في",
 		"raffle-run-for": "سيستمر السحب لمدة {{duration}}",
 		"save-settings-confirmation": "هل تريد حفظ إعدادات السحب هذه لاستخدامها في المستقبل؟",
+		"no-saved-presets-action": "لا توجد لديك سحوبات محفوظة حديثًا. احفظ السحب عند إنهائه لإعادة استخدامه هنا.",
 		"ends-after": "ينتهي بعد",
 		"will-end-after": "سينتهي السحب بعد {{duration}}"
 	},
@@ -4839,6 +4843,7 @@
 		"empty-library-title": "لا توجد بطولات محفوظة بعد",
 		"empty-library-search": "لا توجد بطولات محفوظة تطابق بحثك.",
 		"empty-library-description": "أنشئ بطولة للبدء. عند إنهائها يمكن لـ Lumia حفظ الإعدادات كإعداد مسبق قابل لإعادة الاستخدام.",
+		"no-saved-presets-action": "لا توجد لديك إعدادات مسبقة محفوظة للبطولات بعد. أنهِ بطولة مع تفعيل الحفظ لإعادة استخدامها هنا.",
 		"info-tab": "معلومات",
 		"participants-tab": "المشاركون",
 		"allow-chat-signups": "السماح بالتسجيل عبر الدردشة",
@@ -4882,7 +4887,8 @@
 		"live-control-bracket-description": "أبلغ عن نتائج المباريات هنا. يقوم Lumia بحسم الفائزين وتمريرهم إلى الجولات اللاحقة.",
 		"no-team-standings": "لا توجد نتائج فرق بعد. أضف المشاركين، وعيّن الفرق، ثم قم بمزامنة النتائج للبدء.",
 		"players": "اللاعبون",
-		"edit-team-standing": "تعديل ترتيب الفريق"
+		"edit-team-standing": "تعديل ترتيب الفريق",
+		"alerts": "تنبيهات البطولة"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "لم يتم بدء قائمة المشاهدين بعد",

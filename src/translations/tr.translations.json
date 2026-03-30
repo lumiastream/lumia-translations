@@ -2857,6 +2857,9 @@
 		"raffleStart": "Çekiliş Başlangıcı",
 		"raffleStop": "Çekiliş Durağı",
 		"raffleWinner": "Çekiliş Kazananı",
+		"tournamentStart": "Turnuva Başlangıcı",
+		"tournamentEnd": "Turnuva Sonu",
+		"tournamentWinner": "Turnuva Kazananı",
 		"rouletteWinner": "Rulet Kazananı",
 		"slotsWinner": "Slot Kazananı",
 		"firstChatter": "İlk Sohbet",
@@ -4820,6 +4823,7 @@
 		"ends-at": "Şu saatte biter:",
 		"raffle-run-for": "Çekiliş {{duration}} sürecek",
 		"save-settings-confirmation": "Bu çekiliş ayarlarını gelecekte kullanmak üzere kaydetmek ister misiniz?",
+		"no-saved-presets-action": "Henüz yakın zamanda kaydedilmiş çekilişin yok. Burada yeniden kullanmak için çekilişi bitirirken kaydet.",
 		"ends-after": "Şu süreden sonra biter",
 		"will-end-after": "Çekiliş {{duration}} sonra bitecek"
 	},
@@ -4829,6 +4833,7 @@
 		"empty-library-title": "Henüz kayıtlı turnuva yok",
 		"empty-library-search": "Aramanla eşleşen kayıtlı turnuva yok.",
 		"empty-library-description": "Başlamak için bir turnuva oluştur. Turnuva bittiğinde Lumia bu kurulumu yeniden kullanılabilir bir ön ayar olarak kaydedebilir.",
+		"no-saved-presets-action": "Henüz kaydedilmiş turnuva ön ayarın yok. Burada yeniden kullanmak için bir turnuvayı kaydetme açıkken bitir.",
 		"info-tab": "Bilgi",
 		"participants-tab": "Katılımcılar",
 		"allow-chat-signups": "Sohbet kayıtlarına izin ver",
@@ -4872,7 +4877,8 @@
 		"live-control-bracket-description": "Maç skorlarını burada bildirin. Lumia kazananları belirler ve sonraki turlara taşır.",
 		"no-team-standings": "Henüz takım sıralaması yok. Başlamak için katılımcı ekleyin, takımları belirleyin ve sıralamayı eşitleyin.",
 		"players": "Oyuncular",
-		"edit-team-standing": "Takım sıralamasını düzenle"
+		"edit-team-standing": "Takım sıralamasını düzenle",
+		"alerts": "Turnuva Uyarıları"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Henüz izleyici sırası başlatılmadı",

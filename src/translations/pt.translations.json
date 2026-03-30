@@ -2855,6 +2855,9 @@
 		"raffleStart": "Sorteio Iniciado",
 		"raffleStop": "Sorteio Parado",
 		"raffleWinner": "Vencedor do Sorteio",
+		"tournamentStart": "Início do torneio",
+		"tournamentEnd": "Fim do torneio",
+		"tournamentWinner": "Vencedor do torneio",
 		"rouletteWinner": "Vencedor da Roleta",
 		"slotsWinner": "Vencedor dos Slots",
 		"firstChatter": "Primeiro no Chat",
@@ -4818,6 +4821,7 @@
 		"ends-at": "Termina em",
 		"raffle-run-for": "O sorteio durará {{duration}}",
 		"save-settings-confirmation": "Deseja salvar estas configurações do sorteio para uso futuro?",
+		"no-saved-presets-action": "Você ainda não tem sorteios salvos recentemente. Salve um sorteio ao encerrá-lo para reutilizá-lo aqui.",
 		"ends-after": "Termina após",
 		"will-end-after": "O sorteio terminará após {{duration}}"
 	},
@@ -4827,6 +4831,7 @@
 		"empty-library-title": "Ainda não há torneios salvos",
 		"empty-library-search": "Nenhum torneio salvo corresponde à sua pesquisa.",
 		"empty-library-description": "Crie um torneio para começar. Quando ele terminar, o Lumia pode salvar a configuração como um preset reutilizável.",
+		"no-saved-presets-action": "Você ainda não tem presets de torneio salvos. Encerre um torneio com a opção de salvar ativada para reutilizá-lo aqui.",
 		"info-tab": "Informações",
 		"participants-tab": "Participantes",
 		"allow-chat-signups": "Permitir inscrições pelo chat",
@@ -4870,7 +4875,8 @@
 		"live-control-bracket-description": "Informe aqui os resultados das partidas. O Lumia resolve os vencedores e os propaga para as rodadas seguintes.",
 		"no-team-standings": "Ainda não há classificação por equipes. Adicione participantes, defina equipes e sincronize a classificação para começar.",
 		"players": "Jogadores",
-		"edit-team-standing": "Editar classificação da equipe"
+		"edit-team-standing": "Editar classificação da equipe",
+		"alerts": "Alertas do torneio"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Nenhuma fila de espectador começou ainda",

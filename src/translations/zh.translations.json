@@ -2855,6 +2855,9 @@
 		"raffleStart": "抽奖开始",
 		"raffleStop": "抽奖停止",
 		"raffleWinner": "抽奖赢家",
+		"tournamentStart": "锦标赛开始",
+		"tournamentEnd": "锦标赛结束",
+		"tournamentWinner": "锦标赛获胜者",
 		"rouletteWinner": "轮盘赢家",
 		"slotsWinner": "老虎机赢家",
 		"firstChatter": "首次聊天者",
@@ -4818,6 +4821,7 @@
 		"ends-at": "结束于",
 		"raffle-run-for": "抽奖将持续 {{duration}}",
 		"save-settings-confirmation": "您要保存这些抽奖设置以供将来使用吗？",
+		"no-saved-presets-action": "你还没有最近保存的抽奖。结束抽奖时保存它，之后就可以在这里重复使用。",
 		"ends-after": "在…后结束",
 		"will-end-after": "抽奖将在 {{duration}} 后结束"
 	},
@@ -4827,6 +4831,7 @@
 		"empty-library-title": "还没有已保存的锦标赛",
 		"empty-library-search": "没有与搜索匹配的已保存锦标赛。",
 		"empty-library-description": "先创建一个锦标赛。结束后，Lumia 可以将该配置保存为可重复使用的预设。",
+		"no-saved-presets-action": "你还没有已保存的锦标赛预设。结束锦标赛时启用保存，之后就可以在这里重复使用。",
 		"info-tab": "信息",
 		"participants-tab": "参赛者",
 		"allow-chat-signups": "允许聊天报名",
@@ -4870,7 +4875,8 @@
 		"live-control-bracket-description": "在这里录入比赛分数。Lumia 会确定胜者并将其推进到后续轮次。",
 		"no-team-standings": "还没有团队排名。请先添加参赛者、分配队伍并同步排名。",
 		"players": "玩家",
-		"edit-team-standing": "编辑团队排名"
+		"edit-team-standing": "编辑团队排名",
+		"alerts": "锦标赛提醒"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "尚未启动观众队列",

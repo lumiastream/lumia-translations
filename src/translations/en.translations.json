@@ -2859,6 +2859,9 @@
 		"raffleStart": "Raffle Start",
 		"raffleStop": "Raffle Stop",
 		"raffleWinner": "Raffle Winner",
+		"tournamentStart": "Tournament Start",
+		"tournamentEnd": "Tournament End",
+		"tournamentWinner": "Tournament Winner",
 		"rouletteWinner": "Roulette Winner",
 		"slotsWinner": "Slots Winner",
 		"firstChatter": "First Chatter",
@@ -4821,6 +4824,7 @@
 		"ends-at": "Ends at",
 		"raffle-run-for": "Raffle will run for {{duration}}",
 		"save-settings-confirmation": "Do you want to store these raffle settings for future use?",
+		"no-saved-presets-action": "You don't have any recent saved raffles. Save a raffle when ending it to reuse it here.",
 		"ends-after": "Ends after",
 		"will-end-after": "Raffle will end after {{duration}}"
 	},
@@ -4830,6 +4834,7 @@
 		"empty-library-title": "No saved tournaments yet",
 		"empty-library-search": "No saved tournaments match your search.",
 		"empty-library-description": "Create a tournament to begin. When you end it, Lumia can save the setup as a reusable preset.",
+		"no-saved-presets-action": "You don't have any saved tournament presets yet. End a tournament with save enabled to reuse it here.",
 		"info-tab": "Info",
 		"participants-tab": "Participants",
 		"allow-chat-signups": "Allow chat signups",
@@ -4873,7 +4878,8 @@
 		"live-control-bracket-description": "Report match scores here. Lumia resolves winners and propagates them into later rounds.",
 		"no-team-standings": "No team standings yet. Add participants, assign teams, and sync standings to begin.",
 		"players": "Players",
-		"edit-team-standing": "Edit Team Standing"
+		"edit-team-standing": "Edit Team Standing",
+		"alerts": "Tournament Alerts"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

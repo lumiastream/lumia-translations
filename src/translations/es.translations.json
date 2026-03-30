@@ -2855,6 +2855,9 @@
 		"raffleStart": "Inicio de la rifa",
 		"raffleStop": "Parada de la rifa",
 		"raffleWinner": "Ganador del sorteo",
+		"tournamentStart": "Inicio del torneo",
+		"tournamentEnd": "Fin del torneo",
+		"tournamentWinner": "Ganador del torneo",
 		"rouletteWinner": "Ganador de la ruleta",
 		"firstChatter": "Primera charla",
 		"entrance": "Entrada",
@@ -4807,6 +4810,7 @@
 		"ends-at": "Termina a las",
 		"raffle-run-for": "La rifa durará {{duration}}",
 		"save-settings-confirmation": "¿Quieres guardar estos ajustes de la rifa para usarlos en el futuro?",
+		"no-saved-presets-action": "No tienes sorteos guardados recientemente. Guarda un sorteo al finalizarlo para reutilizarlo aquí.",
 		"ends-after": "Termina después de",
 		"will-end-after": "La rifa terminará después de {{duration}}"
 	},
@@ -4847,6 +4851,7 @@
 		"empty-library-title": "Todavía no hay torneos guardados",
 		"empty-library-search": "Ningún torneo guardado coincide con tu búsqueda.",
 		"empty-library-description": "Crea un torneo para empezar. Cuando lo termines, Lumia puede guardar la configuración como un ajuste reutilizable.",
+		"no-saved-presets-action": "Aún no tienes preajustes de torneo guardados. Finaliza un torneo con el guardado activado para reutilizarlo aquí.",
 		"info-tab": "Información",
 		"participants-tab": "Participantes",
 		"allow-chat-signups": "Permitir inscripciones por chat",
@@ -4890,7 +4895,8 @@
 		"live-control-bracket-description": "Informa aquí los resultados de los partidos. Lumia resuelve a los ganadores y los propaga a rondas posteriores.",
 		"no-team-standings": "Aún no hay clasificaciones por equipos. Añade participantes, asígnales equipos y sincroniza la clasificación para empezar.",
 		"players": "Jugadores",
-		"edit-team-standing": "Editar clasificación del equipo"
+		"edit-team-standing": "Editar clasificación del equipo",
+		"alerts": "Alertas del torneo"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",
