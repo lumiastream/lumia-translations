@@ -540,7 +540,8 @@
 		"filteredWords": "Filtered Words",
 		"viewer_profiles": "Viewer Profiles",
 		"lightConfiguration": "Ljuskonfiguration",
-		"assets-manager": "Asset Manager"
+		"assets-manager": "Asset Manager",
+		"tournaments": "Turneringar"
 	},
 	"home": {
 		"test-setup": "Testuppsättning",
@@ -1163,7 +1164,7 @@
 		"add-loyalty-to-chatbot": "Lägg till lojalitetspoäng i chatbot-kommandot",
 		"edit-chatbot-command-with-name": "Redigera chatbot-kommando: {{command}}",
 		"quick-setup-loyalty-added": "Lojalitetspoäng tillagda till {{command}}",
-		"create-command-with-action": "Skapa kommando med åtgärd",
+		"create-command-with-action": "Skapa eller redigera kommando snabbt",
 		"reached-chat-command-limit": "Chattkommandogräns nådd",
 		"reached-twitch-points-command-limit": "Twitch-poängkommandogräns nådd",
 		"reached-kick-points-command-limit": "Kick-poängkommandogräns nådd",
@@ -2703,7 +2704,8 @@
 		"encode-printer-payload": "Encode payload automatically",
 		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer.",
 		"tournamentStart": "Starta turnering",
-		"tournamentEnd": "Avsluta turnering"
+		"tournamentEnd": "Avsluta turnering",
+		"tournamentUpdatePoints": "Uppdatera turneringspoäng"
 	},
 	"overlay-actions": {
 		"alertTrigger": "Alert Trigger",
@@ -4888,17 +4890,22 @@
 		"leaderboard-scoring-mode": "Poängläge för topplistan",
 		"individual-mode": "Individuell",
 		"team-mode": "Lag",
-		"active-description": "Lumia hanterar turneringens live-status medan du styr den här.",
 		"overview-description": "Ställ in turneringens identitet, schema och registreringsbeteende.",
 		"leaderboard-description": "Topplisterankningar styrs direkt i Lumia.",
 		"leaderboard-team-description": "Lagläge ger varje lag en gemensam placering.",
-		"live-control-leaderboard-description": "Redigera ställningen här så räknar Lumia om live-rankingen för den här turneringen.",
-		"live-control-team-description": "Redigera lagställningen här så räknar Lumia om live-rankingen för den här turneringen.",
-		"live-control-bracket-description": "Rapportera matchresultat här. Lumia avgör vinnare och för dem vidare till senare rundor.",
+		"live-control-leaderboard-description": "Uppdatera ställningen här så räknar Lumia om rankingen för den här turneringen.",
+		"live-control-team-description": "Uppdatera lagställningen här så räknar Lumia om rankingen för den här turneringen.",
+		"live-control-bracket-description": "Uppdatera matchresultat här. Lumia avgör vinnare och för dem vidare till senare rundor.",
 		"no-team-standings": "Inga lagställningar ännu. Lägg till deltagare, tilldela lag och synka ställningarna för att börja.",
 		"players": "Spelare",
 		"edit-team-standing": "Redigera lagställning",
-		"alerts": "Turneringsaviseringar"
+		"alerts": "Turneringsaviseringar",
+		"auto-end": "Avsluta automatiskt",
+		"rank-most-points": "Flest poäng",
+		"rank-most-wins": "Flest vinster",
+		"rank-least-losses": "Minst förluster",
+		"live-control": "Uppdatera Ställning",
+		"avatar-auto-find": "Lämna tomt för att automatiskt hitta avataren från den valda plattformen. Lumia provar andra plattformar som stöds vid behov."
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

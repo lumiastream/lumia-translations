@@ -540,7 +540,8 @@
 		"filteredWords": "Filtered Words",
 		"viewer_profiles": "Perfis de espectadores",
 		"lightConfiguration": "Configuração de Luzes",
-		"assets-manager": "Asset Manager"
+		"assets-manager": "Asset Manager",
+		"tournaments": "Torneios"
 	},
 	"home": {
 		"test-setup": "Testar Configuração",
@@ -1172,7 +1173,7 @@
 		"add-loyalty-to-chatbot": "Adicionar pontos de fidelidade ao comando do chatbot",
 		"edit-chatbot-command-with-name": "Editar comando do chatbot: {{command}}",
 		"quick-setup-loyalty-added": "Pontos de fidelidade adicionados a {{command}}",
-		"create-command-with-action": "Criar comando com ação",
+		"create-command-with-action": "Criar ou editar comando rapidamente",
 		"reached-chat-command-limit": "Limite de comandos de chat atingido",
 		"reached-twitch-points-command-limit": "Limite de comandos de pontos do Twitch atingido",
 		"reached-kick-points-command-limit": "Limite de comandos de pontos do Kick atingido",
@@ -2701,7 +2702,8 @@
 		"encode-printer-payload": "Encode payload automatically",
 		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer.",
 		"tournamentStart": "Iniciar torneio",
-		"tournamentEnd": "Encerrar torneio"
+		"tournamentEnd": "Encerrar torneio",
+		"tournamentUpdatePoints": "Atualizar pontos do torneio"
 	},
 	"overlay-actions": {
 		"alertTrigger": "Gatilho de Alerta",
@@ -4866,17 +4868,22 @@
 		"leaderboard-scoring-mode": "Modo de pontuação da tabela",
 		"individual-mode": "Individual",
 		"team-mode": "Equipe",
-		"active-description": "O Lumia controla o estado ao vivo do torneio enquanto você o gerencia aqui.",
 		"overview-description": "Defina a identidade do torneio, o cronograma e o comportamento de inscrição.",
 		"leaderboard-description": "As classificações da tabela são controladas diretamente no Lumia.",
 		"leaderboard-team-description": "O modo por equipe atribui uma classificação compartilhada para cada equipe.",
-		"live-control-leaderboard-description": "Edite aqui a classificação e o Lumia recalculará o ranking ao vivo deste torneio.",
-		"live-control-team-description": "Edite aqui a classificação das equipes e o Lumia recalculará o ranking ao vivo deste torneio.",
-		"live-control-bracket-description": "Informe aqui os resultados das partidas. O Lumia resolve os vencedores e os propaga para as rodadas seguintes.",
+		"live-control-leaderboard-description": "Atualize aqui a classificação e o Lumia recalculará o ranking deste torneio.",
+		"live-control-team-description": "Atualize aqui a classificação das equipes e o Lumia recalculará o ranking deste torneio.",
+		"live-control-bracket-description": "Atualize aqui os resultados das partidas. O Lumia resolve os vencedores e os propaga para as rodadas seguintes.",
 		"no-team-standings": "Ainda não há classificação por equipes. Adicione participantes, defina equipes e sincronize a classificação para começar.",
 		"players": "Jogadores",
 		"edit-team-standing": "Editar classificação da equipe",
-		"alerts": "Alertas do torneio"
+		"alerts": "Alertas do torneio",
+		"auto-end": "Encerramento automático",
+		"rank-most-points": "Mais pontos",
+		"rank-most-wins": "Mais vitórias",
+		"rank-least-losses": "Menos derrotas",
+		"live-control": "Atualizar Classificação",
+		"avatar-auto-find": "Deixe em branco para encontrar automaticamente o avatar da plataforma selecionada. O Lumia tentará outras plataformas compatíveis se necessário."
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Nenhuma fila de espectador começou ainda",
