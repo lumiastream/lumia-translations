@@ -540,7 +540,8 @@
 		"filteredWords": "Filtered Words",
 		"viewer_profiles": "观众资料",
 		"lightConfiguration": "灯光配置",
-		"assets-manager": "Asset Manager"
+		"assets-manager": "Asset Manager",
+		"tournaments": "锦标赛"
 	},
 	"home": {
 		"test-setup": "测试设置",
@@ -1172,7 +1173,7 @@
 		"add-loyalty-to-chatbot": "向聊天机器人命令添加忠诚度积分",
 		"edit-chatbot-command-with-name": "编辑聊天机器人命令：{{command}}",
 		"quick-setup-loyalty-added": "已将忠诚度积分添加到 {{command}}",
-		"create-command-with-action": "创建带操作的命令",
+		"create-command-with-action": "快速创建或编辑命令",
 		"reached-chat-command-limit": "已达到聊天命令限制",
 		"reached-twitch-points-command-limit": "已达到 Twitch 点数命令限制",
 		"reached-kick-points-command-limit": "已达到 Kick 点数命令限制",
@@ -2701,7 +2702,8 @@
 		"encode-printer-payload": "Encode payload automatically",
 		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer.",
 		"tournamentStart": "开始锦标赛",
-		"tournamentEnd": "结束锦标赛"
+		"tournamentEnd": "结束锦标赛",
+		"tournamentUpdatePoints": "更新锦标赛积分"
 	},
 	"overlay-actions": {
 		"alertTrigger": "警报触发器",
@@ -4866,17 +4868,22 @@
 		"leaderboard-scoring-mode": "排行榜计分模式",
 		"individual-mode": "个人",
 		"team-mode": "团队",
-		"active-description": "Lumia 负责管理锦标赛的实时状态，而你在这里进行操作。",
 		"overview-description": "设置锦标赛的身份信息、赛程安排和报名行为。",
 		"leaderboard-description": "排行榜排名直接在 Lumia 中控制。",
 		"leaderboard-team-description": "团队模式会为每支队伍计算共享排名。",
-		"live-control-leaderboard-description": "在这里编辑排名，Lumia 会重新计算此锦标赛的实时排行榜。",
-		"live-control-team-description": "在这里编辑团队排名，Lumia 会重新计算此锦标赛的实时排行榜。",
-		"live-control-bracket-description": "在这里录入比赛分数。Lumia 会确定胜者并将其推进到后续轮次。",
+		"live-control-leaderboard-description": "在这里更新排名，Lumia 会重新计算此锦标赛的排名。",
+		"live-control-team-description": "在这里更新团队排名，Lumia 会重新计算此锦标赛的排名。",
+		"live-control-bracket-description": "在这里更新比赛分数。Lumia 会确定胜者并将其推进到后续轮次。",
 		"no-team-standings": "还没有团队排名。请先添加参赛者、分配队伍并同步排名。",
 		"players": "玩家",
 		"edit-team-standing": "编辑团队排名",
-		"alerts": "锦标赛提醒"
+		"alerts": "锦标赛提醒",
+		"auto-end": "自动结束",
+		"rank-most-points": "最高积分",
+		"rank-most-wins": "最多胜场",
+		"rank-least-losses": "最少败场",
+		"live-control": "更新排名",
+		"avatar-auto-find": "留空可从所选平台自动查找头像。如有需要，Lumia 也会尝试其他受支持的平台。"
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "尚未启动观众队列",

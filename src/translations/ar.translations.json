@@ -540,7 +540,8 @@
 		"filteredWords": "Filtered Words",
 		"viewer_profiles": "ملفات تعريف المشاهدين",
 		"lightConfiguration": "تكوين الأضواء",
-		"assets-manager": "Asset Manager"
+		"assets-manager": "Asset Manager",
+		"tournaments": "البطولات"
 	},
 	"home": {
 		"test-setup": "إعداد الاختبار",
@@ -1163,7 +1164,7 @@
 		"add-loyalty-to-chatbot": "إضافة نقاط الولاء لأمر الشات بوت",
 		"edit-chatbot-command-with-name": "تحرير أمر الشات بوت: {{command}}",
 		"quick-setup-loyalty-added": "تمت إضافة نقاط الولاء إلى {{command}}",
-		"create-command-with-action": "إنشاء أمر مع إجراء",
+		"create-command-with-action": "إنشاء أمر أو تعديله بسرعة",
 		"reached-chat-command-limit": "تم الوصول إلى حد أوامر الدردشة",
 		"reached-twitch-points-command-limit": "تم الوصول إلى حد أوامر نقاط Twitch",
 		"reached-kick-points-command-limit": "تم الوصول إلى حد أوامر نقاط Kick",
@@ -2693,7 +2694,8 @@
 		"encode-printer-payload": "Encode payload automatically",
 		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer.",
 		"tournamentStart": "بدء البطولة",
-		"tournamentEnd": "إنهاء البطولة"
+		"tournamentEnd": "إنهاء البطولة",
+		"tournamentUpdatePoints": "تحديث نقاط البطولة"
 	},
 	"overlay-actions": {
 		"alertTrigger": "تنبيه الزناد",
@@ -4878,17 +4880,22 @@
 		"leaderboard-scoring-mode": "وضع احتساب نقاط لوحة الصدارة",
 		"individual-mode": "فردي",
 		"team-mode": "فريق",
-		"active-description": "تتولى Lumia حالة البطولة المباشرة بينما تديرها هنا.",
 		"overview-description": "اضبط هوية البطولة والجدول الزمني وسلوك التسجيل.",
 		"leaderboard-description": "يتم التحكم في تصنيفات لوحة الصدارة مباشرة داخل Lumia.",
 		"leaderboard-team-description": "يمنح وضع الفريق ترتيباً مشتركاً لكل فريق.",
-		"live-control-leaderboard-description": "عدّل الترتيب هنا وسيعيد Lumia احتساب التصنيفات المباشرة لهذه البطولة.",
-		"live-control-team-description": "عدّل ترتيب الفرق هنا وسيعيد Lumia احتساب التصنيفات المباشرة لهذه البطولة.",
-		"live-control-bracket-description": "أبلغ عن نتائج المباريات هنا. يقوم Lumia بحسم الفائزين وتمريرهم إلى الجولات اللاحقة.",
+		"live-control-leaderboard-description": "حدّث الترتيب هنا وسيعيد Lumia احتساب التصنيفات لهذه البطولة.",
+		"live-control-team-description": "حدّث ترتيب الفرق هنا وسيعيد Lumia احتساب التصنيفات لهذه البطولة.",
+		"live-control-bracket-description": "حدّث نتائج المباريات هنا. يقوم Lumia بحسم الفائزين وتمريرهم إلى الجولات اللاحقة.",
 		"no-team-standings": "لا توجد نتائج فرق بعد. أضف المشاركين، وعيّن الفرق، ثم قم بمزامنة النتائج للبدء.",
 		"players": "اللاعبون",
 		"edit-team-standing": "تعديل ترتيب الفريق",
-		"alerts": "تنبيهات البطولة"
+		"alerts": "تنبيهات البطولة",
+		"auto-end": "إنهاء تلقائي",
+		"rank-most-points": "أعلى النقاط",
+		"rank-most-wins": "أكثر الانتصارات",
+		"rank-least-losses": "أقل الخسائر",
+		"live-control": "تحديث الترتيب",
+		"avatar-auto-find": "اتركه فارغًا ليعثر Lumia على الصورة الرمزية تلقائيًا من المنصة المحددة. وسيحاول المنصات المدعومة الأخرى إذا لزم الأمر."
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "لم يتم بدء قائمة المشاهدين بعد",

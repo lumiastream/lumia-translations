@@ -540,7 +540,8 @@
 		"filteredWords": "Filtered Words",
 		"viewer_profiles": "Kijkersprofielen",
 		"lightConfiguration": "Lichtconfiguratie",
-		"assets-manager": "Asset Manager"
+		"assets-manager": "Asset Manager",
+		"tournaments": "Toernooien"
 	},
 	"home": {
 		"test-setup": "Test opstelling",
@@ -1163,7 +1164,7 @@
 		"add-loyalty-to-chatbot": "Loyaliteitspunten toevoegen aan chatbot-opdracht",
 		"edit-chatbot-command-with-name": "Chatbot-opdracht bewerken: {{command}}",
 		"quick-setup-loyalty-added": "Loyaliteitspunten toegevoegd aan {{command}}",
-		"create-command-with-action": "Opdracht met actie maken",
+		"create-command-with-action": "Snel opdracht maken of bewerken",
 		"reached-chat-command-limit": "Chatopdrachtlimiet bereikt",
 		"reached-twitch-points-command-limit": "Twitch-puntenopdrachtlimiet bereikt",
 		"reached-kick-points-command-limit": "Kick-puntenopdrachtlimiet bereikt",
@@ -2701,7 +2702,8 @@
 		"encode-printer-payload": "Encode payload automatically",
 		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer.",
 		"tournamentStart": "Toernooi starten",
-		"tournamentEnd": "Toernooi beëindigen"
+		"tournamentEnd": "Toernooi beëindigen",
+		"tournamentUpdatePoints": "Toernooipunten bijwerken"
 	},
 	"overlay-actions": {
 		"alertTrigger": "Waarschuwingstrigger",
@@ -4886,17 +4888,22 @@
 		"leaderboard-scoring-mode": "Scoremodus van klassement",
 		"individual-mode": "Individueel",
 		"team-mode": "Team",
-		"active-description": "Lumia beheert de live toernooistatus terwijl jij het hier aanstuurt.",
 		"overview-description": "Stel de identiteit van het toernooi, het schema en het inschrijfgedrag in.",
 		"leaderboard-description": "Ranglijsten worden direct in Lumia beheerd.",
 		"leaderboard-team-description": "In teammodus krijgt elk team een gedeelde stand.",
-		"live-control-leaderboard-description": "Bewerk hier de ranglijst en Lumia berekent de live posities voor dit toernooi opnieuw.",
-		"live-control-team-description": "Bewerk hier de teamstanden en Lumia berekent de live posities voor dit toernooi opnieuw.",
-		"live-control-bracket-description": "Rapporteer hier wedstrijduitslagen. Lumia bepaalt winnaars en zet ze door naar latere rondes.",
+		"live-control-leaderboard-description": "Werk hier de standen bij en Lumia berekent de ranglijst voor dit toernooi opnieuw.",
+		"live-control-team-description": "Werk hier de teamstanden bij en Lumia berekent de ranglijst voor dit toernooi opnieuw.",
+		"live-control-bracket-description": "Werk hier de wedstrijdscores bij. Lumia bepaalt winnaars en zet ze door naar latere rondes.",
 		"no-team-standings": "Nog geen teamstanden. Voeg deelnemers toe, wijs teams toe en synchroniseer de standen om te beginnen.",
 		"players": "Spelers",
 		"edit-team-standing": "Teamstand bewerken",
-		"alerts": "Toernooiwaarschuwingen"
+		"alerts": "Toernooiwaarschuwingen",
+		"auto-end": "Automatisch beëindigen",
+		"rank-most-points": "Meeste punten",
+		"rank-most-wins": "Meeste overwinningen",
+		"rank-least-losses": "Minste verliezen",
+		"live-control": "Stand Bijwerken",
+		"avatar-auto-find": "Laat leeg om de avatar automatisch te vinden vanaf het geselecteerde platform. Lumia probeert indien nodig andere ondersteunde platforms."
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "No viewer queue started yet",

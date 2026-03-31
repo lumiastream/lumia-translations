@@ -540,7 +540,8 @@
 		"filteredWords": "Filtered Words",
 		"viewer_profiles": "Viewer Profiles",
 		"lightConfiguration": "Işık Yapılandırması",
-		"assets-manager": "Asset Manager"
+		"assets-manager": "Asset Manager",
+		"tournaments": "Turnuvalar"
 	},
 	"home": {
 		"test-setup": "Test Kurulumu",
@@ -1172,7 +1173,7 @@
 		"add-loyalty-to-chatbot": "Chatbot komutuna sadakat puanı ekle",
 		"edit-chatbot-command-with-name": "Chatbot komutunu düzenle: {{command}}",
 		"quick-setup-loyalty-added": "{{command}} komutuna sadakat puanları eklendi",
-		"create-command-with-action": "Eylemle komut oluştur",
+		"create-command-with-action": "Komutu hızlı oluştur veya düzenle",
 		"reached-chat-command-limit": "Sohbet komutu limitine ulaşıldı",
 		"reached-twitch-points-command-limit": "Twitch puanları komutu limitine ulaşıldı",
 		"reached-kick-points-command-limit": "Kick puanları komutu limitine ulaşıldı",
@@ -2703,7 +2704,8 @@
 		"encode-printer-payload": "Encode payload automatically",
 		"encode-printer-payload-description": "When enabled, the payload is base64 encoded before it is sent to the printer.",
 		"tournamentStart": "Turnuvayı Başlat",
-		"tournamentEnd": "Turnuvayı Bitir"
+		"tournamentEnd": "Turnuvayı Bitir",
+		"tournamentUpdatePoints": "Turnuva puanlarını güncelle"
 	},
 	"overlay-actions": {
 		"alertTrigger": "Uyarı Tetikleyici",
@@ -4868,17 +4870,22 @@
 		"leaderboard-scoring-mode": "Liderlik puanlama modu",
 		"individual-mode": "Bireysel",
 		"team-mode": "Takım",
-		"active-description": "Lumia canlı turnuva durumunu yönetir, siz de onu burada kontrol edersiniz.",
 		"overview-description": "Turnuva kimliğini, zamanlamasını ve kayıt davranışını ayarlayın.",
 		"leaderboard-description": "Liderlik sıralamaları doğrudan Lumia içinde yönetilir.",
 		"leaderboard-team-description": "Takım modu her takım için ortak bir sıralama tutar.",
-		"live-control-leaderboard-description": "Sıralamayı burada düzenleyin; Lumia bu turnuva için canlı sıralamayı yeniden hesaplasın.",
-		"live-control-team-description": "Takım sıralamalarını burada düzenleyin; Lumia bu turnuva için canlı sıralamayı yeniden hesaplasın.",
-		"live-control-bracket-description": "Maç skorlarını burada bildirin. Lumia kazananları belirler ve sonraki turlara taşır.",
+		"live-control-leaderboard-description": "Sıralamayı burada güncelleyin; Lumia bu turnuva için sıralamayı yeniden hesaplasın.",
+		"live-control-team-description": "Takım sıralamalarını burada güncelleyin; Lumia bu turnuva için sıralamayı yeniden hesaplasın.",
+		"live-control-bracket-description": "Maç skorlarını burada güncelleyin. Lumia kazananları belirler ve sonraki turlara taşır.",
 		"no-team-standings": "Henüz takım sıralaması yok. Başlamak için katılımcı ekleyin, takımları belirleyin ve sıralamayı eşitleyin.",
 		"players": "Oyuncular",
 		"edit-team-standing": "Takım sıralamasını düzenle",
-		"alerts": "Turnuva Uyarıları"
+		"alerts": "Turnuva Uyarıları",
+		"auto-end": "Otomatik bitir",
+		"rank-most-points": "En çok puan",
+		"rank-most-wins": "En çok galibiyet",
+		"rank-least-losses": "En az mağlubiyet",
+		"live-control": "Sıralamayı Güncelle",
+		"avatar-auto-find": "Seçilen platformdan avatarı otomatik bulmak için boş bırakın. Gerekirse Lumia diğer desteklenen platformları dener."
 	},
 	"viewerqueue": {
 		"viewerqueue-is-empty": "Henüz izleyici sırası başlatılmadı",
