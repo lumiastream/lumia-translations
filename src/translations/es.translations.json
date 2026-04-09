@@ -1953,7 +1953,21 @@
 		"tile-generic-description": "Configura ajustes de {{name}} para este comando.",
 		"global-state-kick-points-description": "Cuando esté inactivo, todos los puntos de Kick se desactivarán.",
 		"global-state-kick-points-disabled": "Todos tus puntos de Kick están desactivados ahora.",
-		"tournamentUpdatePoints": "Actualizar puntos del torneo"
+		"tournamentUpdatePoints": "Actualizar puntos del torneo",
+		"animation-style": "Estilo de animación",
+		"animation-style-none": "Sin animación",
+		"animation-style-ease": "Suave",
+		"animation-style-linear": "Velocidad constante",
+		"animation-style-ease-in": "Inicio lento",
+		"animation-style-ease-out": "Final lento",
+		"animation-style-ease-in-out": "Inicio y final suaves",
+		"animation-style-cubic-bezier": "Curva personalizada",
+		"animation-duration-ms": "Duración de la animación (ms)",
+		"custom-animation-curve": "Curva de animación personalizada",
+		"layer-size": "Tamaño de capa",
+		"layer-animation-position-help": "Elige un estilo de animación si quieres que la capa se mueva suavemente.",
+		"layer-animation-size-help": "Elige un estilo de animación si quieres que la capa cambie de tamaño suavemente.",
+		"custom-animation-curve-help": "Introduce la función de tiempo CSS completa, por ejemplo cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "Nombre de la acción",
@@ -2737,7 +2751,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "Evento de alerta",
+		"setLayerSize": "Establecer tamaño de capa",
+		"sendGameUpdate": "Enviar actualización del juego"
 	},
 	"twitch": {
 		"changeStreamTitle": "Cambiar título de transmisión",

@@ -1954,7 +1954,21 @@
 		"tile-generic-description": "Configure {{name}} settings for this command.",
 		"global-state-kick-points-description": "When inactive, all kick points will be disabled",
 		"global-state-kick-points-disabled": "All of your kick points are disabled now",
-		"tournamentUpdatePoints": "Tournament Update Points"
+		"tournamentUpdatePoints": "Tournament Update Points",
+		"animation-style": "Animation style",
+		"animation-style-none": "No animation",
+		"animation-style-ease": "Smooth",
+		"animation-style-linear": "Constant speed",
+		"animation-style-ease-in": "Slow start",
+		"animation-style-ease-out": "Slow finish",
+		"animation-style-ease-in-out": "Smooth start and finish",
+		"animation-style-cubic-bezier": "Custom curve",
+		"animation-duration-ms": "Animation duration (ms)",
+		"custom-animation-curve": "Custom animation curve",
+		"layer-size": "Layer size",
+		"layer-animation-position-help": "Choose an animation style if you want the layer to move smoothly.",
+		"layer-animation-size-help": "Choose an animation style if you want the layer to resize smoothly.",
+		"custom-animation-curve-help": "Enter the full CSS timing function, for example cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "Action name",
@@ -2738,7 +2752,10 @@
 		"pollRemoveItem": "Poll Remove Item",
 		"sendCustomOverlayContent": "Send Custom Overlay Content",
 		"takeScreenshot": "Take Screenshot of Overlay",
-		"delay": "Delay"
+		"delay": "Delay",
+		"alertEvent": "Alert Event",
+		"setLayerSize": "Set Layer Size",
+		"sendGameUpdate": "Send Game Update"
 	},
 	"twitch": {
 		"changeStreamTitle": "Change Stream Title",

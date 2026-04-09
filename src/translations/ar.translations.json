@@ -1943,7 +1943,21 @@
 		"tile-generic-description": "قم بتكوين اعدادات {{name}} لهذا الامر.",
 		"global-state-kick-points-description": "عند عدم النشاط، سيتم تعطيل جميع نقاط Kick",
 		"global-state-kick-points-disabled": "تم تعطيل جميع نقاط Kick الخاصة بك الآن",
-		"tournamentUpdatePoints": "تحديث نقاط البطولة"
+		"tournamentUpdatePoints": "تحديث نقاط البطولة",
+		"animation-style": "نمط الحركة",
+		"animation-style-none": "بدون حركة",
+		"animation-style-ease": "سلس",
+		"animation-style-linear": "سرعة ثابتة",
+		"animation-style-ease-in": "بداية بطيئة",
+		"animation-style-ease-out": "نهاية بطيئة",
+		"animation-style-ease-in-out": "بداية ونهاية سلسة",
+		"animation-style-cubic-bezier": "منحنى مخصص",
+		"animation-duration-ms": "مدة الحركة (مللي ثانية)",
+		"custom-animation-curve": "منحنى حركة مخصص",
+		"layer-size": "حجم الطبقة",
+		"layer-animation-position-help": "اختر نمط حركة إذا كنت تريد أن تتحرك الطبقة بسلاسة.",
+		"layer-animation-size-help": "اختر نمط حركة إذا كنت تريد أن يتغير حجم الطبقة بسلاسة.",
+		"custom-animation-curve-help": "أدخل دالة التوقيت الكاملة في CSS، مثل cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "اسم الفعل",
@@ -2729,7 +2743,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "حدث التنبيه",
+		"setLayerSize": "تعيين حجم الطبقة",
+		"sendGameUpdate": "إرسال تحديث اللعبة"
 	},
 	"twitch": {
 		"changeStreamTitle": "تغيير عنوان الدفق",

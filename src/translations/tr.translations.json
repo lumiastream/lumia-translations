@@ -1953,7 +1953,21 @@
 		"tile-generic-description": "Bu komut icin {{name}} ayarlarini yapilandirin.",
 		"global-state-kick-points-description": "Etkin olmadığında tüm Kick puanları devre dışı bırakılır",
 		"global-state-kick-points-disabled": "Tüm Kick puanlarınız artık devre dışı",
-		"tournamentUpdatePoints": "Turnuva puanlarını güncelle"
+		"tournamentUpdatePoints": "Turnuva puanlarını güncelle",
+		"animation-style": "Animasyon stili",
+		"animation-style-none": "Animasyon yok",
+		"animation-style-ease": "Yumuşak",
+		"animation-style-linear": "Sabit hız",
+		"animation-style-ease-in": "Yavaş başlangıç",
+		"animation-style-ease-out": "Yavaş bitiş",
+		"animation-style-ease-in-out": "Yumuşak başlangıç ve bitiş",
+		"animation-style-cubic-bezier": "Özel eğri",
+		"animation-duration-ms": "Animasyon süresi (ms)",
+		"custom-animation-curve": "Özel animasyon eğrisi",
+		"layer-size": "Katman boyutu",
+		"layer-animation-position-help": "Katmanın yumuşak hareket etmesini istiyorsanız bir animasyon stili seçin.",
+		"layer-animation-size-help": "Katmanın boyutunun yumuşak değişmesini istiyorsanız bir animasyon stili seçin.",
+		"custom-animation-curve-help": "Tam CSS zamanlama işlevini girin, örneğin cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "İşlem adı",
@@ -2739,7 +2753,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "Uyarı olayı",
+		"setLayerSize": "Katman boyutunu ayarla",
+		"sendGameUpdate": "Oyun güncellemesi gönder"
 	},
 	"twitch": {
 		"changeStreamTitle": "Yayın Başlığını Değiştir",
