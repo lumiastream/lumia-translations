@@ -3088,6 +3088,7 @@
 		"effect": "Effect",
 		"target-achieved": "Target achieved",
 		"powerups": "Powerups",
+		"watchStreak": "Watch Streak",
 		"powerup-type": "Powerup Type",
 		"powerupsPoints": "Powerups Points",
 		"points-equal": "Points amount equal to",
