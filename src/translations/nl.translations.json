@@ -1953,7 +1953,21 @@
 		"tile-generic-description": "Configureer {{name}}-instellingen voor deze opdracht.",
 		"global-state-kick-points-description": "Wanneer inactief, worden alle Kick-punten uitgeschakeld",
 		"global-state-kick-points-disabled": "Al je Kick-punten zijn nu uitgeschakeld",
-		"tournamentUpdatePoints": "Toernooipunten bijwerken"
+		"tournamentUpdatePoints": "Toernooipunten bijwerken",
+		"animation-style": "Animatiestijl",
+		"animation-style-none": "Geen animatie",
+		"animation-style-ease": "Vloeiend",
+		"animation-style-linear": "Constante snelheid",
+		"animation-style-ease-in": "Langzame start",
+		"animation-style-ease-out": "Langzaam einde",
+		"animation-style-ease-in-out": "Vloeiende start en finish",
+		"animation-style-cubic-bezier": "Aangepaste curve",
+		"animation-duration-ms": "Animatieduur (ms)",
+		"custom-animation-curve": "Aangepaste animatiecurve",
+		"layer-size": "Laaggrootte",
+		"layer-animation-position-help": "Kies een animatiestijl als je wilt dat de laag vloeiend beweegt.",
+		"layer-animation-size-help": "Kies een animatiestijl als je wilt dat de laag vloeiend van grootte verandert.",
+		"custom-animation-curve-help": "Voer de volledige CSS-timingfunctie in, bijvoorbeeld cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "Naam van actie",
@@ -2737,7 +2751,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "Waarschuwingsgebeurtenis",
+		"setLayerSize": "Laaggrootte instellen",
+		"sendGameUpdate": "Game-update verzenden"
 	},
 	"twitch": {
 		"changeStreamTitle": "Wijzig de streamtitel",

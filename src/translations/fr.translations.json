@@ -1953,7 +1953,21 @@
 		"tile-generic-description": "Configurez les parametres {{name}} pour cette commande.",
 		"global-state-kick-points-description": "Lorsqu'ils sont inactifs, tous les points Kick seront désactivés",
 		"global-state-kick-points-disabled": "Tous vos points Kick sont désormais désactivés",
-		"tournamentUpdatePoints": "Mettre à jour les points du tournoi"
+		"tournamentUpdatePoints": "Mettre à jour les points du tournoi",
+		"animation-style": "Style d'animation",
+		"animation-style-none": "Aucune animation",
+		"animation-style-ease": "Fluide",
+		"animation-style-linear": "Vitesse constante",
+		"animation-style-ease-in": "Démarrage lent",
+		"animation-style-ease-out": "Fin lente",
+		"animation-style-ease-in-out": "Début et fin fluides",
+		"animation-style-cubic-bezier": "Courbe personnalisée",
+		"animation-duration-ms": "Durée de l'animation (ms)",
+		"custom-animation-curve": "Courbe d'animation personnalisée",
+		"layer-size": "Taille du calque",
+		"layer-animation-position-help": "Choisissez un style d'animation si vous voulez que le calque se déplace en douceur.",
+		"layer-animation-size-help": "Choisissez un style d'animation si vous voulez que le calque se redimensionne en douceur.",
+		"custom-animation-curve-help": "Saisissez la fonction de temporisation CSS complète, par exemple cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "Nom de l'action",
@@ -2737,7 +2751,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "Événement d'alerte",
+		"setLayerSize": "Définir la taille du calque",
+		"sendGameUpdate": "Envoyer une mise à jour du jeu"
 	},
 	"twitch": {
 		"changeStreamTitle": "Modifier le titre du flux",

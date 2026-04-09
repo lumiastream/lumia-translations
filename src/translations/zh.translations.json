@@ -1953,7 +1953,21 @@
 		"tile-generic-description": "为此命令配置 {{name}} 设置。",
 		"global-state-kick-points-description": "不活跃时，所有 Kick 积分将被禁用",
 		"global-state-kick-points-disabled": "你的所有 Kick 积分现在都已禁用",
-		"tournamentUpdatePoints": "更新锦标赛积分"
+		"tournamentUpdatePoints": "更新锦标赛积分",
+		"animation-style": "动画样式",
+		"animation-style-none": "无动画",
+		"animation-style-ease": "平滑",
+		"animation-style-linear": "匀速",
+		"animation-style-ease-in": "缓慢开始",
+		"animation-style-ease-out": "缓慢结束",
+		"animation-style-ease-in-out": "平滑开始和结束",
+		"animation-style-cubic-bezier": "自定义曲线",
+		"animation-duration-ms": "动画时长 (ms)",
+		"custom-animation-curve": "自定义动画曲线",
+		"layer-size": "图层大小",
+		"layer-animation-position-help": "如果你希望图层平滑移动，请选择一种动画样式。",
+		"layer-animation-size-help": "如果你希望图层平滑调整大小，请选择一种动画样式。",
+		"custom-animation-curve-help": "请输入完整的 CSS 时间函数，例如 cubic-bezier(0.25, 0.1, 0.25, 1)。"
 	},
 	"variables": {
 		"action": "动作名称",
@@ -2737,7 +2751,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "警报事件",
+		"setLayerSize": "设置图层大小",
+		"sendGameUpdate": "发送游戏更新"
 	},
 	"twitch": {
 		"changeStreamTitle": "更改直播标题",

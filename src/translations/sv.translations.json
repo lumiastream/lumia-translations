@@ -1953,7 +1953,21 @@
 		"tile-generic-description": "Konfigurera {{name}}-installningar for detta kommando.",
 		"global-state-kick-points-description": "När inaktiv kommer alla Kick-poäng att inaktiveras",
 		"global-state-kick-points-disabled": "Alla dina Kick-poäng är nu inaktiverade",
-		"tournamentUpdatePoints": "Uppdatera turneringspoäng"
+		"tournamentUpdatePoints": "Uppdatera turneringspoäng",
+		"animation-style": "Animationsstil",
+		"animation-style-none": "Ingen animation",
+		"animation-style-ease": "Mjuk",
+		"animation-style-linear": "Konstant hastighet",
+		"animation-style-ease-in": "Långsam start",
+		"animation-style-ease-out": "Långsamt slut",
+		"animation-style-ease-in-out": "Mjuk start och avslutning",
+		"animation-style-cubic-bezier": "Anpassad kurva",
+		"animation-duration-ms": "Animationslängd (ms)",
+		"custom-animation-curve": "Anpassad animationskurva",
+		"layer-size": "Lagrets storlek",
+		"layer-animation-position-help": "Välj en animationsstil om du vill att lagret ska röra sig mjukt.",
+		"layer-animation-size-help": "Välj en animationsstil om du vill att lagret ska ändra storlek mjukt.",
+		"custom-animation-curve-help": "Ange hela CSS-tidsfunktionen, till exempel cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",
@@ -2739,7 +2753,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "Aviseringshändelse",
+		"setLayerSize": "Ange lagerstorlek",
+		"sendGameUpdate": "Skicka speluppdatering"
 	},
 	"twitch": {
 		"changeStreamTitle": "Ändra strömmens titel",

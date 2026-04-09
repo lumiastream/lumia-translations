@@ -1952,7 +1952,21 @@
 		"tile-generic-description": "Konfigurieren Sie {{name}}-Einstellungen fur diesen Befehl.",
 		"global-state-kick-points-description": "Bei Inaktivität werden alle Kick-Punkte deaktiviert",
 		"global-state-kick-points-disabled": "Alle deine Kick-Punkte sind jetzt deaktiviert",
-		"tournamentUpdatePoints": "Turnierpunkte aktualisieren"
+		"tournamentUpdatePoints": "Turnierpunkte aktualisieren",
+		"animation-style": "Animationsstil",
+		"animation-style-none": "Keine Animation",
+		"animation-style-ease": "Sanft",
+		"animation-style-linear": "Konstante Geschwindigkeit",
+		"animation-style-ease-in": "Langsamer Start",
+		"animation-style-ease-out": "Langsames Ende",
+		"animation-style-ease-in-out": "Sanfter Start und sanftes Ende",
+		"animation-style-cubic-bezier": "Benutzerdefinierte Kurve",
+		"animation-duration-ms": "Animationsdauer (ms)",
+		"custom-animation-curve": "Benutzerdefinierte Animationskurve",
+		"layer-size": "Ebenengröße",
+		"layer-animation-position-help": "Wähle einen Animationsstil, wenn sich die Ebene weich bewegen soll.",
+		"layer-animation-size-help": "Wähle einen Animationsstil, wenn die Größe der Ebene weich geändert werden soll.",
+		"custom-animation-curve-help": "Gib die vollständige CSS-Timing-Funktion ein, zum Beispiel cubic-bezier(0.25, 0.1, 0.25, 1)."
 	},
 	"variables": {
 		"action": "Aktionsname",
@@ -2736,7 +2750,10 @@
 		"hudToggle": "Hud Toggle",
 		"hudVolumeSet": "Hud Volume Set",
 		"hudOpacitySet": "Hud Opacity Set",
-		"takeScreenshot": "Take Screenshot of Overlay"
+		"takeScreenshot": "Take Screenshot of Overlay",
+		"alertEvent": "Alarmereignis",
+		"setLayerSize": "Ebenengröße festlegen",
+		"sendGameUpdate": "Spielaktualisierung senden"
 	},
 	"twitch": {
 		"changeStreamTitle": "Streamtitel ändern",
