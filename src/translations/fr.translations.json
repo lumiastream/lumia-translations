@@ -983,6 +983,8 @@
 		"studio-name-type": "Entrer {{type}} Nom",
 		"delete-title": "Etes-vous sûr que vous voulez supprimer {{name}}?",
 		"delete-description": "Vous ne pourrez pas récupérer cet objet !",
+		"delete-reference-description": "Cet élément est utilisé dans les commandes et alertes ci-dessous. Une fois supprimé, elles seront définies sur « Aucun changement d’éclairage ».",
+		"delete-reference-list-title": "Commandes et alertes utilisant cet élément",
 		"delete-used-scene": "La suppression de cette scène affectera :",
 		"delete-used-theme": "La suppression de ce thème affectera :",
 		"theme-settings-description": "Actualisez pour ajouter les dernières lumières connectées",

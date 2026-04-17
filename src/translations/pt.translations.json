@@ -984,6 +984,8 @@
 		"studio-name-type": "Inserir Nome {{type}}",
 		"delete-title": "Tem certeza de que deseja excluir {{name}}?",
 		"delete-description": "Você não poderá recuperar este item!",
+		"delete-reference-description": "Este item é usado nos comandos e alertas abaixo. Depois de excluído, eles serão definidos como \"Sem alteração de luz\".",
+		"delete-reference-list-title": "Comandos e alertas que usam este item",
 		"delete-used-scene": "A exclusão desta cena afetará:",
 		"delete-used-theme": "A exclusão deste tema afetará:",
 		"theme-settings-description": "Atualizar últimas configurações",

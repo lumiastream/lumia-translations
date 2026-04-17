@@ -983,6 +983,8 @@
 		"studio-name-type": "Binnenkomen {{type}} Naam",
 		"delete-title": "Weet je zeker dat je wilt verwijderen {{name}}?",
 		"delete-description": "U kunt dit item niet herstellen!",
+		"delete-reference-description": "Dit item wordt gebruikt in de onderstaande opdrachten en meldingen. Na verwijdering worden deze ingesteld op 'Geen lichtwijziging'.",
+		"delete-reference-list-title": "Opdrachten en meldingen die dit item gebruiken",
 		"delete-used-scene": "Het verwijderen van deze scène heeft invloed op:",
 		"delete-used-theme": "Als u dit thema verwijdert, heeft dit invloed op:",
 		"theme-settings-description": "Vernieuw om de nieuwste aangesloten lampen toe te voegen",

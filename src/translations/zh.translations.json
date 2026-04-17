@@ -984,6 +984,8 @@
 		"studio-name-type": "输入 {{type}} 名称",
 		"delete-title": "您确定要删除 {{name}} 吗？",
 		"delete-description": "您将无法恢复此项目！",
+		"delete-reference-description": "此项目正在以下命令和提醒中使用。删除后，它们将设置为“无灯光变化”。",
+		"delete-reference-list-title": "使用此项目的命令和提醒",
 		"delete-used-scene": "删除此场景将影响：",
 		"delete-used-theme": "删除此主题将影响：",
 		"theme-settings-description": "刷新最新设置",

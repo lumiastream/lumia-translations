@@ -985,6 +985,8 @@
 		"studio-name-type": "Enter {{type}} Name",
 		"delete-title": "Are you sure you want to delete {{name}}?",
 		"delete-description": "You will not be able to recover this item!",
+		"delete-reference-description": "This item is used by the commands and alerts below. Once deleted, they will be set to No Light Change.",
+		"delete-reference-list-title": "Commands and alerts using this item",
 		"delete-used-scene": "Deleting this scene will affect:",
 		"delete-used-theme": "Deleting this theme will affect:",
 		"theme-settings-description": "Refresh latest settings",

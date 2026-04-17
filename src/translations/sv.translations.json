@@ -983,6 +983,8 @@
 		"studio-name-type": "Stiga på {{type}} namn",
 		"delete-title": "Är du säker att du vill radera {{name}}?",
 		"delete-description": "Du kommer inte att kunna återställa det här föremålet!",
+		"delete-reference-description": "Det här objektet används i kommandona och varningarna nedan. När det tas bort ställs de in på \"Ingen ljusändring\".",
+		"delete-reference-list-title": "Kommandon och varningar som använder det här objektet",
 		"delete-used-scene": "Att ta bort den här scenen kommer att påverka:",
 		"delete-used-theme": "Att ta bort detta tema påverkar:",
 		"theme-settings-description": "Uppdatera för att lägga till de senaste anslutna lamporna",

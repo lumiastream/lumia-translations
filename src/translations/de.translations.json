@@ -982,6 +982,8 @@
 		"studio-name-type": "Eingeben {{type}} Name",
 		"delete-title": "Sind Sie sicher, dass Sie löschen möchten {{name}}?",
 		"delete-description": "Sie können diesen Artikel nicht wiederherstellen!",
+		"delete-reference-description": "Dieses Element wird in den unten aufgeführten Befehlen und Alerts verwendet. Nach dem Löschen werden sie auf „Keine Lichtänderung“ gesetzt.",
+		"delete-reference-list-title": "Befehle und Alerts, die dieses Element verwenden",
 		"delete-used-scene": "Das Löschen dieser Szene hat Auswirkungen auf Folgendes:",
 		"delete-used-theme": "Das Löschen dieses Themas hat Auswirkungen auf Folgendes:",
 		"theme-settings-description": "Aktualisieren Sie, um die neuesten verbundenen Lichter hinzuzufügen",

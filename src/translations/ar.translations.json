@@ -983,6 +983,8 @@
 		"studio-name-type": "يدخل {{type}} اسم",
 		"delete-title": "هل أنت متأكد أنك تريد حذف {{name}}؟",
 		"delete-description": "لن تتمكن من استعادة هذا العنصر!",
+		"delete-reference-description": "هذا العنصر مستخدم في الأوامر والتنبيهات أدناه. بعد حذفه، سيتم تعيينها إلى \"بدون تغيير في الإضاءة\".",
+		"delete-reference-list-title": "الأوامر والتنبيهات التي تستخدم هذا العنصر",
 		"delete-used-scene": "سيؤثر حذف هذا المشهد على:",
 		"delete-used-theme": "سيؤثر حذف هذا الموضوع على:",
 		"theme-settings-description": "قم بالتحديث للحصول على أحدث الأضواء المتصلة المضافة",

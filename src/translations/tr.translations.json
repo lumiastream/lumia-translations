@@ -984,6 +984,8 @@
 		"studio-name-type": "Girmek {{type}} İsim",
 		"delete-title": "Silmek istediğinizden emin misiniz? {{name}}?",
 		"delete-description": "Bu öğeyi kurtaramayacaksınız!",
+		"delete-reference-description": "Bu öğe aşağıdaki komutlarda ve uyarılarda kullanılıyor. Silindikten sonra bunlar \"Işık değişikliği yok\" olarak ayarlanır.",
+		"delete-reference-list-title": "Bu öğeyi kullanan komutlar ve uyarılar",
 		"delete-used-scene": "Bu sahnenin silinmesi şunları etkileyecektir:",
 		"delete-used-theme": "Bu temanın silinmesi şunları etkileyecektir:",
 		"theme-settings-description": "En son ayarları yenile",

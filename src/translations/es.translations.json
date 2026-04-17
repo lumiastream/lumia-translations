@@ -983,6 +983,8 @@
 		"studio-name-type": "Ingresar {{type}} Nombre",
 		"delete-title": "estas seguro que quieres borrarlo {{name}}?",
 		"delete-description": "¡No podrás recuperar este artículo!",
+		"delete-reference-description": "Este elemento se usa en los comandos y alertas siguientes. Al eliminarlo, se establecerán en \"Sin cambio de luz\".",
+		"delete-reference-list-title": "Comandos y alertas que usan este elemento",
 		"delete-used-scene": "Eliminar esta escena afectará:",
 		"delete-used-theme": "Eliminar este tema afectará:",
 		"theme-settings-description": "Actualice para agregar las luces conectadas más nuevas",
