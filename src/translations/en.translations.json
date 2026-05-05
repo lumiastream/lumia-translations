@@ -1970,7 +1970,8 @@
 		"layer-size": "Layer size",
 		"layer-animation-position-help": "Choose an animation style if you want the layer to move smoothly.",
 		"layer-animation-size-help": "Choose an animation style if you want the layer to resize smoothly.",
-		"custom-animation-curve-help": "Enter the full CSS timing function, for example cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Enter the full CSS timing function, for example cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Variables are not supported here because they could let other people trigger malicious code on your machine."
 	},
 	"variables": {
 		"action": "Action name",

@@ -1969,7 +1969,8 @@
 		"layer-size": "Tamanho da camada",
 		"layer-animation-position-help": "Escolha um estilo de animação se quiser que a camada se mova suavemente.",
 		"layer-animation-size-help": "Escolha um estilo de animação se quiser que a camada redimensione suavemente.",
-		"custom-animation-curve-help": "Digite a função de tempo CSS completa, por exemplo cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Digite a função de tempo CSS completa, por exemplo cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Variáveis não são suportadas aqui porque poderiam permitir que outras pessoas acionem código malicioso na sua máquina."
 	},
 	"variables": {
 		"action": "Nome da Ação",

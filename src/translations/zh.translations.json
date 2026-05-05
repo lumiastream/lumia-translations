@@ -1969,7 +1969,8 @@
 		"layer-size": "图层大小",
 		"layer-animation-position-help": "如果你希望图层平滑移动，请选择一种动画样式。",
 		"layer-animation-size-help": "如果你希望图层平滑调整大小，请选择一种动画样式。",
-		"custom-animation-curve-help": "请输入完整的 CSS 时间函数，例如 cubic-bezier(0.25, 0.1, 0.25, 1)。"
+		"custom-animation-curve-help": "请输入完整的 CSS 时间函数，例如 cubic-bezier(0.25, 0.1, 0.25, 1)。",
+		"command-runner-variables-not-supported": "此处不支持变量，因为它们可能允许其他人在你的机器上触发恶意代码。"
 	},
 	"variables": {
 		"action": "动作名称",

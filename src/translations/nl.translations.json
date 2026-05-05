@@ -1969,7 +1969,8 @@
 		"layer-size": "Laaggrootte",
 		"layer-animation-position-help": "Kies een animatiestijl als je wilt dat de laag vloeiend beweegt.",
 		"layer-animation-size-help": "Kies een animatiestijl als je wilt dat de laag vloeiend van grootte verandert.",
-		"custom-animation-curve-help": "Voer de volledige CSS-timingfunctie in, bijvoorbeeld cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Voer de volledige CSS-timingfunctie in, bijvoorbeeld cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Variabelen worden hier niet ondersteund, omdat ze andere mensen schadelijke code op je machine kunnen laten uitvoeren."
 	},
 	"variables": {
 		"action": "Naam van actie",

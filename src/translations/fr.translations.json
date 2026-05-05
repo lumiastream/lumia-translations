@@ -1969,7 +1969,8 @@
 		"layer-size": "Taille du calque",
 		"layer-animation-position-help": "Choisissez un style d'animation si vous voulez que le calque se déplace en douceur.",
 		"layer-animation-size-help": "Choisissez un style d'animation si vous voulez que le calque se redimensionne en douceur.",
-		"custom-animation-curve-help": "Saisissez la fonction de temporisation CSS complète, par exemple cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Saisissez la fonction de temporisation CSS complète, par exemple cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Les variables ne sont pas prises en charge ici, car elles pourraient permettre à d’autres personnes de déclencher du code malveillant sur votre machine."
 	},
 	"variables": {
 		"action": "Nom de l'action",

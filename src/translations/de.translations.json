@@ -1968,7 +1968,8 @@
 		"layer-size": "Ebenengröße",
 		"layer-animation-position-help": "Wähle einen Animationsstil, wenn sich die Ebene weich bewegen soll.",
 		"layer-animation-size-help": "Wähle einen Animationsstil, wenn die Größe der Ebene weich geändert werden soll.",
-		"custom-animation-curve-help": "Gib die vollständige CSS-Timing-Funktion ein, zum Beispiel cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Gib die vollständige CSS-Timing-Funktion ein, zum Beispiel cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Variablen werden hier nicht unterstützt, da sie anderen Personen ermöglichen könnten, schädlichen Code auf deinem Computer auszuführen."
 	},
 	"variables": {
 		"action": "Aktionsname",

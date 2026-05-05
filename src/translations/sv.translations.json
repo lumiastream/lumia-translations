@@ -1969,7 +1969,8 @@
 		"layer-size": "Lagrets storlek",
 		"layer-animation-position-help": "Välj en animationsstil om du vill att lagret ska röra sig mjukt.",
 		"layer-animation-size-help": "Välj en animationsstil om du vill att lagret ska ändra storlek mjukt.",
-		"custom-animation-curve-help": "Ange hela CSS-tidsfunktionen, till exempel cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Ange hela CSS-tidsfunktionen, till exempel cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Variabler stöds inte här eftersom de kan låta andra personer utlösa skadlig kod på din dator."
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",

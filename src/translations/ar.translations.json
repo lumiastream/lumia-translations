@@ -1959,7 +1959,8 @@
 		"layer-size": "حجم الطبقة",
 		"layer-animation-position-help": "اختر نمط حركة إذا كنت تريد أن تتحرك الطبقة بسلاسة.",
 		"layer-animation-size-help": "اختر نمط حركة إذا كنت تريد أن يتغير حجم الطبقة بسلاسة.",
-		"custom-animation-curve-help": "أدخل دالة التوقيت الكاملة في CSS، مثل cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "أدخل دالة التوقيت الكاملة في CSS، مثل cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "المتغيرات غير مدعومة هنا لأنها قد تسمح لأشخاص آخرين بتشغيل تعليمات برمجية ضارة على جهازك."
 	},
 	"variables": {
 		"action": "اسم الفعل",
