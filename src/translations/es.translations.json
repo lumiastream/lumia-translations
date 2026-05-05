@@ -1967,7 +1967,8 @@
 		"layer-size": "Tamaño de capa",
 		"layer-animation-position-help": "Elige un estilo de animación si quieres que la capa se mueva suavemente.",
 		"layer-animation-size-help": "Elige un estilo de animación si quieres que la capa cambie de tamaño suavemente.",
-		"custom-animation-curve-help": "Introduce la función de tiempo CSS completa, por ejemplo cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Introduce la función de tiempo CSS completa, por ejemplo cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Las variables no son compatibles aquí porque podrían permitir que otras personas ejecuten código malicioso en tu máquina."
 	},
 	"variables": {
 		"action": "Nombre de la acción",

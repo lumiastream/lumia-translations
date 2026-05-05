@@ -1967,7 +1967,8 @@
 		"layer-size": "Katman boyutu",
 		"layer-animation-position-help": "Katmanın yumuşak hareket etmesini istiyorsanız bir animasyon stili seçin.",
 		"layer-animation-size-help": "Katmanın boyutunun yumuşak değişmesini istiyorsanız bir animasyon stili seçin.",
-		"custom-animation-curve-help": "Tam CSS zamanlama işlevini girin, örneğin cubic-bezier(0.25, 0.1, 0.25, 1)."
+		"custom-animation-curve-help": "Tam CSS zamanlama işlevini girin, örneğin cubic-bezier(0.25, 0.1, 0.25, 1).",
+		"command-runner-variables-not-supported": "Değişkenler burada desteklenmez çünkü başka kişilerin makinenizde kötü amaçlı kod çalıştırmasına izin verebilir."
 	},
 	"variables": {
 		"action": "İşlem adı",
