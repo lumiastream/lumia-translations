@@ -2956,6 +2956,10 @@
 		"giftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
 		"sessionGiftMembers": "Session Gift Members",
 		"sessionGiftMembers-info": "This alert will trigger when the total number of gift members reaches a certain number per session. This is a cumulative count of all gift members that have been given to the stream. It requires variations to be used as the milestones to reach.",
+		"gifts": "Gifts",
+		"gifts-info": "This alert will trigger when a viewer sends a gift (jewels) in the YouTube live chat. Use variations to react to specific gifts or jewel amounts.",
+		"sessionGifts": "Session Gifts",
+		"sessionGifts-info": "This alert will trigger when the total number of jewels gifted reaches a certain number per session. This is a cumulative count of all jewels gifted to the stream. It requires variations to be used as the milestones to reach.",
 		"sessionGiftSubscriptions": "Session Gift Subscriptions",
 		"sessionGiftSubscriptions-info": "This alert will trigger when the total number of gift subscriptions reaches a certain number per session. This is a cumulative count of all gift subscriptions that have been given to the stream. It requires variations to be used as the milestones to reach.",
 		"sessionBits": "Session Bits",
@@ -3103,7 +3107,9 @@
 		"points-equal": "Points amount equal to",
 		"points-greater-equal": "Points amount greater or equal to",
 		"confirmation-delete": "Deleting variations is irreversible. Are you sure you want to proceed?",
-		"bitsCombo": "Bits Combo"
+		"bitsCombo": "Bits Combo",
+		"contributionPurchase": "Contribution Purchase",
+		"giftCrowdfunded": "Gift Crowdfunded"
 	},
 	"discovery": {
 		"light-ip-has-changed": "One of your {{type}} light's IP address has changed. Press Refresh changes so Lumia uses the new IP Address",
