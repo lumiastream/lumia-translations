@@ -3104,7 +3104,9 @@
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
 		"thankyouSent": "Thank You Sent",
-		"bitsCombo": "Bits Combo"
+		"bitsCombo": "Bits Combo",
+		"contributionPurchase": "贡献购买",
+		"giftCrowdfunded": "众筹礼物"
 	},
 	"discovery": {
 		"light-ip-has-changed": "您的 {{type}} 灯光的 IP 地址已更改。请按“刷新更改”以便 Lumia 使用新的 IP 地址",

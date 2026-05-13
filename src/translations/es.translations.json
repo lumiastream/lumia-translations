@@ -3104,7 +3104,9 @@
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
 		"thankyouSent": "Thank You Sent",
-		"bitsCombo": "Bits Combo"
+		"bitsCombo": "Bits Combo",
+		"contributionPurchase": "Compra de contribución",
+		"giftCrowdfunded": "Regalo financiado colectivamente"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Uno de tus {{type}} La dirección IP de la luz ha cambiado. ",

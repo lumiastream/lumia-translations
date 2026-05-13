@@ -3104,7 +3104,9 @@
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
 		"thankyouSent": "Thank You Sent",
-		"bitsCombo": "Bits Combo"
+		"bitsCombo": "Bits Combo",
+		"contributionPurchase": "Compra de contribuição",
+		"giftCrowdfunded": "Presente financiado coletivamente"
 	},
 	"discovery": {
 		"light-ip-has-changed": "O endereço IP de uma das suas luzes {{type}} mudou. Pressione 'Atualizar alterações' para que o Lumia use o novo endereço IP",

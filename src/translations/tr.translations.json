@@ -3106,7 +3106,9 @@
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
 		"thankyouSent": "Thank You Sent",
-		"bitsCombo": "Bits Combo"
+		"bitsCombo": "Bits Combo",
+		"contributionPurchase": "Katkı satın alma",
+		"giftCrowdfunded": "Kitle fonlu hediye"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Senin bir tanesi {{type}} Light'ın IP adresi değişti. ",

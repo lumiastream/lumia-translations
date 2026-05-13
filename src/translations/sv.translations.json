@@ -3106,7 +3106,9 @@
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
 		"thankyouSent": "Thank You Sent",
-		"bitsCombo": "Bits Combo"
+		"bitsCombo": "Bits Combo",
+		"contributionPurchase": "Bidragsköp",
+		"giftCrowdfunded": "Crowdfundad gåva"
 	},
 	"discovery": {
 		"light-ip-has-changed": "En av dina {{type}} lampans IP-adress har ändrats. ",

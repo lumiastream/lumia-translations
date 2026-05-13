@@ -3104,7 +3104,9 @@
 		"giveawayStarted": "Giveaway Started",
 		"giveawayEnded": "Giveaway Ended",
 		"thankyouSent": "Thank You Sent",
-		"bitsCombo": "Bits Combo"
+		"bitsCombo": "Bits Combo",
+		"contributionPurchase": "Bijdrageaankoop",
+		"giftCrowdfunded": "Gecrowdfund cadeau"
 	},
 	"discovery": {
 		"light-ip-has-changed": "Een van jouw {{type}} Het IP-adres van Light is gewijzigd. ",
