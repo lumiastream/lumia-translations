@@ -825,7 +825,10 @@
 		"voicecommands-model-language": "Idioma",
 		"voicecommands-model-select": "Modelo",
 		"voicecommands-model-direct-link": "O pega un enlace de descarga directo debajo.",
-		"voicecommands-model-manual-toggle": "O descargar un modelo manualmente"
+		"voicecommands-model-manual-toggle": "O descargar un modelo manualmente",
+		"navigation-keys": "Teclas de navegación",
+		"numpad-keys": "Teclas del teclado numérico",
+		"symbol-keys": "Teclas de símbolos"
 	},
 	"eventlist": {
 		"free-ticket": "Boleto gratis",
@@ -1970,7 +1973,11 @@
 		"layer-animation-position-help": "Elige un estilo de animación si quieres que la capa se mueva suavemente.",
 		"layer-animation-size-help": "Elige un estilo de animación si quieres que la capa cambie de tamaño suavemente.",
 		"custom-animation-curve-help": "Introduce la función de tiempo CSS completa, por ejemplo cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "Las variables no son compatibles aquí porque podrían permitir que otras personas ejecuten código malicioso en tu máquina."
+		"command-runner-variables-not-supported": "Las variables no son compatibles aquí porque podrían permitir que otras personas ejecuten código malicioso en tu máquina.",
+		"selected-activity-timing-title": "¿Usar el tiempo del elemento seleccionado ({{itemType}})?",
+		"selected-activity-timing-switch-duration": "{{itemName}} dura {{duration}}. ¿Cambiar este comando al modo de duración y ajustarlo?",
+		"selected-activity-timing-match-duration": "{{itemName}} dura {{duration}}. ¿Quieres ajustar la duración del comando para que coincida?",
+		"use-item-duration": "Usar duración del elemento"
 	},
 	"variables": {
 		"action": "Nombre de la acción",

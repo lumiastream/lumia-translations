@@ -824,7 +824,10 @@
 		"voicecommands-model-language": "Sprache",
 		"voicecommands-model-select": "Modell",
 		"voicecommands-model-direct-link": "Oder unten einen direkten Download-Link einfügen.",
-		"voicecommands-model-manual-toggle": "Oder ein Modell manuell herunterladen"
+		"voicecommands-model-manual-toggle": "Oder ein Modell manuell herunterladen",
+		"navigation-keys": "Navigationstasten",
+		"numpad-keys": "Ziffernblocktasten",
+		"symbol-keys": "Symboltasten"
 	},
 	"eventlist": {
 		"free-ticket": "Freikarten",
@@ -1969,7 +1972,11 @@
 		"layer-animation-position-help": "Wähle einen Animationsstil, wenn sich die Ebene weich bewegen soll.",
 		"layer-animation-size-help": "Wähle einen Animationsstil, wenn die Größe der Ebene weich geändert werden soll.",
 		"custom-animation-curve-help": "Gib die vollständige CSS-Timing-Funktion ein, zum Beispiel cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "Variablen werden hier nicht unterstützt, da sie anderen Personen ermöglichen könnten, schädlichen Code auf deinem Computer auszuführen."
+		"command-runner-variables-not-supported": "Variablen werden hier nicht unterstützt, da sie anderen Personen ermöglichen könnten, schädlichen Code auf deinem Computer auszuführen.",
+		"selected-activity-timing-title": "Timing der ausgewählten {{itemType}} verwenden?",
+		"selected-activity-timing-switch-duration": "{{itemName}} läuft {{duration}}. Diesen Befehl in den Dauermodus wechseln und anpassen?",
+		"selected-activity-timing-match-duration": "{{itemName}} läuft {{duration}}. Möchtest du die Befehlsdauer daran anpassen?",
+		"use-item-duration": "Elementdauer verwenden"
 	},
 	"variables": {
 		"action": "Aktionsname",

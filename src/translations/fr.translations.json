@@ -825,7 +825,10 @@
 		"voicecommands-model-language": "Langue",
 		"voicecommands-model-select": "Modèle",
 		"voicecommands-model-direct-link": "Ou collez un lien de téléchargement direct ci-dessous.",
-		"voicecommands-model-manual-toggle": "Ou télécharger un modèle manuellement"
+		"voicecommands-model-manual-toggle": "Ou télécharger un modèle manuellement",
+		"navigation-keys": "Touches de navigation",
+		"numpad-keys": "Touches du pavé numérique",
+		"symbol-keys": "Touches de symboles"
 	},
 	"eventlist": {
 		"free-ticket": "Billet gratuit",
@@ -1970,7 +1973,11 @@
 		"layer-animation-position-help": "Choisissez un style d'animation si vous voulez que le calque se déplace en douceur.",
 		"layer-animation-size-help": "Choisissez un style d'animation si vous voulez que le calque se redimensionne en douceur.",
 		"custom-animation-curve-help": "Saisissez la fonction de temporisation CSS complète, par exemple cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "Les variables ne sont pas prises en charge ici, car elles pourraient permettre à d’autres personnes de déclencher du code malveillant sur votre machine."
+		"command-runner-variables-not-supported": "Les variables ne sont pas prises en charge ici, car elles pourraient permettre à d’autres personnes de déclencher du code malveillant sur votre machine.",
+		"selected-activity-timing-title": "Utiliser le timing de {{itemType}} sélectionné ?",
+		"selected-activity-timing-switch-duration": "{{itemName}} dure {{duration}}. Passer cette commande en mode durée et l’ajuster ?",
+		"selected-activity-timing-match-duration": "{{itemName}} dure {{duration}}. Voulez-vous ajuster la durée de la commande ?",
+		"use-item-duration": "Utiliser la durée de l’élément"
 	},
 	"variables": {
 		"action": "Nom de l'action",

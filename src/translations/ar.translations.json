@@ -825,7 +825,10 @@
 		"voicecommands-model-language": "اللغة",
 		"voicecommands-model-select": "النموذج",
 		"voicecommands-model-direct-link": "أو الصق رابط تنزيل مباشر بالأسفل.",
-		"voicecommands-model-manual-toggle": "أو تنزيل نموذج يدويًا"
+		"voicecommands-model-manual-toggle": "أو تنزيل نموذج يدويًا",
+		"navigation-keys": "مفاتيح التنقل",
+		"numpad-keys": "مفاتيح لوحة الأرقام",
+		"symbol-keys": "مفاتيح الرموز"
 	},
 	"eventlist": {
 		"free-ticket": "بطاقة مجانية",
@@ -1960,7 +1963,11 @@
 		"layer-animation-position-help": "اختر نمط حركة إذا كنت تريد أن تتحرك الطبقة بسلاسة.",
 		"layer-animation-size-help": "اختر نمط حركة إذا كنت تريد أن يتغير حجم الطبقة بسلاسة.",
 		"custom-animation-curve-help": "أدخل دالة التوقيت الكاملة في CSS، مثل cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "المتغيرات غير مدعومة هنا لأنها قد تسمح لأشخاص آخرين بتشغيل تعليمات برمجية ضارة على جهازك."
+		"command-runner-variables-not-supported": "المتغيرات غير مدعومة هنا لأنها قد تسمح لأشخاص آخرين بتشغيل تعليمات برمجية ضارة على جهازك.",
+		"selected-activity-timing-title": "هل تريد استخدام توقيت {{itemType}} المحدد؟",
+		"selected-activity-timing-switch-duration": "يعمل {{itemName}} لمدة {{duration}}. هل تريد تبديل هذا الأمر إلى وضع المدة ومطابقته؟",
+		"selected-activity-timing-match-duration": "يعمل {{itemName}} لمدة {{duration}}. هل تريد ضبط مدة الأمر لتطابقه؟",
+		"use-item-duration": "استخدام مدة العنصر"
 	},
 	"variables": {
 		"action": "اسم الفعل",

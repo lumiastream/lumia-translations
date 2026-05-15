@@ -825,7 +825,10 @@
 		"voicecommands-model-language": "语言",
 		"voicecommands-model-select": "模型",
 		"voicecommands-model-direct-link": "或在下面粘贴直接下载链接。",
-		"voicecommands-model-manual-toggle": "或手动下载模型"
+		"voicecommands-model-manual-toggle": "或手动下载模型",
+		"navigation-keys": "导航键",
+		"numpad-keys": "数字键盘键",
+		"symbol-keys": "符号键"
 	},
 	"eventlist": {
 		"free-ticket": "免费票",
@@ -1970,7 +1973,11 @@
 		"layer-animation-position-help": "如果你希望图层平滑移动，请选择一种动画样式。",
 		"layer-animation-size-help": "如果你希望图层平滑调整大小，请选择一种动画样式。",
 		"custom-animation-curve-help": "请输入完整的 CSS 时间函数，例如 cubic-bezier(0.25, 0.1, 0.25, 1)。",
-		"command-runner-variables-not-supported": "此处不支持变量，因为它们可能允许其他人在你的机器上触发恶意代码。"
+		"command-runner-variables-not-supported": "此处不支持变量，因为它们可能允许其他人在你的机器上触发恶意代码。",
+		"selected-activity-timing-title": "使用所选{{itemType}}的计时吗？",
+		"selected-activity-timing-switch-duration": "{{itemName}} 运行 {{duration}}。要将此命令切换为持续时间模式并匹配它吗？",
+		"selected-activity-timing-match-duration": "{{itemName}} 运行 {{duration}}。要将命令持续时间设为匹配吗？",
+		"use-item-duration": "使用项目持续时间"
 	},
 	"variables": {
 		"action": "动作名称",

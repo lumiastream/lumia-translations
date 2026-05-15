@@ -825,7 +825,10 @@
 		"voicecommands-model-language": "Taal",
 		"voicecommands-model-select": "Model",
 		"voicecommands-model-direct-link": "Of plak hieronder een directe downloadlink.",
-		"voicecommands-model-manual-toggle": "Of een model handmatig downloaden"
+		"voicecommands-model-manual-toggle": "Of een model handmatig downloaden",
+		"navigation-keys": "Navigatietoetsen",
+		"numpad-keys": "Numeriek toetsenblok",
+		"symbol-keys": "Symbooltoetsen"
 	},
 	"eventlist": {
 		"free-ticket": "Gratis ticket",
@@ -1970,7 +1973,11 @@
 		"layer-animation-position-help": "Kies een animatiestijl als je wilt dat de laag vloeiend beweegt.",
 		"layer-animation-size-help": "Kies een animatiestijl als je wilt dat de laag vloeiend van grootte verandert.",
 		"custom-animation-curve-help": "Voer de volledige CSS-timingfunctie in, bijvoorbeeld cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "Variabelen worden hier niet ondersteund, omdat ze andere mensen schadelijke code op je machine kunnen laten uitvoeren."
+		"command-runner-variables-not-supported": "Variabelen worden hier niet ondersteund, omdat ze andere mensen schadelijke code op je machine kunnen laten uitvoeren.",
+		"selected-activity-timing-title": "Timing van de geselecteerde {{itemType}} gebruiken?",
+		"selected-activity-timing-switch-duration": "{{itemName}} duurt {{duration}}. Deze opdracht naar duurmodus schakelen en laten overeenkomen?",
+		"selected-activity-timing-match-duration": "{{itemName}} duurt {{duration}}. Wil je de opdrachtduur hierop afstemmen?",
+		"use-item-duration": "Itemduur gebruiken"
 	},
 	"variables": {
 		"action": "Naam van actie",

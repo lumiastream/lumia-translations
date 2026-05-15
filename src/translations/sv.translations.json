@@ -825,7 +825,10 @@
 		"voicecommands-model-language": "Språk",
 		"voicecommands-model-select": "Modell",
 		"voicecommands-model-direct-link": "Eller klistra in en direkt nedladdningslänk nedan.",
-		"voicecommands-model-manual-toggle": "Eller ladda ner en modell manuellt"
+		"voicecommands-model-manual-toggle": "Eller ladda ner en modell manuellt",
+		"navigation-keys": "Navigeringstangenter",
+		"numpad-keys": "Numeriska tangentbordet",
+		"symbol-keys": "Symboltangenter"
 	},
 	"eventlist": {
 		"free-ticket": "Fribiljett",
@@ -1970,7 +1973,11 @@
 		"layer-animation-position-help": "Välj en animationsstil om du vill att lagret ska röra sig mjukt.",
 		"layer-animation-size-help": "Välj en animationsstil om du vill att lagret ska ändra storlek mjukt.",
 		"custom-animation-curve-help": "Ange hela CSS-tidsfunktionen, till exempel cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "Variabler stöds inte här eftersom de kan låta andra personer utlösa skadlig kod på din dator."
+		"command-runner-variables-not-supported": "Variabler stöds inte här eftersom de kan låta andra personer utlösa skadlig kod på din dator.",
+		"selected-activity-timing-title": "Använd tajmingen för vald {{itemType}}?",
+		"selected-activity-timing-switch-duration": "{{itemName}} körs i {{duration}}. Växla detta kommando till varaktighetsläge och matcha det?",
+		"selected-activity-timing-match-duration": "{{itemName}} körs i {{duration}}. Vill du ställa in kommandots varaktighet så att den matchar?",
+		"use-item-duration": "Använd objektets varaktighet"
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",
