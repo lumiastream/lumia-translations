@@ -826,7 +826,10 @@
 		"voicecommands-model-language": "Language",
 		"voicecommands-model-select": "Model",
 		"voicecommands-model-direct-link": "Or paste a direct download link below.",
-		"voicecommands-model-manual-toggle": "Or manually download a model"
+		"voicecommands-model-manual-toggle": "Or manually download a model",
+		"navigation-keys": "Navigation Keys",
+		"numpad-keys": "Numpad Keys",
+		"symbol-keys": "Symbol Keys"
 	},
 	"eventlist": {
 		"free-ticket": "Free ticket",
@@ -1971,7 +1974,11 @@
 		"layer-animation-position-help": "Choose an animation style if you want the layer to move smoothly.",
 		"layer-animation-size-help": "Choose an animation style if you want the layer to resize smoothly.",
 		"custom-animation-curve-help": "Enter the full CSS timing function, for example cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "Variables are not supported here because they could let other people trigger malicious code on your machine."
+		"command-runner-variables-not-supported": "Variables are not supported here because they could let other people trigger malicious code on your machine.",
+		"selected-activity-timing-title": "Use the selected {{itemType}} timing?",
+		"selected-activity-timing-switch-duration": "{{itemName}} runs for {{duration}}. Switch this command to duration mode and match it?",
+		"selected-activity-timing-match-duration": "{{itemName}} runs for {{duration}}. Do you want to set the command duration to match it?",
+		"use-item-duration": "Use item duration"
 	},
 	"variables": {
 		"action": "Action name",

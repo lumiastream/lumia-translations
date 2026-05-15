@@ -825,7 +825,10 @@
 		"voicecommands-model-language": "Dil",
 		"voicecommands-model-select": "Model",
 		"voicecommands-model-direct-link": "Ya da aşağıya doğrudan indirme bağlantısı yapıştırın.",
-		"voicecommands-model-manual-toggle": "Ya da bir modeli manuel indir"
+		"voicecommands-model-manual-toggle": "Ya da bir modeli manuel indir",
+		"navigation-keys": "Gezinme Tuşları",
+		"numpad-keys": "Sayısal Tuş Takımı Tuşları",
+		"symbol-keys": "Sembol Tuşları"
 	},
 	"eventlist": {
 		"free-ticket": "Ücretsiz bilet",
@@ -1970,7 +1973,11 @@
 		"layer-animation-position-help": "Katmanın yumuşak hareket etmesini istiyorsanız bir animasyon stili seçin.",
 		"layer-animation-size-help": "Katmanın boyutunun yumuşak değişmesini istiyorsanız bir animasyon stili seçin.",
 		"custom-animation-curve-help": "Tam CSS zamanlama işlevini girin, örneğin cubic-bezier(0.25, 0.1, 0.25, 1).",
-		"command-runner-variables-not-supported": "Değişkenler burada desteklenmez çünkü başka kişilerin makinenizde kötü amaçlı kod çalıştırmasına izin verebilir."
+		"command-runner-variables-not-supported": "Değişkenler burada desteklenmez çünkü başka kişilerin makinenizde kötü amaçlı kod çalıştırmasına izin verebilir.",
+		"selected-activity-timing-title": "Seçili {{itemType}} zamanlaması kullanılsın mı?",
+		"selected-activity-timing-switch-duration": "{{itemName}} {{duration}} sürer. Bu komutu süre moduna geçirip eşleştirmek ister misiniz?",
+		"selected-activity-timing-match-duration": "{{itemName}} {{duration}} sürer. Komut süresini buna uyacak şekilde ayarlamak ister misiniz?",
+		"use-item-duration": "Öğe süresini kullan"
 	},
 	"variables": {
 		"action": "İşlem adı",
