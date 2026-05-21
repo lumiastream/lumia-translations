@@ -2321,6 +2321,7 @@
 		"spotify_queue": "(Spotify) a fila atual separada por vírgulas",
 		"started_at": "String ISO do tempo em que este alerta foi acionado",
 		"streakMonths": "Quantos meses o usuário está inscrito consecutivamente",
+		"streamer": "Seu nome de usuário de streamer, selecionado automaticamente da sua primeira plataforma conectada (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) Última Ação que foi acionada",
 		"subMonths": "Quantos meses o usuário está inscrito",
 		"subPlan": "Valor do plano de inscritos (1000, 2000, 3000)",

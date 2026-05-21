@@ -2287,6 +2287,7 @@
 		"spotify_now_playing_url": "(Spotify) عنوان URL الكامل للأغنية الحالية قيد التشغيل",
 		"spotify_queue": "(Spotify) قائمة الانتظار الحالية مفصولة بفواصل",
 		"streakMonths": "عدد الأشهر التي قضاها المستخدم بديلاً على التوالي",
+		"streamer": "اسم مستخدم البث الخاص بك، يتم اختياره تلقائيًا من أول منصة متصلة (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) آخر إجراء تم تشغيله",
 		"subMonths": "كم عدد الأشهر التي قضاها المستخدم؟",
 		"subPlan": "قيمة خطة الاشتراكات (1000، 2000، 3000)",

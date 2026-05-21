@@ -2293,6 +2293,7 @@
 		"spotify_now_playing_url": "(Spotify) die vollständige URL des aktuell abgespielten Songs",
 		"spotify_queue": "(Spotify) die aktuelle Warteschlange durch Kommas getrennt",
 		"streakMonths": "Wie viele Monate hintereinander der Benutzer angemeldet war",
+		"streamer": "Dein Streamer-Benutzername, automatisch ausgewählt aus deiner ersten verbundenen Plattform (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) Letzte Aktion, die ausgelöst wurde",
 		"subMonths": "Gibt an, für wie viele Monate der Benutzer angemeldet war",
 		"subPlan": "Abo-Planwert (1000, 2000, 3000)",

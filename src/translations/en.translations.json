@@ -2361,6 +2361,7 @@
 		"spotify_queue": "(Spotify) the current queue separated by commas",
 		"started_at": "ISO String of the time this alert was triggered",
 		"streakMonths": "How many months the user has been subbed for in a row",
+		"streamer": "Your streamer username, auto-selected from your first connected platform (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) Last Action that was triggered",
 		"subMonths": "How many months the user has been subbed for",
 		"subPlan": "Subs plan value (1000, 2000, 3000)",

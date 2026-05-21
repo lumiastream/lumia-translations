@@ -2293,6 +2293,7 @@
 		"spotify_now_playing_url": "(Spotify) hela URL:en till den aktuella låten som spelas",
 		"spotify_queue": "(Spotify) den aktuella kön separerad med kommatecken",
 		"streakMonths": "Hur många månader användaren har blivit prenumererad i rad",
+		"streamer": "Ditt streamer-användarnamn, automatiskt valt från din första anslutna plattform (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) Senaste åtgärd som utlöstes",
 		"subMonths": "Hur många månader användaren har blivit prenumererad i",
 		"subPlan": "Prenumerationsplanens värde (1000, 2000, 3000)",

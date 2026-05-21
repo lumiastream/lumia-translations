@@ -2321,6 +2321,7 @@
 		"spotify_queue": "(Spotify) 当前队列，用逗号分隔",
 		"started_at": "此警报触发时间的 ISO 字符串",
 		"streakMonths": "用户连续订阅的月数",
+		"streamer": "您的主播用户名，自动从您第一个已连接的平台中选择（Twitch → Kick → YouTube → Facebook → TikTok）",
 		"streamerbot_last_action": "(Streamerbot) 上次触发的动作",
 		"subMonths": "用户订阅的月数",
 		"subPlan": "订阅计划值 (1000, 2000, 3000)",

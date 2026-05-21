@@ -2321,6 +2321,7 @@
 		"spotify_queue": "(Spotify) virgülle ayrılmış mevcut sıra",
 		"started_at": "Bu uyarının tetiklendiği zamanın ISO Dizesi",
 		"streakMonths": "Kullanıcının art arda kaç ay abone olduğu",
+		"streamer": "Yayıncı kullanıcı adınız, bağlandığınız ilk platformdan otomatik olarak seçilir (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) Tetiklenen Son Eylem",
 		"subMonths": "Kullanıcının kaç aydır abone olduğu",
 		"subPlan": "Abonelik planı değeri (1000, 2000, 3000)",

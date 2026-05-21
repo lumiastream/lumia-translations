@@ -2295,6 +2295,7 @@
 		"spotify_now_playing_url": "(Spotify) l'URL complète de la chanson en cours de lecture",
 		"spotify_queue": "(Spotify) la file d'attente actuelle séparée par des virgules",
 		"streakMonths": "Pendant combien de mois l'utilisateur a été abonné d'affilée",
+		"streamer": "Votre nom d'utilisateur de streamer, sélectionné automatiquement à partir de votre première plateforme connectée (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) Dernière action déclenchée",
 		"subMonths": "Depuis combien de mois l'utilisateur a été abonné",
 		"subPlan": "Valeur du plan de souscription (1 000, 2 000, 3 000)",

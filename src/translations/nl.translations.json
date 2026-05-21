@@ -2292,6 +2292,7 @@
 		"spotify_now_playing_url": "(Spotify) de volledige URL van het huidige nummer dat wordt afgespeeld",
 		"spotify_queue": "(Spotify) de huidige wachtrij gescheiden door komma's",
 		"streakMonths": "Hoeveel maanden op rij de gebruiker is geabonneerd",
+		"streamer": "Jouw streamer-gebruikersnaam, automatisch geselecteerd van je eerste verbonden platform (Twitch → Kick → YouTube → Facebook → TikTok)",
 		"streamerbot_last_action": "(Streamerbot) Laatste actie die is geactiveerd",
 		"subMonths": "Hoeveel maanden is de gebruiker geabonneerd",
 		"subPlan": "Waarde abonnementsplan (1000, 2000, 3000)",
