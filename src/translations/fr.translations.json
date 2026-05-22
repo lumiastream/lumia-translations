@@ -1866,6 +1866,8 @@
 		"command-copied-to-clipboard": "Commande copiée dans le presse-papiers. Allez dans la section d'importation pour l'utiliser.",
 		"code-id": "ID du code",
 		"translate-message": "Traduire le message",
+		"pin-message": "Épingler le message",
+		"unpin-message": "Désépingler le message",
 		"ban": "Bannir",
 		"ban-user-description": "Êtes-vous sûr de vouloir bannir {{username}}?",
 		"ban-user-cleanup-description": "Supprimer définitivement les informations de {{username}} de la liste des événements, des profils de spectateurs et des points de fidélité ?",

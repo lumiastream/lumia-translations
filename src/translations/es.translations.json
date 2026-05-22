@@ -1866,6 +1866,8 @@
 		"command-copied-to-clipboard": "Comando copiado al portapapeles. Ve a la sección de importación para usarlo.",
 		"code-id": "ID de código",
 		"translate-message": "Traducir mensaje",
+		"pin-message": "Fijar mensaje",
+		"unpin-message": "Desfijar mensaje",
 		"ban": "Bloquear",
 		"ban-user-description": "¿Estás seguro de que quieres bloquear a {{username}}?",
 		"ban-user-cleanup-description": "¿Eliminar permanentemente la información de {{username}} de la Lista de eventos, Perfiles de espectadores y Puntos de fidelidad?",

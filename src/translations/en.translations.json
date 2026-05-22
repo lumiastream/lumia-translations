@@ -1878,6 +1878,8 @@
 		"command-copied-to-clipboard": "Command copied to clipboard. Go to the import section to use it.",
 		"code-id": "Code id",
 		"translate-message": "Translate message",
+		"pin-message": "Pin message",
+		"unpin-message": "Unpin message",
 		"lumia-assistant-chat-gpt": "Lumia Stream assistant ChatGPT",
 		"use-default-message": "Use default message",
 		"ban": "Ban",

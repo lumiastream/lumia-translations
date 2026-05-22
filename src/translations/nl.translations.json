@@ -1865,6 +1865,8 @@
 		"command-copied-to-clipboard": "Commando gekopieerd naar klembord. Ga naar het importgedeelte om het te gebruiken.",
 		"code-id": "Code-ID",
 		"translate-message": "Vertaal bericht",
+		"pin-message": "Bericht vastzetten",
+		"unpin-message": "Bericht losmaken",
 		"ban": "Bannen",
 		"ban-user-description": "Weet u zeker dat u {{username}} wilt verbannen?",
 		"ban-user-cleanup-description": "Wil je de gegevens van {{username}} permanent verwijderen uit de gebeurtenissenlijst, kijkersprofielen en loyaliteitspunten?",

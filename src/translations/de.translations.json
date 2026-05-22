@@ -1864,6 +1864,8 @@
 		"command-copied-to-clipboard": "Befehl wurde in die Zwischenablage kopiert. Gehe zum Importbereich, um ihn zu verwenden.",
 		"code-id": "Code-ID",
 		"translate-message": "Nachricht übersetzen",
+		"pin-message": "Nachricht anheften",
+		"unpin-message": "Anheftung aufheben",
 		"ban": "Sperren",
 		"ban-user-description": "Sind Sie sicher, dass Sie {{username}} sperren möchten?",
 		"ban-user-cleanup-description": "Möchten Sie die Informationen von {{username}} dauerhaft aus Ereignisliste, Zuschauerprofilen und Treuepunkten löschen?",

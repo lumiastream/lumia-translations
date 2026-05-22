@@ -1867,6 +1867,8 @@
 		"command-copied-to-clipboard": "Komut panoya kopyalandı. Kullanmak için içe aktarma bölümüne gidin.",
 		"code-id": "Kod kimliği",
 		"translate-message": "Mesajı çevir",
+		"pin-message": "Mesajı sabitle",
+		"unpin-message": "Mesaj sabitlemesini kaldır",
 		"ban": "Yasakla",
 		"ban-user-description": "{{username}} kullanıcısını yasaklamak istediğinize emin misiniz?",
 		"ban-user-cleanup-description": "{{username}} kullanıcısının bilgilerini Etkinlik Listesi, İzleyici Profilleri ve Sadakat Puanları'ndan kalıcı olarak silmek istiyor musunuz?",

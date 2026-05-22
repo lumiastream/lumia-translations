@@ -1867,6 +1867,8 @@
 		"command-copied-to-clipboard": "命令已复制到剪贴板。前往导入部分即可使用。",
 		"code-id": "代码 ID",
 		"translate-message": "翻译消息",
+		"pin-message": "置顶消息",
+		"unpin-message": "取消置顶消息",
 		"ban": "封禁",
 		"ban-user-description": "您确定要封禁 {{username}} 吗？",
 		"ban-user-cleanup-description": "是否要从事件列表、观众资料和忠诚度积分中永久删除 {{username}} 的信息？",

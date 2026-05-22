@@ -1870,6 +1870,8 @@
 		"command-copied-to-clipboard": "تم نسخ الأمر إلى الحافظة. انتقل إلى قسم الاستيراد لاستخدامه.",
 		"code-id": "معرّف الكود",
 		"translate-message": "ترجمة الرسالة",
+		"pin-message": "تثبيت الرسالة",
+		"unpin-message": "إلغاء تثبيت الرسالة",
 		"ban": "حظر",
 		"ban-user-description": "هل أنت متأكد أنك تريد حظر {{username}}؟",
 		"ban-user-cleanup-description": "هل تريد حذف معلومات {{username}} نهائيًا من قائمة الأحداث وملفات المشاهدين ونقاط الولاء؟",

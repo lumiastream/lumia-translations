@@ -1866,6 +1866,8 @@
 		"command-copied-to-clipboard": "Comando copiado para a área de transferência. Vá para a seção de importação para usá-lo.",
 		"code-id": "ID do código",
 		"translate-message": "Traduzir mensagem",
+		"pin-message": "Fixar mensagem",
+		"unpin-message": "Desafixar mensagem",
 		"ban": "Banir",
 		"ban-user-description": "Tem certeza de que deseja banir {{username}}?",
 		"ban-user-cleanup-description": "Excluir permanentemente as informações de {{username}} da Lista de Eventos, Perfis de Espectadores e Pontos de Fidelidade?",
