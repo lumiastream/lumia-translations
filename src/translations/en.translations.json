@@ -426,7 +426,7 @@
 		"having-issues-click-here": "Having issues? Click here",
 		"copy-auth-and-paste": "Copy auth link and paste it in your preferred browser url bar",
 		"enable-twitch-chatters-permission": "Enable Read Chatters for the Viewers widget in Twitch Connection. Head to Connections > Edit Twitch and select the Read Chatters for the Viewers widget",
-		"offline": "Offline — chat and alerts will be available once the stream is live",
+		"offline": "Offline. Chat and alerts will be available once the stream is live",
 		"target-port": "Target port"
 	},
 	"lumia": {
@@ -1810,7 +1810,7 @@
 		"suggested-icons": "Suggested icons",
 		"multiplier": "Multiplier",
 		"combo-modal-title": "Choose Winning Combination",
-		"combo-info": "Use the random icon to represent any symbol in any position. The position of each symbol is important—spinning the exact sequence is required to win!",
+		"combo-info": "Use the random icon to represent any symbol in any position. The position of each symbol is important. Spinning the exact sequence is required to win!",
 		"create-variation-from-combo": "Create variation from combo",
 		"event": "Event",
 		"shoutout-target": "Shoutout target",
@@ -4297,13 +4297,13 @@
 		"variations": "Alert Variations Are Locked",
 		"variations-upgrade": "Upgrade to premium to start customizing your alerts with variations",
 		"gift-subscription-monthly-redeem": "Redeemed as the Monthly plan coupon during checkout.",
-		"gift-subscription-monthly-selected-detail": "Short gift — perfect to try Lumia on a monthly plan.",
+		"gift-subscription-monthly-selected-detail": "Short gift, perfect to try Lumia on a monthly plan.",
 		"gift-subscription-semi-annual-redeem": "Redeemed as the Semi Annual plan coupon during checkout.",
 		"gift-subscription-semi-annual-selected-detail": "Half a year of access at a better per-month value.",
 		"gift-subscription-yearly-redeem": "Redeemed as the Annual plan coupon during checkout.",
-		"gift-subscription-yearly-selected-detail": "Our most popular gift — a full year of Lumia Stream.",
+		"gift-subscription-yearly-selected-detail": "Our most popular gift, a full year of Lumia Stream.",
 		"gift-subscription-lifetime-redeem": "Redeemed on the lifetime gift code page.",
-		"gift-subscription-lifetime-selected-detail": "One code, permanent access — redeemed on the lifetime page.",
+		"gift-subscription-lifetime-selected-detail": "One code, permanent access. Redeemed on the lifetime page.",
 		"gift-subscription-title": "Gift Subscription",
 		"gift-subscription-plan-monthly": "1 Month",
 		"gift-subscription-plan-semi-annual": "6 Months",
@@ -4356,7 +4356,7 @@
 		"webhook": "Webhook",
 		"webhook-upgrade": "Upgrade to premium to start using webhooks",
 		"create-voice": "Create voice is locked",
-		"create-voice-upgrade": "Create a fully trained AI voice from authentic samples, complete with custom imagery and profile details. Publish and showcase your voice model in the marketplace — available with Premium."
+		"create-voice-upgrade": "Create a fully trained AI voice from authentic samples, complete with custom imagery and profile details. Publish and showcase your voice model in the marketplace. Available with Premium."
 	},
 	"comparison": {
 		"streamdeck": "Stream Deck Control",

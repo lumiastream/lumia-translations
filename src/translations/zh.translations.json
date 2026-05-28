@@ -425,7 +425,7 @@
 		"having-issues-click-here": "遇到问题？点击这里",
 		"copy-auth-and-paste": "复制身份验证链接并粘贴到您首选的浏览器地址栏中",
 		"enable-twitch-chatters-permission": "在 Twitch 连接中为观众小部件启用“读取聊天者”。前往“连接”>“编辑 Twitch”并为观众小部件选择“读取聊天者”",
-		"offline": "离线 — 聊天和提醒将在直播开始后可用",
+		"offline": "离线。聊天和提醒将在直播开始后可用",
 		"target-port": "Target port"
 	},
 	"lumia": {
@@ -1801,7 +1801,7 @@
 		"suggested-icons": "建议图标",
 		"multiplier": "乘数",
 		"combo-modal-title": "选择获胜组合",
-		"combo-info": "使用随机图标表示任何位置的任何符号。每个符号的位置很重要——需要旋转出确切的序列才能获胜！",
+		"combo-info": "使用随机图标表示任何位置的任何符号。每个符号的位置很重要。需要旋转出确切的序列才能获胜！",
 		"create-variation-from-combo": "从组合创建变体",
 		"event": "事件",
 		"shoutout-target": "宣传目标",
@@ -3436,7 +3436,7 @@
 		"confirmation-revoke": "这将断开任何已登录的 Lumia 帐户。您确定要撤销访问吗？",
 		"confirmation-delete": "永久删除您的帐户是不可逆的。您确定要删除吗？",
 		"revoke-description": "通过撤销访问，您将有效断开当前登录到您的 Lumia Stream 帐户的所有设备",
-		"delete-account-description": "永久删除您的帐户，一切都将消失——配置文件、设置、叠加层...，不留任何痕迹",
+		"delete-account-description": "永久删除您的帐户，一切都将消失：配置文件、设置、叠加层...，不留任何痕迹",
 		"delete-error": "删除您的帐户时出错",
 		"delete-success": "您的帐户已成功删除，祝您拥有美好的一天 😢",
 		"revoke-error": "撤销访问时出错",

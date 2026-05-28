@@ -425,7 +425,7 @@
 		"having-issues-click-here": "Heeft u problemen? ",
 		"copy-auth-and-paste": "Kopieer de auth-link en plak deze in de URL-balk van uw voorkeursbrowser",
 		"enable-twitch-chatters-permission": "Schakel Lees Chatters in voor de Viewers-widget in Twitch Connection. ",
-		"offline": "Offline — chat en meldingen zijn beschikbaar zodra de stream live is",
+		"offline": "Offline. chat en meldingen zijn beschikbaar zodra de stream live is",
 		"target-port": "Target port"
 	},
 	"lumia": {
@@ -1750,7 +1750,7 @@
 		"suggested-icons": "Voorgestelde pictogrammen",
 		"multiplier": "Vermenigvuldiger",
 		"combo-modal-title": "Kies de winnende combinatie",
-		"combo-info": "Gebruik het willekeurige pictogram om elk symbool op een willekeurige positie weer te geven. De positie van elk symbool is belangrijk—om te winnen moet de exacte volgorde worden gedraaid!",
+		"combo-info": "Gebruik het willekeurige pictogram om elk symbool op een willekeurige positie weer te geven. De positie van elk symbool is belangrijk. om te winnen moet de exacte volgorde worden gedraaid!",
 		"create-variation-from-combo": "Maak een variatie van de combinatie",
 		"scratch": "Start from scratch",
 		"dynamicoptions": "Dynamic Options",

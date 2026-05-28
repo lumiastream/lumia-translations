@@ -425,7 +425,7 @@
 		"having-issues-click-here": "هل تواجه مشكلات؟ ",
 		"copy-auth-and-paste": "انسخ رابط المصادقة والصقه في شريط عنوان URL للمتصفح المفضل لديك",
 		"enable-twitch-chatters-permission": "تمكين قراءة المحادثات لأداة المشاهدين في Twitch Connect. ",
-		"offline": "Offline — chat and alerts will be available once the stream is live",
+		"offline": "Offline. Chat and alerts will be available once the stream is live",
 		"target-port": "Target port"
 	},
 	"lumia": {

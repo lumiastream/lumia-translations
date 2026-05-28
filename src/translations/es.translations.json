@@ -425,7 +425,7 @@
 		"having-issues-click-here": "¿Teniendo problemas? ",
 		"copy-auth-and-paste": "Copie el enlace de autenticación y péguelo en la barra de URL de su navegador preferido.",
 		"enable-twitch-chatters-permission": "Habilite Leer Chatters para el widget de espectadores en Twitch Connection. ",
-		"offline": "Desconectado — el chat y las alertas estarán disponibles cuando la transmisión esté en vivo",
+		"offline": "Desconectado. el chat y las alertas estarán disponibles cuando la transmisión esté en vivo",
 		"target-port": "Target port"
 	},
 	"lumia": {
@@ -1751,7 +1751,7 @@
 		"suggested-icons": "Íconos sugeridos",
 		"multiplier": "Multiplicador",
 		"combo-modal-title": "Elige la combinación ganadora",
-		"combo-info": "Usa el ícono aleatorio para representar cualquier símbolo en cualquier posición. La posición de cada símbolo es importante—¡se requiere girar la secuencia exacta para ganar!",
+		"combo-info": "Usa el ícono aleatorio para representar cualquier símbolo en cualquier posición. La posición de cada símbolo es importante. ¡se requiere girar la secuencia exacta para ganar!",
 		"create-variation-from-combo": "Crear una variación a partir de la combinación",
 		"scratch": "Start from scratch",
 		"dynamicoptions": "Dynamic Options",

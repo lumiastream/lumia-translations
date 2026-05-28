@@ -425,7 +425,7 @@
 		"having-issues-click-here": "Está tendo problemas? Clique aqui",
 		"copy-auth-and-paste": "Copie o link de autenticação e cole na barra de URL do seu navegador preferido",
 		"enable-twitch-chatters-permission": "Ativar 'Ler Chatters' para o widget de Visualizadores na Conexão Twitch. Vá para Conexões > Editar Twitch e selecione 'Ler Chatters' para o widget de Visualizadores",
-		"offline": "Offline — o chat e os alertas estarão disponíveis quando a transmissão estiver ao vivo",
+		"offline": "Offline. o chat e os alertas estarão disponíveis quando a transmissão estiver ao vivo",
 		"target-port": "Target port"
 	},
 	"lumia": {
@@ -1800,7 +1800,7 @@
 		"suggested-icons": "Ícones sugeridos",
 		"multiplier": "Multiplicador",
 		"combo-modal-title": "Escolher Combinação Vencedora",
-		"combo-info": "Use o ícone aleatório para representar qualquer símbolo em qualquer posição. A posição de cada símbolo é importante — girar a sequência exata é necessário para ganhar!",
+		"combo-info": "Use o ícone aleatório para representar qualquer símbolo em qualquer posição. A posição de cada símbolo é importante. girar a sequência exata é necessário para ganhar!",
 		"create-variation-from-combo": "Criar variação a partir do combo",
 		"event": "Evento",
 		"shoutout-target": "Alvo de destaque",
