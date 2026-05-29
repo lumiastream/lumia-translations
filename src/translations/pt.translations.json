@@ -2696,8 +2696,6 @@
 		"recent_raiders_amount": "Contagens de espectadores paralelas para raiders recentes",
 		"recent_cheers": "Lista separada por vírgulas de cheerers recentes",
 		"recent_cheers_amount": "Valores de bits paralelos para cheerers recentes",
-		"recent_cheer_purchases": "Lista separada por vírgulas de compradores de cheer recentes",
-		"recent_cheer_purchases_amount": "Valores de bits paralelos para compradores de cheer recentes",
 		"recent_tips": "Lista separada por vírgulas de doadores recentes",
 		"recent_tips_amount": "Valores de doação paralelos para doadores recentes",
 		"recent_superchats": "Lista separada por vírgulas de superchatters recentes",

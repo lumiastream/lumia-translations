@@ -2696,8 +2696,6 @@
 		"recent_raiders_amount": "最近 raiders 的并行观众数",
 		"recent_cheers": "最近 cheerers 的逗号分隔列表",
 		"recent_cheers_amount": "最近 cheerers 的并行 bits 数",
-		"recent_cheer_purchases": "最近 cheer 购买者的逗号分隔列表",
-		"recent_cheer_purchases_amount": "最近 cheer 购买者的并行 bits 数",
 		"recent_tips": "最近打赏者的逗号分隔列表",
 		"recent_tips_amount": "最近打赏者的并行打赏金额",
 		"recent_superchats": "最近 superchatters 的逗号分隔列表",

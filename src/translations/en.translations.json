@@ -2720,8 +2720,6 @@
 		"recent_raiders_amount": "Parallel comma-separated viewer counts for recent raiders",
 		"recent_cheers": "Comma-separated list of recent cheerers",
 		"recent_cheers_amount": "Parallel comma-separated bit amounts for recent cheerers",
-		"recent_cheer_purchases": "Comma-separated list of recent cheer-purchasers",
-		"recent_cheer_purchases_amount": "Parallel comma-separated bit amounts for recent cheer-purchasers",
 		"recent_tips": "Comma-separated list of recent tippers",
 		"recent_tips_amount": "Parallel comma-separated tip amounts for recent tippers",
 		"recent_superchats": "Comma-separated list of recent superchatters",
