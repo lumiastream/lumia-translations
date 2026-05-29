@@ -5211,7 +5211,22 @@
 		"storage-cache-clean": "Senkronize",
 		"open-storage-folder": "Depolama klasörünü aç",
 		"flush-now": "Şimdi diske kaydet",
-		"none": "Yok"
+		"none": "Yok",
+		"charity-totals": "Bağış kampanyası toplamları",
+		"confirm-merge": "\"{{source}}\" profili \"{{target}}\" içine birleştirilsin mi?",
+		"confirm-unmerge": "@{{username}} ({{platform}}) kendi izleyicisine ayrılsın mı? Birleştirilmiş tüm istatistikler mevcut izleyicide kalacak; ayrılan kayıt sıfırdan başlayacak.",
+		"delete-user": "Kullanıcıyı Sil",
+		"diamonds": "Elmaslar",
+		"error-cannot-merge-same-platform": "Aynı platformu içeren profiller birleştirilemez. Her platform için yalnızca bir kullanıcı adına izin verilir.",
+		"error-failed-to-merge": "İzleyici profilleri birleştirilemedi.",
+		"error-failed-to-unmerge": "İzleyici profili ayrılamadı.",
+		"jewels": "Mücevherler",
+		"linked-platforms": "{{count}} bağlı platform",
+		"merge-mode-hint": "Birleştirme modu etkin. {{target}} içine birleştirmek için başka bir izleyiciye tıklayın.",
+		"no-charity-totals": "Henüz bağış kampanyası toplamı yok.",
+		"stars": "Yıldızlar",
+		"unmerge-mode-hint": "Bağlı bir profili kendi izleyicisine ayırmak için yukarıdaki X işaretine tıklayın. Birincil platform ayrılamaz.",
+		"unmerge-success": "Hesap ayrıldı."
 	},
 	"modqueue": {
 		"search-placeholder": "Kullanıcı adı veya komuta göre ara ...",

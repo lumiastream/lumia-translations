@@ -5209,7 +5209,22 @@
 		"storage-cache-clean": "Sincronizado",
 		"open-storage-folder": "Abrir pasta de armazenamento",
 		"flush-now": "Salvar no disco agora",
-		"none": "Nenhum"
+		"none": "Nenhum",
+		"charity-totals": "Totais de caridade",
+		"confirm-merge": "Mesclar \"{{source}}\" em \"{{target}}\"?",
+		"confirm-unmerge": "Separar @{{username}} ({{platform}}) em um espectador próprio? Todas as estatísticas mescladas permanecerão com o espectador atual; a entrada separada começará do zero.",
+		"delete-user": "Excluir usuário",
+		"diamonds": "Diamantes",
+		"error-cannot-merge-same-platform": "Não é possível mesclar perfis que incluem a mesma plataforma. Apenas um nome de usuário por plataforma é permitido.",
+		"error-failed-to-merge": "Falha ao mesclar perfis de espectadores.",
+		"error-failed-to-unmerge": "Falha ao separar o perfil do espectador.",
+		"jewels": "Joias",
+		"linked-platforms": "{{count}} plataformas vinculadas",
+		"merge-mode-hint": "O modo de mesclagem está ativado. Clique em outro espectador para mesclar em {{target}}.",
+		"no-charity-totals": "Ainda não há totais de caridade.",
+		"stars": "Estrelas",
+		"unmerge-mode-hint": "Clique no X em um perfil vinculado acima para separá-lo em seu próprio espectador. A plataforma principal não pode ser separada.",
+		"unmerge-success": "Conta separada."
 	},
 	"modqueue": {
 		"search-placeholder": "Pesquisar por nome de usuário ou comando ...",

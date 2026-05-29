@@ -5201,7 +5201,22 @@
 		"storage-cache-clean": "متزامنة",
 		"open-storage-folder": "افتح مجلد التخزين",
 		"flush-now": "احفظ على القرص الآن",
-		"none": "لا شيء"
+		"none": "لا شيء",
+		"charity-totals": "إجماليات الأعمال الخيرية",
+		"confirm-merge": "دمج \"{{source}}\" في \"{{target}}\"؟",
+		"confirm-unmerge": "فصل @{{username}} ({{platform}}) إلى مشاهد مستقل؟ ستبقى كل الإحصاءات المدمجة مع المشاهد الحالي؛ وسيبدأ الإدخال المفصول من جديد.",
+		"delete-user": "حذف المستخدم",
+		"diamonds": "الماس",
+		"error-cannot-merge-same-platform": "لا يمكن دمج ملفات شخصية تتضمن المنصة نفسها. يُسمح باسم مستخدم واحد فقط لكل منصة.",
+		"error-failed-to-merge": "فشل دمج ملفات المشاهدين الشخصية.",
+		"error-failed-to-unmerge": "فشل فصل ملف المشاهد الشخصي.",
+		"jewels": "الجواهر",
+		"linked-platforms": "{{count}} منصات مرتبطة",
+		"merge-mode-hint": "وضع الدمج مفعّل. انقر على مشاهد آخر لدمجه في {{target}}.",
+		"no-charity-totals": "لا توجد إجماليات أعمال خيرية بعد.",
+		"stars": "النجوم",
+		"unmerge-mode-hint": "انقر على X في ملف مرتبط أعلاه لفصله إلى مشاهد مستقل. لا يمكن فصل المنصة الأساسية.",
+		"unmerge-success": "تم فصل الحساب."
 	},
 	"modqueue": {
 		"search-placeholder": "ابحث بواسطة اسم المستخدم أو الأمر ...",
