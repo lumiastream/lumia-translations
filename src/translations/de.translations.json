@@ -5291,7 +5291,22 @@
 		"storage-cache-clean": "Synchronisiert",
 		"open-storage-folder": "Speicherordner öffnen",
 		"flush-now": "Jetzt auf Festplatte schreiben",
-		"none": "Keine"
+		"none": "Keine",
+		"charity-totals": "Wohltätigkeitsbeträge",
+		"confirm-merge": "\"{{source}}\" in \"{{target}}\" zusammenführen?",
+		"confirm-unmerge": "@{{username}} ({{platform}}) als eigenen Zuschauer lösen? Alle zusammengeführten Statistiken bleiben beim aktuellen Zuschauer; der gelöste Eintrag beginnt neu.",
+		"delete-user": "Benutzer löschen",
+		"diamonds": "Diamanten",
+		"error-cannot-merge-same-platform": "Profile mit derselben Plattform können nicht zusammengeführt werden. Pro Plattform ist nur ein Benutzername erlaubt.",
+		"error-failed-to-merge": "Zuschauerprofile konnten nicht zusammengeführt werden.",
+		"error-failed-to-unmerge": "Zuschauerprofil konnte nicht gelöst werden.",
+		"jewels": "Juwelen",
+		"linked-platforms": "{{count}} verknüpfte Plattformen",
+		"merge-mode-hint": "Zusammenführungsmodus ist aktiviert. Klicke auf einen anderen Zuschauer, um ihn mit {{target}} zusammenzuführen.",
+		"no-charity-totals": "Noch keine Wohltätigkeitsbeträge.",
+		"stars": "Sterne",
+		"unmerge-mode-hint": "Klicke oben auf das X bei einem verknüpften Profil, um es als eigenen Zuschauer zu lösen. Die primäre Plattform kann nicht gelöst werden.",
+		"unmerge-success": "Konto gelöst."
 	},
 	"modqueue": {
 		"search-placeholder": "Suche nach Benutzername oder Befehl ...",

@@ -5321,7 +5321,22 @@
 		"storage-cache-clean": "Synced",
 		"open-storage-folder": "Open storage folder",
 		"flush-now": "Flush to disk now",
-		"none": "None"
+		"none": "None",
+		"charity-totals": "Charity totals",
+		"confirm-merge": "Merge \"{{source}}\" into \"{{target}}\"?",
+		"confirm-unmerge": "Detach @{{username}} ({{platform}}) into its own viewer? All merged stats will stay with the current viewer; the detached entry will start fresh.",
+		"delete-user": "Delete User",
+		"diamonds": "Diamonds",
+		"error-cannot-merge-same-platform": "Cannot merge profiles that include the same platform. Only one username per platform is allowed.",
+		"error-failed-to-merge": "Failed to merge viewer profiles.",
+		"error-failed-to-unmerge": "Failed to unmerge viewer profile.",
+		"jewels": "Jewels",
+		"linked-platforms": "{{count}} linked platforms",
+		"merge-mode-hint": "Merge mode is enabled. Click another viewer to merge into {{target}}.",
+		"no-charity-totals": "No charity totals yet.",
+		"stars": "Stars",
+		"unmerge-mode-hint": "Click the X on a linked profile above to detach it into its own viewer. The primary platform cannot be detached.",
+		"unmerge-success": "Account unmerged."
 	},
 	"modqueue": {
 		"search-placeholder": "Search by username or command ...",

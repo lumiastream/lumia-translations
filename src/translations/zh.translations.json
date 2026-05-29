@@ -5292,7 +5292,22 @@
 		"storage-cache-clean": "已同步",
 		"open-storage-folder": "打开存储文件夹",
 		"flush-now": "立即保存到磁盘",
-		"none": "无"
+		"none": "无",
+		"charity-totals": "慈善总计",
+		"confirm-merge": "将“{{source}}”合并到“{{target}}”？",
+		"confirm-unmerge": "将 @{{username}}（{{platform}}）分离为单独的观众吗？所有已合并统计将保留在当前观众中；分离的条目将重新开始。",
+		"delete-user": "删除用户",
+		"diamonds": "钻石",
+		"error-cannot-merge-same-platform": "无法合并包含相同平台的个人资料。每个平台只允许一个用户名。",
+		"error-failed-to-merge": "合并观众资料失败。",
+		"error-failed-to-unmerge": "分离观众资料失败。",
+		"jewels": "宝石",
+		"linked-platforms": "{{count}} 个已关联平台",
+		"merge-mode-hint": "合并模式已启用。点击另一个观众以合并到 {{target}}。",
+		"no-charity-totals": "暂无慈善总计。",
+		"stars": "星星",
+		"unmerge-mode-hint": "点击上方已关联资料上的 X，将其分离为单独的观众。主平台无法分离。",
+		"unmerge-success": "账号已分离。"
 	},
 	"modqueue": {
 		"search-placeholder": "按用户名或指令搜索 ...",

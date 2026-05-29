@@ -5294,7 +5294,22 @@
 		"storage-cache-clean": "Synkad",
 		"open-storage-folder": "Öppna lagringsmapp",
 		"flush-now": "Spara till disk nu",
-		"none": "Ingen"
+		"none": "Ingen",
+		"charity-totals": "Välgörenhetssummor",
+		"confirm-merge": "Slå ihop \"{{source}}\" med \"{{target}}\"?",
+		"confirm-unmerge": "Koppla loss @{{username}} ({{platform}}) till en egen tittare? All sammanslagen statistik stannar hos den nuvarande tittaren; den lossade posten börjar om från början.",
+		"delete-user": "Ta bort användare",
+		"diamonds": "Diamanter",
+		"error-cannot-merge-same-platform": "Det går inte att slå ihop profiler som innehåller samma plattform. Endast ett användarnamn per plattform är tillåtet.",
+		"error-failed-to-merge": "Det gick inte att slå ihop tittarprofiler.",
+		"error-failed-to-unmerge": "Det gick inte att koppla loss tittarprofilen.",
+		"jewels": "Juveler",
+		"linked-platforms": "{{count}} länkade plattformar",
+		"merge-mode-hint": "Sammanslagningsläget är aktiverat. Klicka på en annan tittare för att slå ihop den med {{target}}.",
+		"no-charity-totals": "Inga välgörenhetssummor ännu.",
+		"stars": "Stjärnor",
+		"unmerge-mode-hint": "Klicka på X på en länkad profil ovan för att koppla loss den till en egen tittare. Den primära plattformen kan inte kopplas loss.",
+		"unmerge-success": "Kontot har kopplats loss."
 	},
 	"modqueue": {
 		"search-placeholder": "Sök efter användarnamn eller kommando ...",

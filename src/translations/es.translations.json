@@ -5292,7 +5292,22 @@
 		"storage-cache-clean": "Sincronizada",
 		"open-storage-folder": "Abrir carpeta de almacenamiento",
 		"flush-now": "Guardar en disco ahora",
-		"none": "Ninguno"
+		"none": "Ninguno",
+		"charity-totals": "Totales de caridad",
+		"confirm-merge": "¿Fusionar \"{{source}}\" con \"{{target}}\"?",
+		"confirm-unmerge": "¿Separar @{{username}} ({{platform}}) en su propio espectador? Todas las estadísticas fusionadas permanecerán con el espectador actual; la entrada separada empezará de cero.",
+		"delete-user": "Eliminar usuario",
+		"diamonds": "Diamantes",
+		"error-cannot-merge-same-platform": "No se pueden fusionar perfiles que incluyen la misma plataforma. Solo se permite un nombre de usuario por plataforma.",
+		"error-failed-to-merge": "No se pudieron fusionar los perfiles de espectadores.",
+		"error-failed-to-unmerge": "No se pudo separar el perfil del espectador.",
+		"jewels": "Joyas",
+		"linked-platforms": "{{count}} plataformas vinculadas",
+		"merge-mode-hint": "El modo de fusión está activado. Haz clic en otro espectador para fusionarlo con {{target}}.",
+		"no-charity-totals": "Aún no hay totales de caridad.",
+		"stars": "Estrellas",
+		"unmerge-mode-hint": "Haz clic en la X de un perfil vinculado de arriba para separarlo en su propio espectador. La plataforma principal no se puede separar.",
+		"unmerge-success": "Cuenta separada."
 	},
 	"modqueue": {
 		"search-placeholder": "Buscar por nombre de usuario o comando ...",
