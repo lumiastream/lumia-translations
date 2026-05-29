@@ -5209,7 +5209,22 @@
 		"storage-cache-clean": "Gesynchroniseerd",
 		"open-storage-folder": "Opslagmap openen",
 		"flush-now": "Nu naar schijf schrijven",
-		"none": "Geen"
+		"none": "Geen",
+		"charity-totals": "Goede doelen-totalen",
+		"confirm-merge": "\"{{source}}\" samenvoegen met \"{{target}}\"?",
+		"confirm-unmerge": "@{{username}} ({{platform}}) loskoppelen naar een eigen kijker? Alle samengevoegde statistieken blijven bij de huidige kijker; de losgekoppelde vermelding begint opnieuw.",
+		"delete-user": "Gebruiker verwijderen",
+		"diamonds": "Diamanten",
+		"error-cannot-merge-same-platform": "Kan profielen met hetzelfde platform niet samenvoegen. Er is slechts één gebruikersnaam per platform toegestaan.",
+		"error-failed-to-merge": "Kijkerprofielen samenvoegen is mislukt.",
+		"error-failed-to-unmerge": "Kijkerprofiel loskoppelen is mislukt.",
+		"jewels": "Juwelen",
+		"linked-platforms": "{{count}} gekoppelde platforms",
+		"merge-mode-hint": "Samenvoegmodus is ingeschakeld. Klik op een andere kijker om deze samen te voegen met {{target}}.",
+		"no-charity-totals": "Nog geen goede doelen-totalen.",
+		"stars": "Sterren",
+		"unmerge-mode-hint": "Klik hierboven op de X van een gekoppeld profiel om het los te koppelen naar een eigen kijker. Het primaire platform kan niet worden losgekoppeld.",
+		"unmerge-success": "Account losgekoppeld."
 	},
 	"modqueue": {
 		"search-placeholder": "Zoek op gebruikersnaam of commando ...",
