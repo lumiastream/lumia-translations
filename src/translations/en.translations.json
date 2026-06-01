@@ -3029,6 +3029,8 @@
 		"slotsWinner": "Slots Winner",
 		"firstChatter": "First Chatter",
 		"entrance": "Entrance",
+		"firstChatter-reset-info": "First Chatter resets at the start of each new stream and whenever your session resets (Settings > Session). After a reset, the next person to chat becomes the new first chatter.",
+		"entrance-reset-info": "Entrance resets at the start of each new stream and whenever your session resets (Settings > Session). After a reset, each viewer can trigger their entrance again the first time they chat.",
 		"hypetrainStarted": "Hype Train Started",
 		"hypetrainProgressed": "Hype Train Progressed",
 		"hypetrainLevelProgressed": "Hype Train Level Progressed",
