@@ -3239,6 +3239,7 @@
 		"device-ip-has-changed": "En av dina {{type}} enhetens IP-adress har ändrats. "
 	},
 	"connections": {
+		"show-suggestions": "Visa förslag",
 		"platforms": "Plattformar",
 		"streaming-services": "Streamingtjänster",
 		"extended-services": "Utökade tjänster",

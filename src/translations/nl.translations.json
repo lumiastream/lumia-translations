@@ -3237,6 +3237,7 @@
 		"device-ip-has-changed": "Een van jouw {{type}} het IP-adres van het apparaat is gewijzigd. "
 	},
 	"connections": {
+		"show-suggestions": "Suggesties tonen",
 		"platforms": "Platformen",
 		"streaming-services": "Streamingdiensten",
 		"extended-services": "Uitgebreide diensten",

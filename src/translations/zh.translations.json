@@ -3237,6 +3237,7 @@
 		"device-ip-has-changed": "您的 {{type}} 设备的 IP 地址已更改。请按“刷新更改”以便 Lumia 使用新的 IP 地址"
 	},
 	"connections": {
+		"show-suggestions": "显示建议",
 		"platforms": "平台",
 		"streaming-services": "直播服务",
 		"extended-services": "扩展服务",

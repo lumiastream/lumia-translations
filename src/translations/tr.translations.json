@@ -3239,6 +3239,7 @@
 		"device-ip-has-changed": "Senin bir tanesi {{type}} cihazın IP adresi değişti. "
 	},
 	"connections": {
+		"show-suggestions": "Önerileri göster",
 		"platforms": "Platformlar",
 		"streaming-services": "Akış Hizmetleri",
 		"extended-services": "Genişletilmiş Hizmetler",

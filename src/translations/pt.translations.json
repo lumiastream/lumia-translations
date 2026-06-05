@@ -3237,6 +3237,7 @@
 		"device-ip-has-changed": "O endereço IP de um dos seus dispositivos {{type}} mudou. Pressione 'Atualizar alterações' para que o Lumia use o novo endereço IP"
 	},
 	"connections": {
+		"show-suggestions": "Mostrar sugestões",
 		"platforms": "Plataformas",
 		"streaming-services": "Serviços de Streaming",
 		"extended-services": "Serviços Estendidos",
