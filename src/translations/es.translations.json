@@ -2264,6 +2264,8 @@
 		"sendColorToLight": "Envía un color ignorando completamente la cola de espera a un conjunto de luces.",
 		"sendPower": "Envía energía a un conjunto de luces.",
 		"session_donation_amount": "Tip de sesión",
+		"session_money_amount": "Dinero de la sesión (todas las fuentes)",
+		"total_money_amount": "Dinero total (todas las fuentes)",
 		"session_donation_amount_currency": "Moneda de propina de sesión",
 		"session_donation_amount_currency_symbol": "Símbolo de moneda de propina de sesión",
 		"session_donation_count": "Recuento de propinas de sesión",

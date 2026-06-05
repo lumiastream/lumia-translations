@@ -2262,6 +2262,8 @@
 		"sendColorToLight": "Stuurt een kleur die de wachtrij volledig negeert naar een reeks lichten",
 		"sendPower": "Stuurt stroom naar een set lampen",
 		"session_donation_amount": "Sessietip",
+		"session_money_amount": "Sessiegeld (alle bronnen)",
+		"total_money_amount": "Totaal geld (alle bronnen)",
 		"session_donation_amount_currency": "Valuta van de sessiefooi",
 		"session_donation_amount_currency_symbol": "Valutasymbool voor sessietip",
 		"session_donation_count": "Aantal sessiefooien",

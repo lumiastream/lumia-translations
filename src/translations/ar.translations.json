@@ -2255,6 +2255,8 @@
 		"sendColorToLight": "يرسل لونًا متجاهلاً قائمة الانتظار تمامًا إلى مجموعة من الأضواء",
 		"sendPower": "يرسل الطاقة إلى مجموعة من الأضواء",
 		"session_donation_amount": "نصيحة الجلسة",
+		"session_money_amount": "أموال الجلسة (جميع المصادر)",
+		"total_money_amount": "مجموع الأموال (جميع المصادر)",
 		"session_donation_amount_currency": "عملة نصيحة الجلسة",
 		"session_donation_amount_currency_symbol": "رمز عملة نصيحة الجلسة",
 		"session_donation_count": "عدد نصائح الجلسة",

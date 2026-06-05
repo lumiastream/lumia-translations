@@ -2290,6 +2290,8 @@
 		"sendColorToLight": "Sırayı tamamen yok sayan bir rengi bir dizi ışığa gönderir",
 		"sendPower": "Bir dizi ışığa güç gönderir",
 		"session_donation_amount": "Oturum ipucu",
+		"session_money_amount": "Oturum parası (tüm kaynaklar)",
+		"total_money_amount": "Toplam para (tüm kaynaklar)",
 		"session_donation_amount_currency": "Oturum ipucu para birimi",
 		"session_donation_amount_currency_symbol": "Oturum ipucu para birimi simgesi",
 		"session_donation_count": "Oturum ipucu sayısı",

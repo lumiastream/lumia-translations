@@ -2290,6 +2290,8 @@
 		"sendColorToLight": "Envia uma cor ignorando completamente a fila para um conjunto de luzes",
 		"sendPower": "Envia energia para um conjunto de luzes",
 		"session_donation_amount": "Gorjeta da sessão",
+		"session_money_amount": "Dinheiro da sessão (todas as fontes)",
+		"total_money_amount": "Dinheiro total (todas as fontes)",
 		"session_donation_amount_currency": "Moeda da gorjeta da sessão",
 		"session_donation_amount_currency_symbol": "Símbolo da moeda da gorjeta da sessão",
 		"session_donation_count": "Contagem de gorjetas da sessão",

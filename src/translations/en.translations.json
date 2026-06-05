@@ -2382,6 +2382,8 @@
 		"sendColorToLight": "Sends a color ignoring the queue completely to a set of lights",
 		"sendPower": "Sends power to a set of lights",
 		"session_donation_amount": "Session tip",
+		"session_money_amount": "Session money (all sources)",
+		"total_money_amount": "Total money (all sources)",
 		"session_donation_amount_currency": "Session tip currency",
 		"session_donation_amount_currency_symbol": "Session tip currency symbol",
 		"session_donation_count": "Session tip count",

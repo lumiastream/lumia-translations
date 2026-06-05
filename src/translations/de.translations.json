@@ -2263,6 +2263,8 @@
 		"sendColorToLight": "Sendet eine Farbe, die die Warteschlange vollständig ignoriert, an eine Reihe von Lichtern",
 		"sendPower": "Sendet Strom an eine Reihe von Lichtern",
 		"session_donation_amount": "Sitzungstipp",
+		"session_money_amount": "Sitzungseinnahmen (alle Quellen)",
+		"total_money_amount": "Gesamteinnahmen (alle Quellen)",
 		"session_donation_amount_currency": "Trinkgeldwährung für die Sitzung",
 		"session_donation_amount_currency_symbol": "Währungssymbol für Sitzungstipps",
 		"session_donation_count": "Anzahl der Sitzungstipps",

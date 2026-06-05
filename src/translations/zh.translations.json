@@ -2290,6 +2290,8 @@
 		"sendColorToLight": "完全忽略队列向一组灯发送颜色",
 		"sendPower": "向一组灯发送电源",
 		"session_donation_amount": "会话小费",
+		"session_money_amount": "会话收入（所有来源）",
+		"total_money_amount": "总收入（所有来源）",
 		"session_donation_amount_currency": "会话小费货币",
 		"session_donation_amount_currency_symbol": "会话小费货币符号",
 		"session_donation_count": "会话小费计数",

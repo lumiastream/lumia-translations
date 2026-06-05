@@ -2265,6 +2265,8 @@
 		"sendColorToLight": "Envoie une couleur ignorant complètement la file d'attente à un ensemble de lumières",
 		"sendPower": "Envoie de l'énergie à un ensemble de lumières",
 		"session_donation_amount": "Conseil de séance",
+		"session_money_amount": "Argent de la session (toutes les sources)",
+		"total_money_amount": "Argent total (toutes les sources)",
 		"session_donation_amount_currency": "Devise des conseils de session",
 		"session_donation_amount_currency_symbol": "Symbole monétaire du conseil de session",
 		"session_donation_count": "Nombre de conseils de session",

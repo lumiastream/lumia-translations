@@ -2263,6 +2263,8 @@
 		"sendColorToLight": "Skickar en färg som ignorerar kön helt till en uppsättning lampor",
 		"sendPower": "Skickar ström till en uppsättning lampor",
 		"session_donation_amount": "Sessionstips",
+		"session_money_amount": "Sessionspengar (alla källor)",
+		"total_money_amount": "Totala pengar (alla källor)",
 		"session_donation_amount_currency": "Valuta för sessionstips",
 		"session_donation_amount_currency_symbol": "Valutasymbol för sessionstips",
 		"session_donation_count": "Antal sessionstips",
