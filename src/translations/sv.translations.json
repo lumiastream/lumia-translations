@@ -2035,7 +2035,12 @@
 		"selected-activity-timing-match-duration": "{{itemName}} körs i {{duration}}. Vill du ställa in kommandots varaktighet så att den matchar?",
 		"use-item-duration": "Använd objektets varaktighet",
 		"linked": "Länkad",
-		"delete-linked-warning": "Det här kommandot är länkat till {{num}} indatakoppling(ar). Om du tar bort det slutar de inmatningarna att fungera."
+		"delete-linked-warning": "Det här kommandot är länkat till {{num}} indatakoppling(ar). Om du tar bort det slutar de inmatningarna att fungera.",
+		"account-age-unavailable": "Account age is only available on Twitch",
+		"toggle-automation-usage": "Usage: !timer enable|disable <automation name>",
+		"toggle-automation-not-found": "No automation named \"{{name}}\" was found",
+		"toggle-automation-enabled": "Automation \"{{name}}\" enabled",
+		"toggle-automation-disabled": "Automation \"{{name}}\" disabled"
 	},
 	"variables": {
 		"action": "Åtgärdsnamn",
@@ -3744,7 +3749,9 @@
 		"user-entered-tournament": "Användaren gick med i turneringen",
 		"user-removed-tournament": "Användaren togs bort från turneringen",
 		"tournament": "Turnering",
-		"user-entered-tournament-default-team": "Användaren gick med i turneringen utan att välja ett lag"
+		"user-entered-tournament-default-team": "Användaren gick med i turneringen utan att välja ett lag",
+		"linked-accounts-synced": "Synced with connections",
+		"sync-with-connections": "Sync with connections"
 	},
 	"billing": {
 		"card": "Kort",

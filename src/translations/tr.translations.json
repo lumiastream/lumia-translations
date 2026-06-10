@@ -2035,7 +2035,12 @@
 		"selected-activity-timing-match-duration": "{{itemName}} {{duration}} sürer. Komut süresini buna uyacak şekilde ayarlamak ister misiniz?",
 		"use-item-duration": "Öğe süresini kullan",
 		"linked": "Bağlantılı",
-		"delete-linked-warning": "Bu komut {{num}} giriş bağlantısına bağlı. Silerseniz bu girişler artık tetiklenmez."
+		"delete-linked-warning": "Bu komut {{num}} giriş bağlantısına bağlı. Silerseniz bu girişler artık tetiklenmez.",
+		"account-age-unavailable": "Account age is only available on Twitch",
+		"toggle-automation-usage": "Usage: !timer enable|disable <automation name>",
+		"toggle-automation-not-found": "No automation named \"{{name}}\" was found",
+		"toggle-automation-enabled": "Automation \"{{name}}\" enabled",
+		"toggle-automation-disabled": "Automation \"{{name}}\" disabled"
 	},
 	"variables": {
 		"action": "İşlem adı",
@@ -3744,7 +3749,9 @@
 		"user-entered-tournament": "Kullanıcı turnuvaya katıldı",
 		"user-removed-tournament": "Kullanıcı turnuvadan çıkarıldı",
 		"tournament": "Turnuva",
-		"user-entered-tournament-default-team": "Kullanıcı takım seçmeden turnuvaya katıldı"
+		"user-entered-tournament-default-team": "Kullanıcı takım seçmeden turnuvaya katıldı",
+		"linked-accounts-synced": "Synced with connections",
+		"sync-with-connections": "Sync with connections"
 	},
 	"billing": {
 		"card": "Kart",

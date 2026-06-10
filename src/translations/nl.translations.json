@@ -2035,7 +2035,12 @@
 		"selected-activity-timing-match-duration": "{{itemName}} duurt {{duration}}. Wil je de opdrachtduur hierop afstemmen?",
 		"use-item-duration": "Itemduur gebruiken",
 		"linked": "Gekoppeld",
-		"delete-linked-warning": "Deze opdracht is gekoppeld aan {{num}} invoerkoppeling(en). Als je deze verwijdert, werken die invoeren niet meer."
+		"delete-linked-warning": "Deze opdracht is gekoppeld aan {{num}} invoerkoppeling(en). Als je deze verwijdert, werken die invoeren niet meer.",
+		"account-age-unavailable": "Account age is only available on Twitch",
+		"toggle-automation-usage": "Usage: !timer enable|disable <automation name>",
+		"toggle-automation-not-found": "No automation named \"{{name}}\" was found",
+		"toggle-automation-enabled": "Automation \"{{name}}\" enabled",
+		"toggle-automation-disabled": "Automation \"{{name}}\" disabled"
 	},
 	"variables": {
 		"action": "Naam van actie",
@@ -3742,7 +3747,9 @@
 		"user-entered-tournament": "Gebruiker is aan het toernooi toegevoegd",
 		"user-removed-tournament": "Gebruiker is uit het toernooi verwijderd",
 		"tournament": "Toernooi",
-		"user-entered-tournament-default-team": "Gebruiker is aan het toernooi toegevoegd zonder een team te kiezen"
+		"user-entered-tournament-default-team": "Gebruiker is aan het toernooi toegevoegd zonder een team te kiezen",
+		"linked-accounts-synced": "Synced with connections",
+		"sync-with-connections": "Sync with connections"
 	},
 	"billing": {
 		"card": "Kaart",

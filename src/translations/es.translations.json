@@ -2035,7 +2035,12 @@
 		"selected-activity-timing-match-duration": "{{itemName}} dura {{duration}}. ¿Quieres ajustar la duración del comando para que coincida?",
 		"use-item-duration": "Usar duración del elemento",
 		"linked": "Vinculado",
-		"delete-linked-warning": "Este comando está vinculado a {{num}} vinculación(es) de entrada. Si lo eliminas, esas entradas dejarán de funcionar."
+		"delete-linked-warning": "Este comando está vinculado a {{num}} vinculación(es) de entrada. Si lo eliminas, esas entradas dejarán de funcionar.",
+		"account-age-unavailable": "Account age is only available on Twitch",
+		"toggle-automation-usage": "Usage: !timer enable|disable <automation name>",
+		"toggle-automation-not-found": "No automation named \"{{name}}\" was found",
+		"toggle-automation-enabled": "Automation \"{{name}}\" enabled",
+		"toggle-automation-disabled": "Automation \"{{name}}\" disabled"
 	},
 	"variables": {
 		"action": "Nombre de la acción",
@@ -3742,7 +3747,9 @@
 		"user-entered-tournament": "El usuario se unió al torneo",
 		"user-removed-tournament": "Se eliminó al usuario del torneo",
 		"tournament": "Torneo",
-		"user-entered-tournament-default-team": "El usuario se unió al torneo sin elegir un equipo"
+		"user-entered-tournament-default-team": "El usuario se unió al torneo sin elegir un equipo",
+		"linked-accounts-synced": "Synced with connections",
+		"sync-with-connections": "Sync with connections"
 	},
 	"billing": {
 		"card": "Tarjeta",

@@ -2025,7 +2025,12 @@
 		"selected-activity-timing-match-duration": "يعمل {{itemName}} لمدة {{duration}}. هل تريد ضبط مدة الأمر لتطابقه؟",
 		"use-item-duration": "استخدام مدة العنصر",
 		"linked": "مرتبط",
-		"delete-linked-warning": "هذا الأمر مرتبط بـ {{num}} ارتباط إدخال. سيؤدي حذفه إلى توقف هذه المدخلات عن العمل."
+		"delete-linked-warning": "هذا الأمر مرتبط بـ {{num}} ارتباط إدخال. سيؤدي حذفه إلى توقف هذه المدخلات عن العمل.",
+		"account-age-unavailable": "Account age is only available on Twitch",
+		"toggle-automation-usage": "Usage: !timer enable|disable <automation name>",
+		"toggle-automation-not-found": "No automation named \"{{name}}\" was found",
+		"toggle-automation-enabled": "Automation \"{{name}}\" enabled",
+		"toggle-automation-disabled": "Automation \"{{name}}\" disabled"
 	},
 	"variables": {
 		"action": "اسم الفعل",
@@ -3734,7 +3739,9 @@
 		"user-entered-tournament": "انضم المستخدم إلى البطولة",
 		"user-removed-tournament": "تمت إزالة المستخدم من البطولة",
 		"tournament": "البطولة",
-		"user-entered-tournament-default-team": "تمت إضافة المستخدم إلى البطولة بدون اختيار فريق"
+		"user-entered-tournament-default-team": "تمت إضافة المستخدم إلى البطولة بدون اختيار فريق",
+		"linked-accounts-synced": "Synced with connections",
+		"sync-with-connections": "Sync with connections"
 	},
 	"billing": {
 		"card": "بطاقة",
