@@ -5127,6 +5127,7 @@
 		"chatbox-send-as-self": "Tú mismo",
 		"chatbox-send-as-bot": "Chatbot",
 		"chat-messages-does-not-work-on-platform": "Actualmente no puedes enviar mensajes de chat usando {{platform}}",
+		"streamStatus": "Stream Status",
 		"twitchViewers": "Espectadores de Twitch",
 		"viewers": "Espectadores",
 		"viewers-count": "Espectadores ({{count}}) - Actualizaciones cada 90 segundos",

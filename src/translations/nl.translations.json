@@ -5127,6 +5127,7 @@
 		"chatbox-send-as-self": "Jezelf",
 		"chatbox-send-as-bot": "Chatbot",
 		"chat-messages-does-not-work-on-platform": "U kunt momenteel geen chatberichten verzenden via {{platform}}",
+		"streamStatus": "Stream Status",
 		"twitchViewers": "Twitch-kijkers",
 		"viewers": "Kijkers",
 		"viewers-count": "Kijkers ({{count}}) - Wordt elke 90 seconden bijgewerkt",

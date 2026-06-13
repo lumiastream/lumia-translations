@@ -5115,6 +5115,7 @@
 		"add-widgets-desc": "الرجاء إضافة المزيد من الأدوات إلى لوحة القيادة",
 		"chatbox": "صندوق الدردشه",
 		"chat-messages-does-not-work-on-platform": "لا يمكنك حاليا إرسال رسائل الدردشة باستخدام {{platform}}",
+		"streamStatus": "Stream Status",
 		"twitchViewers": "مشاهدين تويتش",
 		"viewers": "المشاهدين",
 		"viewers-count": "المشاهدون ({{count}}) - التحديثات كل 90 ثانية",

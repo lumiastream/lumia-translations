@@ -5125,6 +5125,7 @@
 		"add-widgets-desc": "Lägg till fler widgets till instrumentpanelen",
 		"chatbox": "Chatbox",
 		"chat-messages-does-not-work-on-platform": "Du kan för närvarande inte skicka chattmeddelanden med {{platform}}",
+		"streamStatus": "Stream Status",
 		"twitchViewers": "Twitch-tittare",
 		"viewers": "Tittare",
 		"viewers-count": "Tittare ({{count}}) - Uppdateras var 90:e sekund",

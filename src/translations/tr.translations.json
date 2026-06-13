@@ -5136,6 +5136,7 @@
 		"add-widgets-desc": "Lütfen kontrol paneline daha fazla widget ekleyin",
 		"chatbox": "Sohbet kutusu",
 		"chat-messages-does-not-work-on-platform": "Şu anda kullanarak sohbet mesajları gönderemezsiniz. {{platform}}",
+		"streamStatus": "Stream Status",
 		"twitchViewers": "Twitch İzleyicileri",
 		"viewers": "İzleyiciler",
 		"viewers-count": "İzleyiciler ({{count}}) - Her 90 saniyede bir güncellenir",

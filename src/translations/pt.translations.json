@@ -5134,6 +5134,7 @@
 		"add-widgets-desc": "Adicione mais widgets ao painel",
 		"chatbox": "Chatbox",
 		"chat-messages-does-not-work-on-platform": "Atualmente você não pode enviar mensagens de bate -papo usando {{platform}}",
+		"streamStatus": "Stream Status",
 		"twitchViewers": "Timbres espectadores",
 		"viewers": "!!!>>> Failed to fetch <<<!!!",
 		"viewers-count": "Espectadores ({{count}}) - Atualizações a cada 90 segundos",

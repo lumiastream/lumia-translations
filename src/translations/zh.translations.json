@@ -5134,6 +5134,7 @@
 		"add-widgets-desc": "请向仪表盘添加更多小部件",
 		"chatbox": "聊天框",
 		"chat-messages-does-not-work-on-platform": "您目前无法使用 {{platform}} 发送聊天消息",
+		"streamStatus": "Stream Status",
 		"twitchViewers": "Twitch 观众",
 		"viewers": "观众",
 		"viewers-count": "观众 ({{count}}) - 每 90 秒更新一次",
