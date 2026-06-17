@@ -3524,7 +3524,7 @@
 		"audio-select": "Wählen Sie Audio",
 		"error-starting": "Fehler beim Starten von Fuze. Bitte ändern Sie Ihren Audioausgang/Video und versuchen Sie es erneut",
 		"error-grabbing-audio-output": "Der richtige Audioausgang konnte nicht abgerufen werden. Gehen Sie bitte zu den Einstellungen und wählen Sie Ihren Audioausgang erneut aus",
-		"error-grabbing-audio": "Der richtige Audioeingang konnte nicht erfasst werden. Gehen Sie bitte zu Studio > Fuze und wählen Sie Ihr Audio erneut aus",
+		"error-grabbing-audio": "Der richtige Audioeingang konnte nicht erfasst werden. Gehen Sie bitte zu Creator > Fuze und wählen Sie Ihr Audio erneut aus",
 		"error-grabbing-audio-input": "Der richtige Audioeingang konnte nicht abgerufen werden. Gehen Sie bitte zu den Einstellungen und wählen Sie Ihren Audioeingang erneut aus",
 		"color-precision": "Video-Farbpräzision",
 		"video-brightness": "Helligkeits Kontrolle",

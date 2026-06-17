@@ -3527,7 +3527,7 @@
 		"audio-select": "Välj Ljud",
 		"error-starting": "Det gick inte att starta tändröret, ändra din ljudutgång/video och försök igen",
 		"error-grabbing-audio-output": "Det gick inte att få tag i rätt ljudutgång, gå till inställningarna och välj din ljudutgång igen",
-		"error-grabbing-audio": "Det gick inte att ta rätt ljudingång, gå till Studio > Fuze och välj ditt ljud igen",
+		"error-grabbing-audio": "Det gick inte att ta rätt ljudingång, gå till Creator > Fuze och välj ditt ljud igen",
 		"error-grabbing-audio-input": "Det gick inte att ta rätt ljudingång, gå till inställningarna och välj din ljudingång igen",
 		"color-precision": "Video färgprecision",
 		"video-brightness": "Ljusstyrka kontroll",

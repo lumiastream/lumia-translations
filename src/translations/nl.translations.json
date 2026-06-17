@@ -3525,7 +3525,7 @@
 		"audio-select": "Selecteer Audio",
 		"error-starting": "Fout bij het starten van Fuze. Wijzig uw audio-uitvoer/video en probeer het opnieuw",
 		"error-grabbing-audio-output": "Kon de juiste audio-uitvoer niet verkrijgen. Ga naar de instellingen en selecteer uw Audio-uitvoer opnieuw",
-		"error-grabbing-audio": "Kan de juiste audio-invoer niet verkrijgen. Ga naar Studio > Fuze en selecteer uw audio opnieuw",
+		"error-grabbing-audio": "Kan de juiste audio-invoer niet verkrijgen. Ga naar Creator > Fuze en selecteer uw audio opnieuw",
 		"error-grabbing-audio-input": "Kon de juiste audio-invoer niet verkrijgen. Ga naar de instellingen en selecteer uw audio-invoer opnieuw",
 		"color-precision": "Precisie van videokleuren",
 		"video-brightness": "Helderheidsregeling",
