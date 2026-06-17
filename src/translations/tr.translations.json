@@ -3527,7 +3527,7 @@
 		"audio-select": "Ses Seç",
 		"error-starting": "Fuze başlatılırken hata oluştu, lütfen Ses Çıkışınızı/Videonuzu değiştirin ve tekrar deneyin",
 		"error-grabbing-audio-output": "Doğru ses çıkışı alınamadı, lütfen ayarlara gidin ve Ses Çıkışınızı tekrar seçin",
-		"error-grabbing-audio": "Doğru ses girişi alınamadı, lütfen Studio > Fuze'a gidin ve Sesinizi tekrar seçin",
+		"error-grabbing-audio": "Doğru ses girişi alınamadı, lütfen Creator > Fuze'a gidin ve Sesinizi tekrar seçin",
 		"error-grabbing-audio-input": "Doğru ses girişi alınamadı, lütfen ayarlara gidin ve Ses Girişinizi tekrar seçin",
 		"color-precision": "Video Renk Hassasiyeti",
 		"video-brightness": "Parlaklık kontrolü",
