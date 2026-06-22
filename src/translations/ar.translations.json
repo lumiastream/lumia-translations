@@ -2438,7 +2438,7 @@
 		"twitch_current_subscribers": "(Twitch) قائمة مفصولة بفواصل للمشتركين الحاليين",
 		"twitch_current_viewer_count": "(Twitch) عدد المشاهدين الحاليين الذين يشاهدون",
 		"twitch_current_viewers": "(Twitch) قائمة مفصولة بفواصل للمشاهدين الحاليين",
-		"twitch_followage": "(Twitch) الوقت الذي يتابع فيه المستخدم قناتك: {{twitch_followage={{username}}}",
+		"twitch_followage": "(Twitch) الوقت الذي يتابع فيه المستخدم قناتك: {{twitch_followage={{message}}}",
 		"twitch_next_ad": "(Twitch) يحصل على الوقت المتبقي حتى الإعلان التالي",
 		"twitch_get_avatar": "(Twitch) يحصل على الصورة الرمزية بناءً على اسم المستخدم: {{twitch_get_avatar={{message}}}",
 		"twitch_last_bit": "(Twitch) آخر مستخدم أرسل البتات",

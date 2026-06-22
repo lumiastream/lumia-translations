@@ -2445,7 +2445,7 @@
 		"twitch_current_subscribers": "(Twitch) lista separada por comas de suscriptores actuales",
 		"twitch_current_viewer_count": "(Twitch) el recuento actual de espectadores que están mirando",
 		"twitch_current_viewers": "(Twitch) lista separada por comas de espectadores actuales",
-		"twitch_followage": "(Twitch) El tiempo que un usuario ha estado siguiendo tu canal: {{twitch_followage={{username}}}",
+		"twitch_followage": "(Twitch) El tiempo que un usuario ha estado siguiendo tu canal: {{twitch_followage={{message}}}",
 		"twitch_next_ad": "(Twitch) Obtiene el tiempo restante hasta el siguiente anuncio",
 		"twitch_get_avatar": "(Twitch) Obtiene el avatar basado en un nombre de usuario: {{twitch_get_avatar={{message}}}",
 		"twitch_last_bit": "(Twitch) el último usuario que envió bits",

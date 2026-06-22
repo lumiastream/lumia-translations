@@ -2444,7 +2444,7 @@
 		"twitch_current_subscribers": "(Twitch) kommaseparerad lista över nuvarande prenumeranter",
 		"twitch_current_viewer_count": "(Twitch) det aktuella antalet tittare som tittar",
 		"twitch_current_viewers": "(Twitch) kommaseparerad lista över aktuella tittare",
-		"twitch_followage": "(Twitch) Tiden då en användare har följt din kanal: {{twitch_followage={{username}}}",
+		"twitch_followage": "(Twitch) Tiden då en användare har följt din kanal: {{twitch_followage={{message}}}",
 		"twitch_next_ad": "(Twitch) Får återstående tid för hur lång tid till nästa annons",
 		"twitch_get_avatar": "(Twitch) Hämtar avataren baserat på ett användarnamn: {{twitch_get_avatar={{message}}}",
 		"twitch_last_bit": "(Twitch) den senaste användaren som skickade bitar",

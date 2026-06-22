@@ -2444,7 +2444,7 @@
 		"twitch_current_subscribers": "(Twitch) Kommagetrennte Liste der aktuellen Abonnenten",
 		"twitch_current_viewer_count": "(Twitch) die aktuelle Zuschauerzahl, die zuschaut",
 		"twitch_current_viewers": "(Twitch) Kommagetrennte Liste der aktuellen Zuschauer",
-		"twitch_followage": "(Twitch) Die Zeit, die ein Benutzer Ihrem Kanal folgt: {{twitch_followage={{username}}}",
+		"twitch_followage": "(Twitch) Die Zeit, die ein Benutzer Ihrem Kanal folgt: {{twitch_followage={{message}}}",
 		"twitch_next_ad": "(Twitch) Ruft die verbleibende Zeit bis zur nächsten Anzeige ab",
 		"twitch_get_avatar": "(Twitch) Ruft den Avatar basierend auf einem Benutzernamen ab: {{twitch_get_avatar={{message}}}",
 		"twitch_last_bit": "(Twitch) der letzte Benutzer, der Bits gesendet hat",

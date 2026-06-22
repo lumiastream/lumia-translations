@@ -2446,7 +2446,7 @@
 		"twitch_current_subscribers": "(Twitch) liste des abonnés actuels séparés par des virgules",
 		"twitch_current_viewer_count": "(Twitch) le nombre actuel de téléspectateurs qui regardent",
 		"twitch_current_viewers": "(Twitch) liste des téléspectateurs actuels séparés par des virgules",
-		"twitch_followage": "(Twitch) La durée pendant laquelle un utilisateur suit votre chaîne : {{twitch_followage={{username}}}",
+		"twitch_followage": "(Twitch) La durée pendant laquelle un utilisateur suit votre chaîne : {{twitch_followage={{message}}}",
 		"twitch_next_ad": "(Twitch) Obtient le temps restant jusqu'à la prochaine annonce",
 		"twitch_get_avatar": "(Twitch) Obtient l'avatar en fonction d'un nom d'utilisateur : {{twitch_get_avatar={{message}}}",
 		"twitch_last_bit": "(Twitch) le dernier utilisateur qui a envoyé des bits",

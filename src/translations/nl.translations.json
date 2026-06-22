@@ -2443,7 +2443,7 @@
 		"twitch_current_subscribers": "(Twitch) door komma's gescheiden lijst met huidige abonnees",
 		"twitch_current_viewer_count": "(Twitch) het huidige aantal kijkers dat kijkt",
 		"twitch_current_viewers": "(Twitch) door komma's gescheiden lijst met huidige kijkers",
-		"twitch_followage": "(Twitch) De tijd dat een gebruiker je kanaal volgt: {{twitch_followage={{username}}}",
+		"twitch_followage": "(Twitch) De tijd dat een gebruiker je kanaal volgt: {{twitch_followage={{message}}}",
 		"twitch_next_ad": "(Twitch) Krijgt de resterende tijd tot de volgende advertentie",
 		"twitch_get_avatar": "(Twitch) Krijgt de avatar op basis van een gebruikersnaam: {{twitch_get_avatar={{message}}}",
 		"twitch_last_bit": "(Twitch) de laatste gebruiker die bits heeft verzonden",

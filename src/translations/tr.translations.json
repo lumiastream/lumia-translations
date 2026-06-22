@@ -2470,7 +2470,7 @@
 		"twitch_current_subscribers": "(Twitch) mevcut abonelerin virgülle ayrılmış listesi",
 		"twitch_current_viewer_count": "(Twitch) izleyen mevcut izleyici sayısı",
 		"twitch_current_viewers": "(Twitch) mevcut izleyicilerin virgülle ayrılmış listesi",
-		"twitch_followage": "(Twitch) Bir kullanıcının kanalınızı takip ettiği süre: {{twitch_followage={{username}}}",
+		"twitch_followage": "(Twitch) Bir kullanıcının kanalınızı takip ettiği süre: {{twitch_followage={{message}}}",
 		"twitch_get_avatar": "(Twitch) Kullanıcı adına göre avatarı alır: {{twitch_get_avatar={{message}}}",
 		"twitch_last_bit": "(Twitch) bit gönderen son kullanıcı",
 		"twitch_last_bit_amount": "(Twitch) son kişinin bit göndereceği bit miktarı",

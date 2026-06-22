@@ -2470,7 +2470,7 @@
 		"twitch_current_subscribers": "(Twitch) 当前订阅者的逗号分隔列表",
 		"twitch_current_viewer_count": "(Twitch) 当前观看人数",
 		"twitch_current_viewers": "(Twitch) 当前观看者的逗号分隔列表",
-		"twitch_followage": "(Twitch) 用户关注您频道的时间：{{twitch_followage={{username}}}}",
+		"twitch_followage": "(Twitch) 用户关注您频道的时间：{{twitch_followage={{message}}}}",
 		"twitch_get_avatar": "(Twitch) 根据用户名获取头像：{{twitch_get_avatar={{message}}}}",
 		"twitch_last_bit": "(Twitch) 上一个发送比特的用户",
 		"twitch_last_bit_amount": "(Twitch) 上一个发送比特的用户发送的比特数量",

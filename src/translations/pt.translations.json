@@ -2470,7 +2470,7 @@
 		"twitch_current_subscribers": "(Twitch) lista de assinantes atuais separada por vírgulas",
 		"twitch_current_viewer_count": "(Twitch) a contagem atual de espectadores que estão assistindo",
 		"twitch_current_viewers": "(Twitch) lista de espectadores atuais separada por vírgulas",
-		"twitch_followage": "(Twitch) O tempo que um usuário está seguindo seu canal: {{twitch_followage={{username}}}}",
+		"twitch_followage": "(Twitch) O tempo que um usuário está seguindo seu canal: {{twitch_followage={{message}}}}",
 		"twitch_get_avatar": "(Twitch) Obtém o avatar com base em um nome de usuário: {{twitch_get_avatar={{message}}}}",
 		"twitch_last_bit": "(Twitch) o último usuário que enviou bits",
 		"twitch_last_bit_amount": "(Twitch) a quantidade de bits da última pessoa a enviar bits",
