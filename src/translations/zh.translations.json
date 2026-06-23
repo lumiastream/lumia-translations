@@ -2641,7 +2641,7 @@
 		"user-triggered-kick-points-command": "{{username}} 触发了 Kick 积分 {{command}}",
 		"user-triggered-kick-points-command-but-not-level": "{{username}} 触发了 Kick 积分 {{command}}，但不符合用户等级条件",
 		"user-triggered-kick-points-command-but-not-points": "{{username}} 触发了 Kick 积分 {{command}}，但不符合成本条件",
-		"ai_prompt": "使用简单的语法向 ChatGPT、DeepSeek 等 AI 模型发送提示。示例：{{ai_prompt=生成一个有趣的引言}}。你也可以使用用户输入 {{ai_prompt={{message}}}} 或使用 {{ai_prompt={{message}}|thread_name|gpt-5-mini}} 保持对话上下文。使用线程名称以便能够继续对话，最后一个参数用于使用 gpt-5-mini 模型。",
+		"ai_prompt": "向 ChatGPT 或 DeepSeek 等 AI 模型发送提示。使用简写 {{ai=你的提示}}（{{ai_prompt=...}} 效果相同）。提示中放入的任何变量都会先被填入——例如 {{twitch_category}}、{{username}} 或 {{message}}——你甚至可以嵌套函数，例如 {{lookup_user_game={{message}}}}。在 | 之后按任意顺序添加选项：max=200 限制回复长度，thread={{username}} 保留对话记忆，persona=你是一个海盗 设定角色，model=gpt-4o 选择模型，temp=1.4 增加创意，provider=deepseek 选择 AI。示例：{{ai=为我正在玩的 {{twitch_category}} 起一个吸引人的 Twitch 标题——只回复标题|max=100}} · {{ai=为 {{message}} 写一段热血的喊话，他上次直播的是 {{lookup_user_game={{message}}}}|max=200}} · {{ai=用一句真诚的话感谢 {{username}} 关注了 {{twitch_followage}}|max=150}} · {{ai=翻译成口语化英文：{{message}}|max=200}} · {{ai=像神秘的预言家一样回答：{{message}}|persona=你是一个神秘的占卜师|max=140}}。",
 		"voice_command_full_sentence": "触发语音命令时识别到的完整句子",
 		"websocket_action_global_response": "Response retrieved from recently triggered websocket action (JSON strigified); use delay to await response",
 		"websocket_action_response": "Response retrieved from last triggered websocket action (JSON strigified); use delay to await response",
