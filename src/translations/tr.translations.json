@@ -2942,7 +2942,10 @@
 		"recent_charity_donations_amount": "Son hayır bağışçıları için paralel bağış miktarları",
 		"twitch_last_channel_points_redeemer": "(Twitch) Son kanal puanları kullananın adı",
 		"twitch_last_channel_points_amount": "(Twitch) Son kullanımın kanal puanı maliyeti",
-		"invalid-json-reverted": "Geçersiz JSON — önceki değere geri alındı."
+		"invalid-json-reverted": "Geçersiz JSON — önceki değere geri alındı.",
+		"heartrate_session_calories": "Bu oturumda yakılan kalori",
+		"heartrate_min_bpm": "Bu oturumdaki en düşük kalp atış hızı (BPM)",
+		"heartrate_max_bpm": "Bu oturumdaki en yüksek kalp atış hızı (BPM)"
 	},
 	"voicemod": {
 		"delay": "Gecikme",

@@ -2932,7 +2932,10 @@
 		"recent_charity_donations_amount": "مبالغ التبرعات الموازية للمتبرعين الخيريين الأخيرين",
 		"twitch_last_channel_points_redeemer": "(Twitch) اسم آخر مستبدل لنقاط القناة",
 		"twitch_last_channel_points_amount": "(Twitch) تكلفة آخر استبدال بنقاط القناة",
-		"invalid-json-reverted": "JSON غير صالح — تمت الاستعادة إلى القيمة السابقة."
+		"invalid-json-reverted": "JSON غير صالح — تمت الاستعادة إلى القيمة السابقة.",
+		"heartrate_session_calories": "السعرات الحرارية المحروقة في هذه الجلسة",
+		"heartrate_min_bpm": "أدنى معدل ضربات القلب (BPM) في هذه الجلسة",
+		"heartrate_max_bpm": "أعلى معدل ضربات القلب (BPM) في هذه الجلسة"
 	},
 	"voicemod": {
 		"delay": "تأخير",

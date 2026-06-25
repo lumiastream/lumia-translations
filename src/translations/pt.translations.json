@@ -2940,7 +2940,10 @@
 		"recent_charity_donations_amount": "Valores de doação paralelos para doadores de caridade recentes",
 		"twitch_last_channel_points_redeemer": "(Twitch) Nome do último resgatador de pontos de canal",
 		"twitch_last_channel_points_amount": "(Twitch) Custo em pontos de canal do último resgate",
-		"invalid-json-reverted": "JSON inválido — revertido para o valor anterior."
+		"invalid-json-reverted": "JSON inválido — revertido para o valor anterior.",
+		"heartrate_session_calories": "Calorias queimadas nesta sessão",
+		"heartrate_min_bpm": "Frequência cardíaca mínima (BPM) desta sessão",
+		"heartrate_max_bpm": "Frequência cardíaca máxima (BPM) desta sessão"
 	},
 	"voicemod": {
 		"delay": "Atraso",

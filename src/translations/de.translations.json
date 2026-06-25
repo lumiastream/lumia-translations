@@ -2939,7 +2939,10 @@
 		"recent_charity_donations_amount": "Parallele kommagetrennte Spendenbeträge für die letzten Charity-Spender",
 		"twitch_last_channel_points_redeemer": "(Twitch) Name des letzten Channel-Points-Einlösers",
 		"twitch_last_channel_points_amount": "(Twitch) Kosten der letzten Channel-Points-Einlösung",
-		"invalid-json-reverted": "Ungültiges JSON – auf den vorherigen Wert zurückgesetzt."
+		"invalid-json-reverted": "Ungültiges JSON – auf den vorherigen Wert zurückgesetzt.",
+		"heartrate_session_calories": "In dieser Sitzung verbrannte Kalorien",
+		"heartrate_min_bpm": "Niedrigste Herzfrequenz (BPM) dieser Sitzung",
+		"heartrate_max_bpm": "Höchste Herzfrequenz (BPM) dieser Sitzung"
 	},
 	"voicemod": {
 		"delay": "Verzögerung",

@@ -2940,7 +2940,10 @@
 		"recent_charity_donations_amount": "Parallelle donatiebedragen voor recente goede-doel-doneerders",
 		"twitch_last_channel_points_redeemer": "(Twitch) Naam van de laatste kanaal-punten-inwisselaar",
 		"twitch_last_channel_points_amount": "(Twitch) Kosten in kanaal-punten van de laatste inwisseling",
-		"invalid-json-reverted": "Ongeldige JSON — teruggezet naar de vorige waarde."
+		"invalid-json-reverted": "Ongeldige JSON — teruggezet naar de vorige waarde.",
+		"heartrate_session_calories": "Calorieën verbrand tijdens deze sessie",
+		"heartrate_min_bpm": "Laagste hartslag (BPM) deze sessie",
+		"heartrate_max_bpm": "Hoogste hartslag (BPM) deze sessie"
 	},
 	"voicemod": {
 		"delay": "Vertraging",
