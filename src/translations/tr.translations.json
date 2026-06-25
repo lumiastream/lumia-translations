@@ -237,6 +237,7 @@
 		"homeassistant-token-request": "Ev asistanı telefon uygulamasından bir API belirteci isteyin (Profilim > Hakkımızda > API Anahtarına Başvurun)",
 		"hue-bridge-on": "Köprünün açık olduğundan ve bir Ethernet bağlantı noktasına bağlı olduğundan emin olun",
 		"hue-error-ip": "Hue'nun ağa bağlı olduğundan emin olun ve ardından tekrar Ara'ya basın. ",
+		"huepro-channel-limit": "Hue eğlence alanları en fazla {{max}} kanalı destekler, ancak seçiminiz {{count}} kanal gerektiriyor. Gradyan lambalar her biri birden fazla kanal kullanır, bu yüzden bazı ışıkları kaldırıp tekrar deneyin.",
 		"hue-fast-10": "Eğlence grubu oluşturuldu ancak eğlence modu aynı anda en fazla 10 renk tonu ışığı kullanabilir",
 		"hue-select-bridge-ip": "Lütfen köprü ip adresinizi seçin",
 		"hue-group-error": "Şu mesajla grup oluştururken bir sorunla karşılaştım: {{message}}",

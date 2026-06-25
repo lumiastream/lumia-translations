@@ -227,6 +227,7 @@
 		"hue-bridge-on": "Asegúrese de que el puente esté encendido y conectado a un puerto Ethernet",
 		"hue-press-link": "Mantenga presionado el botón de enlace en el puente hue durante al menos 5 segundos",
 		"hue-error-ip": "Asegúrese de que el tono esté conectado a la red y luego presione Buscar nuevamente. ",
+		"huepro-channel-limit": "Las áreas de entretenimiento de Hue admiten hasta {{max}} canales, pero tu selección necesita {{count}}. Las lámparas de degradado usan varios canales cada una, así que quita algunas luces e inténtalo de nuevo.",
 		"hue-searching-lights": "Buscando luces...",
 		"hue-select-lights": "Selecciona tus luces",
 		"hue-searching-devices": "Buscando dispositivos...",

@@ -237,6 +237,7 @@
 		"homeassistant-token-request": "从 Homeassistant 手机应用程序请求 API 令牌（我的个人资料 > 关于我们 > 申请 API 密钥）",
 		"hue-bridge-on": "确保 Bridge 已打开并连接到以太网端口",
 		"hue-error-ip": "请确保 hue 已连接到网络，然后再次按下搜索。或者在下方手动输入您的 Hue IP",
+		"huepro-channel-limit": "Hue 娱乐区域最多支持 {{max}} 个通道，但您的选择需要 {{count}} 个。渐变灯每个会占用多个通道，请移除一些灯后重试。",
 		"hue-fast-10": "娱乐组已创建，但娱乐模式一次最多只能使用 10 盏 Hue 灯",
 		"hue-select-bridge-ip": "请选择您的桥接器 IP 地址",
 		"hue-group-error": "创建组时出现问题：{{message}}",

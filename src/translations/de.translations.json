@@ -226,6 +226,7 @@
 		"hue-bridge-on": "Stellen Sie sicher, dass die Bridge eingeschaltet und mit einem Ethernet-Port verbunden ist",
 		"hue-press-link": "Halten Sie die Verbindungstaste auf der Hue Bridge mindestens 5 Sekunden lang gedrückt",
 		"hue-error-ip": "Stellen Sie sicher, dass der Farbton mit dem Netzwerk verbunden ist, und drücken Sie dann erneut auf „Suchen“. ",
+		"huepro-channel-limit": "Hue-Entertainmentbereiche unterstützen bis zu {{max}} Kanäle, aber deine Auswahl benötigt {{count}}. Gradient-Lampen verwenden jeweils mehrere Kanäle. Entferne einige Lichter und versuche es erneut.",
 		"hue-searching-lights": "Auf der Suche nach Lichtern…",
 		"hue-select-lights": "Wählen Sie Ihre Leuchten aus",
 		"hue-searching-devices": "Suche nach Geräten…",

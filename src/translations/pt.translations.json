@@ -237,6 +237,7 @@
 		"homeassistant-token-request": "Solicite um token de API no aplicativo Homeassistant (Meu Perfil > Sobre Nós > Solicitar Chave de API)",
 		"hue-bridge-on": "Certifique-se de que a Bridge esteja ligada e conectada a uma porta Ethernet",
 		"hue-error-ip": "Certifique-se de que o Hue esteja conectado à rede e, em seguida, pressione Pesquisar novamente. Ou insira seu IP do Hue manualmente abaixo",
+		"huepro-channel-limit": "As áreas de entretenimento da Hue suportam até {{max}} canais, mas a sua seleção precisa de {{count}}. As lâmpadas de gradiente usam vários canais cada uma, então remova algumas luzes e tente novamente.",
 		"hue-fast-10": "O grupo de entretenimento foi criado, mas o modo de entretenimento pode usar no máximo 10 luzes Hue de uma vez",
 		"hue-select-bridge-ip": "Por favor, selecione o endereço IP da sua bridge",
 		"hue-group-error": "Ocorreu um problema ao criar um grupo com a mensagem: {{message}}",

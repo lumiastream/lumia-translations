@@ -227,6 +227,7 @@
 		"hue-bridge-on": "Se till att Bridge är på och ansluten till en Ethernet-port",
 		"hue-press-link": "Tryck och håll ner länkknappen på hue bridge i minst 5 sekunder",
 		"hue-error-ip": "Se till att nyansen är ansluten till nätverket och tryck sedan på Sök igen. ",
+		"huepro-channel-limit": "Hue-underhållningsområden stöder upp till {{max}} kanaler, men ditt val behöver {{count}}. Gradientlampor använder flera kanaler var, så ta bort några lampor och försök igen.",
 		"hue-searching-lights": "Söker efter ljus...",
 		"hue-select-lights": "Välj dina lampor",
 		"hue-searching-devices": "Söker efter enheter...",

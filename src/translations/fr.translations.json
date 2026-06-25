@@ -227,6 +227,7 @@
 		"hue-bridge-on": "Assurez-vous que le pont est allumé et connecté à un port Ethernet",
 		"hue-press-link": "Appuyez et maintenez le bouton de liaison sur le pont hue pendant au moins 5 secondes",
 		"hue-error-ip": "Assurez-vous que la teinte est connectée au réseau, puis appuyez à nouveau sur Rechercher. ",
+		"huepro-channel-limit": "Les zones de divertissement Hue prennent en charge jusqu'à {{max}} canaux, mais votre sélection en nécessite {{count}}. Les lampes à dégradé utilisent chacune plusieurs canaux, alors retirez quelques lumières et réessayez.",
 		"hue-searching-lights": "À la recherche de lumières…",
 		"hue-select-lights": "Sélectionnez vos luminaires",
 		"hue-searching-devices": "Recherche d'appareils…",

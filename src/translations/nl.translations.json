@@ -227,6 +227,7 @@
 		"hue-bridge-on": "Zorg ervoor dat de bridge is ingeschakeld en is aangesloten op een ethernetpoort",
 		"hue-press-link": "Houd de linkknop op de hue bridge minimaal 5 seconden ingedrukt",
 		"hue-error-ip": "Zorg ervoor dat de hue is verbonden met het netwerk en druk vervolgens nogmaals op Zoeken. ",
+		"huepro-channel-limit": "Hue-entertainmentgebieden ondersteunen maximaal {{max}} kanalen, maar je selectie heeft er {{count}} nodig. Gradiëntlampen gebruiken elk meerdere kanalen, dus verwijder enkele lampen en probeer het opnieuw.",
 		"hue-searching-lights": "Op zoek naar lichten…",
 		"hue-select-lights": "Selecteer uw lampen",
 		"hue-searching-devices": "Zoeken naar apparaten...",
