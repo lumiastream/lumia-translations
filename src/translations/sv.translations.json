@@ -2923,7 +2923,8 @@
 		"recent_charity_donations": "Kommaseparerad lista över senaste välgörenhetsgivare",
 		"recent_charity_donations_amount": "Parallella donationsbelopp för senaste välgörenhetsgivare",
 		"twitch_last_channel_points_redeemer": "(Twitch) Namnet på den senaste kanalpoäng-inlösaren",
-		"twitch_last_channel_points_amount": "(Twitch) Kostnad i kanalpoäng för den senaste inlösningen"
+		"twitch_last_channel_points_amount": "(Twitch) Kostnad i kanalpoäng för den senaste inlösningen",
+		"invalid-json-reverted": "Ogiltig JSON – återställd till föregående värde."
 	},
 	"voicemod": {
 		"delay": "Dröjsmål",

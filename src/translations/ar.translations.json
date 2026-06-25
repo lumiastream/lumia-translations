@@ -2913,7 +2913,8 @@
 		"recent_charity_donations": "قائمة بالمتبرعين الخيريين الأخيرين مفصولة بفواصل",
 		"recent_charity_donations_amount": "مبالغ التبرعات الموازية للمتبرعين الخيريين الأخيرين",
 		"twitch_last_channel_points_redeemer": "(Twitch) اسم آخر مستبدل لنقاط القناة",
-		"twitch_last_channel_points_amount": "(Twitch) تكلفة آخر استبدال بنقاط القناة"
+		"twitch_last_channel_points_amount": "(Twitch) تكلفة آخر استبدال بنقاط القناة",
+		"invalid-json-reverted": "JSON غير صالح — تمت الاستعادة إلى القيمة السابقة."
 	},
 	"voicemod": {
 		"delay": "تأخير",

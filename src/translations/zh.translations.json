@@ -2921,7 +2921,8 @@
 		"recent_charity_donations": "最近慈善捐赠者的逗号分隔列表",
 		"recent_charity_donations_amount": "最近慈善捐赠者的并行捐赠金额",
 		"twitch_last_channel_points_redeemer": "(Twitch) 最近频道点数兑换者的名字",
-		"twitch_last_channel_points_amount": "(Twitch) 最近一次兑换的频道点数花费"
+		"twitch_last_channel_points_amount": "(Twitch) 最近一次兑换的频道点数花费",
+		"invalid-json-reverted": "无效的 JSON——已还原为之前的值。"
 	},
 	"voicemod": {
 		"delay": "延迟",

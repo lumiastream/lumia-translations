@@ -2921,7 +2921,8 @@
 		"recent_charity_donations": "Lista separada por vírgulas de doadores de caridade recentes",
 		"recent_charity_donations_amount": "Valores de doação paralelos para doadores de caridade recentes",
 		"twitch_last_channel_points_redeemer": "(Twitch) Nome do último resgatador de pontos de canal",
-		"twitch_last_channel_points_amount": "(Twitch) Custo em pontos de canal do último resgate"
+		"twitch_last_channel_points_amount": "(Twitch) Custo em pontos de canal do último resgate",
+		"invalid-json-reverted": "JSON inválido — revertido para o valor anterior."
 	},
 	"voicemod": {
 		"delay": "Atraso",

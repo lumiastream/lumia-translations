@@ -3010,7 +3010,8 @@
 		"recent_charity_donations": "Comma-separated list of recent charity donors",
 		"recent_charity_donations_amount": "Parallel comma-separated donation amounts for recent charity donors",
 		"twitch_last_channel_points_redeemer": "(Twitch) Most recent channel-points redeemer name",
-		"twitch_last_channel_points_amount": "(Twitch) Cost in channel points of the most recent redemption"
+		"twitch_last_channel_points_amount": "(Twitch) Cost in channel points of the most recent redemption",
+		"invalid-json-reverted": "Invalid JSON — reverted to the previous value."
 	},
 	"voicemod": {
 		"delay": "Delay",

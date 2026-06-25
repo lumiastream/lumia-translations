@@ -2921,7 +2921,8 @@
 		"recent_charity_donations": "Door komma's gescheiden lijst van recente goede-doel-doneerders",
 		"recent_charity_donations_amount": "Parallelle donatiebedragen voor recente goede-doel-doneerders",
 		"twitch_last_channel_points_redeemer": "(Twitch) Naam van de laatste kanaal-punten-inwisselaar",
-		"twitch_last_channel_points_amount": "(Twitch) Kosten in kanaal-punten van de laatste inwisseling"
+		"twitch_last_channel_points_amount": "(Twitch) Kosten in kanaal-punten van de laatste inwisseling",
+		"invalid-json-reverted": "Ongeldige JSON — teruggezet naar de vorige waarde."
 	},
 	"voicemod": {
 		"delay": "Vertraging",

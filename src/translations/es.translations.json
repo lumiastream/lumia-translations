@@ -2921,7 +2921,8 @@
 		"recent_charity_donations": "Lista separada por comas de donantes de caridad recientes",
 		"recent_charity_donations_amount": "Cantidades de donación paralelas para donantes de caridad recientes",
 		"twitch_last_channel_points_redeemer": "(Twitch) Nombre del último canjeador de puntos de canal",
-		"twitch_last_channel_points_amount": "(Twitch) Coste en puntos de canal del último canje"
+		"twitch_last_channel_points_amount": "(Twitch) Coste en puntos de canal del último canje",
+		"invalid-json-reverted": "JSON no válido: se restauró el valor anterior."
 	},
 	"voicemod": {
 		"delay": "Demora",
