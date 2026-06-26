@@ -1309,6 +1309,8 @@
 		"copy-section-light-color": "Light & Color",
 		"copy-section-image": "Image",
 		"copy-no-sections": "There is nothing to copy from this source",
+		"copy-empty": "No commands found",
+		"copy-empty-search": "No commands match your search",
 		"select-all": "Select all",
 		"deselect-all": "Deselect all",
 		"automation": "Automation",
@@ -2112,7 +2114,12 @@
 		"not-empty": "Is not empty",
 		"not-empty-desc": "Variable has a value",
 		"regex": "Matches regex",
-		"regex-desc": "Matches this regular expression"
+		"regex-desc": "Matches this regular expression",
+		"preview-empty": "(nothing)",
+		"preview-branch": "Branch",
+		"preview-if": "If",
+		"preview-else": "Else",
+		"preview-more": "+{{count}} more"
 	},
 	"variables": {
 		"account_age": "How long ago a user's account was created, e.g. {{account_age={{username}}}}",

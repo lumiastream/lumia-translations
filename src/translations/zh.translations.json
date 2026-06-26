@@ -1265,6 +1265,8 @@
 		"copy-section-light-color": "灯光与颜色",
 		"copy-section-image": "图片",
 		"copy-no-sections": "此来源没有可复制的内容",
+		"copy-empty": "未找到命令",
+		"copy-empty-search": "没有命令与您的搜索匹配",
 		"select-all": "全选",
 		"deselect-all": "取消全选",
 		"automation": "自动化",
@@ -2061,7 +2063,12 @@
 		"not-empty": "不为空",
 		"not-empty-desc": "变量有值",
 		"regex": "匹配正则",
-		"regex-desc": "匹配此正则表达式"
+		"regex-desc": "匹配此正则表达式",
+		"preview-empty": "（无）",
+		"preview-branch": "分支",
+		"preview-if": "如果",
+		"preview-else": "否则",
+		"preview-more": "还有 {{count}} 个"
 	},
 	"variables": {
 		"song_title": "(点歌) 匹配到的歌曲标题，例如 {{song_title}}",

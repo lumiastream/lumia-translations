@@ -1254,6 +1254,8 @@
 		"copy-section-light-color": "Licht & Farbe",
 		"copy-section-image": "Bild",
 		"copy-no-sections": "Aus dieser Quelle gibt es nichts zu kopieren",
+		"copy-empty": "Keine Befehle gefunden",
+		"copy-empty-search": "Keine Befehle entsprechen deiner Suche",
 		"select-all": "Alle auswählen",
 		"deselect-all": "Auswahl aufheben",
 		"automation": "Automatisierung",
@@ -2060,7 +2062,12 @@
 		"not-empty": "Ist nicht leer",
 		"not-empty-desc": "Variable hat einen Wert",
 		"regex": "Entspricht Regex",
-		"regex-desc": "Entspricht diesem regulären Ausdruck"
+		"regex-desc": "Entspricht diesem regulären Ausdruck",
+		"preview-empty": "(nichts)",
+		"preview-branch": "Zweig",
+		"preview-if": "Wenn",
+		"preview-else": "Sonst",
+		"preview-more": "+{{count}} weitere"
 	},
 	"variables": {
 		"song_title": "(Songwünsche) Titel des gefundenen Songs, z. B. {{song_title}}",

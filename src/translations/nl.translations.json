@@ -1255,6 +1255,8 @@
 		"copy-section-light-color": "Licht en kleur",
 		"copy-section-image": "Afbeelding",
 		"copy-no-sections": "Er is niets om te kopiëren van deze bron",
+		"copy-empty": "Geen commando's gevonden",
+		"copy-empty-search": "Geen commando's komen overeen met je zoekopdracht",
 		"select-all": "Alles selecteren",
 		"deselect-all": "Selectie opheffen",
 		"automation": "Automatisering",
@@ -2061,7 +2063,12 @@
 		"not-empty": "Is niet leeg",
 		"not-empty-desc": "Variabele heeft een waarde",
 		"regex": "Komt overeen met regex",
-		"regex-desc": "Komt overeen met deze reguliere expressie"
+		"regex-desc": "Komt overeen met deze reguliere expressie",
+		"preview-empty": "(niets)",
+		"preview-branch": "Tak",
+		"preview-if": "Als",
+		"preview-else": "Anders",
+		"preview-more": "+{{count}} meer"
 	},
 	"variables": {
 		"song_title": "(Verzoeknummers) Titel van het gevonden nummer, bijv. {{song_title}}",

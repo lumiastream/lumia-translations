@@ -1265,6 +1265,8 @@
 		"copy-section-light-color": "Işık ve Renk",
 		"copy-section-image": "Görsel",
 		"copy-no-sections": "Bu kaynaktan kopyalanacak bir şey yok",
+		"copy-empty": "Komut bulunamadı",
+		"copy-empty-search": "Aramanızla eşleşen komut yok",
 		"select-all": "Tümünü seç",
 		"deselect-all": "Tüm seçimi kaldır",
 		"automation": "Otomasyon",
@@ -2061,7 +2063,12 @@
 		"not-empty": "Boş değil",
 		"not-empty-desc": "Değişkenin bir değeri var",
 		"regex": "Regex ile eşleşir",
-		"regex-desc": "Bu düzenli ifadeyle eşleşir"
+		"regex-desc": "Bu düzenli ifadeyle eşleşir",
+		"preview-empty": "(hiçbir şey)",
+		"preview-branch": "Dal",
+		"preview-if": "Eğer",
+		"preview-else": "Değilse",
+		"preview-more": "+{{count}} daha"
 	},
 	"variables": {
 		"song_title": "(Şarkı İstekleri) Eşleşen şarkının başlığı, örn. {{song_title}}",

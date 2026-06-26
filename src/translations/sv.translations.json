@@ -1255,6 +1255,8 @@
 		"copy-section-light-color": "Ljus och färg",
 		"copy-section-image": "Bild",
 		"copy-no-sections": "Det finns inget att kopiera från den här källan",
+		"copy-empty": "Inga kommandon hittades",
+		"copy-empty-search": "Inga kommandon matchar din sökning",
 		"select-all": "Markera alla",
 		"deselect-all": "Avmarkera alla",
 		"automation": "Automatisering",
@@ -2061,7 +2063,12 @@
 		"not-empty": "Är inte tom",
 		"not-empty-desc": "Variabeln har ett värde",
 		"regex": "Matchar regex",
-		"regex-desc": "Matchar detta reguljära uttryck"
+		"regex-desc": "Matchar detta reguljära uttryck",
+		"preview-empty": "(inget)",
+		"preview-branch": "Gren",
+		"preview-if": "Om",
+		"preview-else": "Annars",
+		"preview-more": "+{{count}} till"
 	},
 	"variables": {
 		"song_title": "(Låtönskningar) Titel på den matchade låten, t.ex. {{song_title}}",

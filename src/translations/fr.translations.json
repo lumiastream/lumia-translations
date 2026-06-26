@@ -1255,6 +1255,8 @@
 		"copy-section-light-color": "Lumière et couleur",
 		"copy-section-image": "Image",
 		"copy-no-sections": "Il n'y a rien à copier depuis cette source",
+		"copy-empty": "Aucune commande trouvée",
+		"copy-empty-search": "Aucune commande ne correspond à votre recherche",
 		"select-all": "Tout sélectionner",
 		"deselect-all": "Tout désélectionner",
 		"automation": "Automatisation",
@@ -2061,7 +2063,12 @@
 		"not-empty": "N’est pas vide",
 		"not-empty-desc": "La variable a une valeur",
 		"regex": "Correspond au regex",
-		"regex-desc": "Correspond à cette expression régulière"
+		"regex-desc": "Correspond à cette expression régulière",
+		"preview-empty": "(rien)",
+		"preview-branch": "Branche",
+		"preview-if": "Si",
+		"preview-else": "Sinon",
+		"preview-more": "+{{count}} de plus"
 	},
 	"variables": {
 		"song_title": "(Demandes de chansons) Titre de la chanson trouvée, p. ex. {{song_title}}",

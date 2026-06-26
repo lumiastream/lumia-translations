@@ -1255,6 +1255,8 @@
 		"copy-section-light-color": "الإضاءة واللون",
 		"copy-section-image": "صورة",
 		"copy-no-sections": "لا يوجد شيء لنسخه من هذا المصدر",
+		"copy-empty": "لم يتم العثور على أوامر",
+		"copy-empty-search": "لا توجد أوامر تطابق بحثك",
 		"select-all": "تحديد الكل",
 		"deselect-all": "إلغاء تحديد الكل",
 		"automation": "أتمتة",
@@ -2051,7 +2053,12 @@
 		"not-empty": "غير فارغ",
 		"not-empty-desc": "المتغيّر له قيمة",
 		"regex": "يطابق التعبير النمطي",
-		"regex-desc": "يطابق هذا التعبير النمطي"
+		"regex-desc": "يطابق هذا التعبير النمطي",
+		"preview-empty": "(لا شيء)",
+		"preview-branch": "فرع",
+		"preview-if": "إذا",
+		"preview-else": "وإلا",
+		"preview-more": "+{{count}} أخرى"
 	},
 	"variables": {
 		"song_title": "(طلبات الأغاني) عنوان الأغنية المطابِقة، مثال: {{song_title}}",

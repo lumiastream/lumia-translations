@@ -1255,6 +1255,8 @@
 		"copy-section-light-color": "Luz y color",
 		"copy-section-image": "Imagen",
 		"copy-no-sections": "No hay nada que copiar de esta fuente",
+		"copy-empty": "No se encontraron comandos",
+		"copy-empty-search": "Ningún comando coincide con tu búsqueda",
 		"select-all": "Seleccionar todo",
 		"deselect-all": "Deseleccionar todo",
 		"automation": "Automatización",
@@ -2061,7 +2063,12 @@
 		"not-empty": "No está vacío",
 		"not-empty-desc": "La variable tiene un valor",
 		"regex": "Coincide con regex",
-		"regex-desc": "Coincide con esta expresión regular"
+		"regex-desc": "Coincide con esta expresión regular",
+		"preview-empty": "(nada)",
+		"preview-branch": "Rama",
+		"preview-if": "Si",
+		"preview-else": "Si no",
+		"preview-more": "+{{count}} más"
 	},
 	"variables": {
 		"song_title": "(Solicitudes de canciones) Título de la canción encontrada, p. ej. {{song_title}}",
