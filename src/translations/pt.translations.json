@@ -3641,6 +3641,7 @@
 		"queue-deactivated-text": "Nesse cenário, todos os alertas se substituirão se um novo chegar antes que o anterior terminasse"
 	},
 	"settings": {
+		"feature-flags-experimental-active": "Você tem recursos experimentais ativados",
 		"info": "Informações do usuário",
 		"profiles": "Perfis",
 		"subscription": "Subscrição",
@@ -5910,6 +5911,8 @@
 		"edit-voice-title": "Editar voz",
 		"voice-title": "Título da voz",
 		"primary-recording-label": "Gravação principal",
+		"recording-microphone": "Microfone",
+		"recording-microphone-default": "Microfone padrão",
 		"remove-recording": "Remover",
 		"primary-recording-hint": "Envie um clipe de áudio limpo (menos de 20 MB).",
 		"primary-recording-guidelines": "Recomendado: um clipe claro entre 10 segundos e 5 minutos, com menos de 20 MB.",

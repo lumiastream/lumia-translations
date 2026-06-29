@@ -3640,6 +3640,7 @@
 		"queue-deactivated-text": "In diesem Szenario überschreiben sich alle Alerts gegenseitig, wenn eine neue eingeht, bevor die vorherige beendet ist"
 	},
 	"settings": {
+		"feature-flags-experimental-active": "Experimentelle Funktionen sind aktiviert",
 		"info": "Benutzerinformation",
 		"profiles": "Profile",
 		"subscription": "Abonnement",
@@ -5909,6 +5910,8 @@
 		"edit-voice-title": "Stimme bearbeiten",
 		"voice-title": "Stimmtitel",
 		"primary-recording-label": "Primäre Aufnahme",
+		"recording-microphone": "Mikrofon",
+		"recording-microphone-default": "Standardmikrofon",
 		"remove-recording": "Entfernen",
 		"primary-recording-hint": "Lade einen sauberen Audioclip hoch (unter 20 MB).",
 		"primary-recording-guidelines": "Empfohlen: ein klarer Clip zwischen 10 Sekunden und 5 Minuten, kleiner als 20 MB.",

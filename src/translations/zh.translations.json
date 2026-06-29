@@ -3641,6 +3641,7 @@
 		"queue-deactivated-text": "在这种情况下，如果在一个警报完成之前收到新的警报，所有警报都将相互覆盖"
 	},
 	"settings": {
+		"feature-flags-experimental-active": "您已启用实验性功能",
 		"info": "用户信息",
 		"profiles": "配置文件",
 		"subscription": "订阅",
@@ -5910,6 +5911,8 @@
 		"edit-voice-title": "编辑语音",
 		"voice-title": "语音标题",
 		"primary-recording-label": "主录音",
+		"recording-microphone": "麦克风",
+		"recording-microphone-default": "默认麦克风",
 		"remove-recording": "移除",
 		"primary-recording-hint": "上传一个干净的音频片段（20 MB 以下）。",
 		"primary-recording-guidelines": "推荐：10 秒到 5 分钟之间、低于 20 MB 的清晰片段。",

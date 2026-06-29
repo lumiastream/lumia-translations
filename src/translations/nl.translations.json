@@ -3641,6 +3641,7 @@
 		"queue-deactivated-text": "In dit scenario zullen alle waarschuwingen elkaar overschrijven als er een nieuwe binnenkomt voordat de vorige is afgelopen"
 	},
 	"settings": {
+		"feature-flags-experimental-active": "Je hebt experimentele functies ingeschakeld",
 		"info": "gebruikers informatie",
 		"profiles": "Profielen",
 		"subscription": "Abonnement",
@@ -5910,6 +5911,8 @@
 		"edit-voice-title": "Stem bewerken",
 		"voice-title": "Stimtitel",
 		"primary-recording-label": "Primaire opname",
+		"recording-microphone": "Microfoon",
+		"recording-microphone-default": "Standaardmicrofoon",
 		"remove-recording": "Verwijderen",
 		"primary-recording-hint": "Upload één schone audioclip (minder dan 20 MB).",
 		"primary-recording-guidelines": "Aanbevolen: één duidelijke clip tussen 10 seconden en 5 minuten, kleiner dan 20 MB.",

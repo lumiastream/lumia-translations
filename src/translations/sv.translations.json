@@ -3643,6 +3643,7 @@
 		"queue-deactivated-text": "I det här scenariot kommer alla varningar att åsidosätta varandra om en ny kommer in innan den föregående har slutförts"
 	},
 	"settings": {
+		"feature-flags-experimental-active": "Du har experimentella funktioner aktiverade",
 		"info": "användarinformation",
 		"profiles": "Profiler",
 		"subscription": "Prenumeration",
@@ -5912,6 +5913,8 @@
 		"edit-voice-title": "Redigera röst",
 		"voice-title": "Rösttitel",
 		"primary-recording-label": "Primär inspelning",
+		"recording-microphone": "Mikrofon",
+		"recording-microphone-default": "Standardmikrofon",
 		"remove-recording": "Ta bort",
 		"primary-recording-hint": "Ladda upp ett rent ljudklipp (under 20 MB).",
 		"primary-recording-guidelines": "Rekommenderat: ett tydligt klipp mellan 10 sekunder och 5 minuter, under 20 MB.",

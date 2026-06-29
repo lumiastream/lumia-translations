@@ -3633,6 +3633,7 @@
 		"queue-deactivated-text": "في هذا السيناريو، ستتجاوز جميع التنبيهات بعضها البعض في حالة وصول تنبيه جديد قبل انتهاء التنبيه السابق"
 	},
 	"settings": {
+		"feature-flags-experimental-active": "لديك ميزات تجريبية مفعّلة",
 		"info": "معلومات المستخدم",
 		"profiles": "مظهر",
 		"subscription": "الاشتراك",
@@ -5902,6 +5903,8 @@
 		"edit-voice-title": "تعديل الصوت",
 		"voice-title": "عنوان الصوت",
 		"primary-recording-label": "التسجيل الأساسي",
+		"recording-microphone": "الميكروفون",
+		"recording-microphone-default": "الميكروفون الافتراضي",
 		"remove-recording": "إزالة",
 		"primary-recording-hint": "حمّل مقطعًا صوتيًا واضحًا واحدًا (أقل من 20 ميغابايت).",
 		"primary-recording-guidelines": "مستحسن: مقطع واضح بين 10 ثوانٍ و5 دقائق، أقل من 20 ميغابايت.",

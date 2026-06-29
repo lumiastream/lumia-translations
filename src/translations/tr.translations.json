@@ -3643,6 +3643,7 @@
 		"queue-deactivated-text": "Bu senaryoda, önceki uyarı bitmeden yenisi gelirse tüm uyarılar birbirinin yerine geçecektir."
 	},
 	"settings": {
+		"feature-flags-experimental-active": "Deneysel özellikler etkin",
 		"info": "Kullanıcı Bilgileri",
 		"profiles": "Profiller",
 		"subscription": "Abonelik",
@@ -5912,6 +5913,8 @@
 		"edit-voice-title": "Sesi düzenle",
 		"voice-title": "Ses başlığı",
 		"primary-recording-label": "Birincil kayıt",
+		"recording-microphone": "Mikrofon",
+		"recording-microphone-default": "Varsayılan mikrofon",
 		"remove-recording": "Kaldır",
 		"primary-recording-hint": "Tek, temiz bir ses klibi yükle (20 MB altında).",
 		"primary-recording-guidelines": "Önerilen: 10 saniye ile 5 dakika arasında, 20 MB altı net bir klip.",

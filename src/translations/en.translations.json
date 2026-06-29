@@ -3737,6 +3737,7 @@
 		"queue-deactivated-text": "In this scenario all alerts will override each other if a new one comes in before the previous one has finished"
 	},
 	"settings": {
+		"feature-flags-experimental-active": "You have experimental feature flags enabled",
 		"info": "User Info",
 		"profiles": "Profiles",
 		"subscription": "Subscription",
@@ -6018,6 +6019,8 @@
 		"edit-voice-title": "Edit Voice",
 		"voice-title": "Voice Title",
 		"primary-recording-label": "Primary Recording",
+		"recording-microphone": "Microphone",
+		"recording-microphone-default": "Default microphone",
 		"remove-recording": "Remove",
 		"primary-recording-hint": "Upload one clean audio clip (under 20 MB).",
 		"primary-recording-guidelines": "Recommended: one clear clip between 10 seconds and 5 minutes, under 20 MB.",
