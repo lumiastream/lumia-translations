@@ -1431,6 +1431,8 @@
 		"inactive": "Inactief",
 		"loop-on": "Lus aan",
 		"loop-off": "Lus uit",
+		"audio-output": "Audio-uitvoer",
+		"audio-output-default": "Standaard (globale uitvoer)",
 		"advanced": "Geavanceerd",
 		"bulk-user-levels": "Bulkgebruikersniveaus",
 		"open-bulk-user-levels": "Open bulkgebruikersniveaus",

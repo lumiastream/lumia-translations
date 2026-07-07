@@ -1431,6 +1431,8 @@
 		"inactive": "غير نشط",
 		"loop-on": "تشغيل الحلقة",
 		"loop-off": "حلقة معطلة",
+		"audio-output": "مخرج الصوت",
+		"audio-output-default": "افتراضي (المخرج العام)",
 		"advanced": "متقدم",
 		"bulk-user-levels": "مستويات المستخدم بالجملة",
 		"open-bulk-user-levels": "افتح مستويات المستخدم المجمعة",

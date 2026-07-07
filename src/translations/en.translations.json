@@ -1452,6 +1452,8 @@
 		"inactive": "Inactive",
 		"loop-on": "Loop On",
 		"loop-off": "Loop Off",
+		"audio-output": "Audio Output",
+		"audio-output-default": "Default (Global Output)",
 		"advanced": "Advanced",
 		"bulk-user-levels": "Bulk User Levels",
 		"open-bulk-user-levels": "Open Bulk User Levels",

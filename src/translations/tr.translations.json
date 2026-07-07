@@ -1444,6 +1444,8 @@
 		"inactive": "Etkin değil",
 		"loop-on": "Döngü Açık",
 		"loop-off": "Döngü Kapalı",
+		"audio-output": "Ses Çıkışı",
+		"audio-output-default": "Varsayılan (Genel Çıkış)",
 		"advanced": "Gelişmiş",
 		"bulk-user-levels": "Toplu Kullanıcı Seviyeleri",
 		"open-bulk-user-levels": "Toplu Kullanıcı Düzeylerini Aç",

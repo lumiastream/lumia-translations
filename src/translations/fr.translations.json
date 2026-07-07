@@ -1431,6 +1431,8 @@
 		"inactive": "Inactif",
 		"loop-on": "Boucle activée",
 		"loop-off": "Boucle désactivée",
+		"audio-output": "Sortie audio",
+		"audio-output-default": "Par défaut (sortie globale)",
 		"advanced": "Avancé",
 		"bulk-user-levels": "Niveaux d'utilisateurs groupés",
 		"open-bulk-user-levels": "Niveaux d'utilisateurs en masse ouverts",

@@ -1431,6 +1431,8 @@
 		"inactive": "Inaktiv",
 		"loop-on": "Schleife ein",
 		"loop-off": "Schleife aus",
+		"audio-output": "Audioausgang",
+		"audio-output-default": "Standard (globaler Ausgang)",
 		"advanced": "Fortgeschritten",
 		"bulk-user-levels": "Massenbenutzerebenen",
 		"open-bulk-user-levels": "Öffnen Sie Massenbenutzerebenen",

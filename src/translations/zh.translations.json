@@ -1444,6 +1444,8 @@
 		"inactive": "不活动",
 		"loop-on": "循环开启",
 		"loop-off": "循环关闭",
+		"audio-output": "音频输出",
+		"audio-output-default": "默认（全局输出）",
 		"advanced": "高级",
 		"bulk-user-levels": "批量用户等级",
 		"open-bulk-user-levels": "打开批量用户等级",

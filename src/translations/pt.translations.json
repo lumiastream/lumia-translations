@@ -1444,6 +1444,8 @@
 		"inactive": "Inativo",
 		"loop-on": "Loop Ativado",
 		"loop-off": "Loop Desativado",
+		"audio-output": "Saída de áudio",
+		"audio-output-default": "Padrão (saída global)",
 		"advanced": "Avançado",
 		"bulk-user-levels": "Níveis de Usuário em Massa",
 		"open-bulk-user-levels": "Abrir Níveis de Usuário em Massa",

@@ -1431,6 +1431,8 @@
 		"inactive": "Inaktiv",
 		"loop-on": "Slinga på",
 		"loop-off": "Slinga av",
+		"audio-output": "Ljudutgång",
+		"audio-output-default": "Standard (global utgång)",
 		"advanced": "Avancerad",
 		"bulk-user-levels": "Massanvändarnivåer",
 		"open-bulk-user-levels": "Öppna bulk användarnivåer",
