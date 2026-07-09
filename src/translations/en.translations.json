@@ -4404,6 +4404,7 @@
 		"mouse-record-delay": "Mouse position will be recorded in 3 seconds so you have time to get your mouse in position"
 	},
 	"toast": {
+		"settings-save-retrying": "Settings could not be saved to the cloud. Retrying in the background",
 		"username-update-success": "Username has been updated",
 		"username-update-fail": "Username Change Failed: ",
 		"current-password-required": "Current Password is required",
@@ -4522,6 +4523,15 @@
 		"there-is-no-default-hud": "You have not setup a default HUD. Head to overlays and open an Overlay as a HUD to set a default",
 		"download-companion": "Download HUD Companion",
 		"add-new-overlay": "Add new overlay",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"preview-link": "Preview Link",
 		"my-overlays": "My overlays",
 		"marketplace": "Marketplace",

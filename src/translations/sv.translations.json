@@ -4391,6 +4391,7 @@
 		"mouse-record-delay": "Musens position kommer att registreras på 3 sekunder så att du har tid att få musen på plats"
 	},
 	"toast": {
+		"settings-save-retrying": "Inställningarna kunde inte sparas till molnet. Försöker igen i bakgrunden",
 		"username-update-success": "Användarnamnet har uppdaterats",
 		"username-update-fail": "Ändring av användarnamn misslyckades: ",
 		"current-password-required": "Aktuellt lösenord krävs",
@@ -4488,6 +4489,15 @@
 		"overlay-item-description": "Överläggsbeskrivning",
 		"overlay-item-resolution": "Överlagringsupplösning",
 		"add-new-overlay": "Lägg till nytt överlägg",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"created-at": "Skapad vid",
 		"overlay-item-name-placeholder": "t.ex.: Mitt överlägg",
 		"overlay-item-description-placeholder": "t.ex: Överlagringsbeskrivning",

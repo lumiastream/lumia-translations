@@ -4389,6 +4389,7 @@
 		"mouse-record-delay": "La posición del mouse se registrará en 3 segundos para que tenga tiempo de colocarlo en su posición"
 	},
 	"toast": {
+		"settings-save-retrying": "No se pudo guardar la configuración en la nube. Reintentando en segundo plano",
 		"username-update-success": "El nombre de usuario ha sido actualizado.",
 		"username-update-fail": "Error al cambiar el nombre de usuario: ",
 		"current-password-required": "Se requiere contraseña actual",
@@ -4486,6 +4487,15 @@
 		"overlay-item-description": "Descripción de superposición",
 		"overlay-item-resolution": "Resolución de superposición",
 		"add-new-overlay": "Agregar nueva superposición",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"created-at": "Creado en",
 		"overlay-item-name-placeholder": "por ejemplo: Mi superposición",
 		"overlay-item-description-placeholder": "por ejemplo: descripción superpuesta",

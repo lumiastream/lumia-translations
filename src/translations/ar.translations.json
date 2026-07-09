@@ -4391,6 +4391,7 @@
 		"mouse-record-delay": "سيتم تسجيل موضع الماوس خلال 3 ثوانٍ حتى يكون لديك الوقت لوضع الماوس في موضعه"
 	},
 	"toast": {
+		"settings-save-retrying": "تعذّر حفظ الإعدادات في السحابة. تتم إعادة المحاولة في الخلفية",
 		"username-update-success": "تم تحديث اسم المستخدم",
 		"username-update-fail": "فشل تغيير اسم المستخدم: ",
 		"current-password-required": "كلمة المرور الحالية مطلوبة",
@@ -4488,6 +4489,15 @@
 		"overlay-item-description": "وصف التراكب",
 		"overlay-item-resolution": "دقة التراكب",
 		"add-new-overlay": "إضافة تراكب جديد",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"created-at": "أنشئت في",
 		"overlay-item-name-placeholder": "على سبيل المثال: تراكبي",
 		"overlay-item-description-placeholder": "على سبيل المثال: وصف التراكب",

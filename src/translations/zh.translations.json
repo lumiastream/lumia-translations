@@ -4389,6 +4389,7 @@
 		"mouse-record-delay": "鼠标位置将在 3 秒后记录，以便您有时间将鼠标移动到位置"
 	},
 	"toast": {
+		"settings-save-retrying": "设置无法保存到云端，正在后台重试",
 		"username-update-success": "用户名已更新",
 		"username-update-fail": "用户名更改失败：",
 		"current-password-required": "需要当前密码",
@@ -4507,6 +4508,15 @@
 		"there-is-no-default-hud": "您尚未设置默认 HUD。前往叠加层并将叠加层作为 HUD 打开以设置默认值",
 		"download-companion": "下载 HUD 伴侣",
 		"add-new-overlay": "添加新叠加层",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"preview-link": "预览链接",
 		"my-overlays": "我的叠加层",
 		"marketplace": "市场",

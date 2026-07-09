@@ -4389,6 +4389,7 @@
 		"mouse-record-delay": "De muispositie wordt binnen 3 seconden geregistreerd, zodat u de tijd heeft om uw muis in positie te brengen"
 	},
 	"toast": {
+		"settings-save-retrying": "Instellingen konden niet in de cloud worden opgeslagen. Er wordt op de achtergrond opnieuw geprobeerd",
 		"username-update-success": "Gebruikersnaam is bijgewerkt",
 		"username-update-fail": "Wijziging van gebruikersnaam mislukt: ",
 		"current-password-required": "Huidig wachtwoord is vereist",
@@ -4486,6 +4487,15 @@
 		"overlay-item-description": "Overlay-beschrijving",
 		"overlay-item-resolution": "Overlay-resolutie",
 		"add-new-overlay": "Nieuwe overlay toevoegen",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"created-at": "Gemaakt bij",
 		"overlay-item-name-placeholder": "bijvoorbeeld: Mijn overlay",
 		"overlay-item-description-placeholder": "bijv.: Overlay-beschrijving",

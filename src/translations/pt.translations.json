@@ -4389,6 +4389,7 @@
 		"mouse-record-delay": "A posição do mouse será registrada em 3 segundos, para que você tenha tempo para colocar seu mouse em posição"
 	},
 	"toast": {
+		"settings-save-retrying": "Não foi possível salvar as configurações na nuvem. Tentando novamente em segundo plano",
 		"username-update-success": "O nome de usuário foi atualizado",
 		"username-update-fail": "A mudança de nome de usuário falhou: ",
 		"current-password-required": "A senha atual é necessária",
@@ -4507,6 +4508,15 @@
 		"there-is-no-default-hud": "Você não configurou um HUD padrão. ",
 		"download-companion": "Baixe o Hud Companion",
 		"add-new-overlay": "Adicione nova sobreposição",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"preview-link": "Visualizar link",
 		"my-overlays": "Minhas sobreposições",
 		"marketplace": "Marketplace",

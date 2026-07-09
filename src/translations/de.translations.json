@@ -4389,6 +4389,7 @@
 		"mouse-record-delay": "Die Mausposition wird in 3 Sekunden aufgezeichnet, sodass Sie Zeit haben, Ihre Maus in Position zu bringen"
 	},
 	"toast": {
+		"settings-save-retrying": "Einstellungen konnten nicht in der Cloud gespeichert werden. Es wird im Hintergrund erneut versucht",
 		"username-update-success": "Der Benutzername wurde aktualisiert",
 		"username-update-fail": "Änderung des Benutzernamens fehlgeschlagen: ",
 		"current-password-required": "Aktuelles Passwort ist erforderlich",
@@ -4486,6 +4487,15 @@
 		"overlay-item-description": "Overlay-Beschreibung",
 		"overlay-item-resolution": "Overlay-Auflösung",
 		"add-new-overlay": "Neues Overlay hinzufügen",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"created-at": "Hergestellt in",
 		"overlay-item-name-placeholder": "z.B.: Mein Overlay",
 		"overlay-item-description-placeholder": "Beispiel: Overlay-Beschreibung",

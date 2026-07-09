@@ -4391,6 +4391,7 @@
 		"mouse-record-delay": "Fare konumu 3 saniye içinde kaydedilecek, böylece farenizi doğru konuma getirmek için zamanınız olacak"
 	},
 	"toast": {
+		"settings-save-retrying": "Ayarlar buluta kaydedilemedi. Arka planda yeniden deneniyor",
 		"username-update-success": "Kullanıcı adı güncellendi",
 		"username-update-fail": "Kullanıcı Adı Değişikliği Başarısız Oldu: ",
 		"current-password-required": "Mevcut Şifre gerekli",
@@ -4509,6 +4510,15 @@
 		"there-is-no-default-hud": "Varsayılan bir HUD ayarlamadınız. ",
 		"download-companion": "HUD Companion'ı İndirin",
 		"add-new-overlay": "Yeni yer paylaşımı ekle",
+		"new-folder": "New Folder",
+		"rename-folder": "Rename Folder",
+		"folder-name": "Folder Name",
+		"folder-color": "Folder Color",
+		"folder-empty": "Drag overlays here",
+		"uncategorized": "Uncategorized",
+		"delete-folder": "Delete Folder",
+		"delete-folder-confirm": "Delete this folder? Overlays inside it will move to Uncategorized.",
+		"drag-to-folder": "Drag to a folder",
 		"preview-link": "Bağlantıyı Önizle",
 		"my-overlays": "Kaplamalarım",
 		"marketplace": "Pazar yeri",
