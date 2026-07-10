@@ -3983,6 +3983,7 @@
 		"api-connected-clients": "Connected Clients",
 		"api-server-uptime": "API up {{duration}}",
 		"api-connected-for": "Connected {{duration}}",
+		"api-connected-at": "Connected {{time}}",
 		"api-no-clients": "No clients are currently connected.",
 		"api-unknown-client": "Unknown client",
 		"api-recently-disconnected": "Recently Disconnected",
